@@ -1,955 +1,292 @@
 {
-        // ================= NOTÍCIAS =================
-
-        LiveChannel(
-            id = "523278_money",
-            name = "CNN Money",
-            category = "Notícias",
-            channelNumber = "500",
-            epgId = "523278",
-            tvgId = "523278",
-            logoUrl = "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/logo_cnn_money.svg?w=117&h=116&crop=1",
-            streamUrl = "http://nhzcdn.vulcanzz.click/live/360121095/Q360z4362q/527506.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzM2MTkxOTksImlhdCI6MTc3MzUzMjgwMCwibmJmIjoxNzczNTMyODAwLCJ1c2VyIjoiMzYwMTIxMDk1IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IEF2YXN0LzE0NS4wLjM0MTU2LjE2MCIsInVzZXJJcCI6IjE4NS4yMzYuMTgzLjEwNzo1NjUzOSJ9.2fwtlpnh8T97GGQSnyfcbk56HY9lchboDV259aR7UYQ&id=527506&p=m3u8&aid=1773608715",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-		LiveChannel(
-            id = "00000",
-            name = "WCVB 5 Boston MA",
-            category = "Noticias",
-            channelNumber = "499",
-            epgId = "000",
-            tvgId = "00000",
-            logoUrl = "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wcvb/top_image.png?resize=1200:*",
-            streamUrl = "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist_640x360.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "523352",
-            name = "Record News",
-            category = "Notícias",
-            channelNumber = "501",
-            epgId = "523352",
-            tvgId = "523352",
-            logoUrl = "https://i.ibb.co/b5JS1LNC/Record-News-2023-stacked.webp",
-            streamUrl = "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "523315",
-            name = "ABC6",
-            category = "Notícias",
-            channelNumber = "498",
-            epgId = "523315",
-            tvgId = "523315",
-            logoUrl = "https://i.ibb.co/FfDZd4b/logo-4k-preenchido.png",
-            streamUrl = "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist_640x360.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),		
-		
-		LiveChannel(
-            id = "523278",
-            name = "CNN Internacional",
-            category = "Notícias",
-            channelNumber = "502",
-            epgId = "523278",
-            tvgId = "523278",
-            logoUrl = "https://www.vhv.rs/dpng/d/338-3384909_cnn-united-states-news-text-logo-png-image.png",
-            streamUrl = "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "426195",
-            name = "SIC HD",
-            category = "Variedades",
-            channelNumber = "118",
-            epgId = "426195",
-            tvgId = "426195",
-            logoUrl = "https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1/original",
-            streamUrl = "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-		LiveChannel(
-            id = "sbt_news",
-            name = "SBT News",
-            category = "Notícias",
-            channelNumber = "503",
-            epgId = "sbt_news",
-            tvgId = "sbt_news",
-            logoUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan6WSx6viELo6T7awPofzBEGnINF_DOUcUQ&s",
-            streamUrl = "https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/db125d43-3b7b-457c-be6a-2a191abe9230:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "times_brasil",
-            name = "Times Brasil CNBC",
-            category = "Notícias",
-            channelNumber = "504",
-            epgId = "times_brasil",
-            tvgId = "times_brasil",
-            logoUrl = "https://timesbrasil.com.br/wp-content/themes/cnbc/dist/img/CNBC_EXCLUSIVE_SITE_AZUL@4x.png",
-            streamUrl = "https://live2.eu-north-1a.cf.dmcdn.net/sec2(5HHJtAsXwEyvbknBM4e9mFHErYb58GWsYDJqjiM4xLGavr2uxVyY4onwFnSvKZrFSQ-NhWp9VUdocDZnMIa_np3N70shnD0Ecu3uNGMMBOseqdCjx10RGjE6RtlX8LkG)/cloud/3/x9dhtbg/d/live-380.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "426168",
-            name = "GloboNews",
-            category = "Notícias",
-            channelNumber = "505",
-            epgId = "426168",
-            tvgId = "426168",
-            logoUrl = "https://gkpb.com.br/wp-content/uploads/2017/11/novo-logo-identidade-visual-pacote-grafico-globonews-2017.jpg.webp",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-		
-		LiveChannel(
-            id = "111111",
-            name = "Canal 33 MX",
-            category = "Filmes e Séries",
-            channelNumber = "113",
-            epgId = "11111",
-            tvgId = "1111",
-            logoUrl = "https://canal33.mx/img_logos/el-canal-de-las-noticias.png",
-            streamUrl = "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/chunklist_w1665724725.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),				
-
-        LiveChannel(
-            id = "426108",
-            name = "CNN Brasil",
-            category = "Notícias",
-            channelNumber = "506",
-            epgId = "426108",
-            tvgId = "426108",
-            logoUrl = "https://assets.b9.com.br/wp-content/uploads/2019/03/cnn-brasil.jpg",
-            streamUrl = "https://cdn-5.nxplay.com.br/CNN_Brazil_TK/tracks-v2a1/mono.ts.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "523268",
-            name = "DW",
-            category = "Notícias",
-            channelNumber = "507",
-            epgId = "523268",
-            tvgId = "523268",
-            logoUrl = "https://www.ifj.org/fileadmin/_processed_/3/8/csm_1280px-Deutsche_Welle_symbol_2012.svg_00f6c85387.png",
-            streamUrl = "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "417187",
-            name = "JovemPan News",
-            category = "Notícias",
-            channelNumber = "508",
-            epgId = "417187",
-            tvgId = "417187",
-            logoUrl = "https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg",
-            streamUrl = "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        // ================= ABERTOS =================
-
-        LiveChannel(
-            id = "523298",
-            name = "SBT",
-            category = "Aberto",
-            channelNumber = "101",
-            epgId = "523298",
-            tvgId = "523298",
-            logoUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SBT-Logotipo-2021.png/960px-SBT-Logotipo-2021.png",
-            streamUrl = "https://d1jvs4svzaqp8n.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "523339",
-            name = "TV Brasil",
-            category = "Público",
-            channelNumber = "102",
-            epgId = "523339",
-            tvgId = "523339",
-            logoUrl = "https://s2.glbimg.com/1NV6eYIgRMKcfd4jf1_8KAxxoZc=/top/i.glbimg.com/og/ig/infoglobo/f/original/2019/03/25/tvbrasil.png",
-            streamUrl = "https://tvbrasil-stream.ebc.com.br/index.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "523305",
-            name = "TV Cultura",
-            category = "Educativo",
-            channelNumber = "103",
-            epgId = "523305",
-            tvgId = "523305",
-            logoUrl = "https://www.portaldosjornalistas.com.br/wp-content/uploads/2023/12/TV-Cultura-logo.webp",
-            streamUrl = "https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8,
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "523315",
-            name = "Band",
-            category = "Aberto",
-            channelNumber = "104",
-            epgId = "523315",
-            tvgId = "523315",
-            logoUrl = "https://logodownload.org/wp-content/uploads/2014/02/band-logo-2048x1208.png",
-            streamUrl = "https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.ts.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-        LiveChannel(
-            id = "000",
-            name = "Adesso TV",
-            category = "Aberto",
-            channelNumber = "105",
-            epgId = "00",
-            tvgId = "000",
-            logoUrl = "https://www.adessotv.com.br/redes.png",
-            streamUrl = "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-        LiveChannel(
-            id = "00",
-            name = "Amazon TV",
-            category = "Aberto",
-            channelNumber = "106",
-            epgId = "00",
-            tvgId = "00",
-            logoUrl = "https://scontent.fthe13-1.fna.fbcdn.net/v/t39.30808-6/240594527_397197221961764_2179134543383352326_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=DMV4BpuCca0Q7kNvwH1LlCs&_nc_oc=AdrGzCBrHaANH34kKHZ6B5sz7uIyBC-IzwRv_RdZdMa_LQBiJh8tGPV19cL76ywhr0U&_nc_zt=23&_nc_ht=scontent.fthe13-1.fna&_nc_gid=6LCW7scl4bWpY3TsPmCXNA&_nc_ss=8&oh=00_AfxMG_rdSTdmhzqRbzfgZW8GBuzhb3xGg8VD1qLAQkNlaQ&oe=69C21D70",
-            streamUrl = "https://awtv.nuvemplay.live/hls/stream.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-        LiveChannel(
-            id = "000",
-            name = "Canal Educação",
-            category = "Aberto",
-            channelNumber = "107",
-            epgId = "000",
-            tvgId = "0000",
-            logoUrl = "https://yt3.googleusercontent.com/U9qagpm6Pp3BGIPQqZL_4tLDHA_7tuOG_mK0pMlhBbsHJnbHB5mXMBvrYOnu5M2TS84Kc4xzIxA=s900-c-k-c0x00ffffff-no-rj",
-            streamUrl = "https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_900000=10002.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-        LiveChannel(
-            id = "000",
-            name = "Classique TV",
-            category = "Aberto",
-            channelNumber = "108",
-            epgId = "000",
-            tvgId = "0000",
-            logoUrl = "https://www.cxtv.com.br/assets/img/ui/logo-header.webp",
-            streamUrl = "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-				
-        LiveChannel(
-            id = "00000",
-            name = "COM BRASIL",
-            category = "Aberto",
-            channelNumber = "109",
-            epgId = "0000",
-            tvgId = "00000",
-            logoUrl = "https://upload.wikimedia.org/wikipedia/commons/e/ed/COM_Brasil_logo.png",
-            streamUrl = "https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w1645464492.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-				
-        LiveChannel(
-            id = "000",
-            name = "ConecTV Brasil",
-            category = "Aberto",
-            channelNumber = "110",
-            epgId = "000",
-            tvgId = "0000",
-            logoUrl = "https://www.conectv.tv/assets/img/logo_tres_juntos.png",
-            streamUrl = "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-				
-        LiveChannel(
-            id = "000",
-            name = "CWB TV",
-            category = "Aberto",
-            channelNumber = "111",
-            epgId = "000",
-            tvgId = "000",
-            logoUrl = "https://scontent.fthe13-1.fna.fbcdn.net/v/t39.30808-6/294653974_421780836664492_7053669485178868483_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=KGtPEIuFaxcQ7kNvwF545mD&_nc_oc=Adqj3ONfDnKWeedv5NCkaqmoRGDEYk94blZ1O3fRZ6-YMagZbAU6XkZYH4gb0-upBPc&_nc_zt=23&_nc_ht=scontent.fthe13-1.fna&_nc_gid=SsBMdQCVbNyyWIi0l7hbzw&_nc_ss=8&oh=00_AfySMwMcYa-oGOvXIBgkgVNkzbutvUMshfqjkmNHNVlxnw&oe=69C20B26",
-            streamUrl = "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-				
-        LiveChannel(
-            id = "0000",
-            name = "D+ TV",
-            category = "Aberto",
-            channelNumber = "112",
-            epgId = "00000",
-            tvgId = "0000",
-            logoUrl = "https://pbr-str.srvsite.com/arquivos/9046/cabecalho-9046-20230725105112.png",
-            streamUrl = "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?hls_ctx=51307m33",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-				
-        LiveChannel(
-            id = "0000",
-            name = "Despertar TV",
-            category = "Aberto",
-            channelNumber = "113",
-            epgId = "0000",
-            tvgId = "0000",
-            logoUrl = "https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",
-            streamUrl = "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/chunklist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-						
-        LiveChannel(
-            id = "426067",
-            name = "Rede Gospel",
-            category = "Aberto",
-            channelNumber = "114",
-            epgId = "426067",
-            tvgId = "426067",
-            logoUrl = "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/67/17/676717e3-be25-3f1c-52fe-b040da127557/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
-            streamUrl = "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-		LiveChannel(
-            id = "0000",
-            name = "Gospel MT",
-            category = "Aberto",
-            channelNumber = "100",
-            epgId = "0000",
-            tvgId = "0000",
-            logoUrl = "https://i.ibb.co/k2WCVSZx/GMT.png",
-            streamUrl = "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-		LiveChannel(
-            id = "0000",
-            name = "TV NBN",
-            category = "Aberto",
-            channelNumber = "118",
-            epgId = "0000",
-            tvgId = "0000",
-            logoUrl = "https://www.tvnbn.com.br/wp-content/uploads/2018/08/22384033_1352635301528751_6901079050134400187_o.png",
-            streamUrl = "https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-	
-
-        // ================= FILMES =================
-
-        LiveChannel(
-            id = "523293",
-            name = "Megapix",
-            category = "Filmes",
-            channelNumber = "201",
-            epgId = "523293",
-            tvgId = "523293",
-            logoUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Megapix_logo_2011.png/1280px-Megapix_logo_2011.png",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/megapix/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "523320",
-            name = "Studio Universal",
-            category = "Filmes",
-            channelNumber = "202",
-            epgId = "523320",
-            tvgId = "523320",
-            logoUrl = "https://cdn.imgbin.com/14/8/12/imgbin-universal-s-universal-studios-hollywood-studio-universal-television-universal-logo-material-KRV8cic0BDPpDABMDNT7U9V8z.jpg",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/studiouniversal/index.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "426181",
-            name = "TELECINE PREMIUM",
-            category = "Filmes",
-            channelNumber = "203",
-            epgId = "426181",
-            tvgId = "426181",
-            logoUrl = "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/telecinepremium/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "523346",
-            name = "TELECINE ACTION",
-            category = "Filmes",
-            channelNumber = "204",
-            epgId = "523346",
-            tvgId = "523346",
-            logoUrl = "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/telecineaction/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "425987",
-            name = "TELECINE TOUCH",
-            category = "Filmes",
-            channelNumber = "205",
-            epgId = "425987",
-            tvgId = "425987",
-            logoUrl = "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/telecinetouch/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "426087",
-            name = "TELECINE FUN",
-            category = "Filmes",
-            channelNumber = "206",
-            epgId = "426087",
-            tvgId = "426087",
-            logoUrl = "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-fun-252x252.png",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/telecinefun/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "523291",
-            name = "TELECINE PIPOCA",
-            category = "Filmes",
-            channelNumber = "207",
-            epgId = "523291",
-            tvgId = "523291",
-            logoUrl = "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/telecinepipoca/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        // ================= FILMES E SÉRIES =================
-
-        LiveChannel(
-            id = "523276",
-            name = "GNT",
-            category = "Filmes e Séries",
-            channelNumber = "300",
-            epgId = "523276",
-            tvgId = "523276",
-            logoUrl = "https://static.wikia.nocookie.net/logopedia/images/2/2a/GNT_2011.svg/revision/latest?cb=20220425152918",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/gnt/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "426019",
-            name = "UNIVERSAL TV",
-            category = "Filmes e Séries",
-            channelNumber = "301",
-            epgId = "426019",
-            tvgId = "426019",
-            logoUrl = "https://img.favpng.com/2/3/25/universal-channel-television-channel-logo-universal-tv-png-favpng-62Ppqz9qJuQk0EPhzn0RaHa5C.jpg",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/universal/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "USA HD",
-            name = "USA HD",
-            category = "Filmes e Séries",
-            channelNumber = "302",
-            epgId = "USA HD",
-            tvgId = "USA HD",
-            logoUrl = "https://images.seeklogo.com/logo-png/30/1/usa-network-logo-png_seeklogo-307539.png",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/usa/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "523313",
-            name = "AXN",
-            category = "Filmes e Séries",
-            channelNumber = "303",
-            epgId = "523313",
-            tvgId = "523313",
-            logoUrl = "https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png",
-            streamUrl = "https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "c25",
-            name = "CLASSICOS",
-            category = "Filmes e Séries",
-            channelNumber = "304",
-            epgId = "c25",
-            tvgId = "c25",
-            logoUrl = "https://play-lh.googleusercontent.com/2g7ezk665VOCc2DU15iQNxK-nTuTam08Ni-EGVSJJ-a04jSfV9-OggbpdTwigixWPs4=w480-h960-rw",
-            streamUrl = "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "425996",
-            name = "MODO VIAGEM",
-            category = "Filmes e Séries",
-            channelNumber = "305",
-            epgId = "425996",
-            tvgId = "425996",
-            logoUrl = "https://images.seeklogo.com/logo-png/42/1/modo-viagem-logo-png_seeklogo-429185.png",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/modoviagem/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "426011",
-            name = "BIS",
-            category = "Filmes e Séries",
-            channelNumber = "306",
-            epgId = "426011",
-            tvgId = "426011",
-            logoUrl = "https://scontent.fthe13-1.fna.fbcdn.net/v/t39.30808-6/355466753_637043605133272_1776313993929312370_n.png?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=3u8y64ZBq4sQ7kNvwE8XiT9&_nc_oc=Admt-crAMMXsGsmY3fMdLuoHgVLNCWXTUzTSfJR2-je4pEJEeQTYMLlX09Uv7NzyvRw&_nc_zt=23&_nc_ht=scontent.fthe13-1.fna&_nc_gid=pjMc-U_2jzmydJ80LIkbpg&_nc_ss=8&oh=00_AfyOEC1QFGWVswv430QE1fSHban1zR7aGM5gZcFXwSZJqw&oe=69BD208F",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/bis/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "523279",
-            name = "TNT",
-            category = "Filmes e Séries",
-            channelNumber = "307",
-            epgId = "523279",
-            tvgId = "523279",
-            logoUrl = "https://assets.b9.com.br/wp-content/uploads/2016/02/tntlogo1.png",
-            streamUrl = "https://cdn-5.nxplay.com.br/TNT/tracks-v2a1/mono.ts.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-			
-        LiveChannel(
-            id = "0000",
-            name = "BBC DRAMA",
-            category = "Filmes e Séries",
-            channelNumber = "121",
-            epgId = "0000",
-            tvgId = "0000",
-            logoUrl = "https://static.wikia.nocookie.net/logopedia/images/5/52/BBC_Drama_2019.svg/revision/latest?cb=20190108220843",
-            streamUrl = "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/360p/index.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-        LiveChannel(
-            id = "00000",
-            name = "TViFicção",
-            category = "Filmes e Séries",
-            channelNumber = "113",
-            epgId = "00000",
-            tvgId = "00000",
-            logoUrl = "https://i.ibb.co/F4XGNZ5d/thii.png",
-            streamUrl = "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),				
-		
-
-        // ================= INFANTIL =================
-
-        LiveChannel(
-            id = "426169",
-            name = "Gloobinho",
-            category = "Infantil",
-            channelNumber = "399",
-            epgId = "426169",
-            tvgId = "426169",
-            logoUrl = "https://static.wikia.nocookie.net/logopedia/images/4/40/Gloobinho_Blocos.png/revision/latest?cb=20250718133205",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/gloobinho/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "426063",
-            name = "Gloob",
-            category = "Infantil",
-            channelNumber = "400",
-            epgId = "426063",
-            tvgId = "426063",
-            logoUrl = "https://static.wikia.nocookie.net/logopedia/images/9/99/Gloob_2022.svg/revision/latest?cb=20220720054147",
-            streamUrl = "https://image-storage-3005.imgcontent.xyz/live/gloob/index.m3u8",
-            currentProgram = "",
-            nextProgram = "",
-            headers = mapOf(
-                "Referer" to "https://p2player.live/",
-                "Origin" to "https://p2player.live"
-            )
-        ),
-
-        LiveChannel(
-            id = "523325",
-            name = "Cartoon Network",
-            category = "Infantil",
-            channelNumber = "401",
-            epgId = "523325",
-            tvgId = "523325",
-            logoUrl = "https://logosmarcas.net/wp-content/uploads/2021/08/Cartoon-Network-Logo-650x366.png",
-            streamUrl = "https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-
-        LiveChannel(
-            id = "426130",
-            name = "TV RA-TIM-BUM",
-            category = "Infantil",
-            channelNumber = "402",
-            epgId = "426130",
-            tvgId = "426130",
-            logoUrl = "https://w7.pngwing.com/pngs/399/611/png-transparent-tv-ra-tim-bum-television-channel-nossa-tv-claro-tv-others-purple-television-violet-thumbnail.png",
-            streamUrl = "https://cdn-5.nxplay.com.br/TV_RA_TIM_BUM/tracks-v2a1/mono.ts.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88",
-            currentProgram = "",
-            nextProgram = ""
-        ),
-		
-		LiveChannel(
-            id = "00000",
-            name = "GEEKDOT",
-            category = "Aberto",
-            channelNumber = "115",
-            epgId = "0000",
-            tvgId = "00000",
-            logoUrl = "https://yt3.googleusercontent.com/GNnXrfW5GF2RmNlW9942NAl22p3td6RAtJPb7wbg4MU-9142ZCJJH8XhIhUIS4vEPJWdZiePIzU=s900-c-k-c0x00ffffff-no-rj",
-            streamUrl = "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),		
-		
-        LiveChannel(
-            id = "00000",
-            name = "Gospel Cartoon",
-            category = "Aberto",
-            channelNumber = "116",
-            epgId = "0000",
-            tvgId = "0000",
-            logoUrl = "https://i.ibb.co/Xxh1jzBS/LOGO-GC.png",
-            streamUrl = "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),			
-		
-        LiveChannel(
-            id = "00000",
-            name = "3ABN Kids Network",
-            category = "Aberto",
-            channelNumber = "117",
-            epgId = "0000",
-            tvgId = "0000",
-            logoUrl = "https://alpha.uscreencdn.com/assets%2F12402%2Fplayer_image%2F532608%2FKids-1920x1080.1659537540.jpg",
-            streamUrl = "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        ),			
-		
-        LiveChannel(
-            id = "523325_dreamworks",
-            name = "DreamWorks Anime",
-            category = "Infantil",
-            channelNumber = "403",
-            epgId = "523325",
-            tvgId = "523325",
-            logoUrl = "https://logosmarcas.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo-650x366.png",
-            streamUrl = "https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.ts.m3u8",
-            currentProgram = "",
-            nextProgram = ""
-        )
-    )
-
-    val movies = listOf(
-        MovieItem(
-            id = "m1",
-            title = "Máquina de Guerra",
-            coverUrl = "https://viventeandante.com/wp-content/uploads/2026/03/final-explicado-maquina-de-guerr-1536x864.webp",
-            year = "2026",
-            description = "Ação",
-            streamUrl = "https://image1.fclop.com/video/ed33d8e17f1faa504a1d327f91dfaf1ff8605bf4/index_4.m3u8?auth_key=DptQdwe%2BoH%2FPogWNPnqH%2BJwqaAbUp2hN0RHl5VFkUy0%3D&expire=1773588289708"
-        ),
-        MovieItem(
-            id = "m2",
-            title = "Homem-Aranha: Um Novo Dia",
-            coverUrl = "https://cdn.ome.lt/_me8slf_soNk-JhKKAXLsuSiFFk=/987x0/smart/filters:format(webp)/uploads/conteudo/fotos/homem-aranha-um-novo-dia-site-oficial.jpg",
-            year = "2026",
-            description = "Ficção Científica",
-            streamUrl = "https://image1.fumdx.com/myhls/2025/10/SPIDERMAN_Trailer/index_3.m3u8?auth_key=Fdt72reiSVGffderBchZjzoUj0v9Ke2FvLdSJsAMiM4%3D&expire=1773588137525"
-        ),
-        MovieItem(
-            id = "m3",
-            title = "Vingadores: Doutor Destino",
-            coverUrl = "https://cdn.ome.lt/Y3db7ilyoO_hUIFbESB36GL1Gw4=/fit-in/837x500/smart/filters:format(webp)/uploads/conteudo/fotos/omelete_capa_19_3G7iN9i.webp",
-            year = "2026",
-            description = "Ficção Científica",
-            streamUrl = "https://image1.fumdx.com/myhls/2026/1/Doomsday/4/index_3.m3u8?auth_key=dxVCtYFzrTA9wEu6vSh24UfU80gPd2xt9QpiDt%2BBzIs%3D&expire=1773588218560"
-        ),
-        MovieItem(
-            id = "m4",
-            title = "Um Cabra Bom de Bola",
-            coverUrl = "https://img2.fumdx.com/image/fa5ed90b0d97d736487d3bee76e02bde7abc263c.jpg?x-oss-process=image/resize,w_520,m_lfit/format,webp",
-            year = "2020",
-            description = "Ação",
-            streamUrl = "https://image1.fwcob.com/video/5b394e8a7cb4486656e18be82a6b9d3f1a8736af/index_5.m3u8?auth_key=TKJqMwFhZ3MZT%2BQY5JrttO6rARbQumd3pd7g98Oah4E%3D&expire=1773588359837"
-        )
-    )
-
-    val series: List<SeriesItem> = listOf(
-        SeriesItem(
-            id = "s1",
-            title = "Breaking Bad",
-            coverUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-            seasonsInfo = "5 Temporadas",
-            description = "Ao saber que tem câncer, um professor de química passa a fabricar metanfetamina para garantir o futuro da família.",
-            year = "2008",
-            genre = "Crime",
-            lastEpisodeInfo = "08/01/2010 (Temp.1 Episódio 7)",
-            seasons = listOf(
-                SeasonItem(
-                    number = 1,
-                    coverUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                    episodes = listOf(
-                        EpisodeItem(
-                            id = "bb_s1_e1",
-                            title = "Episódio 1 - Pilot",
-                            episodeNumber = 1,
-                            thumbUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                            description = "Walter White recebe um diagnóstico que muda tudo.",
-                            streamUrl = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-                        ),
-                        EpisodeItem(
-                            id = "bb_s1_e2",
-                            title = "Episódio 2 - Cat's in the Bag",
-                            episodeNumber = 2,
-                            thumbUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                            description = "Walter e Jesse lidam com as consequências.",
-                            streamUrl = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-                        )
-                    )
-                ),
-                SeasonItem(
-                    number = 2,
-                    coverUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                    episodes = listOf(
-                        EpisodeItem(
-                            id = "bb_s2_e1",
-                            title = "Episódio 1 - Seven Thirty-Seven",
-                            episodeNumber = 1,
-                            thumbUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                            description = "A dupla tenta expandir a operação.",
-                            streamUrl = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-                        )
-                    )
-                ),
-                SeasonItem(
-                    number = 3,
-                    coverUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                    episodes = listOf(
-                        EpisodeItem(
-                            id = "bb_s3_e1",
-                            title = "Episódio 1 - No Más",
-                            episodeNumber = 1,
-                            thumbUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                            description = "Walter tenta abandonar o negócio.",
-                            streamUrl = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-                        )
-                    )
-                ),
-                SeasonItem(
-                    number = 4,
-                    coverUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                    episodes = listOf(
-                        EpisodeItem(
-                            id = "bb_s4_e1",
-                            title = "Episódio 1 - Box Cutter",
-                            episodeNumber = 1,
-                            thumbUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                            description = "A tensão entre Walter e Gus aumenta.",
-                            streamUrl = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-                        )
-                    )
-                ),
-                SeasonItem(
-                    number = 5,
-                    coverUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                    episodes = listOf(
-                        EpisodeItem(
-                            id = "bb_s5_e1",
-                            title = "Episódio 1 - Live Free or Die",
-                            episodeNumber = 1,
-                            thumbUrl = "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-                            description = "Walter tenta consolidar seu império.",
-                            streamUrl = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-                        )
-                    )
-                )
-            )
-        ),
-
-        SeriesItem(
-            id = "s2",
-            title = "Super Pumped: A Batalha pela Uber (2022)",
-            coverUrl = "https://www.dublanet.com.br/comunidade/attachment.php?aid=14636",
-            seasonsInfo = "1 Temporada",
-            description = "Na primeira temporada da série antológica Super Pumped, baseada no livro de mesmo nome escrito por Mike Isaac, conhecemos a trajetória de uma das empresas unicórnio mais bem-sucedidas e grandiosas que já surgiram no Vale do Silício: o Uber.",
-            year = "2022",
-            genre = "Biografia | Drama",
-            lastEpisodeInfo = "28 Fev. 2022",
-            seasons = listOf(
-                SeasonItem(
-                    number = 1,
-                    coverUrl = "https://www.dublanet.com.br/comunidade/attachment.php?aid=14636",
-                    episodes = listOf(
-                        EpisodeItem(
-                            id = "sp_s1_e1",
-                            title = "Episódio 1",
-                            episodeNumber = 1,
-                            thumbUrl = "https://media.fstatic.com/TVEk0pS9hI12ZF5aIycKkN9uNYg=/322x478/smart/filters:format(webp)/media/movies/covers/2022/05/images_6_DZA427Y.jpeg",
-                            description = "A ascensão meteórica da Uber expõe conflitos de poder, ambição e os bastidores do Vale do Silício.",
-                            streamUrl = "https://video23.mais.uol.com.br/17386444-10-0.m3u8?sign=MEUCIDsse6prY7eQYVjIA0PQLWzQmgp81ZXIp0oEHMLQbWOcAiEAiS54oHLD1PuWop7mt0lcziutq_SJgdQXdXownmKnr4k&token=T_Hv_FaVjh1yBUFv3WxF-pNqxgxn7V7D"
-                        )
-                    )
-                )
-            )
-        ),
-
-        SeriesItem(
-            id = "s3",
-            title = "Spider-Noir",
-            coverUrl = "https://img2.fumdx.com/image/b48dc0563df824defbacbbc045f5814d160d1573.jpg?x-oss-process=image/resize,w_520,m_lfit/format,webp",
-            seasonsInfo = "1 Temporada",
-            description = "Um velho e azarado detetive particular na Nova York dos anos 1930 é forçado a lidar com o passado dele como primeiro e único super-herói da cidade.",
-            year = "2026",
-            genre = "Crime",
-            lastEpisodeInfo = "26/03/2027 (Temp.1 Episódio 1)",
-            seasons = listOf(
-                SeasonItem(
-                    number = 1,
-                    coverUrl = "https://img2.fumdx.com/image/b48dc0563df824defbacbbc045f5814d160d1573.jpg?x-oss-process=image/resize,w_520,m_lfit/format,webp",
-                    episodes = listOf(
-                        EpisodeItem(
-                            id = "sn_s1_e1",
-                            title = "Episódio 1",
-                            episodeNumber = 1,
-                            thumbUrl = "https://img2.fumdx.com/image/b48dc0563df824defbacbbc045f5814d160d1573.jpg?x-oss-process=image/resize,w_520,m_lfit/format,webp",
-                            description = "Spider-Noir enfrenta seu passado em uma Nova York sombria.",
-                            streamUrl = "https://image1.hwloy.com/video/8a5d5a7344cec773f231ba0d1bfef8c863cb0d0e/index_6.m3u8?auth_key=htPgbBfGBSX%2B91Y13CMAmqLHBbpeUM7DgkblnqLzUsY%3D&expire=1773588730496"
-                        )
-                    )
-                )
-            )
-        )
-    )
+  "id": "523278_money",
+  "name": "CNN Money",
+  "category": "Notícias",
+  "logoUrl": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/logo_cnn_money.svg?w=117&h=116&crop=1",
+  "streamUrl": "http://nhzcdn.vulcanzz.click/live/360121095/Q360z4362q/527506.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzM2MTkxOTksImlhdCI6MTc3MzUzMjgwMCwibmJmIjoxNzczNTMyODAwLCJ1c2VyIjoiMzYwMTIxMDk1IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IEF2YXN0LzE0NS4wLjM0MTU2LjE2MCIsInVzZXJJcCI6IjE4NS4yMzYuMTgzLjEwNzo1NjUzOSJ9.2fwtlpnh8T97GGQSnyfcbk56HY9lchboDV259aR7UYQ&id=527506&p=m3u8&aid=1773608715",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523278",
+  "tvgId": "523278",
+  "channelNumber": "500",
+  "backdropUrl": ""
+},
+{
+  "id": "00000",
+  "name": "WCVB 5 Boston MA",
+  "category": "Noticias",
+  "logoUrl": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wcvb/top_image.png?resize=1200:*",
+  "streamUrl": "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist_640x360.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "000",
+  "tvgId": "00000",
+  "channelNumber": "499",
+  "backdropUrl": ""
+},
+{
+  "id": "523352",
+  "name": "Record News",
+  "category": "Notícias",
+  "logoUrl": "https://i.ibb.co/b5JS1LNC/Record-News-2023-stacked.webp",
+  "streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523352",
+  "tvgId": "523352",
+  "channelNumber": "501",
+  "backdropUrl": ""
+},
+{
+  "id": "523315_abc6",
+  "name": "ABC6",
+  "category": "Notícias",
+  "logoUrl": "https://i.ibb.co/FfDZd4b/logo-4k-preenchido.png",
+  "streamUrl": "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist_640x360.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523315",
+  "tvgId": "523315",
+  "channelNumber": "498",
+  "backdropUrl": ""
+},
+{
+  "id": "523278",
+  "name": "CNN Internacional",
+  "category": "Notícias",
+  "logoUrl": "https://www.vhv.rs/dpng/d/338-3384909_cnn-united-states-news-text-logo-png-image.png",
+  "streamUrl": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523278",
+  "tvgId": "523278",
+  "channelNumber": "502",
+  "backdropUrl": ""
+},
+{
+  "id": "426195",
+  "name": "SIC HD",
+  "category": "Variedades",
+  "logoUrl": "https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1/original",
+  "streamUrl": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "426195",
+  "tvgId": "426195",
+  "channelNumber": "118",
+  "backdropUrl": ""
+},
+{
+  "id": "sbt_news",
+  "name": "SBT News",
+  "category": "Notícias",
+  "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan6WSx6viELo6T7awPofzBEGnINF_DOUcUQ&s",
+  "streamUrl": "https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/db125d43-3b7b-457c-be6a-2a191abe9230:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "sbt_news",
+  "tvgId": "sbt_news",
+  "channelNumber": "503",
+  "backdropUrl": ""
+},
+{
+  "id": "times_brasil",
+  "name": "Times Brasil CNBC",
+  "category": "Notícias",
+  "logoUrl": "https://timesbrasil.com.br/wp-content/themes/cnbc/dist/img/CNBC_EXCLUSIVE_SITE_AZUL@4x.png",
+  "streamUrl": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(5HHJtAsXwEyvbknBM4e9mFHErYb58GWsYDJqjiM4xLGavr2uxVyY4onwFnSvKZrFSQ-NhWp9VUdocDZnMIa_np3N70shnD0Ecu3uNGMMBOseqdCjx10RGjE6RtlX8LkG)/cloud/3/x9dhtbg/d/live-380.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "times_brasil",
+  "tvgId": "times_brasil",
+  "channelNumber": "504",
+  "backdropUrl": ""
+},
+{
+  "id": "426168",
+  "name": "GloboNews",
+  "category": "Notícias",
+  "logoUrl": "https://gkpb.com.br/wp-content/uploads/2017/11/novo-logo-identidade-visual-pacote-grafico-globonews-2017.jpg.webp",
+  "streamUrl": "https://image-storage-3005.imgcontent.xyz/live/globonews/index.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://p2player.live/",
+    "Origin": "https://p2player.live"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "426168",
+  "tvgId": "426168",
+  "channelNumber": "505",
+  "backdropUrl": ""
+},
+{
+  "id": "111111",
+  "name": "Canal 33 MX",
+  "category": "Filmes e Séries",
+  "logoUrl": "https://canal33.mx/img_logos/el-canal-de-las-noticias.png",
+  "streamUrl": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/chunklist_w1665724725.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "11111",
+  "tvgId": "1111",
+  "channelNumber": "113",
+  "backdropUrl": ""
+},
+{
+  "id": "426108",
+  "name": "CNN Brasil",
+  "category": "Notícias",
+  "logoUrl": "https://assets.b9.com.br/wp-content/uploads/2019/03/cnn-brasil.jpg",
+  "streamUrl": "https://cdn-5.nxplay.com.br/CNN_Brazil_TK/tracks-v2a1/mono.ts.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "426108",
+  "tvgId": "426108",
+  "channelNumber": "506",
+  "backdropUrl": ""
+},
+{
+  "id": "523268",
+  "name": "DW",
+  "category": "Notícias",
+  "logoUrl": "https://www.ifj.org/fileadmin/_processed_/3/8/csm_1280px-Deutsche_Welle_symbol_2012.svg_00f6c85387.png",
+  "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523268",
+  "tvgId": "523268",
+  "channelNumber": "507",
+  "backdropUrl": ""
+},
+{
+  "id": "417187",
+  "name": "JovemPan News",
+  "category": "Notícias",
+  "logoUrl": "https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg",
+  "streamUrl": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "417187",
+  "tvgId": "417187",
+  "channelNumber": "508",
+  "backdropUrl": ""
+},
+{
+  "id": "523298",
+  "name": "SBT",
+  "category": "Aberto",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SBT-Logotipo-2021.png/960px-SBT-Logotipo-2021.png",
+  "streamUrl": "https://d1jvs4svzaqp8n.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523298",
+  "tvgId": "523298",
+  "channelNumber": "101",
+  "backdropUrl": ""
+},
+{
+  "id": "523339",
+  "name": "TV Brasil",
+  "category": "Público",
+  "logoUrl": "https://s2.glbimg.com/1NV6eYIgRMKcfd4jf1_8KAxxoZc=/top/i.glbimg.com/og/ig/infoglobo/f/original/2019/03/25/tvbrasil.png",
+  "streamUrl": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523339",
+  "tvgId": "523339",
+  "channelNumber": "102",
+  "backdropUrl": ""
+},
+{
+  "id": "523305",
+  "name": "TV Cultura",
+  "category": "Educativo",
+  "logoUrl": "https://www.portaldosjornalistas.com.br/wp-content/uploads/2023/12/TV-Cultura-logo.webp",
+  "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523305",
+  "tvgId": "523305",
+  "channelNumber": "103",
+  "backdropUrl": ""
+},
+{
+  "id": "523315_band",
+  "name": "Band",
+  "category": "Aberto",
+  "logoUrl": "https://logodownload.org/wp-content/uploads/2014/02/band-logo-2048x1208.png",
+  "streamUrl": "https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.ts.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523315",
+  "tvgId": "523315",
+  "channelNumber": "104",
+  "backdropUrl": ""
 }
