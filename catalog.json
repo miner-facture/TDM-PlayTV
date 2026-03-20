@@ -66,3 +66,94 @@
   "channelNumber": "498",
   "backdropUrl": ""
 },
+
+],
+"movies": [
+  {
+    "id": "m1",
+    "title": "Máquina de Guerra",
+    "coverUrl": "https://viventeandante.com/wp-content/uploads/2026/03/final-explicado-maquina-de-guerr-1536x864.webp",
+    "year": "2026",
+    "description": "Ação",
+    "streamUrl": "https://image1.fclop.com/video/ed33d8e17f1faa504a1d327f91dfaf1ff8605bf4/index_4.m3u8"
+  },
+  {
+    "id": "m2",
+    "title": "Homem-Aranha: Um Novo Dia",
+    "coverUrl": "https://i3.ytimg.com/vi/8TZMtslA3UY/maxresdefault.jpg",
+    "year": "2026",
+    "description": "Ficção Científica",
+    "streamUrl": "https://image1.fumdx.com/myhls/2025/10/SPIDERMAN_Trailer/index_3.m3u8"
+  },
+  {
+    "id": "m3",
+    "title": "Vingadores: Doutor Destino",
+    "coverUrl": "https://cdn.ome.lt/Y3db7ilyoO_hUIFbESB36GL1Gw4=/fit-in/837x500/smart/filters:format(webp)/uploads/conteudo/fotos/omelete_capa_19_3G7iN9i.webp",
+    "year": "2026",
+    "description": "Ficção Científica",
+    "streamUrl": "https://image1.fumdx.com/myhls/2026/1/Doomsday/4/index_3.m3u8"
+  },
+  {
+    "id": "m4",
+    "title": "Um Cabra Bom de Bola",
+    "coverUrl": "https://img2.fumdx.com/image/fa5ed90b0d97d736487d3bee76e02bde7abc263c.jpg",
+    "year": "2020",
+    "description": "Ação",
+    "streamUrl": "https://vod3.cf.dmcdn.net/sec2(JIGZ_ETeHYx_HUEfz-WmW5xQcxv7kDG6fbWgSCPFJRXwjZFz0Oj3PE6CXa2H-rXGlaihkKGBT3_WUrw2MU9OTrN3M8-lMt7TqlWr-Wb9JdrQ2JgzA2d7SVSGJKLgHpC5SEvW93jGN-qBl3iG2cD3-SLbjDCIf-L4AfEQhbwjlsbZM2XAxYBj6GsRRD9Hcv5vZVAVxfWwHZUijYDcpNo-7w)/video/fmp4/601441392/h264_aac_hq/2/manifest.m3u8"
+  }
+],
+"series": [
+  {
+    "id": "s1",
+    "title": "Breaking Bad",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "seasonsInfo": "5 Temporadas",
+    "description": "Um professor de química passa a fabricar drogas após descobrir câncer.",
+    "year": "2008",
+    "genre": "Crime",
+    "lastEpisodeInfo": "Finalizada",
+    "seasons": [
+      {
+        "number": 1,
+        "coverUrl": "",
+        "episodes": [
+          {
+            "id": "bb1",
+            "title": "Episódio 1",
+            "episodeNumber": 1,
+            "thumbUrl": "",
+            "description": "",
+            "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "title": "Super Pumped",
+    "coverUrl": "https://www.dublanet.com.br/comunidade/attachment.php?aid=14636",
+    "seasonsInfo": "1 Temporada",
+    "description": "A ascensão da Uber no Vale do Silício.",
+    "year": "2022",
+    "genre": "Drama",
+    "lastEpisodeInfo": "Finalizada",
+    "seasons": [
+      {
+        "number": 1,
+        "coverUrl": "",
+        "episodes": [
+          {
+            "id": "sp1",
+            "title": "Episódio 1",
+            "episodeNumber": 1,
+            "thumbUrl": "",
+            "description": "",
+            "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
+}
