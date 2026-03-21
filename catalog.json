@@ -177,7 +177,51 @@
           ]
         }
       ]
-    },
+	 },
+    {
+  "id": "s4",
+  "title": "Três Por Cento",
+  "coverUrl": "https://scontent.fthe13-1.fna.fbcdn.net/v/t39.30808-6/481770241_960153699604974_923559090465396283_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=HmnlGxJePSsQ7kNvwFW8Yq_&_nc_oc=AdotIk8iYb1lJodU2Pm65elg3XVjPfKPzGhGuC2-GHdGlIxBTRR3smvE_QT8qjLF9ko&_nc_zt=23&_nc_ht=scontent.fthe13-1.fna&_nc_gid=cvF543gsOdvxcJQOkp5Yug&_nc_ss=7a30f&oh=00_Afy7-_YqLvJjwtktB4ImJAOrkBbhpaa5ZCnHPO8nDzLBpw&oe=69C3A78E",
+  "bannerUrl": "https://i.imgur.com/6KQZ8wT.jpeg",
+  "seasonsInfo": "1 Temporada",
+  "description": "Em um futuro distópico, jovens passam por um processo seletivo extremo em busca de uma vida melhor.",
+  "year": "2016",
+  "genre": "Ficção Científica / Drama",
+  "lastEpisodeInfo": "3 episódios",
+  "trailerYoutubeId": "",
+  "seasons": [
+    {
+      "number": 1,
+      "coverUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
+      "episodes": [
+        {
+          "id": "tresporcento_s1_e1",
+          "title": "Episódio 1",
+          "episodeNumber": 1,
+          "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
+          "description": "Cubos - Episódio 1",
+          "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.1.720.mp4"
+        },
+        {
+          "id": "tresporcento_s1_e2",
+          "title": "Episódio 2",
+          "episodeNumber": 2,
+          "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
+          "description": "Moedas - Episódio 2",
+          "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.2.720.mp4"
+        },
+        {
+          "id": "tresporcento_s1_e3",
+          "title": "Episódio 3",
+          "episodeNumber": 3,
+          "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
+          "description": "Corredor - Episódio 3",
+          "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.3.720.mp4"
+        }
+      ]
+    }
+  ]
+	},
     {
       "id": "s3",
       "title": "The Wheel of Time",
