@@ -814,34 +814,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "s3",
-      "title": "The Wheel of Time",
-      "coverUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
-      "bannerUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
-      "seasonsInfo": "3 Temporadas",
-      "description": "Em um mundo onde a magia existe e apenas mulheres podem usá-la, uma poderosa Aes Sedai guia cinco jovens em uma jornada épica. Entre eles pode estar o Dragão Renascido, uma figura profetizada capaz de salvar ou destruir a humanidade.",
-      "year": "2021",
-      "genre": "Fantasia / Aventura",
-      "lastEpisodeInfo": "Em andamento",
-      "trailerYoutubeId": "qk0D4OV95bQ",
-      "seasons": [
-        {
-          "number": 1,
-          "coverUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
-          "episodes": [
-            {
-              "id": "wot_s1_e1",
-              "title": "Episódio 1",
-              "episodeNumber": 1,
-              "thumbUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
-              "description": "Moiraine chega a uma vila isolada em busca de jovens que podem cumprir uma antiga profecia.",
-              "streamUrl": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }
