@@ -1,6 +1,227 @@
 {
   "liveChannels": [
     {
+      "id": "cnn_money_live",
+      "name": "CNN Money ao vivo",
+      "category": "Notícias",
+      "logoUrl": "https://cdn.telaviva.com.br/wp-content/uploads/2024/09/unnamed-2-1-jpg.webp",
+      "streamUrl": "euYS8oy5Kgw",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "AO VIVO: RESENHA DO DINHEIRO - 20/03/2026 | CNN MONEY",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": true,
+      "epgId": "cnn_money_live",
+      "tvgId": "cnn_money_live",
+      "channelNumber": "500",
+      "backdropUrl": "https://i3.ytimg.com/vi/euYS8oy5Kgw/maxresdefault.jpg"
+    },
+    {
+      "id": "smithsonian_channel",
+      "name": "Smithsonian Channel",
+      "category": "Documentários",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Smithsonian_Channel_logo.svg/512px-Smithsonian_Channel_logo.svg.png",
+      "streamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6298bd10d88ef000073f16b7/3321280/playlist.m3u8?",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "Smithsonian Channel",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "smithsonian_channel",
+      "tvgId": "smithsonian_channel",
+      "channelNumber": "320",
+      "backdropUrl": ""
+    },
+    {
+      "id": "00000",
+      "name": "WCVB 5 Boston MA",
+      "category": "Noticias",
+      "logoUrl": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wcvb/top_image.png?resize=1200:*",
+      "streamUrl": "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist_640x360.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "000",
+      "tvgId": "00000",
+      "channelNumber": "499",
+      "backdropUrl": ""
+    },
+    {
+      "id": "523352",
+      "name": "Record News",
+      "category": "Notícias",
+      "logoUrl": "https://i.ibb.co/b5JS1LNC/Record-News-2023-stacked.webp",
+      "streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "523352",
+      "tvgId": "523352",
+      "channelNumber": "501",
+      "backdropUrl": ""
+    },
+    {
+      "id": "523315_abc6",
+      "name": "ABC6",
+      "category": "Notícias",
+      "logoUrl": "https://i.ibb.co/FfDZd4b/logo-4k-preenchido.png",
+      "streamUrl": "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist_640x360.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "523315_abc6",
+      "tvgId": "523315_abc6",
+      "channelNumber": "502",
+      "backdropUrl": ""
+    },
+    {
+      "id": "417187",
+      "name": "JovemPan News",
+      "category": "Notícias",
+      "logoUrl": "https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg",
+      "streamUrl": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "417187",
+      "tvgId": "417187",
+      "channelNumber": "508",
+      "backdropUrl": ""
+    },
+    {
+      "id": "0000_despertar_tv",
+      "name": "Despertar TV",
+      "category": "Aberto",
+      "logoUrl": "https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",
+      "streamUrl": "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/chunklist.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "0000",
+      "tvgId": "0000",
+      "channelNumber": "113",
+      "backdropUrl": ""
+    },
+    {
+      "id": "426067",
+      "name": "Rede Gospel",
+      "category": "Aberto",
+      "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/67/17/676717e3-be25-3f1c-52fe-b040da127557/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "426067",
+      "tvgId": "426067",
+      "channelNumber": "114",
+      "backdropUrl": ""
+    },
+    {
+      "id": "00000_geekdot",
+      "name": "GEEKDOT",
+      "category": "Aberto",
+      "logoUrl": "https://yt3.googleusercontent.com/GNnXrfW5GF2RmNlW9942NAl22p3td6RAtJPb7wbg4MU-9142ZCJJH8XhIhUIS4vEPJWdZiePIzU=s900-c-k-c0x00ffffff-no-rj",
+      "streamUrl": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "0000",
+      "tvgId": "00000",
+      "channelNumber": "115",
+      "backdropUrl": ""
+    },
+    {
+      "id": "00000_gospel_cartoon",
+      "name": "Gospel Cartoon",
+      "category": "Aberto",
+      "logoUrl": "https://i.ibb.co/Xxh1jzBS/LOGO-GC.png",
+      "streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "0000",
+      "tvgId": "0000",
+      "channelNumber": "116",
+      "backdropUrl": ""
+    },
+    {
+      "id": "00000_3abn_kids",
+      "name": "3ABN Kids Network",
+      "category": "Aberto",
+      "logoUrl": "https://alpha.uscreencdn.com/assets%2F12402%2Fplayer_image%2F532608%2FKids-1920x1080.1659537540.jpg",
+      "streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "0000",
+      "tvgId": "0000",
+      "channelNumber": "117",
+      "backdropUrl": ""
+    },
+    {
+      "id": "0000_gospel_mt",
+      "name": "Gospel MT",
+      "category": "Aberto",
+      "logoUrl": "https://i.ibb.co/k2WCVSZx/GMT.png",
+      "streamUrl": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "0000",
+      "tvgId": "0000",
+      "channelNumber": "100",
+      "backdropUrl": ""
+    },
+    {
+      "id": "0000_tv_nbn",
+      "name": "TV NBN",
+      "category": "Aberto",
+      "logoUrl": "https://www.tvnbn.com.br/wp-content/uploads/2018/08/22384033_1352635301528751_6901079050134400187_o.png",
+      "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "0000",
+      "tvgId": "0000",
+      "channelNumber": "118",
+      "backdropUrl": ""
+    },
+    {
       "id": "523293",
       "name": "Megapix",
       "category": "Filmes",
@@ -459,8 +680,8 @@
       "headers": {},
       "isProtected": false,
       "isYoutube": false,
-      "epgId": "523325",
-      "tvgId": "523325",
+      "epgId": "523325_dreamworks",
+      "tvgId": "523325_dreamworks",
       "channelNumber": "403",
       "backdropUrl": ""
     }
@@ -471,7 +692,7 @@
       "title": "Tempos Modernos",
       "coverUrl": "https://i.ytimg.com/vi/nq4AX_W1tgI/maxresdefault.jpg",
       "year": "1936",
-      "description": "Tempos Modernos é um filme de 1936 dos Estados Unidos do cineasta Charlie Chaplin em que o seu famoso personagem "O Vagabundo" tenta sobreviver em meio ao mundo moderno e industrializado.",
+      "description": "Tempos Modernos é um filme de 1936 dos Estados Unidos do cineasta Charlie Chaplin em que o seu famoso personagem \"O Vagabundo\" tenta sobreviver em meio ao mundo moderno e industrializado.",
       "streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
       "trailerYoutubeId": ""
     },
@@ -481,7 +702,7 @@
       "coverUrl": "https://www.sonypictures.com/sites/default/files/styles/max_2600x2600/public/banner-images/2026-02/nuremberg_banner_2572x1100_pst.jpg?itok=ADlab1z9",
       "year": "2025",
       "description": "Drama histórico sobre os julgamentos de Nuremberg após a Segunda Guerra Mundial.",
-      "streamUrl": null,
+      "streamUrl": "",
       "trailerYoutubeId": "WvAy9C-bipY"
     },
     {
@@ -490,7 +711,7 @@
       "coverUrl": "https://i3.ytimg.com/vi/jpU8QbcIPWo/maxresdefault.jpg",
       "year": "2026",
       "description": "Um ex-soldado enfrenta nazistas na Lapônia enquanto transporta ouro, desencadeando uma violenta luta por sobrevivência.",
-      "streamUrl": null,
+      "streamUrl": "",
       "trailerYoutubeId": "jpU8QbcIPWo"
     }
   ],
@@ -516,7 +737,7 @@
               "episodeNumber": 1,
               "thumbUrl": "https://i3.ytimg.com/vi/1F6BCHAfGDc/maxresdefault.jpg",
               "description": "O agente atende uma ligação misteriosa que muda tudo.",
-              "streamUrl": null
+              "streamUrl": ""
             }
           ]
         }
@@ -544,56 +765,56 @@
               "episodeNumber": 1,
               "thumbUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
               "description": "Um jovem médico com habilidades extraordinárias começa sua jornada em um hospital de prestígio.",
-              "streamUrl": null
+              "streamUrl": ""
             }
           ]
         }
       ]
-	},
-   {
-  "id": "s4",
-  "title": "Três Por Cento",
-  "coverUrl": "https://scontent.fthe13-1.fna.fbcdn.net/v/t39.30808-6/481770241_960153699604974_923559090465396283_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=HmnlGxJePSsQ7kNvwFW8Yq_&_nc_oc=AdotIk8iYb1lJodU2Pm65elg3XVjPfKPzGhGuC2-GHdGlIxBTRR3smvE_QT8qjLF9ko&_nc_zt=23&_nc_ht=scontent.fthe13-1.fna&_nc_gid=cvF543gsOdvxcJQOkp5Yug&_nc_ss=7a30f&oh=00_Afy7-_YqLvJjwtktB4ImJAOrkBbhpaa5ZCnHPO8nDzLBpw&oe=69C3A78E",
-  "bannerUrl": "https://i.imgur.com/6KQZ8wT.jpeg",
-  "seasonsInfo": "1 Temporada",
-  "description": "Em um futuro distópico, jovens passam por um processo seletivo extremo em busca de uma vida melhor.",
-  "year": "2016",
-  "genre": "Ficção Científica / Drama",
-  "lastEpisodeInfo": "3 episódios",
-  "trailerYoutubeId": "",
-  "seasons": [
+    },
     {
-      "number": 1,
-      "coverUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
-      "episodes": [
+      "id": "s4",
+      "title": "Três Por Cento",
+      "coverUrl": "https://scontent.fthe13-1.fna.fbcdn.net/v/t39.30808-6/481770241_960153699604974_923559090465396283_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=HmnlGxJePSsQ7kNvwFW8Yq_&_nc_oc=AdotIk8iYb1lJodU2Pm65elg3XVjPfKPzGhGuC2-GHdGlIxBTRR3smvE_QT8qjLF9ko&_nc_zt=23&_nc_ht=scontent.fthe13-1.fna&_nc_gid=cvF543gsOdvxcJQOkp5Yug&_nc_ss=7a30f&oh=00_Afy7-_YqLvJjwtktB4ImJAOrkBbhpaa5ZCnHPO8nDzLBpw&oe=69C3A78E",
+      "bannerUrl": "https://i.imgur.com/6KQZ8wT.jpeg",
+      "seasonsInfo": "1 Temporada",
+      "description": "Em um futuro distópico, jovens passam por um processo seletivo extremo em busca de uma vida melhor.",
+      "year": "2016",
+      "genre": "Ficção Científica / Drama",
+      "lastEpisodeInfo": "3 episódios",
+      "trailerYoutubeId": "",
+      "seasons": [
         {
-          "id": "tresporcento_s1_e1",
-          "title": "Episódio 1",
-          "episodeNumber": 1,
-          "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
-          "description": "Cubos - Episódio 1",
-          "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.1.720.mp4"
-        },
-        {
-          "id": "tresporcento_s1_e2",
-          "title": "Episódio 2",
-          "episodeNumber": 2,
-          "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
-          "description": "Moedas - Episódio 2",
-          "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.2.720.mp4"
-        },
-        {
-          "id": "tresporcento_s1_e3",
-          "title": "Episódio 3",
-          "episodeNumber": 3,
-          "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
-          "description": "Corredor - Episódio 3",
-          "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.3.720.mp4"
+          "number": 1,
+          "coverUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
+          "episodes": [
+            {
+              "id": "tresporcento_s1_e1",
+              "title": "Episódio 1",
+              "episodeNumber": 1,
+              "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
+              "description": "Cubos - Episódio 1",
+              "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.1.720.mp4"
+            },
+            {
+              "id": "tresporcento_s1_e2",
+              "title": "Episódio 2",
+              "episodeNumber": 2,
+              "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
+              "description": "Moedas - Episódio 2",
+              "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.2.720.mp4"
+            },
+            {
+              "id": "tresporcento_s1_e3",
+              "title": "Episódio 3",
+              "episodeNumber": 3,
+              "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
+              "description": "Corredor - Episódio 3",
+              "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.3.720.mp4"
+            }
+          ]
         }
       ]
-    }
-  ]
-},
+    },
     {
       "id": "s3",
       "title": "The Wheel of Time",
@@ -616,7 +837,7 @@
               "episodeNumber": 1,
               "thumbUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
               "description": "Moiraine chega a uma vila isolada em busca de jovens que podem cumprir uma antiga profecia.",
-              "streamUrl": null
+              "streamUrl": ""
             }
           ]
         }
