@@ -1,28 +1,11 @@
 {
   "liveChannels": [
     {
-      "id": "cnn_money_live",
-      "name": "CNN Money ao vivo",
-      "category": "Notícias",
-      "logoUrl": "https://cdn.telaviva.com.br/wp-content/uploads/2024/09/unnamed-2-1-jpg.webp",
-      "streamUrl": "euYS8oy5Kgw",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "AO VIVO: RESENHA DO DINHEIRO - 20/03/2026 | CNN MONEY",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": true,
-      "epgId": "cnn_money_live",
-      "tvgId": "cnn_money_live",
-      "channelNumber": "500",
-      "backdropUrl": "https://i3.ytimg.com/vi/euYS8oy5Kgw/maxresdefault.jpg"
-    },
-    {
       "id": "smithsonian_channel",
       "name": "Smithsonian Channel",
       "category": "Documentários",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Smithsonian_Channel_logo.svg/512px-Smithsonian_Channel_logo.svg.png",
-      "streamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6298bd10d88ef000073f16b7/3321280/playlist.m3u8?",
+      "streamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6298bd10d88ef000073f16b7/3321280/playlist.m3u8?sid=3c782218-2520-11f1-b10a-7e331eb0aed1&deviceId=58d79ff1-e873-464a-a0fb-d3e80bb811a2&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNmYjY0ZDZmLTAxYzktNDMzMS05N2VhLTZlOGZiMjkxNWEzZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzYzc4MjIxOC0yNTIwLTExZjEtYjEwYS03ZTMzMWViMGFlZDEiLCJjbGllbnRJUCI6IjQ1LjE3Ni41NS4xMTYiLCJjaXR5IjoiUGVkcm8gSWkiLCJwb3N0YWxDb2RlIjoiNjQyNTUtOTcwIiwiY291bnRyeSI6IkJSIiwiZG1hIjo3NjA3NSwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi00LjQyOTk5OTgyODMzODYyMywiZGV2aWNlTG9uIjotNDEuNDU5OTk5MDg0NDcyNjU2LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNDUuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIwLjAtODkyNTgyOTAyNjQ4Mzg1MTVlMjY0ZjViMDUxYjdjMTYwMmE1ODQ4MiIsImNsaWVudElEIjoiNThkNzlmZjEtZTg3My00NjRhLWEwZmItZDNlODBiYjgxMWEyIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiI2NjU5Yzc3ODMxM2MzOTcxYzVmYTNkZTMiLCJ1c2VyQnJhbmQiOiJwbHV0b3R2IiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmdWb2QiOnsiZW5hYmxlZCI6dHJ1ZX19LCJlbnRpdGxlbWVudHMiOlsiUmVnaXN0ZXJlZCJdLCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhpNjM5NUIzYk4xWFA3S04td2xHNUVoOURDRVB1WFVzcFJRaTFCSVc3Tnk5TUpEX3NIWk5Mby1LMXk5UXJYWkh5TlpoOUoiLCJmd1ZjSUQyQ29wcGEiOiI1OGQ3OWZmMS1lODczLTQ2NGEtYTBmYi1kM2U4MGJiODExYTIiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiJlYzJmY2EyYTEyODE2YzFjYTIxYzZlNjEyM2RlYjBkM2IyMjgzMzhiZmEyOWJmODdjZDA4MTYyY2E3NWMzZDVhIiwiZm1zX3N1YnNjcmliZXJpZCI6IjY2NTljNzc4MzEzYzM5NzFjNWZhM2RlMyIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI1OGQ3OWZmMS1lODczLTQ2NGEtYTBmYi1kM2U4MGJiODExYTIiLCJmbXNfdmNpZDJ0eXBlIjoibGl2ZXJhbXAiLCJmbXNfcmFtcF9pZCI6IlhpNjM5NUIzYk4xWFA3S04td2xHNUVoOURDRVB1WFVzcFJRaTFCSVc3Tnk5TUpEX3NIWk5Mby1LMXk5UXJYWkh5TlpoOUoiLCJmbXNfaGhfcmFtcF9pZCI6IlVOTUFUQ0hFRCIsImZtc19iaWRpZHR5cGUiOiIxMDIyIiwiX2Z3XzNQX1VJRCI6IklETDpBcVpfOXRDdU9BZ1lNeTl2ZGJpOHlZMHhBNFZpRHBkcVNULURDdmx5UTVWQ3BYQTBiRjROb2d0M3dvM1RmWXFBcVhZdF9ZWEwiLCJmbXNfcnVsZWlkIjoiMTAwMTMsMTAwMTUsMTAwMjEsMTAwMjMsMTAwMjQsMTAwMDAsMTAwMTQsMTAwMTYsMTAwMjAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3NzQwOTU1ODA4ODgsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86dXNlcnMtdjE6QlI6TlRoa056bG1aakV0WlRnM015MDBOalJoTFdFd1ptSXRaRE5sT0RCaVlqZ3hNV0V5OjY2NTljNzc4MzEzYzM5NzFjNWZhM2RlMyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzQxODE5ODYsImlhdCI6MTc3NDA5NTU4NiwianRpIjoiOTdlOWVlOWMtMzUxMy00MjU3LWJjZjgtODAwODFiNzk3NjZiIn0.mMzV4_V8vfp9ug3At41WZbPw7zw0pr0OnZCl3uszivw&CMCD=mtp%3D7000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22f238a3b9-2095-4910-b5b7-e31a5d9a202c%22",
       "currentProgram": "",
       "nextProgram": "",
       "description": "Smithsonian Channel",
@@ -716,61 +699,6 @@
     }
   ],
   "series": [
-    {
-      "id": "s1",
-      "title": "The Night Agent",
-      "coverUrl": "https://i3.ytimg.com/vi/1F6BCHAfGDc/maxresdefault.jpg",
-      "seasonsInfo": "3 Temporadas",
-      "description": "Um agente do FBI que trabalha no porão da Casa Branca atende uma ligação que desencadeia uma conspiração mortal envolvendo altos níveis do governo.",
-      "year": "2023",
-      "genre": "Ação / Thriller",
-      "lastEpisodeInfo": "Em andamento",
-      "trailerYoutubeId": "1F6BCHAfGDc",
-      "seasons": [
-        {
-          "number": 1,
-          "coverUrl": "https://i3.ytimg.com/vi/1F6BCHAfGDc/maxresdefault.jpg",
-          "episodes": [
-            {
-              "id": "na_s1_e1",
-              "title": "Episódio 1",
-              "episodeNumber": 1,
-              "thumbUrl": "https://i3.ytimg.com/vi/1F6BCHAfGDc/maxresdefault.jpg",
-              "description": "O agente atende uma ligação misteriosa que muda tudo.",
-              "streamUrl": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "The Good Doctor",
-      "coverUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
-      "bannerUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
-      "seasonsInfo": "6 Temporadas",
-      "description": "Um jovem cirurgião com autismo e síndrome de savant usa suas habilidades extraordinárias para salvar vidas enquanto enfrenta desafios pessoais e profissionais em um hospital renomado.",
-      "year": "2017",
-      "genre": "Drama Médico",
-      "lastEpisodeInfo": "Finalizada",
-      "trailerYoutubeId": "Zl7xwdsG_3k",
-      "seasons": [
-        {
-          "number": 1,
-          "coverUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
-          "episodes": [
-            {
-              "id": "gd_s1_e1",
-              "title": "Episódio 1",
-              "episodeNumber": 1,
-              "thumbUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
-              "description": "Um jovem médico com habilidades extraordinárias começa sua jornada em um hospital de prestígio.",
-              "streamUrl": ""
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "s4",
       "title": "Três Por Cento",
