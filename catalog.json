@@ -83,25 +83,16 @@
       "channelNumber": "118",
       "backdropUrl": ""
     }
-    ],
+  ],
   "movies": [
     {
-      "id": "m1",
-      "title": "Atirador Implacável",
-      "coverUrl": "https://i3.ytimg.com/vi/0fpQhDYEHm8/maxresdefault.jpg",
-      "year": "2026",
-      "description": "Um atirador altamente treinado enfrenta uma missão mortal onde cada erro pode ser fatal.",
-      "streamUrl": null,
-      "trailerYoutubeId": "0fpQhDYEHm8"
-    },
-    {
       "id": "m2",
-      "title": "Homem-Aranha: Um Novo Dia",
-      "coverUrl": "https://i3.ytimg.com/vi/8TZMtslA3UY/maxresdefault.jpg",
-      "year": "2026",
-      "description": "Ficção Científica",
-      "streamUrl": "https://image1.fumdx.com/myhls/2025/10/SPIDERMAN_Trailer/index_3.m3u8",
-      "trailerYoutubeId": "8TZMtslA3UY"
+      "title": "Tempos Modernos",
+      "coverUrl": "https://i.ytimg.com/vi/nq4AX_W1tgI/maxresdefault.jpg",
+      "year": "1936",
+      "description": "Tempos Modernos é um filme de 1936 dos Estados Unidos do cineasta Charlie Chaplin em que o seu famoso personagem "O Vagabundo" tenta sobreviver em meio ao mundo moderno e industrializado.",
+      "streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
+      "trailerYoutubeId": ""
     },
     {
       "id": "m3",
@@ -177,8 +168,8 @@
           ]
         }
       ]
-	 },
-    {
+	},
+   {
   "id": "s4",
   "title": "Três Por Cento",
   "coverUrl": "https://scontent.fthe13-1.fna.fbcdn.net/v/t39.30808-6/481770241_960153699604974_923559090465396283_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=HmnlGxJePSsQ7kNvwFW8Yq_&_nc_oc=AdotIk8iYb1lJodU2Pm65elg3XVjPfKPzGhGuC2-GHdGlIxBTRR3smvE_QT8qjLF9ko&_nc_zt=23&_nc_ht=scontent.fthe13-1.fna&_nc_gid=cvF543gsOdvxcJQOkp5Yug&_nc_ss=7a30f&oh=00_Afy7-_YqLvJjwtktB4ImJAOrkBbhpaa5ZCnHPO8nDzLBpw&oe=69C3A78E",
@@ -221,7 +212,7 @@
       ]
     }
   ]
-	},
+},
     {
       "id": "s3",
       "title": "The Wheel of Time",
