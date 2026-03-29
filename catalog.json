@@ -1,56 +1,3 @@
-{
-  "liveChannels": [
-    {
-  "id": "cnn_money_live",
-  "name": "CNN Money ao vivo",
-  "category": "Notícias",
-  "logoUrl": "https://cdn.telaviva.com.br/wp-content/uploads/2024/09/unnamed-2-1-jpg.webp",
-  "streamUrl": "euYS8oy5Kgw",
-  "currentProgram": "",
-  "nextProgram": "",
-  "description": "AO VIVO: RESENHA DO DINHEIRO - 20/03/2026 | CNN MONEY",
-  "headers": {},
-  "isProtected": false,
-  "isYoutube": true,
-  "epgId": "cnn_money_live",
-  "tvgId": "cnn_money_live",
-  "channelNumber": "500",
-  "backdropUrl": "https://i3.ytimg.com/vi/euYS8oy5Kgw/maxresdefault.jpg"
-},
-{
-  "id": "smithsonian_channel",
-  "name": "Smithsonian Channel",
-  "category": "Documentários",
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Smithsonian_Channel_logo.svg/512px-Smithsonian_Channel_logo.svg.png",
-  "streamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6298bd10d88ef000073f16b7/3321280/playlist.m3u8?",
-  "currentProgram": "",
-  "nextProgram": "",
-  "description": "Smithsonian Channel",
-  "headers": {},
-  "isProtected": false,
-  "isYoutube": false,
-  "epgId": "smithsonian_channel",
-  "tvgId": "smithsonian_channel",
-  "channelNumber": "320",
-  "backdropUrl": ""
-},
-    {
-      "id": "00000",
-      "name": "WCVB 5 Boston MA",
-      "category": "Noticias",
-      "logoUrl": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wcvb/top_image.png?resize=1200:*",
-      "streamUrl": "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist_640x360.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "000",
-      "tvgId": "00000",
-      "channelNumber": "499",
-      "backdropUrl": ""
-    },
     {
       "id": "523352",
       "name": "Record News",
@@ -1149,34 +1096,6 @@
       ]
     }
   ]
-},
-    {
-      "id": "s2",
-      "title": "The Good Doctor",
-      "coverUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
-      "bannerUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
-      "seasonsInfo": "6 Temporadas",
-      "description": "Um jovem cirurgião com autismo e síndrome de savant usa suas habilidades extraordinárias para salvar vidas enquanto enfrenta desafios pessoais e profissionais em um hospital renomado.",
-      "year": "2017",
-      "genre": "Drama Médico",
-      "lastEpisodeInfo": "Finalizada",
-      "trailerYoutubeId": "Zl7xwdsG_3k",
-      "seasons": [
-        {
-          "number": 1,
-          "coverUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
-          "episodes": [
-            {
-              "id": "gd_s1_e1",
-              "title": "Episódio 1",
-              "episodeNumber": 1,
-              "thumbUrl": "https://i3.ytimg.com/vi/Zl7xwdsG_3k/maxresdefault.jpg",
-              "description": "Um jovem médico com habilidades extraordinárias começa sua jornada em um hospital de prestígio.",
-              "streamUrl": null
-            }
-          ]
-        }
-      ]
 	},
    {
   "id": "s4",
@@ -1218,35 +1137,7 @@
           "description": "Corredor - Episódio 3",
           "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.3.720.mp4"
         }
-      ]
-    }
-  ]
-},
-    {
-      "id": "s3",
-      "title": "The Wheel of Time",
-      "coverUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
-      "bannerUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
-      "seasonsInfo": "3 Temporadas",
-      "description": "Em um mundo onde a magia existe e apenas mulheres podem usá-la, uma poderosa Aes Sedai guia cinco jovens em uma jornada épica. Entre eles pode estar o Dragão Renascido, uma figura profetizada capaz de salvar ou destruir a humanidade.",
-      "year": "2021",
-      "genre": "Fantasia / Aventura",
-      "lastEpisodeInfo": "Em andamento",
-      "trailerYoutubeId": "qk0D4OV95bQ",
-      "seasons": [
-        {
-          "number": 1,
-          "coverUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
-          "episodes": [
-            {
-              "id": "wot_s1_e1",
-              "title": "Episódio 1",
-              "episodeNumber": 1,
-              "thumbUrl": "https://i3.ytimg.com/vi/qk0D4OV95bQ/maxresdefault.jpg",
-              "description": "Moiraine chega a uma vila isolada em busca de jovens que podem cumprir uma antiga profecia.",
-              "streamUrl": null
-            }
-          ]
+               ]
         }
       ]
     }
