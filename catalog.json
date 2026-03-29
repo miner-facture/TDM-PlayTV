@@ -1,3 +1,5 @@
+{
+  "liveChannels": [
     {
       "id": "523352",
       "name": "Record News",
@@ -15,23 +17,7 @@
       "channelNumber": "501",
       "backdropUrl": ""
     },
-    {
-      "id": "523315_abc6",
-      "name": "ABC6",
-      "category": "Notícias",
-      "logoUrl": "https://i.ibb.co/FfDZd4b/logo-4k-preenchido.png",
-      "streamUrl": "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist_640x360.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "523315",
-      "tvgId": "523315",
-      "channelNumber": "498",
-      "backdropUrl": ""
-    },
+	
     {
       "id": "523278",
       "name": "CNN Internacional",
@@ -84,23 +70,6 @@
       "backdropUrl": ""
     },
     {
-      "id": "times_brasil",
-      "name": "Times Brasil CNBC",
-      "category": "Notícias",
-      "logoUrl": "https://timesbrasil.com.br/wp-content/themes/cnbc/dist/img/CNBC_EXCLUSIVE_SITE_AZUL@4x.png",
-      "streamUrl": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(5HHJtAsXwEyvbknBM4e9mFHErYb58GWsYDJqjiM4xLGavr2uxVyY4onwFnSvKZrFSQ-NhWp9VUdocDZnMIa_np3N70shnD0Ecu3uNGMMBOseqdCjx10RGjE6RtlX8LkG)/cloud/3/x9dhtbg/d/live-380.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "times_brasil",
-      "tvgId": "times_brasil",
-      "channelNumber": "504",
-      "backdropUrl": ""
-    },
-    {
       "id": "426168",
       "name": "GloboNews",
       "category": "Notícias",
@@ -118,6 +87,23 @@
       "epgId": "426168",
       "tvgId": "426168",
       "channelNumber": "505",
+      "backdropUrl": ""
+    },
+    {
+      "id": "523315_abc6",
+      "name": "ABC6",
+      "category": "Notícias",
+      "logoUrl": "https://i.ibb.co/FfDZd4b/logo-4k-preenchido.png",
+      "streamUrl": "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist_640x360.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "523315",
+      "tvgId": "523315",
+      "channelNumber": "498",
       "backdropUrl": ""
     },
     {
@@ -783,57 +769,6 @@
       "backdropUrl": ""
     },
     {
-      "id": "523279",
-      "name": "TNT",
-      "category": "Filmes e Séries",
-      "logoUrl": "https://assets.b9.com.br/wp-content/uploads/2016/02/tntlogo1.png",
-      "streamUrl": "https://cdn-5.nxplay.com.br/TNT/tracks-v2a1/mono.ts.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "523279",
-      "tvgId": "523279",
-      "channelNumber": "307",
-      "backdropUrl": ""
-    },
-    {
-      "id": "0000_bbc_drama",
-      "name": "BBC DRAMA",
-      "category": "Filmes e Séries",
-      "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/5/52/BBC_Drama_2019.svg/revision/latest?cb=20190108220843",
-      "streamUrl": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/360p/index.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "0000",
-      "tvgId": "0000",
-      "channelNumber": "121",
-      "backdropUrl": ""
-    },
-    {
-      "id": "00000_tvificcao",
-      "name": "TViFicção",
-      "category": "Filmes e Séries",
-      "logoUrl": "https://i.ibb.co/F4XGNZ5d/thii.png",
-      "streamUrl": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "00000",
-      "tvgId": "00000",
-      "channelNumber": "113",
-      "backdropUrl": ""
-    },
-    {
       "id": "426169",
       "name": "Gloobinho",
       "category": "Infantil",
@@ -908,98 +843,47 @@
       "backdropUrl": ""
     },
     {
-      "id": "00000_geekdot_aberto",
-      "name": "GEEKDOT",
-      "category": "Aberto",
-      "logoUrl": "https://yt3.googleusercontent.com/GNnXrfW5GF2RmNlW9942NAl22p3td6RAtJPb7wbg4MU-9142ZCJJH8XhIhUIS4vEPJWdZiePIzU=s900-c-k-c0x00ffffff-no-rj",
-      "streamUrl": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
+      "id": "523325_dreamworks",
+      "name": "DreamWorks Anime",
+      "category": "Infantil",
+      "logoUrl": "https://logosmarcas.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo-650x366.png",
+      "streamUrl": "https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.ts.m3u8",
       "currentProgram": "",
       "nextProgram": "",
       "description": "",
       "headers": {},
       "isProtected": false,
       "isYoutube": false,
-      "epgId": "0000",
-      "tvgId": "00000",
-      "channelNumber": "115",
+      "epgId": "523325",
+      "tvgId": "523325",
+      "channelNumber": "403",
       "backdropUrl": ""
-    },
+    }
+  ],
+  "movies": [
     {
-      "id": "00000_gospel_cartoon_aberto",
-      "name": "Gospel Cartoon",
-      "category": "Aberto",
-      "logoUrl": "https://i.ibb.co/Xxh1jzBS/LOGO-GC.png",
-      "streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "0000",
-      "tvgId": "0000",
-      "channelNumber": "116",
-      "backdropUrl": ""
-    },
+      "id": "m2",
+      "title": "Tempos Modernos",
+      "coverUrl": "https://i.ytimg.com/vi/nq4AX_W1tgI/maxresdefault.jpg",
+      "year": "1936",
+      "description": "Tempos Modernos é um filme de 1936 dos Estados Unidos do cineasta Charlie Chaplin em que o seu famoso personagem \"O Vagabundo\" tenta sobreviver em meio ao mundo moderno e industrializado.",
+      "streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
+      "trailerYoutubeId": ""
+    }
+  ],
+  "series": [
     {
-      "id": "00000_3abn_kids_aberto",
-      "name": "3ABN Kids Network",
-      "category": "Aberto",
-      "logoUrl": "https://alpha.uscreencdn.com/assets%2F12402%2Fplayer_image%2F532608%2FKids-1920x1080.1659537540.jpg",
-      "streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "0000",
-      "tvgId": "0000",
-      "channelNumber": "117",
-      "backdropUrl": ""
-    },
-    {
-  "id": "523325_dreamworks",
-  "name": "DreamWorks Anime",
-  "category": "Infantil",
-  "logoUrl": "https://logosmarcas.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo-650x366.png",
-  "streamUrl": "https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.ts.m3u8",
-  "currentProgram": "",
-  "nextProgram": "",
-  "description": "",
-  "headers": {},
-  "isProtected": false,
-  "isYoutube": false,
-  "epgId": "523325",
-  "tvgId": "523325",
-  "channelNumber": "403",
-  "backdropUrl": ""
-}
-],
-"movies": [
-  {
-    "id": "m2",
-    "title": "Tempos Modernos",
-    "coverUrl": "https://i.ytimg.com/vi/nq4AX_W1tgI/maxresdefault.jpg",
-    "year": "1936",
-    "description": "Tempos Modernos é um filme de 1936 dos Estados Unidos do cineasta Charlie Chaplin em que o seu famoso personagem \"O Vagabundo\" tenta sobreviver em meio ao mundo moderno e industrializado.",
-    "streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
-    "trailerYoutubeId": ""
-  }
-],
-"series": [
-  {
-    "id": "pb",
-    "title": "Prison Break",
-    "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/a8969d7a15e446945d0bb06e25751cd26871b401623929234137f25b8f0d9821._UR1920,1080_.png",
-    "seasonsInfo": "5 Temporadas",
-    "description": "Michael Scofield executa um plano para salvar seu irmão da prisão.",
-    "year": "2005",
-    "genre": "Ação / Drama",
-    "lastEpisodeInfo": "Completo",
-    "trailerYoutubeId": "",
-    "seasons": [
-      {
+      "id": "pb",
+      "title": "Prison Break",
+      "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/a8969d7a15e446945d0bb06e25751cd26871b401623929234137f25b8f0d9821._UR1920,1080_.png",
+      "seasonsInfo": "5 Temporadas",
+      "description": "Michael Scofield executa um plano para salvar seu irmão da prisão.",
+      "year": "2005",
+      "genre": "Ação / Drama",
+      "lastEpisodeInfo": "Completo",
+      "trailerYoutubeId": "",
+      "seasons": [
+        {
           "number": 5,
           "coverUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
           "episodes": [
@@ -1074,50 +958,6 @@
               "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
               "description": "Ameaças perigosas mantêm Michael e Lincoln lutando para proteger Sara e Mike. Enquanto isso, Poseidon continua a tentar ser mais esperto que Michael e o resto da gangue, o que os leva ao confronto final, e nem todos conseguem sair vivos.",
               "streamUrl": "http://192.168.1.37:8000/S01E09.mp4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "s4",
-      "title": "Três Por Cento",
-      "coverUrl": "https://scontent.fthe13-1.fna.fbcdn.net/v/t39.30808-6/481770241_960153699604974_923559090465396283_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=HmnlGxJePSsQ7kNvwFW8Yq_&_nc_oc=AdotIk8iYb1lJodU2Pm65elg3XVjPfKPzGhGuC2-GHdGlIxBTRR3smvE_QT8qjLF9ko&_nc_zt=23&_nc_ht=scontent.fthe13-1.fna&_nc_gid=cvF543gsOdvxcJQOkp5Yug&_nc_ss=7a30f&oh=00_Afy7-_YqLvJjwtktB4ImJAOrkBbhpaa5ZCnHPO8nDzLBpw&oe=69C3A78E",
-      "bannerUrl": "https://i.imgur.com/6KQZ8wT.jpeg",
-      "seasonsInfo": "1 Temporada",
-      "description": "Em um futuro distópico, jovens passam por um processo seletivo extremo em busca de uma vida melhor.",
-      "year": "2016",
-      "genre": "Ficção Científica / Drama",
-      "lastEpisodeInfo": "3 episódios",
-      "trailerYoutubeId": "",
-      "seasons": [
-        {
-          "number": 1,
-          "coverUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
-          "episodes": [
-            {
-              "id": "tresporcento_s1_e1",
-              "title": "Episódio 1",
-              "episodeNumber": 1,
-              "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
-              "description": "Cubos - Episódio 1",
-              "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.1.720.mp4"
-            },
-            {
-              "id": "tresporcento_s1_e2",
-              "title": "Episódio 2",
-              "episodeNumber": 2,
-              "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
-              "description": "Moedas - Episódio 2",
-              "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.2.720.mp4"
-            },
-            {
-              "id": "tresporcento_s1_e3",
-              "title": "Episódio 3",
-              "episodeNumber": 3,
-              "thumbUrl": "https://scontent.fthe3-1.fna.fbcdn.net/v/t1.6435-9/47321125_2973415456032670_3167462304044285952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=2Qm2UkOQ24oQ7kNvwFrUFGA&_nc_oc=Adpqi2wTHtU9fGyya3_E-SfXcuHivtCvQjRrrgaLlm6PAogEHffIdK5qgoCQ92UBy9o&_nc_zt=23&_nc_ht=scontent.fthe3-1.fna&_nc_gid=FAKRTPsOfsO0xjsuw7s0Bg&_nc_ss=7a30f&oh=00_AfyboJf6UqgTIw8gEiLeZzrKKw516xFO3nM9PJoHsj7c5w&oe=69E5522C",
-              "description": "Corredor - Episódio 3",
-              "streamUrl": "https://vdn.libreflix.org/video/tres-por-cento/tres-por-cento.3.720.mp4"
             }
           ]
         }
