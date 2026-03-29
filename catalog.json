@@ -959,48 +959,47 @@
       "backdropUrl": ""
     },
     {
-      "id": "523325_dreamworks",
-      "name": "DreamWorks Anime",
-      "category": "Infantil",
-      "logoUrl": "https://logosmarcas.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo-650x366.png",
-      "streamUrl": "https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.ts.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "523325",
-      "tvgId": "523325",
-      "channelNumber": "403",
-      "backdropUrl": ""
-    }
-{
-  ],
-  "movies": [
-    {
-      "id": "m2",
-      "title": "Tempos Modernos",
-      "coverUrl": "https://i.ytimg.com/vi/nq4AX_W1tgI/maxresdefault.jpg",
-      "year": "1936",
-      "description": "Tempos Modernos é um filme de 1936 dos Estados Unidos do cineasta Charlie Chaplin em que o seu famoso personagem \"O Vagabundo\" tenta sobreviver em meio ao mundo moderno e industrializado.",
-      "streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
-      "trailerYoutubeId": ""
-    }
-  ],
-  "series": [
-    {
-      "id": "pb",
-      "title": "Prison Break",
-      "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/a8969d7a15e446945d0bb06e25751cd26871b401623929234137f25b8f0d9821._UR1920,1080_.png",
-      "seasonsInfo": "5 Temporadas",
-      "description": "Michael Scofield executa um plano para salvar seu irmão da prisão.",
-      "year": "2005",
-      "genre": "Ação / Drama",
-      "lastEpisodeInfo": "Completo",
-      "trailerYoutubeId": "",
-      "seasons": [
-        {
+  "id": "523325_dreamworks",
+  "name": "DreamWorks Anime",
+  "category": "Infantil",
+  "logoUrl": "https://logosmarcas.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo-650x366.png",
+  "streamUrl": "https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.ts.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {},
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523325",
+  "tvgId": "523325",
+  "channelNumber": "403",
+  "backdropUrl": ""
+}
+],
+"movies": [
+  {
+    "id": "m2",
+    "title": "Tempos Modernos",
+    "coverUrl": "https://i.ytimg.com/vi/nq4AX_W1tgI/maxresdefault.jpg",
+    "year": "1936",
+    "description": "Tempos Modernos é um filme de 1936 dos Estados Unidos do cineasta Charlie Chaplin em que o seu famoso personagem \"O Vagabundo\" tenta sobreviver em meio ao mundo moderno e industrializado.",
+    "streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
+    "trailerYoutubeId": ""
+  }
+],
+"series": [
+  {
+    "id": "pb",
+    "title": "Prison Break",
+    "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/a8969d7a15e446945d0bb06e25751cd26871b401623929234137f25b8f0d9821._UR1920,1080_.png",
+    "seasonsInfo": "5 Temporadas",
+    "description": "Michael Scofield executa um plano para salvar seu irmão da prisão.",
+    "year": "2005",
+    "genre": "Ação / Drama",
+    "lastEpisodeInfo": "Completo",
+    "trailerYoutubeId": "",
+    "seasons": [
+      {
           "number": 5,
           "coverUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
           "episodes": [
