@@ -883,7 +883,7 @@
       "lastEpisodeInfo": "Completo",
       "trailerYoutubeId": "",
       "seasons": [
-        {
+      		{
           "number": 5,
           "coverUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
           "episodes": [
@@ -893,7 +893,7 @@
               "episodeNumber": 1,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Sete anos se passaram, com todos seguindo em frente com suas vidas. Descobre-se que Michael ainda está vivo após sua aparente morte e acabou em uma prisão iemenita. Lincoln recebe a visita de um rosto familiar e fica sabendo da notícia sobre Michael e seu paradeiro.",
-              "streamUrl": "http://192.168.1.37:8081/S01E01.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E01/hls/video.m3u8"
             },
             {
               "id": "pb_s5_e2",
@@ -901,7 +901,7 @@
               "episodeNumber": 2,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Enquanto Lincoln e C-Note procuram o Sheik of Light, Michael e seu companheiro de cela, Whip, tentam uma fuga de Ogygia. Enquanto isso, a investigação de Sara sobre o reaparecimento de Michael a leva ao departamento de estado e a um reencontro desconfortável com Paul Kellerman.",
-              "streamUrl": "http://192.168.1.37:8081/S01E02.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E02/hls/video.m3u8"
             },
             {
               "id": "pb_s5_e3",
@@ -909,7 +909,7 @@
               "episodeNumber": 3,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Quando T-Bag embosca Sara, ele avisa que dois dos capangas de Poseidon, Van Gogh e A & W, podem estar seguindo-a. Enquanto isso, Lincoln tenta recuperar seu passaporte confiscado para escapar do Iêmen, e Michael planeja seu próximo passo.",
-              "streamUrl": "http://192.168.1.37:8081/S01E03.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E03/hls/video.m3u8"
             },
             {
               "id": "pb_s5_e4",
@@ -917,7 +917,7 @@
               "episodeNumber": 4,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Michael deve fazer uma escolha difícil quando sente que ficou sem opções.",
-              "streamUrl": "http://192.168.1.37:8081/S01E04.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E04/hls/video.m3u8"
             },
             {
               "id": "pb_s5_e5",
@@ -925,7 +925,7 @@
               "episodeNumber": 5,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Lincoln tenta descobrir o que aconteceu com Michael e C-Note espera executar um novo plano de fuga com Ciclope logo atrás.",
-              "streamUrl": "http://192.168.1.37:8081/S01E05.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E05/hls/video.m3u8"
             },
             {
               "id": "pb_s5_e6",
@@ -933,7 +933,7 @@
               "episodeNumber": 6,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Michael, Lincoln e a gangue Ogygia correm pelo deserto perseguidos por Ciclope; A & W e Van Gogh questionam seus papéis quando seus fugitivos os levam a Graceland.",
-              "streamUrl": "http://192.168.1.37:8081/S01E06.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E06/hls/video.m3u8"
             },
             {
               "id": "pb_s5_e7",
@@ -941,7 +941,7 @@
               "episodeNumber": 7,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Sara teme pela segurança de sua família quando descobre a razão pela qual Michael fingiu sua morte; Sucre ajuda Michael e Lincoln a encontrar um caminho para casa; a verdadeira identidade de Poseidon é revelada.",
-              "streamUrl": "http://192.168.1.37:8081/S01E07.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E07/hls/video.m3u8"
             },
             {
               "id": "pb_s5_e8",
@@ -949,7 +949,7 @@
               "episodeNumber": 8,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Michael e Lincoln contam com a ajuda de Sheba e C-Note para pegar Poseidon quando Sara e seu filho são ameaçados; Whip assume uma missão separada; T-Bag revela um segredo.",
-              "streamUrl": "http://192.168.1.37:8081/S01E08.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E08/hls/video.m3u8"
             },
             {
               "id": "pb_s5_e9",
@@ -957,7 +957,7 @@
               "episodeNumber": 9,
               "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Ameaças perigosas mantêm Michael e Lincoln lutando para proteger Sara e Mike. Enquanto isso, Poseidon continua a tentar ser mais esperto que Michael e o resto da gangue, o que os leva ao confronto final, e nem todos conseguem sair vivos.",
-              "streamUrl": "http://192.168.1.37:8081/S01E09.mp4"
+              "streamUrl": "http://192.168.1.37:8081/media/S01E09/hls/video.m3u8"
             }
           ]
         }
