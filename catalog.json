@@ -870,7 +870,7 @@
       "streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
       "trailerYoutubeId": ""
     }
-  ],
+   ],
   "series": [
     {
       "id": "pb",
@@ -885,79 +885,79 @@
       "seasons": [
         {
           "number": 5,
-          "coverUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+          "coverUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
           "episodes": [
             {
               "id": "pb_s5_e1",
               "title": "Ogígia",
               "episodeNumber": 1,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Sete anos se passaram, com todos seguindo em frente com suas vidas. Descobre-se que Michael ainda está vivo após sua aparente morte e acabou em uma prisão iemenita. Lincoln recebe a visita de um rosto familiar e fica sabendo da notícia sobre Michael e seu paradeiro.",
-              "streamUrl": "http://192.168.1.37:8000/S01E01.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E01.mp4"
             },
             {
               "id": "pb_s5_e2",
               "title": "Kaniel Outis",
               "episodeNumber": 2,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Enquanto Lincoln e C-Note procuram o Sheik of Light, Michael e seu companheiro de cela, Whip, tentam uma fuga de Ogygia. Enquanto isso, a investigação de Sara sobre o reaparecimento de Michael a leva ao departamento de estado e a um reencontro desconfortável com Paul Kellerman.",
-              "streamUrl": "http://192.168.1.37:8000/S01E02.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E02.mp4"
             },
             {
               "id": "pb_s5_e3",
               "title": "O Mentiroso",
               "episodeNumber": 3,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Quando T-Bag embosca Sara, ele avisa que dois dos capangas de Poseidon, Van Gogh e A & W, podem estar seguindo-a. Enquanto isso, Lincoln tenta recuperar seu passaporte confiscado para escapar do Iêmen, e Michael planeja seu próximo passo.",
-              "streamUrl": "http://192.168.1.37:8000/S01E03.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E03.mp4"
             },
             {
               "id": "pb_s5_e4",
               "title": "O dilema do prisioneiro",
               "episodeNumber": 4,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Michael deve fazer uma escolha difícil quando sente que ficou sem opções.",
-              "streamUrl": "http://192.168.1.37:8000/S01E04.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E04.mp4"
             },
             {
               "id": "pb_s5_e5",
               "title": "Contingência",
               "episodeNumber": 5,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Lincoln tenta descobrir o que aconteceu com Michael e C-Note espera executar um novo plano de fuga com Ciclope logo atrás.",
-              "streamUrl": "http://192.168.1.37:8000/S01E05.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E05.mp4"
             },
             {
               "id": "pb_s5_e6",
               "title": "Fecia",
               "episodeNumber": 6,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Michael, Lincoln e a gangue Ogygia correm pelo deserto perseguidos por Ciclope; A & W e Van Gogh questionam seus papéis quando seus fugitivos os levam a Graceland.",
-              "streamUrl": "http://192.168.1.37:8000/S01E06.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E06.mp4"
             },
             {
               "id": "pb_s5_e7",
               "title": "Vinho Mar Negro",
               "episodeNumber": 7,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Sara teme pela segurança de sua família quando descobre a razão pela qual Michael fingiu sua morte; Sucre ajuda Michael e Lincoln a encontrar um caminho para casa; a verdadeira identidade de Poseidon é revelada.",
-              "streamUrl": "http://192.168.1.37:8000/S01E07.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E07.mp4"
             },
             {
               "id": "pb_s5_e8",
               "title": "Progênie",
               "episodeNumber": 8,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Michael e Lincoln contam com a ajuda de Sheba e C-Note para pegar Poseidon quando Sara e seu filho são ameaçados; Whip assume uma missão separada; T-Bag revela um segredo.",
-              "streamUrl": "http://192.168.1.37:8000/S01E08.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E08.mp4"
             },
             {
               "id": "pb_s5_e9",
               "title": "Atrás dos Olhos",
               "episodeNumber": 9,
-              "thumbUrl": "https://cdn.imgbin.com/16/0/8/imgbin-michael-scofield-dr-sara-tancredi-theodore-t-bag-bagwell-lincoln-burrows-prison-break-season-4-prison-break-KPwjGrcVNLV7ddKagcv4p7a2Q.jpg",
+              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
               "description": "Ameaças perigosas mantêm Michael e Lincoln lutando para proteger Sara e Mike. Enquanto isso, Poseidon continua a tentar ser mais esperto que Michael e o resto da gangue, o que os leva ao confronto final, e nem todos conseguem sair vivos.",
-              "streamUrl": "http://192.168.1.37:8000/S01E09.mp4"
+              "streamUrl": "http://192.168.1.37:8081/S01E09.mp4"
             }
           ]
         }
