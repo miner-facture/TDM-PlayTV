@@ -1,23 +1,39 @@
 {
   "liveChannels": [
-    {
-      "id": "523352",
-      "name": "Record News",
+	{
+      "id": "426108",
+      "name": "CNN Brasil",
       "category": "Notícias",
-      "logoUrl": "https://i.ibb.co/b5JS1LNC/Record-News-2023-stacked.webp",
-      "streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+      "logoUrl": "https://assets.b9.com.br/wp-content/uploads/2019/03/cnn-brasil.jpg",
+      "streamUrl": "https://cdn-5.nxplay.com.br/CNN_Brazil_TK/tracks-v2a1/mono.ts.m3u8",
       "currentProgram": "",
       "nextProgram": "",
       "description": "",
       "headers": {},
       "isProtected": false,
       "isYoutube": false,
-      "epgId": "523352",
-      "tvgId": "523352",
-      "channelNumber": "501",
+      "epgId": "426108",
+      "tvgId": "426108",
+      "channelNumber": "506",
       "backdropUrl": ""
     },
-	
+	{
+      "id": "CNN Brasil Money HD",
+      "name": "CNN MONEY",
+      "category": "Notícias",
+      "logoUrl": "https://images.seeklogo.com/logo-png/61/2/cnn-brasil-money-logo-png_seeklogo-612480.png",
+      "streamUrl": "http://nhzcdn.vulcanzz.click/live/292330036/5179425/527506.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzUwODc5OTksImlhdCI6MTc3NTAwMTYwMCwibmJmIjoxNzc1MDAxNjAwLCJ1c2VyIjoiMjkyMzMwMDM2IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IEF2YXN0LzE0NS4wLjM0MjcxLjE2MiIsInVzZXJJcCI6IjE4NS4yMzYuMTgzLjEwNzozNTUyNiJ9.pBBQI1bS9erNSZO2IyRKv3Sb9HwZcMxJD_UvQqfm08s&id=527506&p=m3u8&aid=1775059659",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "CNN Brasil Money HD",
+      "tvgId": "CNN Brasil Money HD",
+      "channelNumber": "526",
+      "backdropUrl": ""
+    },
     {
       "id": "523278",
       "name": "CNN Internacional",
@@ -87,6 +103,23 @@
       "epgId": "426168",
       "tvgId": "426168",
       "channelNumber": "505",
+      "backdropUrl": ""
+    },
+	    {
+      "id": "523352",
+      "name": "Record News",
+      "category": "Notícias",
+      "logoUrl": "https://i.ibb.co/b5JS1LNC/Record-News-2023-stacked.webp",
+      "streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "523352",
+      "tvgId": "523352",
+      "channelNumber": "501",
       "backdropUrl": ""
     },
     {
