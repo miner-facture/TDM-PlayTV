@@ -896,11 +896,11 @@
   "movies": [
     {
       "id": "m2",
-      "title": "Tempos Modernos",
-      "coverUrl": "https://i.ytimg.com/vi/nq4AX_W1tgI/maxresdefault.jpg",
-      "year": "1936",
-      "description": "Tempos Modernos é um filme de 1936 dos Estados Unidos do cineasta Charlie Chaplin em que o seu famoso personagem \"O Vagabundo\" tenta sobreviver em meio ao mundo moderno e industrializado.",
-      "streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
+      "title": "Estrelas Além do Tempo",
+      "coverUrl": "https://i.ytimg.com/vi/Xpl7pyFfBlk/maxresdefault.jpg",
+      "year": "2016",
+      "description": "A história de uma equipe de matemáticas afro-americanas e o papel central que desempenharam na NASA durante os primeiros anos do programa espacial nos Estados Unidos.",
+      "streamUrl": "https://vod3.cf.dmcdn.net/sec2(QsoaO_fsdKTXqIn1kd2wVqACHCvoPCrfy9AoDG2ghNS7NfbqQKcGBXeGdtTMcwGZ5UIsSdJTO-h2aU1NbsYVz2rZJdKDB1GzN2thETdK2YwaqsQ9rTpRbU60yUvqt04T4W5j2ICOVJDK42h5oHO58V2YQlebHmENL4XhJ1AHb28)/video/583/533/498335385_mp4_h264_aac.m3u8",
       "trailerYoutubeId": ""
     }
    ],
