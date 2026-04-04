@@ -21,7 +21,7 @@
       "id": "426108",
       "name": "CNN Brasil",
       "category": "Notícias",
-      "logoUrl": "https://assets.b9.com.br/wp-content/uploads/2019/03/cnn-brasil.jpg",
+      "logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
       "streamUrl": "https://cdn-5.nxplay.com.br/CNN_Brazil_TK/tracks-v2a1/mono.ts.m3u8",
       "currentProgram": "",
       "nextProgram": "",
@@ -105,11 +105,11 @@
       "channelNumber": "505",
       "backdropUrl": ""
     },
-	    {
+	{
       "id": "523352",
       "name": "Record News",
       "category": "Notícias",
-      "logoUrl": "https://i.ibb.co/b5JS1LNC/Record-News-2023-stacked.webp",
+      "logoUrl": "https://api.reidoscanais.ooo/img/recordnews.png",
       "streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
       "currentProgram": "",
       "nextProgram": "",
