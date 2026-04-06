@@ -717,93 +717,184 @@
       "trailerYoutubeId": ""
     }
   ],
-  "series": [
-    {
-      "id": "pb",
-      "title": "Prison Break",
-      "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/a8969d7a15e446945d0bb06e25751cd26871b401623929234137f25b8f0d9821._UR1920,1080_.png",
-      "seasonsInfo": "5 Temporadas",
-      "description": "Michael Scofield executa um plano para salvar seu irmão da prisão.",
-      "year": "2005",
-      "genre": "Ação / Drama",
-      "lastEpisodeInfo": "Completo",
-      "trailerYoutubeId": "",
-      "seasons": [
-        {
-          "number": 5,
-          "coverUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-          "episodes": [
-            {
-              "id": "pb_s5_e1",
-              "title": "Ogígia",
-              "episodeNumber": 1,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Sete anos se passaram, com todos seguindo em frente com suas vidas. Descobre-se que Michael ainda está vivo após sua aparente morte e acabou em uma prisão iemenita. Lincoln recebe a visita de um rosto familiar e fica sabendo da notícia sobre Michael e seu paradeiro.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E01/hls/video.m3u8"
-            },
-            {
-              "id": "pb_s5_e2",
-              "title": "Kaniel Outis",
-              "episodeNumber": 2,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Enquanto Lincoln e C-Note procuram o Sheik of Light, Michael e seu companheiro de cela, Whip, tentam uma fuga de Ogygia. Enquanto isso, a investigação de Sara sobre o reaparecimento de Michael a leva ao departamento de estado e a um reencontro desconfortável com Paul Kellerman.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E02/hls/video.m3u8"
-            },
-            {
-              "id": "pb_s5_e3",
-              "title": "O Mentiroso",
-              "episodeNumber": 3,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Quando T-Bag embosca Sara, ele avisa que dois dos capangas de Poseidon, Van Gogh e A & W, podem estar seguindo-a. Enquanto isso, Lincoln tenta recuperar seu passaporte confiscado para escapar do Iêmen, e Michael planeja seu próximo passo.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E03/hls/video.m3u8"
-            },
-            {
-              "id": "pb_s5_e4",
-              "title": "O dilema do prisioneiro",
-              "episodeNumber": 4,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Michael deve fazer uma escolha difícil quando sente que ficou sem opções.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E04/hls/video.m3u8"
-            },
-            {
-              "id": "pb_s5_e5",
-              "title": "Contingência",
-              "episodeNumber": 5,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Lincoln tenta descobrir o que aconteceu com Michael e C-Note espera executar um novo plano de fuga com Ciclope logo atrás.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E05/hls/video.m3u8"
-            },
-            {
-              "id": "pb_s5_e6",
-              "title": "Fecia",
-              "episodeNumber": 6,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Michael, Lincoln e a gangue Ogygia correm pelo deserto perseguidos por Ciclope; A & W e Van Gogh questionam seus papéis quando seus fugitivos os levam a Graceland.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E06/hls/video.m3u8"
-            },
-            {
-              "id": "pb_s5_e7",
-              "title": "Vinho Mar Negro",
-              "episodeNumber": 7,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Sara teme pela segurança de sua família quando descobre a razão pela qual Michael fingiu sua morte; Sucre ajuda Michael e Lincoln a encontrar um caminho para casa; a verdadeira identidade de Poseidon é revelada.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E07/hls/video.m3u8"
-            },
-            {
-              "id": "pb_s5_e8",
-              "title": "Progênie",
-              "episodeNumber": 8,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Michael e Lincoln contam com a ajuda de Sheba e C-Note para pegar Poseidon quando Sara e seu filho são ameaçados; Whip assume uma missão separada; T-Bag revela um segredo.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E08/hls/video.m3u8"
-            },
-            {
-              "id": "pb_s5_e9",
-              "title": "Atrás dos Olhos",
-              "episodeNumber": 9,
-              "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
-              "description": "Ameaças perigosas mantêm Michael e Lincoln lutando para proteger Sara e Mike. Enquanto isso, Poseidon continua a tentar ser mais esperto que Michael e o resto da gangue, o que os leva ao confronto final, e nem todos conseguem sair vivos.",
-              "streamUrl": "http://192.168.1.37:8081/media/S01E09/hls/video.m3u8"
+"series": [
+  {
+    "id": "pb",
+    "title": "Prison Break",
+    "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/a8969d7a15e446945d0bb06e25751cd26871b401623929234137f25b8f0d9821._UR1920,1080_.png",
+    "seasonsInfo": "5 Temporadas",
+    "description": "Michael Scofield executa um plano para salvar seu irmão da prisão.",
+    "year": "2005",
+    "genre": "Ação / Drama",
+    "lastEpisodeInfo": "Completo",
+    "trailerYoutubeId": "",
+    "seasons": [
+      {
+        "number": 5,
+        "coverUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+        "episodes": [
+          {
+            "id": "pb_s5_e1",
+            "title": "Ogígia",
+            "episodeNumber": 1,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Sete anos se passaram, com todos seguindo em frente com suas vidas. Descobre-se que Michael ainda está vivo após sua aparente morte e acabou em uma prisão iemenita. Lincoln recebe a visita de um rosto familiar e fica sabendo da notícia sobre Michael e seu paradeiro.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E01/hls/video.m3u8"
+          },
+          {
+            "id": "pb_s5_e2",
+            "title": "Kaniel Outis",
+            "episodeNumber": 2,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Enquanto Lincoln e C-Note procuram o Sheik of Light, Michael e seu companheiro de cela, Whip, tentam uma fuga de Ogygia. Enquanto isso, a investigação de Sara sobre o reaparecimento de Michael a leva ao departamento de estado e a um reencontro desconfortável com Paul Kellerman.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E02/hls/video.m3u8"
+          },
+          {
+            "id": "pb_s5_e3",
+            "title": "O Mentiroso",
+            "episodeNumber": 3,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Quando T-Bag embosca Sara, ele avisa que dois dos capangas de Poseidon, Van Gogh e A & W, podem estar seguindo-a. Enquanto isso, Lincoln tenta recuperar seu passaporte confiscado para escapar do Iêmen, e Michael planeja seu próximo passo.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E03/hls/video.m3u8"
+          },
+          {
+            "id": "pb_s5_e4",
+            "title": "O dilema do prisioneiro",
+            "episodeNumber": 4,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Michael deve fazer uma escolha difícil quando sente que ficou sem opções.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E04/hls/video.m3u8"
+          },
+          {
+            "id": "pb_s5_e5",
+            "title": "Contingência",
+            "episodeNumber": 5,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Lincoln tenta descobrir o que aconteceu com Michael e C-Note espera executar um novo plano de fuga com Ciclope logo atrás.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E05/hls/video.m3u8"
+          },
+          {
+            "id": "pb_s5_e6",
+            "title": "Fecia",
+            "episodeNumber": 6,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Michael, Lincoln e a gangue Ogygia correm pelo deserto perseguidos por Ciclope; A & W e Van Gogh questionam seus papéis quando seus fugitivos os levam a Graceland.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E06/hls/video.m3u8"
+          },
+          {
+            "id": "pb_s5_e7",
+            "title": "Vinho Mar Negro",
+            "episodeNumber": 7,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Sara teme pela segurança de sua família quando descobre a razão pela qual Michael fingiu sua morte; Sucre ajuda Michael e Lincoln a encontrar um caminho para casa; a verdadeira identidade de Poseidon é revelada.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E07/hls/video.m3u8"
+          },
+          {
+            "id": "pb_s5_e8",
+            "title": "Progênie",
+            "episodeNumber": 8,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Michael e Lincoln contam com a ajuda de Sheba e C-Note para pegar Poseidon quando Sara e seu filho são ameaçados; Whip assume uma missão separada; T-Bag revela um segredo.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E08/hls/video.m3u8"
+          },
+          {
+            "id": "pb_s5_e9",
+            "title": "Atrás dos Olhos",
+            "episodeNumber": 9,
+            "thumbUrl": "https://resizing.flixster.com/TVgrgiNBcpuwS9S1Tmil7pVF1z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+            "description": "Ameaças perigosas mantêm Michael e Lincoln lutando para proteger Sara e Mike. Enquanto isso, Poseidon continua a tentar ser mais esperto que Michael e o resto da gangue, o que os leva ao confronto final, e nem todos conseguem sair vivos.",
+            "streamUrl": "http://192.168.1.37:8081/media/S01E09/hls/video.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bob",
+    "title": "Band of Brothers",
+    "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
+    "seasonsInfo": "1 Temporada",
+    "description": "A história real da Easy Company, um grupo de soldados americanos durante a Segunda Guerra Mundial.",
+    "year": "2001",
+    "genre": "Guerra",
+    "lastEpisodeInfo": "Completo",
+    "trailerYoutubeId": "",
+    "seasons": [
+      {
+        "number": 1,
+        "coverUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
+        "episodes": [
+          {
+            "id": "bob_s1_e1",
+            "title": "Currahee",
+            "episodeNumber": 1,
+            "thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjIxODYyNTQxOF5BMl5BanBnXkFtZTgwNzQyMzY1MTE@._V1_FMjpg_UX2160_.jpg",
+            "description": "A Easy Company passa por treinamento sob a liderança de um capitão que implacavelmente os leva aos seus limites, mas pode ser limitado como líder em campo.",
+            "streamUrl": "https://lh3.googleusercontent.com/h2s2SD5n3nYq6g3k8BXVlTEroRLGRxhrKE22ZH6kjVk=m18?GrupoUp&Down"
+          },
+          {
+            "id": "bob_s1_e2",
+            "title": "Dia dos Dias",
+            "episodeNumber": 2,
+            "thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjk2MTBjY2YtMjA2Ny00NjUwLThlMjMtODAwNzdkNDNhZTZmXkEyXkFqcGc@._V1_FMjpg_UX796_.jpg",
+            "description": "Paraquedistas da Easy Company saltam atrás das linhas inimigas na Normandia no Dia D e lutam para se reunir em território hostil.",
+            "streamUrl": "https://lh3.googleusercontent.com/0fE9fvYBJEJ9hw5Tq2XLps8_0UtjEW0vUI9am-KYlNw=m18?GrupoUp&Down"
+          },
+          {
+            "id": "bob_s1_e3",
+            "title": "Carentan",
+            "episodeNumber": 3,
+            "thumbUrl": "http://i.imgur.com/2cIctoL.png",
+            "description": "A Easy Company enfrenta as tropas alemãs na cidade francesa de Carentan, e a batalha deixa um soldado profundamente traumatizado pela experiência.",
+            "streamUrl": "https://lh3.googleusercontent.com/WR2r_vCdbxUS_Vxhmj1680MdrUr2-o4Si2PUhz8gWQI=m18?GrupoUp&Down"
+          },
+          {
+            "id": "bob_s1_e4",
+            "title": "Substituições",
+            "episodeNumber": 4,
+            "thumbUrl": "https://m.media-amazon.com/images/M/MV5BZjc4Y2U4YjgtZjUzMi00MmVjLWE1MWUtZmZhNzUzODQ3NmRlXkEyXkFqcGc@._V1_FMjpg_UX1798_.jpg",
+            "description": "Com a adição de muitos novos homens, a Easy Company segue para a Holanda para participar da Operação Market Garden e preparar uma rota aliada para a Alemanha, mas eles encontram forte resistência alemã.",
+            "streamUrl": "https://lh3.googleusercontent.com/cNy5Djx4WnDC3HllB_U-RM8XuIJWnesu0Hf3S2U_RCE=m18?GrupoUp&Down"
+          },
+          {
+            "id": "bob_s1_e5",
+            "title": "Encruzilhada",
+            "episodeNumber": 5,
+            "thumbUrl": "https://m.media-amazon.com/images/M/MV5BNDRkYmMwYjItNjRlNC00NDRmLWIxMzQtNGQzZDljYWY2YmJmXkEyXkFqcGc@._V1_FMjpg_UX1920_.jpg",
+            "description": "Winters escreve um relatório sobre o desafio de uma resistência inesperada a um ataque alemão e é assombrado por sua consciência após atirar em um adolescente soldado alemão da SS.",
+            "streamUrl": "https://lh3.googleusercontent.com/FMvZVE2XASW4EngnS4xeDHROyMS2eZpETFJnx7BQIv4=m18?GrupoUp&Down"
+          },
+          {
+            "id": "bob_s1_e6",
+            "title": "Bastogne",
+            "episodeNumber": 6,
+            "thumbUrl": "https://m.media-amazon.com/images/M/MV5BZWQ4MjhkNjAtY2E3NC00MjA2LWIxNDYtMzYyMjc0NGU0NDVkXkEyXkFqcGc@._V1_FMjpg_UX965_.jpg",
+            "description": "Os homens da Companhia Easy lutam contra o frio e a fome - além do inimigo - enquanto defendem a linha em uma floresta nos arredores de Bastogne.",
+            "streamUrl": "https://lh3.googleusercontent.com/4RUu5-hIp9WjJDrUS0rhwD_kMs_LPbo5ZkDDOxz_4_k=m18?GrupoUp&Down"
+          },
+          {
+            "id": "bob_s1_e7",
+            "title": "O Ponto de Ruptura",
+            "episodeNumber": 7,
+            "thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTZiNWY0NzYtODg2Yy00MDZmLTg2ZGQtNzdmY2RiMWFlZjE1XkEyXkFqcGc@._V1_FMjpg_UX626_.jpg",
+            "description": "A Companhia Easy permanece na Floresta das Ardenas, preparando-se para um ataque inevitável às forças alemãs na cidade de Foy.",
+            "streamUrl": "https://lh3.googleusercontent.com/jpuMvnET-2CtdhCvuRLEX3vqP3zpx4fuoeOIwtONfTw=m18?GrupoUp&Down"
+          },
+          {
+            "id": "bob_s1_e8",
+            "title": "A Última Patrulha",
+            "episodeNumber": 8,
+            "thumbUrl": "https://m.media-amazon.com/images/M/MV5BMThhMzE4YTMtY2E4OS00OTlkLTkzMzktODhiODk1ZjMwY2M0XkEyXkFqcGc@._V1_FMjpg_UX980_.jpg",
+            "description": "A Companhia Easy está em Hagenau em fevereiro de 1945, onde se prepara para uma missão de patrulha noturna para capturar prisioneiros alemães.",
+            "streamUrl": "https://lh3.googleusercontent.com/syBjFdKGeEMFUBMoHJHTD7db6G3QZ22R-f-tJ31xmU4=m18?GrupoUp&Down"
+          },
+          {
+            "id": "bob_s1_e9",
+            "title": "Por que lutamos?",
+            "episodeNumber": 9,
+            "thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGEyNjg1YjEtODQ4NS00MjBjLWIyODUtMDU5OWIxNTk3MGQwXkEyXkFqcGc@._V1_FMjpg_UX694_.jpg",
+            "description": "À medida que os Aliados avançam para a Alemanha e a guerra se aproxima do fim, a desilusão e a raiva tomam conta da Easy Company, até que eles tropeçam em um campo de concentração abandonado pelo exército alemão.",
+            "streamUrl": "https://lh3.googleusercontent.com/KoVn78DlSrZ_OldKvdfiUcirQrG-SoxIUEUJPQNRiWQ=m18?GrupoUp&Down"
             }
           ]
         }
