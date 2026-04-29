@@ -17,23 +17,6 @@
       "channelNumber": "506",
       "backdropUrl": ""
     },
-	  {
-      "id": "89_Radio_Rock",
-      "name": "89 Radio Rock",
-      "category": "Notícias",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/R%C3%A1dio_Rock_logo.svg/250px-R%C3%A1dio_Rock_logo.svg.png",
-      "streamUrl": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(uC-I9coP74MG4eQ07jO6scuT3Ry0u88WGmNJ6khhGaxdU3XFXCX9UTybv3-57vWfgCGf_lyWjUIMOH29aBZpZiuKf6xXJlTkSb0CxQR6PHuFHl5DAULZTjCSl4AGF2it)/cloud/3/x7wjrui/d/live-1080.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "89_Radio_Rock",
-      "tvgId": "89_Radio_Rock",
-      "channelNumber": "410",
-      "backdropUrl": ""
-    },
     {
       "id": "523278",
       "name": "CNN Internacional",
@@ -171,6 +154,23 @@
       "epgId": "523305",
       "tvgId": "523305",
       "channelNumber": "103",
+      "backdropUrl": ""
+    },
+	{
+      "id": "425966",
+      "name": "RecordTV",
+      "category": "Aberto",
+      "logoUrl": "https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7013-1071_import.png",
+      "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "425966",
+      "tvgId": "425966",
+      "channelNumber": "115",
       "backdropUrl": ""
     },
     {
@@ -360,6 +360,7 @@
       "channelNumber": "100",
       "backdropUrl": ""
     },
+	
     {
       "id": "523293",
       "name": "Megapix",
@@ -397,6 +398,26 @@
       "channelNumber": "202",
       "backdropUrl": ""
     },
+	{
+  "id": "426084",
+  "name": "TNT",
+  "category": "Filmes e Séries",
+  "logoUrl": "https://api.reidoscanais.ooo/img/tnt.png",
+  "streamUrl": "https://13.cdn5embed.xyz/tnt/tracks-v1a1/mono.ts.m3u8",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/tnt/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "426084",
+  "tvgId": "426084",
+  "channelNumber": "151",
+  "backdropUrl": ""
+	},
     {
       "id": "426181",
       "name": "TELECINE PREMIUM",
