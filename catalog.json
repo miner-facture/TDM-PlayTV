@@ -399,6 +399,46 @@
       "backdropUrl": ""
     },
 	{
+  "id": "523350",
+  "name": "Warner Channel",
+  "category": "Filmes e Séries",
+  "logoUrl": "https://api.reidoscanais.ooo/img/warner.png",
+  "streamUrl": "https://4embeddecanais.xyz/warner/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/warner/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523350",
+  "tvgId": "523350",
+  "channelNumber": "155",
+  "backdropUrl": ""
+	},
+	{
+  "id": "426132",
+  "name": "AMC",
+  "category": "Filmes e Séries",
+  "logoUrl": "https://api.reidoscanais.ooo/img/amc.png",
+  "streamUrl": "https://4embeddecanais.xyz/amc/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/amc/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "426132",
+  "tvgId": "426132",
+  "channelNumber": "154",
+  "backdropUrl": ""
+},
+	{
   "id": "426084",
   "name": "TNT",
   "category": "Filmes e Séries",
@@ -615,6 +655,86 @@
       "channelNumber": "305",
       "backdropUrl": ""
     },
+	{
+  "id": "417383",
+  "name": "HBO",
+  "category": "Filmes e Séries",
+  "logoUrl": "https://api.reidoscanais.ooo/img/hbo.png",
+  "streamUrl": "https://4embeddecanais.xyz/hbo/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/hbo/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "417383",
+  "tvgId": "417383",
+  "channelNumber": "152",
+  "backdropUrl": ""
+},
+{
+  "id": "426070",
+  "name": "HBO 2",
+  "category": "Filmes e Séries",
+  "logoUrl": "https://api.reidoscanais.ooo/img/hbo2.png",
+  "streamUrl": "https://4embeddecanais.xyz/hbo2/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/hbo2/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "426070",
+  "tvgId": "426070",
+  "channelNumber": "153",
+  "backdropUrl": ""
+},
+{
+  "id": "426015",
+  "name": "HBO Xtreme",
+  "category": "Filmes e Séries",
+  "logoUrl": "https://api.reidoscanais.ooo/img/hboxtreme.png",
+  "streamUrl": "https://4embeddecanais.xyz/hboxtreme/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/hboxtreme/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "426015",
+  "tvgId": "426015",
+  "channelNumber": "156",
+  "backdropUrl": ""
+},
+{
+  "id": "523328",
+  "name": "HBO Plus",
+  "category": "Filmes e Séries",
+  "logoUrl": "https://api.reidoscanais.ooo/img/hboplus.png",
+  "streamUrl": "https://4embeddecanais.xyz/hboplus/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/hboplus/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523328",
+  "tvgId": "523328",
+  "channelNumber": "157",
+  "backdropUrl": ""
+},
     {
       "id": "426011",
       "name": "BIS",
