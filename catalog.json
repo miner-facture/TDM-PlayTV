@@ -1015,40 +1015,6 @@
       "tvgId": "523325",
       "channelNumber": "403",
       "backdropUrl": ""
-    },
-	    {
-      "id": "00000_gospel_cartoon",
-      "name": "Gospel Cartoon",
-      "category": "Aberto",
-      "logoUrl": "https://i.ibb.co/Xxh1jzBS/LOGO-GC.png",
-      "streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "0000",
-      "tvgId": "0000",
-      "channelNumber": "116",
-      "backdropUrl": ""
-    },
-	{
-      "id": "00000_geekdot",
-      "name": "GEEKDOT",
-      "category": "Aberto",
-      "logoUrl": "https://yt3.googleusercontent.com/GNnXrfW5GF2RmNlW9942NAl22p3td6RAtJPb7wbg4MU-9142ZCJJH8XhIhUIS4vEPJWdZiePIzU=s900-c-k-c0x00ffffff-no-rj",
-      "streamUrl": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "0000",
-      "tvgId": "00000",
-      "channelNumber": "115",
-      "backdropUrl": ""
     }
   ],
   "movies": [
