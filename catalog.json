@@ -139,6 +139,23 @@
       "channelNumber": "101",
       "backdropUrl": ""
     },
+	{
+    "id": "426029",
+    "name": "Globo RJ",
+    "category": "TV Aberta",
+    "logoUrl": "https://api.reidoscanais.ooo/img/globo.png",
+    "streamUrl": "https://13.cdn5embed.xyz/globorj/tracks-v1a1/mono.ts.m3u8",
+    "headers": {
+      "Referer": "https://4embeddecanais.xyz/globorj/",
+      "Origin": "https://4embeddecanais.xyz"
+    },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "426029",
+    "tvgId": "426029",
+    "channelNumber": "5",
+    "backdropUrl": ""
+  },
     {
       "id": "523305",
       "name": "TV Cultura",
@@ -156,23 +173,23 @@
       "channelNumber": "103",
       "backdropUrl": ""
     },
-	{
-      "id": "425966",
-      "name": "RecordTV",
-      "category": "Aberto",
-      "logoUrl": "https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7013-1071_import.png",
-      "streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "425966",
-      "tvgId": "425966",
-      "channelNumber": "115",
-      "backdropUrl": ""
+  {
+    "id": "425966",
+    "name": "Record RJ",
+    "category": "TV Aberta",
+    "logoUrl": "https://api.reidoscanais.ooo/img/record.png",
+    "streamUrl": "https://13.cdn5embed.xyz/recordrj/tracks-v1a1/mono.ts.m3u8",
+    "headers": {
+      "Referer": "https://4embeddecanais.xyz/recordrj/",
+      "Origin": "https://4embeddecanais.xyz"
     },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "425966",
+    "tvgId": "425966",
+    "channelNumber": "7",
+    "backdropUrl": ""
+  },
     {
       "id": "523315_band",
       "name": "Band",
@@ -188,23 +205,6 @@
       "epgId": "523315",
       "tvgId": "523315",
       "channelNumber": "104",
-      "backdropUrl": ""
-    },
-    {
-      "id": "000_canal_educacao",
-      "name": "Canal Educação",
-      "category": "Aberto",
-      "logoUrl": "https://yt3.googleusercontent.com/U9qagpm6Pp3BGIPQqZL_4tLDHA_7tuOG_mK0pMlhBbsHJnbHB5mXMBvrYOnu5M2TS84Kc4xzIxA=s900-c-k-c0x00ffffff-no-rj",
-      "streamUrl": "https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_900000=10002.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "000",
-      "tvgId": "0000",
-      "channelNumber": "107",
       "backdropUrl": ""
     },
     {
@@ -293,42 +293,8 @@
       "backdropUrl": ""
     },
     {
-      "id": "00000_geekdot",
-      "name": "GEEKDOT",
-      "category": "Aberto",
-      "logoUrl": "https://yt3.googleusercontent.com/GNnXrfW5GF2RmNlW9942NAl22p3td6RAtJPb7wbg4MU-9142ZCJJH8XhIhUIS4vEPJWdZiePIzU=s900-c-k-c0x00ffffff-no-rj",
-      "streamUrl": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "0000",
-      "tvgId": "00000",
-      "channelNumber": "115",
-      "backdropUrl": ""
-    },
-    {
-      "id": "00000_gospel_cartoon",
-      "name": "Gospel Cartoon",
-      "category": "Aberto",
-      "logoUrl": "https://i.ibb.co/Xxh1jzBS/LOGO-GC.png",
-      "streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {},
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "0000",
-      "tvgId": "0000",
-      "channelNumber": "116",
-      "backdropUrl": ""
-    },
-    {
       "id": "0000_gospel_mt",
-      "name": "Gospel MT",
+      "name": "Gospel Movie",
       "category": "Aberto",
       "logoUrl": "https://i.ibb.co/k2WCVSZx/GMT.png",
       "streamUrl": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
@@ -363,26 +329,23 @@
   "channelNumber": "163",
   "backdropUrl": ""
 },
-    {
-      "id": "523293",
-      "name": "Megapix",
-      "category": "Filmes",
-      "logoUrl": "https://api.reidoscanais.ooo/img/megapix.png",
-      "streamUrl": "https://image-storage-3005.imgcontent.xyz/live/megapix/index.m3u8",
-      "currentProgram": "",
-      "nextProgram": "",
-      "description": "",
-      "headers": {
-        "Referer": "https://p2player.live/",
-        "Origin": "https://p2player.live"
-      },
-      "isProtected": false,
-      "isYoutube": false,
-      "epgId": "523293",
-      "tvgId": "523293",
-      "channelNumber": "201",
-      "backdropUrl": ""
+  {
+    "id": "523293",
+    "name": "Megapix",
+    "category": "Filmes e Séries",
+    "logoUrl": "https://api.reidoscanais.ooo/img/megapix.png",
+    "streamUrl": "https://13.cdn5embed.xyz/megapix/tracks-v1a1/mono.ts.m3u8",
+    "headers": {
+      "Referer": "https://4embeddecanais.xyz/megapix/",
+      "Origin": "https://4embeddecanais.xyz"
     },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "523293",
+    "tvgId": "523293",
+    "channelNumber": "152",
+    "backdropUrl": ""
+  },
     {
       "id": "523320",
       "name": "Studio Universal",
@@ -697,6 +660,91 @@
       "channelNumber": "305",
       "backdropUrl": ""
     },
+	  {
+    "id": "426206",
+    "name": "Food Network",
+    "category": "Lifestyle",
+    "logoUrl": "https://api.reidoscanais.ooo/img/foodnetwork.png",
+    "streamUrl": "https://13.cdn5embed.xyz/foodnetwork/tracks-v1a1/mono.ts.m3u8",
+    "headers": {
+      "Referer": "https://4embeddecanais.xyz/foodnetwork/",
+      "Origin": "https://4embeddecanais.xyz"
+    },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "426206",
+    "tvgId": "426206",
+    "channelNumber": "160",
+    "backdropUrl": ""
+  },
+  {
+    "id": "418725",
+    "name": "ESPN",
+    "category": "Esportes",
+    "logoUrl": "https://api.reidoscanais.ooo/img/espn.png",
+    "streamUrl": "https://13.cdn5embed.xyz/espn/tracks-v1a1/mono.ts.m3u8",
+    "headers": {
+      "Referer": "https://4embeddecanais.xyz/espn/",
+      "Origin": "https://4embeddecanais.xyz"
+    },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "418725",
+    "tvgId": "418725",
+    "channelNumber": "70",
+    "backdropUrl": ""
+  },
+  {
+    "id": "418722",
+    "name": "ESPN 2",
+    "category": "Esportes",
+    "logoUrl": "https://api.reidoscanais.ooo/img/espn2.png",
+    "streamUrl": "https://13.cdn5embed.xyz/espn2/tracks-v1a1/mono.ts.m3u8",
+    "headers": {
+      "Referer": "https://4embeddecanais.xyz/espn2/",
+      "Origin": "https://4embeddecanais.xyz"
+    },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "418722",
+    "tvgId": "418722",
+    "channelNumber": "71",
+    "backdropUrl": ""
+  },
+  {
+    "id": "426085",
+    "name": "History",
+    "category": "Documentários",
+    "logoUrl": "https://api.reidoscanais.ooo/img/history.png",
+    "streamUrl": "https://13.cdn5embed.xyz/history/tracks-v1a1/mono.ts.m3u8",
+    "headers": {
+      "Referer": "https://4embeddecanais.xyz/history/",
+      "Origin": "https://4embeddecanais.xyz"
+    },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "426085",
+    "tvgId": "426085",
+    "channelNumber": "180",
+    "backdropUrl": ""
+  },
+  {
+    "id": "417188",
+    "name": "History 2",
+    "category": "Documentários",
+    "logoUrl": "https://api.reidoscanais.ooo/img/history2.png",
+    "streamUrl": "https://13.cdn5embed.xyz/history2/tracks-v1a1/mono.ts.m3u8",
+    "headers": {
+      "Referer": "https://4embeddecanais.xyz/history2/",
+      "Origin": "https://4embeddecanais.xyz"
+    },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "417188",
+    "tvgId": "417188",
+    "channelNumber": "181",
+    "backdropUrl": ""
+  },
 	{
   "id": "417383",
   "name": "HBO",
@@ -781,7 +829,7 @@
   "id": "435551",
   "name": "Discovery Home & Health",
   "category": "Variedades",
-  "logoUrl": "https://api.reidoscanais.ooo/img/discoveryhh.png",
+  "logoUrl": "https://embedcanaisdetv.com/images/discoveryhh.png",
   "streamUrl": "https://13.cdn5embed.xyz/discoveryhh/tracks-v1a1/mono.ts.m3u8",
   "currentProgram": "",
   "nextProgram": "",
@@ -968,11 +1016,45 @@
       "channelNumber": "403",
       "backdropUrl": ""
     }
+	    {
+      "id": "00000_gospel_cartoon",
+      "name": "Gospel Cartoon",
+      "category": "Aberto",
+      "logoUrl": "https://i.ibb.co/Xxh1jzBS/LOGO-GC.png",
+      "streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "0000",
+      "tvgId": "0000",
+      "channelNumber": "116",
+      "backdropUrl": ""
+    },
+	{
+      "id": "00000_geekdot",
+      "name": "GEEKDOT",
+      "category": "Aberto",
+      "logoUrl": "https://yt3.googleusercontent.com/GNnXrfW5GF2RmNlW9942NAl22p3td6RAtJPb7wbg4MU-9142ZCJJH8XhIhUIS4vEPJWdZiePIzU=s900-c-k-c0x00ffffff-no-rj",
+      "streamUrl": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
+      "currentProgram": "",
+      "nextProgram": "",
+      "description": "",
+      "headers": {},
+      "isProtected": false,
+      "isYoutube": false,
+      "epgId": "0000",
+      "tvgId": "00000",
+      "channelNumber": "115",
+      "backdropUrl": ""
+    }
   ],
   "movies": [
     {
       "id": "m2",
-      "title": "Caminhos do Crime",
+      "title": "",
       "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/6052f281a2a39b23849eb56c4997d5e4bc6e6596186240be5e0df9b51259a3da.png",
       "year": "2026",
       "description": "Um ladrão prestes a realizar seu último grande golpe cruza o caminho de uma corretora de seguros desiludida. Enquanto os dois se envolvem, um detetive implacável os persegue para impedir o assalto milionário que estão planejando.",
