@@ -344,7 +344,7 @@
       "backdropUrl": ""
     },
 	{
-  "id": "sonyhd",
+  "id": "426154",
   "name": "Sony Channel",
   "category": "Filmes e Séries",
   "logoUrl": "https://api.reidoscanais.ooo/img/sonychannel.png",
@@ -358,8 +358,8 @@
   },
   "isProtected": false,
   "isYoutube": false,
-  "epgId": "sonyhd",
-  "tvgId": "sonyhd",
+  "epgId": "426154",
+  "tvgId": "426154",
   "channelNumber": "163",
   "backdropUrl": ""
 },
