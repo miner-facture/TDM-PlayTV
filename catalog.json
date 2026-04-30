@@ -419,6 +419,26 @@
   "backdropUrl": ""
 	},
 	{
+  "id": "523321",
+  "name": "Multishow",
+  "category": "Entretenimento",
+  "logoUrl": "https://api.reidoscanais.ooo/img/multishow.png",
+  "streamUrl": "https://4embeddecanais.xyz/multishow/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/multishow/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523321",
+  "tvgId": "523321",
+  "channelNumber": "162",
+  "backdropUrl": ""
+},
+	{
   "id": "426132",
   "name": "AMC",
   "category": "Filmes e Séries",
@@ -733,6 +753,86 @@
   "epgId": "523328",
   "tvgId": "523328",
   "channelNumber": "157",
+  "backdropUrl": ""
+},
+{
+  "id": "435551",
+  "name": "Discovery Home & Health",
+  "category": "Variedades",
+  "logoUrl": "https://api.reidoscanais.ooo/img/discoveryhh.png",
+  "streamUrl": "https://4embeddecanais.xyz/discoveryhh/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/discoveryhh/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "435551",
+  "tvgId": "435551",
+  "channelNumber": "158",
+  "backdropUrl": ""
+},
+{
+  "id": "523309",
+  "name": "Discovery Channel",
+  "category": "Documentários",
+  "logoUrl": "https://api.reidoscanais.ooo/img/discoverychannel.png",
+  "streamUrl": "https://4embeddecanais.xyz/discoverychannel/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/discoverychannel/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523309",
+  "tvgId": "523309",
+  "channelNumber": "159",
+  "backdropUrl": ""
+},
+{
+  "id": "523292",
+  "name": "Discovery Theater",
+  "category": "Documentários",
+  "logoUrl": "https://api.reidoscanais.ooo/img/discoverytheater.png",
+  "streamUrl": "https://4embeddecanais.xyz/discoverytheater/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/discoverytheater/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523292",
+  "tvgId": "523292",
+  "channelNumber": "160",
+  "backdropUrl": ""
+},
+{
+  "id": "523272",
+  "name": "Discovery World",
+  "category": "Documentários",
+  "logoUrl": "https://api.reidoscanais.ooo/img/discoveryworld.png",
+  "streamUrl": "https://4embeddecanais.xyz/discoveryworld/",
+  "currentProgram": "",
+  "nextProgram": "",
+  "description": "",
+  "headers": {
+    "Referer": "https://4embeddecanais.xyz/discoveryworld/",
+    "Origin": "https://4embeddecanais.xyz"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "523272",
+  "tvgId": "523272",
+  "channelNumber": "161",
   "backdropUrl": ""
 },
     {
