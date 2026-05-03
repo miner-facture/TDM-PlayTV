@@ -191,37 +191,23 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "523315_band",
+			"id": "523315",
 			"name": "Band",
 			"category": "Aberto",
-			"logoUrl": "https://api.reidoscanais.ooo/img/band.png",
-			"streamUrl": "https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.ts.m3u8",
+			"logoUrl": "hhttps://api.reidoscanais.ooo/img/band.png",
+			"streamUrl": "https://5.cdn7embed.xyz/bandsp/tracks-v1a1/mono.ts.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
-			"headers": {},
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/bandsp/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "523315",
 			"tvgId": "523315",
 			"channelNumber": "104",
-			"backdropUrl": ""
-		},
-		{
-			"id": "000_classique_tv",
-			"name": "Classique TV",
-			"category": "Aberto",
-			"logoUrl": "https://www.cxtv.com.br/assets/img/ui/logo-header.webp",
-			"streamUrl": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "000",
-			"tvgId": "0000",
-			"channelNumber": "108",
 			"backdropUrl": ""
 		},
 		{
@@ -440,7 +426,7 @@
 			"isYoutube": false,
 			"epgId": "426084",
 			"tvgId": "426084",
-			"channelNumber": "151",
+			"channelNumber": "170",
 			"backdropUrl": ""
 		},
 		{
@@ -460,7 +446,27 @@
 			"isYoutube": false,
 			"epgId": "523294",
 			"tvgId": "523294",
-			"channelNumber": "164",
+			"channelNumber": "171",
+			"backdropUrl": ""
+		},
+		{
+			"id": "426110",
+			"name": "TNT NOVELAS",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://api.reidoscanais.ooo/img/tntnovelas.png",
+			"streamUrl": "https://5.cdn7embed.xyz/tntnovelas/tracks-v1a1/mono.ts.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/tntnovelas/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426110",
+			"tvgId": "426110",
+			"channelNumber": "172",
 			"backdropUrl": ""
 		},
 		{
@@ -561,6 +567,26 @@
 			"epgId": "523291",
 			"tvgId": "523291",
 			"channelNumber": "207",
+			"backdropUrl": ""
+		},
+		{
+			"id": "523347",
+			"name": "SPACE",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://api.reidoscanais.ooo/img/space.png",
+			"streamUrl": "https://5.cdn7embed.xyz/space/tracks-v1a1/mono.ts.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/space/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "523347",
+			"tvgId": "523347",
+			"channelNumber": "299",
 			"backdropUrl": ""
 		},
 		{
@@ -715,7 +741,7 @@
 			"id": "426085",
 			"name": "History",
 			"category": "Documentários",
-			"logoUrl": "https://api.reidoscanais.ooo/img/history.png",
+			"logoUrl": "https://vipcanaisplus.com/images/history.png",
 			"streamUrl": "https://5.cdn7embed.xyz/history/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://4embeddecanais.xyz/history/",
@@ -786,6 +812,66 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "426081",
+			"name": "HBO Family",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://api.reidoscanais.ooo/img/hbofamily.png",
+			"streamUrl": "https://5.cdn7embed.xyz/hbofamily/tracks-v1a1/mono.ts.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/hbofamily/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426081",
+			"tvgId": "426081",
+			"channelNumber": "154",
+			"backdropUrl": ""
+		},
+		{
+			"id": "426173",
+			"name": "HBO Signature",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://api.reidoscanais.ooo/img/hbosignature.png",
+			"streamUrl": "https://5.cdn7embed.xyz/hbosignature/tracks-v1a1/mono.ts.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/hbosignature/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426173",
+			"tvgId": "426173",
+			"channelNumber": "155",
+			"backdropUrl": ""
+		},
+		{
+			"id": "425973",
+			"name": "HBO Mundi",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://ecotel.com.ar/wp-content/uploads/2024/12/hbomundi.png",
+			"streamUrl": "https://5.cdn7embed.xyz/hbomundi/tracks-v1a1/mono.ts.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/hbomundi/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "425973",
+			"tvgId": "425973",
+			"channelNumber": "156",
+			"backdropUrl": ""
+		},
+		{
 			"id": "426015",
 			"name": "HBO Xtreme",
 			"category": "Filmes e Séries",
@@ -802,7 +888,7 @@
 			"isYoutube": false,
 			"epgId": "426015",
 			"tvgId": "426015",
-			"channelNumber": "156",
+			"channelNumber": "157",
 			"backdropUrl": ""
 		},
 		{
@@ -822,7 +908,7 @@
 			"isYoutube": false,
 			"epgId": "523328",
 			"tvgId": "523328",
-			"channelNumber": "157",
+			"channelNumber": "158",
 			"backdropUrl": ""
 		},
 		{
@@ -842,7 +928,7 @@
 			"isYoutube": false,
 			"epgId": "435551",
 			"tvgId": "435551",
-			"channelNumber": "158",
+			"channelNumber": "160",
 			"backdropUrl": ""
 		},
 		{
@@ -862,7 +948,7 @@
 			"isYoutube": false,
 			"epgId": "523309",
 			"tvgId": "523309",
-			"channelNumber": "159",
+			"channelNumber": "161",
 			"backdropUrl": ""
 		},
 		{
@@ -882,7 +968,7 @@
 			"isYoutube": false,
 			"epgId": "523292",
 			"tvgId": "523292",
-			"channelNumber": "160",
+			"channelNumber": "162",
 			"backdropUrl": ""
 		},
 		{
@@ -902,7 +988,47 @@
 			"isYoutube": false,
 			"epgId": "523272",
 			"tvgId": "523272",
-			"channelNumber": "161",
+			"channelNumber": "163",
+			"backdropUrl": ""
+		},
+		{
+			"id": "523272",
+			"name": "Discovery ID",
+			"category": "Documentários",
+			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryid.png",
+			"streamUrl": "https://5.cdn7embed.xyz/discoveryid/tracks-v1a1/mono.ts.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/discoveryid/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "523272",
+			"tvgId": "523272",
+			"channelNumber": "164",
+			"backdropUrl": ""
+		},
+		{
+			"id": "523359",
+			"name": "Discovery SCIENCE",
+			"category": "Documentários",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Discovery_science.png",
+			"streamUrl": "https://5.cdn7embed.xyz/discoveryscience/tracks-v1a1/mono.ts.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/discoveryscience/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "523359",
+			"tvgId": "523359",
+			"channelNumber": "165",
 			"backdropUrl": ""
 		},
 		{
