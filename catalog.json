@@ -5,20 +5,17 @@
 			"name": "CNN Brasil",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
-			"streamUrl": "https://0305.cdn11embed.xyz/cnnbrasil/tracks-v1a1/mono.ts.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/cnnbrasil/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
-				"Referer": "https://4embeddecanais.xyz/cnnbrasil/",
-				"Origin": "https://4embeddecanais.xyz"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "426156",
 			"tvgId": "426156",
-			"channelNumber": "506",
-			"backdropUrl": ""
+			"channelNumber": "506"
 		},
 		{
 			"id": "523278",
