@@ -1,19 +1,22 @@
 {
 	"liveChannels": [
 		{
-			"id": "426108",
+			"id": "426156",
 			"name": "CNN Brasil",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
-			"streamUrl": "https://cdn-5.nxplay.com.br/CNN_Brazil_TK/tracks-v2a1/mono.ts.m3u8",
+			"streamUrl": "https://0305.cdn11embed.xyz/cnnbrasil/tracks-v1a1/mono.ts.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
-			"headers": {},
+			"headers": {
+				"Referer": "https://4embeddecanais.xyz/cnnbrasil/",
+				"Origin": "https://4embeddecanais.xyz"
+			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426108",
-			"tvgId": "426108",
+			"epgId": "426156",
+			"tvgId": "426156",
 			"channelNumber": "506",
 			"backdropUrl": ""
 		},
@@ -56,7 +59,7 @@
 			"name": "SBT News",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/sbtnews.png",
-			"streamUrl": "https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/d2030666-3216-4c2d-9f6d-48fa6964c4f2:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8",
+			"streamUrl": "https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/90608eb8-4f12-46b0-8292-34c7f38eb8bb:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
