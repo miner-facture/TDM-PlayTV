@@ -195,7 +195,7 @@
 			"id": "523315",
 			"name": "Band",
 			"category": "Aberto",
-			"logoUrl": "hhttps://api.reidoscanais.ooo/img/band.png",
+			"logoUrl": "https://api.reidoscanais.ooo/img/band.png",
 			"streamUrl": "https://0305.cdnvipcanais.xyz/bandsp/tracks-v1a1/mono.ts.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -433,7 +433,7 @@
 			"name": "TNT Series",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntseries.png",
-			"streamUrl": "hhttps://0305.cdnvipcanais.xyz/tntseries/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/tntseries/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -469,13 +469,11 @@
 			"name": "TELECINE PREMIUM",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/telecinepremium/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/telecinepremium/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -489,13 +487,11 @@
 			"name": "TELECINE ACTION",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/telecineaction/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/telecineaction/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -549,13 +545,11 @@
 			"name": "TELECINE PIPOCA",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/telecinepipoca/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/telecinepipoca/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -587,7 +581,7 @@
 			"name": "GNT",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/gnt.png",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/gnt/index.m3u8",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/gnt/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -640,7 +634,7 @@
 		},
 		{
 			"id": "426044",
-			"name": "SBT",
+			"name": "AXN",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/axn.png",
 			"streamUrl": "https://0305.cdnvipcanais.xyz/axn/tracks-v1a1/mono.ts.m3u8",
@@ -660,12 +654,14 @@
 			"id": "425996",
 			"name": "MODO VIAGEM",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/500px-Logotipo_do_Modo_Viagem.svg.png",
+			"logoUrl": "https://images.seeklogo.com/logo-png/42/2/modo-viagem-logo-png_seeklogo-429185.png",
 			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/modoviagem/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://p2player.live/",
+				"Origin": "https://p2player.live"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -714,7 +710,7 @@
 			"id": "418722",
 			"name": "ESPN 2",
 			"category": "Esportes",
-			"logoUrl": "https://api.reidoscanais.ooo/img/espn2.png",
+			"logoUrl": "https://logowik.com/content/uploads/images/espn24510.jpg",
 			"streamUrl": "https://0305.cdnvipcanais.xyz/espn2/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
@@ -769,7 +765,7 @@
 			"name": "HBO",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbo.png",
-			"streamUrl": "hhttps://0305.cdnvipcanais.xyz/hbo/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/hbo/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -912,7 +908,7 @@
 			"id": "523309",
 			"name": "Discovery Channel",
 			"category": "Documentários",
-			"logoUrl": "https://api.reidoscanais.ooo/img/discoverychannel.png",
+			"logoUrl": "https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png",
 			"streamUrl": "https://0305.cdnvipcanais.xyz/discoverychannel/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
@@ -984,7 +980,7 @@
 			"id": "523359",
 			"name": "Discovery SCIENCE",
 			"category": "Documentários",
-			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Discovery_science.png",
+			"logoUrl": "https://vipcanaisplus.com/images/discoveryscience.png",
 			"streamUrl": "https://0305.cdnvipcanais.xyz/discoveryscience/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
@@ -999,37 +995,32 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426011",
-			"name": "BIS",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-5.png",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/bis/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
+			"id": "417185",
+			"name": "Adult Swim",
+			"category": "Variedades",
+			"logoUrl": "hhttps://api.reidoscanais.ooo/img/adultswim.png",
+			"streamUrl": "hhttps://0305.cdnvipcanais.xyz/adultswim/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426011",
-			"tvgId": "426011",
-			"channelNumber": "306",
-			"backdropUrl": ""
+			"epgId": "417185",
+			"tvgId": "417185",
+			"channelNumber": "404"
 		},
 		{
 			"id": "426169",
 			"name": "Gloobinho",
 			"category": "Infantil",
 			"logoUrl": "https://api.reidoscanais.ooo/img/gloobinho.png",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/gloobinho/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/gloobinho/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1043,13 +1034,11 @@
 			"name": "Gloob",
 			"category": "Infantil",
 			"logoUrl": "https://api.reidoscanais.ooo/img/gloob.png",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/gloob/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/gloob/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
