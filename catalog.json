@@ -654,7 +654,7 @@
 			"id": "425996",
 			"name": "MODO VIAGEM",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://images.seeklogo.com/logo-png/42/2/modo-viagem-logo-png_seeklogo-429185.png",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg",
 			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/modoviagem/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -722,6 +722,24 @@
 			"epgId": "418722",
 			"tvgId": "418722",
 			"channelNumber": "71",
+			"backdropUrl": ""
+		},
+		{
+			"id": "417186",
+			"name": "ESPN 3",
+			"category": "Esportes",
+			"logoUrl": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/espn3/tracks-v1a1/mono.ts.m3u8",
+			"headers": {
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "417186",
+			"tvgId": "417186",
+			"channelNumber": "72",
 			"backdropUrl": ""
 		},
 		{
@@ -884,6 +902,24 @@
 			"epgId": "523328",
 			"tvgId": "523328",
 			"channelNumber": "158",
+			"backdropUrl": ""
+		},
+						{
+			"id": "523328",
+			"name": "HBO Pop",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/hbopop/tracks-v1a1/mono.ts.m3u8",
+			"headers": {
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "523328",
+			"tvgId": "523328",
+			"channelNumber": "159",
 			"backdropUrl": ""
 		},
 		{
