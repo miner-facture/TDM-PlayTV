@@ -469,7 +469,7 @@
 			"name": "TELECINE PREMIUM",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
-			"streamUrl": "https://0305.cdnvipcanais.xyz/telecinepremium/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/tcpremium/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -487,7 +487,7 @@
 			"name": "TELECINE ACTION",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
-			"streamUrl": "https://0305.cdnvipcanais.xyz/telecineaction/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/tcaction/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -545,7 +545,7 @@
 			"name": "TELECINE PIPOCA",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png",
-			"streamUrl": "https://0305.cdnvipcanais.xyz/telecinepipoca/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/tcpipoca/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
