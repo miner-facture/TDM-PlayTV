@@ -998,8 +998,8 @@
 			"id": "417185",
 			"name": "Adult Swim",
 			"category": "Variedades",
-			"logoUrl": "hhttps://api.reidoscanais.ooo/img/adultswim.png",
-			"streamUrl": "hhttps://0305.cdnvipcanais.xyz/adultswim/tracks-v1a1/mono.ts.m3u8",
+			"logoUrl": "https://api.reidoscanais.ooo/img/adultswim.png",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/adultswim/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
