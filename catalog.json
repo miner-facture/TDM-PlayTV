@@ -174,7 +174,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "425966",
+			"id": "426071",
 			"name": "Record RJ",
 			"category": "TV Aberta",
 			"logoUrl": "https://api.reidoscanais.ooo/img/record.png",
@@ -186,8 +186,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "425966",
-			"tvgId": "425966",
+			"epgId": "426071",
+			"tvgId": "426071",
 			"channelNumber": "7",
 			"backdropUrl": ""
 		},
