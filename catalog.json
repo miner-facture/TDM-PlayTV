@@ -142,7 +142,7 @@
 			"id": "426029",
 			"name": "Globo RJ",
 			"category": "TV Aberta",
-			"logoUrl": "https://api.reidoscanais.ooo/img/globo.png",
+			"logoUrl": "https://vipcanaisplus.com/images/globo.webp",
 			"streamUrl": "https://0305.cdnvipcanais.xyz/globorj/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
