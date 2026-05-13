@@ -837,7 +837,7 @@
 			"name": "HBO Signature",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbosignature.png",
-			"streamUrl": "https://0305.cdnvipcanais.xyzz/hbosignature/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://0305.cdnvipcanais.xyz/hbosignature/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -906,9 +906,9 @@
 		},
 						{
 			"id": "523328",
-			"name": "HBO Pop",
+			"name": "HBO MAX-UP",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",
+			"logoUrl": "https://cdn.mitvstatic.com/channels/br_max-up-1_m.png",
 			"streamUrl": "https://0305.cdnvipcanais.xyz/hbopop/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
@@ -1138,11 +1138,11 @@
 	"movies": [
 		{
 			"id": "m2",
-			"title": "",
-			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/6052f281a2a39b23849eb56c4997d5e4bc6e6596186240be5e0df9b51259a3da.png",
+			"title": "Band of Brothers",
+			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
 			"year": "",
-			"description": "",
-			"streamUrl": "https://vdn.libreflix.org/video/tempos-modernos/tempos-modernos.720.mp4",
+			"description": "A história real da Easy Company, um grupo de soldados americanos durante a Segunda Guerra Mundial.",
+			"streamUrl": "https://lh3.googleusercontent.com/h2s2SD5n3nYq6g3k8BXVlTEroRLGRxhrKE22ZH6kjVk=m18?GrupoUp&Down",
 			"trailerYoutubeId": ""
 		}
 	],
