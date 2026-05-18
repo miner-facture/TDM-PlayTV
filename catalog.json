@@ -52,23 +52,6 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "sbt_news",
-			"name": "SBT News",
-			"category": "Notícias",
-			"logoUrl": "https://api.reidoscanais.ooo/img/sbtnews.png",
-			"streamUrl": "https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/90608eb8-4f12-46b0-8292-34c7f38eb8bb:SCL2/variant/c99d2ab0d64c3b2c5e12915279ff25a7/bandwidth/3126348.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "sbt_news",
-			"tvgId": "sbt_news",
-			"channelNumber": "503",
-			"backdropUrl": ""
-		},
-		{
 			"id": "426168",
 			"name": "GloboNews",
 			"category": "Notícias",
@@ -408,6 +391,24 @@
 			"epgId": "426132",
 			"tvgId": "426132",
 			"channelNumber": "154",
+			"backdropUrl": ""
+		},
+		{
+			"id": "000000",
+			"name": "AMC SÉRIES",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://vipcanaisplus.com/images/amcseries.png",
+			"streamUrl": "https://1405.cdnvipcanais.xyz/amcseries/tracks-v1a1/mono.ts.m3u8",
+			"headers": {
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "000000",
+			"tvgId": "00000000",
+			"channelNumber": "155",
 			"backdropUrl": ""
 		},
 		{
