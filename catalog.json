@@ -5,7 +5,7 @@
 			"name": "CNN Brasil",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
-			"streamUrl": "https://0305.cdnvipcanais.xyz/cnnbrasil/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://2805.cdnvipcanais.xyz/cnnbrasil/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -56,7 +56,7 @@
 			"name": "GloboNews",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/globonews.png",
-			"streamUrl": "https://0305.cdnvipcanais.xyz/globonews/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://2805.cdnvipcanais.xyz/globonews/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -161,7 +161,7 @@
 			"name": "Record RJ",
 			"category": "TV Aberta",
 			"logoUrl": "https://api.reidoscanais.ooo/img/record.png",
-			"streamUrl": "https://0305.cdnvipcanais.xyz/recordrj/tracks-v1a1/mono.ts.m3u8",
+			"streamUrl": "https://2805.cdnvipcanais.xyz/recordrj/tracks-v1a1/mono.ts.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
