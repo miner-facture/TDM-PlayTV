@@ -661,8 +661,9 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
