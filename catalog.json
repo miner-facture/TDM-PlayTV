@@ -614,7 +614,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "USA HD",
+			"id": "USA",
 			"name": "USA HD",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://logowik.com/content/uploads/images/usa-network9869.jpg",
@@ -623,13 +623,13 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://rdcanais.com",
+				"Origin": "https://rdcanais.com"
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "USA HD",
-			"tvgId": "USA HD",
+			"epgId": "USA",
+			"tvgId": "USA",
 			"channelNumber": "302",
 			"backdropUrl": ""
 		},
