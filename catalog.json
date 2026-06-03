@@ -1,6 +1,23 @@
 {
 	"liveChannels": [
 		{
+    "id": "traceurban",
+    "name": "Trace Urban",
+    "category": "Música",
+    "logoUrl": "https://i.postimg.cc/kGtMzcNP/png-clipart-trace-urban-television-channel-free-to-air-urban-contemporary-others-television-text.png",
+    "streamUrl": "https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8",
+    "currentProgram": "",
+    "nextProgram": "",
+    "description": "Canal internacional dedicado à música urbana, Hip-Hop, Rap, R&B, Afrobeats, Dancehall e cultura urbana.",
+    "headers": {},
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "traceurban",
+    "tvgId": "traceurban",
+    "channelNumber": "503",
+    "backdropUrl": ""
+		}
+		{
 			"id": "426156",
 			"name": "CNN Brasil",
 			"category": "Notícias",
@@ -67,6 +84,23 @@
 			"epgId": "426168",
 			"tvgId": "426168",
 			"channelNumber": "505",
+			"backdropUrl": ""
+		},
+		{
+			"id": "523303",
+			"name": "SBT News",
+			"category": "Notícias",
+			"logoUrl": "https://api.reidoscanais.ooo/img/sbtnews.png",
+			"streamUrl": "https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/d9425203-042b-4c97-bedd-5c5e1ebdb83d:SCL2/master.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal de notícias 24 horas do SBT com as principais informações do Brasil e do mundo.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "523303",
+			"tvgId": "523303",
+			"channelNumber": "103",
 			"backdropUrl": ""
 		},
 		{
@@ -261,6 +295,23 @@
 			"epgId": "c25",
 			"tvgId": "c25",
 			"channelNumber": "304",
+			"backdropUrl": ""
+		},
+		{
+			"id": "426201",
+			"name": "HGTV",
+			"category": "Variedades",
+			"logoUrl": "https://api.reidoscanais.ooo/img/hgtv.png",
+			"streamUrl": "https://origin-fast.b-cdn.net/HGTV_BR_NX/tracks-v1a1/mono.ts.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426201",
+			"tvgId": "426201",
+			"channelNumber": "99",
 			"backdropUrl": ""
 		},
 		{
