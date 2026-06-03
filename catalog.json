@@ -16,7 +16,7 @@
     "tvgId": "traceurban",
     "channelNumber": "503",
     "backdropUrl": ""
-		}
+		},
 		{
 			"id": "426156",
 			"name": "CNN Brasil",
@@ -957,7 +957,7 @@
 			"channelNumber": "158",
 			"backdropUrl": ""
 		},
-						{
+		{
 			"id": "523328",
 			"name": "HBO MAX-UP",
 			"category": "Filmes e Séries",
