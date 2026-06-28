@@ -492,7 +492,7 @@
 			"name": "TNT",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tnt.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/tnt/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/tnt/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -510,7 +510,7 @@
 			"name": "TNT Series",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntseries.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/tntseries/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/tntseries/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -528,7 +528,7 @@
 			"name": "TNT NOVELAS",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntnovelas.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/tntnovelas/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/tntnovelas/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -546,7 +546,7 @@
 			"name": "TELECINE PREMIUM",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/tcpremium/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/tcpremium/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -564,7 +564,7 @@
 			"name": "TELECINE ACTION",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/tcaction/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/tcaction/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -582,13 +582,11 @@
 			"name": "TELECINE TOUCH",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/telecinetouch/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/tctouch/index.m3u8",
 			"headers": {
-				"Referer": "https://p2player.live/",
-				"Origin": "https://p2player.live"
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -602,7 +600,7 @@
 			"name": "TELECINE FUN",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-fun-252x252.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/live/telecinefun/index.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/live/telecinefun/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -622,7 +620,7 @@
 			"name": "TELECINE PIPOCA",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/tcpipoca/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/tcpipoca/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -640,7 +638,7 @@
 			"name": "SPACE",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/space.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/space/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/space/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -658,7 +656,7 @@
 			"name": "GNT",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/gnt.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/gnt/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/gnt/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -676,7 +674,7 @@
 			"name": "UNIVERSAL TV",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/universaltv.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/universaltv/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/universaltv/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -714,7 +712,7 @@
 			"name": "AXN",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/axn.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/axn/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/axn/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -753,7 +751,7 @@
 			"name": "Food Network",
 			"category": "Lifestyle",
 			"logoUrl": "https://api.reidoscanais.ooo/img/foodnetwork.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/foodnetwork/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/foodnetwork/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -771,7 +769,7 @@
 			"name": "ESPN",
 			"category": "Esportes",
 			"logoUrl": "https://api.reidoscanais.ooo/img/espn.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/espn/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/espn/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -789,7 +787,7 @@
 			"name": "ESPN 2",
 			"category": "Esportes",
 			"logoUrl": "https://logowik.com/content/uploads/images/espn24510.jpg",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/espn2/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/espn2/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -807,7 +805,7 @@
 			"name": "ESPN 3",
 			"category": "Esportes",
 			"logoUrl": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/espn3/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/espn3/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -825,7 +823,7 @@
 			"name": "History",
 			"category": "Documentários",
 			"logoUrl": "https://vipcanaisplus.com/images/history.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/history/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/history/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -843,7 +841,7 @@
 			"name": "History 2",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/history2.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/history2/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/history2/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -861,7 +859,7 @@
 			"name": "HBO",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbo.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/hbo/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/hbo/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -879,7 +877,7 @@
 			"name": "HBO 2",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbo2.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/hbo2/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/hbo2/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -897,7 +895,7 @@
 			"name": "HBO Family",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbofamily.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/hbofamily/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/hbofamily/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -915,7 +913,7 @@
 			"name": "HBO Signature",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbosignature.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/hbosignature/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/hbosignature/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -933,7 +931,7 @@
 			"name": "HBO Mundi",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://ecotel.com.ar/wp-content/uploads/2024/12/hbomundi.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/hbomundi/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/hbomundi/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -951,7 +949,7 @@
 			"name": "HBO Xtreme",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hboxtreme.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/hboxtreme/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/hboxtreme/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -969,7 +967,7 @@
 			"name": "HBO Plus",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hboplus.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/hboplus/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/hboplus/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -987,7 +985,7 @@
 			"name": "HBO MAX-UP",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://cdn.mitvstatic.com/channels/br_max-up-1_m.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/hbopop/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/hbopop/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1005,7 +1003,7 @@
 			"name": "Discovery Home & Health",
 			"category": "Variedades",
 			"logoUrl": "https://embedcanaisdetv.com/images/discoveryhh.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/discoveryhh/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryhh/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1023,7 +1021,7 @@
 			"name": "Discovery Channel",
 			"category": "Documentários",
 			"logoUrl": "https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/discoverychannel/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/discoverychannel/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1041,7 +1039,7 @@
 			"name": "Discovery Theater",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoverytheater.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/discoverytheater/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/discoverytheater/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1059,7 +1057,7 @@
 			"name": "Discovery World",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryworld.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/discoveryworld/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryworld/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1077,7 +1075,7 @@
 			"name": "Discovery ID",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryid.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/discoveryid/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryid/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1095,7 +1093,7 @@
 			"name": "Discovery SCIENCE",
 			"category": "Documentários",
 			"logoUrl": "https://vipcanaisplus.com/images/discoveryscience.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/discoveryscience/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryscience/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1113,7 +1111,7 @@
 			"name": "Adult Swim",
 			"category": "Variedades",
 			"logoUrl": "https://api.reidoscanais.ooo/img/adultswim.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/adultswim/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/adultswim/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1130,7 +1128,7 @@
 			"name": "Gloobinho",
 			"category": "Infantil",
 			"logoUrl": "https://api.reidoscanais.ooo/img/gloobinho.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/gloobinho/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://1906.cdnvipcanais.xyz/gloobinho/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1148,7 +1146,7 @@
 			"name": "Gloob",
 			"category": "Infantil",
 			"logoUrl": "https://api.reidoscanais.ooo/img/gloob.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/gloob/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/gloob/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
@@ -1217,7 +1215,7 @@
 			"name": "CARTOONITO",
 			"category": "Infantil",
 			"logoUrl": "https://vipcanais.app/images/cartoonito.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/cartoonito/tracks-v1a1/mono.m3u8",
+			"streamUrl": "https://2406.cdnvipcanais.xyz/cartoonito/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanaisplus.com/",
 				"Origin": "https://vipcanaisplus.com",
