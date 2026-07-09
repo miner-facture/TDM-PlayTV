@@ -179,11 +179,12 @@
 			"name": "TV Cultura",
 			"category": "Educativo",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tvcultura.png",
-			"streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
+			"streamUrl": "https://3006.cdnvipcanais.xyz/tvcultura/index.m3u8",
+			"headers": {
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+			},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "523305",
