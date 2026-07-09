@@ -1,6 +1,23 @@
 {
 	"liveChannels": [
 		{
+			"id": "426201",
+			"name": "HGTV",
+			"category": "Variedades",
+			"logoUrl": "https://api.reidoscanais.ooo/img/hgtv.png",
+			"streamUrl": "https://origin-fast.b-cdn.net/HGTV_BR_NX/tracks-v1a1/mono.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426201",
+			"tvgId": "426201",
+			"channelNumber": "99",
+			"backdropUrl": ""
+		},
+		{
     "id": "traceurban",
     "name": "Trace Urban",
     "category": "Música",
@@ -732,7 +749,7 @@
 			"name": "MODO VIAGEM",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/modoviagem/index.m3u8",
+			"streamUrl": "https://rdcstream.life/live/modoviagem/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
