@@ -690,11 +690,11 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "USA",
+			"id": "USA.br",
 			"name": "USA HD",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://logowik.com/content/uploads/images/usa-network9869.jpg",
-			"streamUrl": "https://image-storage-3005.imgcontent.xyz/live/usa/index.m3u8",
+			"streamUrl": "https://rdcstream.life/live/usa/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -704,8 +704,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "USA",
-			"tvgId": "USA",
+			"epgId": "USA.br",
+			"tvgId": "USA.br",
 			"channelNumber": "302",
 			"backdropUrl": ""
 		},
