@@ -317,23 +317,6 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426201",
-			"name": "HGTV",
-			"category": "Variedades",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hgtv.png",
-			"streamUrl": "https://origin-fast.b-cdn.net/HGTV_BR_NX/tracks-v1a1/mono.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426201",
-			"tvgId": "426201",
-			"channelNumber": "99",
-			"backdropUrl": ""
-		},
-		{
 			"id": "0000_gospel_mt",
 			"name": "Gospel Movie",
 			"category": "Aberto",
@@ -718,6 +701,7 @@
 			"headers": {
 				"Referer": "https://rdcanais.com",
 				"Origin": "https://rdcanais.com"
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
