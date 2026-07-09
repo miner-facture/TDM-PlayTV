@@ -56,11 +56,12 @@
 			"name": "JovemPan News",
 			"category": "Notícias",
 			"logoUrl": "https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg",
-			"streamUrl": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
+			"streamUrl": "https://3006.cdnvipcanais.xyz/jovempannews/index.m3u8",
+			"headers": {
+				"Referer": "https://vipcanaisplus.com/",
+				"Origin": "https://vipcanaisplus.com",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+			},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "417187",
