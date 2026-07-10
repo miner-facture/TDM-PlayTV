@@ -689,27 +689,27 @@
 			"channelNumber": "301",
 			"backdropUrl": ""
 		},
-		{
-			"id": "USA.br",
-			"name": "USA HD",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://logowik.com/content/uploads/images/usa-network9869.jpg",
-			"streamUrl": "https://rdcstream.life/live/usa/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {
-				"Referer": "https://rdcanais.com",
-				"Origin": "https://rdcanais.com"
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "USA.br",
-			"tvgId": "USA.br",
-			"channelNumber": "302",
-			"backdropUrl": ""
-		},
+{
+    "id": "usa.br",
+    "name": "USA HD",
+    "category": "Filmes e Séries",
+    "logoUrl": "https://logowik.com/content/uploads/images/usa-network9869.jpg",
+    "streamUrl": "https://rdcstream.life/live/usa/index.m3u8",
+    "currentProgram": "",
+    "nextProgram": "",
+    "description": "",
+    "headers": {
+        "Referer": "https://playerembed.xyz/",
+        "Origin": "https://playerembed.xyz",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0"
+    },
+    "isProtected": false,
+    "isYoutube": false,
+    "epgId": "usa.br",
+    "tvgId": "usa.br",
+    "channelNumber": "302",
+    "backdropUrl": ""
+},
 		{
 			"id": "426044",
 			"name": "AXN",
