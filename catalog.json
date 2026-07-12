@@ -1213,7 +1213,7 @@
 			"channelNumber": "403",
 			"backdropUrl": ""
 		},
-		{
+				{
 			"id": "425998",
 			"name": "CARTOONITO",
 			"category": "Infantil",
@@ -1232,42 +1232,42 @@
 			"backdropUrl": ""
 		}
 	],
-    "movies": [
-        {
-            "id": "m1",
-            "title": "O Protetor",
-            "year": "2014",
-            "coverUrl": "https://www.papodecinema.com.br/wp-content/uploads/2014/09/20180612-403236.webp",
-            "description": "Robert McCall, um ex-agente de operações especiais, tenta levar uma vida tranquila e deixar seu passado para trás. Quando conhece Teri, uma jovem explorada pela máfia russa, ele decide agir. Utilizando suas habilidades excepcionais, McCall inicia uma jornada para proteger os inocentes e combater criminosos impiedosos.",
-            "streamUrl": "https://cdnst17.tokyvideo.com/videos/667/667966/mp4/92f7aa4b65110c89627d14400a562021c0937aab2b50151a9084f34487d4a4d9.mp4?secure=O0urxk-E2de4G6fd4YBbWQ%3D%3D%2C1780398222",
-            "trailerYoutubeId": ""
-        },
-        {
-            "id": "m2",
-            "title": "O Protetor 2",
-            "year": "2018",
-            "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/b27bba3456d6840288b5107cb5613500bf249507d7852dc7734045ae571cf31a._UR2000,3000_CLs%7C2000,3000%7C/G/bundle/BottomRightCardGradient2x3.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,2000,3000+0,0,2000,3000+1670,2769,243,144_kvf21cb47db8d34aa971cd86f57a65cf8d_SX750_FMjpg_.jpg",
-            "description": "Vivendo como motorista particular e ajudando pessoas necessitadas, Robert McCall continua buscando redenção por seu passado. Quando uma amiga próxima é assassinada, ele embarca em uma missão pessoal para encontrar os responsáveis e fazer justiça.",
-            "streamUrl": "https://cdnst74.tokyvideo.com/videos/698/698432/mp4/e72a0e3dc951aad531eae1cf9b16ad8feabbe124d84e7d6836e607b7a99f9c5c.mp4?secure=7pkl5hhju9g0zyEn8AgKPA%3D%3D%2C1780400976",
-            "trailerYoutubeId": ""
-        },
-        {
-            "id": "m3",
-            "title": "O Protetor 3: Capítulo Final",
-            "year": "2023",
-            "coverUrl": "https://br.web.img2.acsta.net/c_310_420/pictures/23/07/04/09/09/2977571.jpg",
-            "description": "Após abandonar a vida de assassino profissional, Robert McCall encontra paz em uma pequena cidade no sul da Itália. Quando descobre que seus novos amigos estão sendo ameaçados pela máfia local, ele decide enfrentar o crime organizado para proteger a comunidade.",
-            "streamUrl": "",
-            "trailerYoutubeId": "wFwT4yVlVcY"
-        }
-    ],
+	"movies": [
+		{
+			"id": "m1",
+			"title": "O Protetor",
+			"year": "2014",
+			"coverUrl": "https://www.papodecinema.com.br/wp-content/uploads/2014/09/20180612-403236.webp",
+			"description": "Robert McCall, um ex-agente de operações especiais, tenta levar uma vida tranquila e deixar seu passado para trás. Quando conhece Teri, uma jovem explorada pela máfia russa, ele decide agir. Utilizando suas habilidades excepcionais, McCall inicia uma jornada para proteger os inocentes e combater criminosos impiedosos.",
+			"streamUrl": "https://cdnst17.tokyvideo.com/videos/667/667966/mp4/92f7aa4b65110c89627d14400a562021c0937aab2b50151a9084f34487d4a4d9.mp4?secure=O0urxk-E2de4G6fd4YBbWQ%3D%3D%2C1780398222",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m2",
+			"title": "O Protetor 2",
+			"year": "2018",
+			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/b27bba3456d6840288b5107cb5613500bf249507d7852dc7734045ae571cf31a._UR2000,3000_CLs%7C2000,3000%7C/G/bundle/BottomRightCardGradient2x3.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,2000,3000+0,0,2000,3000+1670,2769,243,144_kvf21cb47db8d34aa971cd86f57a65cf8d_SX750_FMjpg_.jpg",
+			"description": "Vivendo como motorista particular e ajudando pessoas necessitadas, Robert McCall continua buscando redenção por seu passado. Quando uma amiga próxima é assassinada, ele embarca em uma missão pessoal para encontrar os responsáveis e fazer justiça.",
+			"streamUrl": "https://cdnst74.tokyvideo.com/videos/698/698432/mp4/e72a0e3dc951aad531eae1cf9b16ad8feabbe124d84e7d6836e607b7a99f9c5c.mp4?secure=7pkl5hhju9g0zyEn8AgKPA%3D%3D%2C1780400976",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m3",
+			"title": "O Protetor 3: Capítulo Final",
+			"year": "2023",
+			"coverUrl": "https://br.web.img2.acsta.net/c_310_420/pictures/23/07/04/09/09/2977571.jpg",
+			"description": "Após abandonar a vida de assassino profissional, Robert McCall encontra paz em uma pequena cidade no sul da Itália. Quando descobre que seus novos amigos estão sendo ameaçados pela máfia local, ele decide enfrentar o crime organizado para proteger a comunidade.",
+			"streamUrl": "",
+			"trailerYoutubeId": "wFwT4yVlVcY"
+		}
+	],
 	"series": [
 		{
 			"id": "bob",
 			"title": "Band of Brothers",
 			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
 			"seasonsInfo": "1 Temporada",
-			"description": "A história real da Easy Company, um grupo de soldados americanos durante a Segunda Guerra Mundial.",
+			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
 			"year": "2001",
 			"genre": "Guerra",
 			"lastEpisodeInfo": "Completo",
@@ -1348,162 +1348,163 @@
 							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGEyNjg1YjEtODQ4NS00MjBjLWIyODUtMDU5OWIxNTk3MGQwXkEyXkFqcGc@._V1_FMjpg_UX694_.jpg",
 							"description": "À medida que os Aliados avançam para a Alemanha e a guerra se aproxima do fim, a desilusão e a raiva tomam conta da Easy Company, até que eles tropeçam em um campo de concentração abandonado pelo exército alemão.",
 							"streamUrl": "https://lh3.googleusercontent.com/KoVn78DlSrZ_OldKvdfiUcirQrG-SoxIUEUJPQNRiWQ=m18?GrupoUp&Down"
-   }
-        ]
-      }
-    ]
-  },
-
-  {
-    "id": "the_pitt",
-  "title": "The Pitt ",
-  "coverUrl": "https://inspiraliposmedicina.com/content/ibcmed/pt_br/home/blog/2026-5/the-pitt/_jcr_content/root/container/section_blog_body/image.coreimg.png/1778533214336.png",
-  "seasonsInfo": "1 Temporada",
-  "description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
-  "year": "2025",
-  "genre": "Drama Médico",
-  "lastEpisodeInfo": "Temporada 1",
-  "trailerYoutubeId": "",
-  "seasons": [
-    {
-      "number": 1,
-      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYEctc13l0f89Ic8kJUbZT7KJjgRV19fqvHMX-b9nFA&s=10",
-      "episodes": [
-        {
-          "id": "the_pitt_s1_e1",
-          "title": "7:00 A.M.",
-          "episodeNumber": 1,
-          "thumbUrl": "",
-          "description": "Enquanto tenta se distrair do aniversário da morte de seu mentor, o Dr. Robby apresenta a rotina do pronto-socorro a um novo grupo de internos.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s1_e2",
-          "title": "8:00 A.M.",
-          "episodeNumber": 2,
-          "thumbUrl": "",
-          "description": "Robby ajuda irmãos a lidar com os cuidados terminais de seu pai idoso.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s1_e3",
-          "title": "9:00 A.M.",
-          "episodeNumber": 3,
-          "thumbUrl": "",
-          "description": "Samira faz o possível para manter Whitaker no caminho certo. A overdose de uma pessoa jovem provoca conflitos no pronto-socorro.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s1_e4",
-          "title": "10:00 A.M.",
-          "episodeNumber": 4,
-          "thumbUrl": "",
-          "description": "São feitas apostas sobre o paradeiro de uma ambulância roubada, enquanto Santos aprende uma lição e Whitaker ajuda a acalmar 'O Kraken'.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s1_e5",
-          "title": "11:00 A.M.",
-          "episodeNumber": 5,
-          "thumbUrl": "",
-          "description": "Santos e Collins lidam com dilemas morais. A abordagem cuidadosa de Samira recebe elogios dos pacientes e repreensão de Robby.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s1_e6",
-          "title": "12:00 P.M.",
-          "episodeNumber": 6,
-          "thumbUrl": "",
-          "description": "Enquanto Robby enfrenta um ultimato do hospital, Mel, Javadi e Collins cuidam de suas próprias dinâmicas entre mães e filhas.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s1_e7",
-          "title": "1:00 P.M.",
-          "episodeNumber": 7,
-          "thumbUrl": "",
-          "description": "Após examinar uma influenciadora com sintomas estranhos, Samira contesta Robby. Santos lida com um paciente acusado de assédio.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s1_e8",
-          "title": "2:00 P.M.",
-          "episodeNumber": 8,
-          "thumbUrl": "",
-          "description": "Robby cuida de um paciente idoso precisando de um novo marcapasso, que revela seu passado como integrante do inovador programa de paramédicos Freedom House em Pittsburgh.",
-          "streamUrl": ""
-        }
-      ]
-    },
-    {
-      "number": 2,
-      "coverUrl": "https://instagram.fthe3-1.fna.fbcdn.net/v/t51.82787-15/612509590_18205799878317619_3306075018608514100_n.webp?efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODAuc2RyLnJlZ3VsYXJfcGhvdG8uYzIifQ&_nc_ht=instagram.fthe3-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHtrPbFErcIZvkAoO5Vh3iYxv_HxIzDE5g8qUJMrYMVC9rkS0tP3vSKwNfdCQcJ7Vo&_nc_ohc=3gg5W8UYfyYQ7kNvwEJZdL7&_nc_gid=fLnU8SYQCkq5LQMd0ZRb6w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzgwNjI1NDM2NjEzOTE1MDI2NQ%3D%3D.3-ccb7-5&oh=00_AQCR3K165jt11Bd2_ZVm67lYNp4n0HwocBVrgHgorY8JbA&oe=6A59703D&_nc_sid=10d13b",
-      "episodes": [
-        {
-          "id": "the_pitt_s2_e1",
-          "title": "7:00 A.M.",
-          "episodeNumber": 1,
-          "thumbUrl": "",
-          "description": "Em 4 de julho, Robby se prepara para um período sabático e conhece seu substituto temporário, o Dr. Baran Al-Hashimi, um médico pragmático do Departamento para Assuntos de Veteranos. Mais tarde, alguém conhecido retorna ao Pitt.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s2_e2",
-          "title": "8:00 A.M.",
-          "episodeNumber": 2,
-          "thumbUrl": "",
-          "description": "Distraída com seu depoimento iminente, King sofre uma queda. Enquanto isso, Al-Hashimi tenta revolucionar a tecnologia do departamento e Javadi avalia a concorrência.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s2_e3",
-          "title": "9:00 A.M.",
-          "episodeNumber": 3,
-          "thumbUrl": "",
-          "description": "Após um acidente de motocicleta, um casal chega ao pronto-socorro. Robby cria laços com um sobrevivente do tiroteio na sinagoga Tree of Life.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s2_e4",
-          "title": "10:00 A.M.",
-          "episodeNumber": 4,
-          "thumbUrl": "",
-          "description": "Com outro hospital fechado no dia mais movimentado do ano, Robby e a equipe atendem pacientes extras, incluindo a vítima de um acidente de parkour.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s2_e5",
-          "title": "11:00 A.M.",
-          "episodeNumber": 5,
-          "thumbUrl": "",
-          "description": "Com o aumento constante de pacientes, incluindo um detento de uma prisão local, Robby e Langdon trabalham juntos para salvar um paciente querido.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s2_e6",
-          "title": "12:00 P.M.",
-          "episodeNumber": 6,
-          "thumbUrl": "",
-          "description": "Enquanto a equipe lida com uma perda, Al-Hashimi e Robby continuam em conflito sobre o melhor tratamento para um paciente com sinais de desnutrição.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s2_e7",
-          "title": "1:00 P.M.",
-          "episodeNumber": 7,
-          "thumbUrl": "",
-          "description": "Dana atende uma vítima de agressão sexual, Abbot ajuda um policial ferido e Mohan tenta manter um paciente sem plano de saúde no pronto-socorro.",
-          "streamUrl": ""
-        },
-        {
-          "id": "the_pitt_s2_e8",
-          "title": "2:00 P.M.",
-          "episodeNumber": 8,
-          "thumbUrl": "",
-          "description": "Com a pane no sistema de TI, Princess gerencia um pronto-socorro totalmente analógico. Al-Hashimi, Mohan e King avaliam uma mulher com cegueira repentina.",
-          "streamUrl": ""
-        }
-      ]
-    }
-  ]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "the_pitt",
+			"title": "The Pitt ",
+			"coverUrl": "https://i.ibb.co/tpcCjvqK/1778533214336.png",
+			"seasonsInfo": "2 Temporadas",
+			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
+			"year": "2025",
+			"genre": "Drama Médico",
+			"lastEpisodeInfo": "2ª Temporada Completa",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://i.ibb.co/1fdPqJWD/the-pitt-1.jpg",
+					"episodes": [
+						{
+							"id": "the_pitt_s1_e1",
+							"title": "7:00 A.M.",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "Enquanto tenta se distrair do aniversário da morte de seu mentor, o Dr. Robby apresenta a rotina do pronto-socorro a um novo grupo de internos.",
+							"streamUrl": "https://ia600102.us.archive.org/10/items/700-a.-m/700%20A.M.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e2",
+							"title": "8:00 A.M.",
+							"episodeNumber": 2,
+							"thumbUrl": "",
+							"description": "Robby ajuda irmãos a lidar com os cuidados terminais de seu pai idoso.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s1_e3",
+							"title": "9:00 A.M.",
+							"episodeNumber": 3,
+							"thumbUrl": "",
+							"description": "Samira faz o possível para manter Whitaker no caminho certo. A overdose de uma pessoa jovem provoca conflitos no pronto-socorro.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s1_e4",
+							"title": "10:00 A.M.",
+							"episodeNumber": 4,
+							"thumbUrl": "",
+							"description": "São feitas apostas sobre o paradeiro de uma ambulância roubada, enquanto Santos aprende uma lição e Whitaker ajuda a acalmar 'O Kraken'.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s1_e5",
+							"title": "11:00 A.M.",
+							"episodeNumber": 5,
+							"thumbUrl": "",
+							"description": "Santos e Collins lidam com dilemas morais. A abordagem cuidadosa de Samira recebe elogios dos pacientes e repreensão de Robby.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s1_e6",
+							"title": "12:00 P.M.",
+							"episodeNumber": 6,
+							"thumbUrl": "",
+							"description": "Enquanto Robby enfrenta um ultimato do hospital, Mel, Javadi e Collins cuidam de suas próprias dinâmicas entre mães e filhas.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s1_e7",
+							"title": "1:00 P.M.",
+							"episodeNumber": 7,
+							"thumbUrl": "",
+							"description": "Após examinar uma influenciadora com sintomas estranhos, Samira contesta Robby. Santos lida com um paciente acusado de assédio.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s1_e8",
+							"title": "2:00 P.M.",
+							"episodeNumber": 8,
+							"thumbUrl": "",
+							"description": "Robby cuida de um paciente idoso precisando de um novo marcapasso, que revela seu passado como integrante do inovador programa de paramédicos Freedom House em Pittsburgh.",
+							"streamUrl": ""
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://i.ibb.co/1fdPqJWD/the-pitt-1.jpg",
+					"episodes": [
+						{
+							"id": "the_pitt_s2_e1",
+							"title": "7:00 A.M.",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "Em 4 de julho, Robby se prepara para um período sabático e conhece seu substituto temporário, o Dr. Baran Al-Hashimi, um médico pragmático do Departamento para Assuntos de Veteranos. Mais tarde, alguém conhecido retorna ao Pitt.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e2",
+							"title": "8:00 A.M.",
+							"episodeNumber": 2,
+							"thumbUrl": "",
+							"description": "Distraída com seu depoimento iminente, King sofre uma queda. Enquanto isso, Al-Hashimi tenta revolucionar a tecnologia do departamento e Javadi avalia a concorrência.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e3",
+							"title": "9:00 A.M.",
+							"episodeNumber": 3,
+							"thumbUrl": "",
+							"description": "Após um acidente de motocicleta, um casal chega ao pronto-socorro. Robby cria laços com um sobrevivente do tiroteio na sinagoga Tree of Life.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e4",
+							"title": "10:00 A.M.",
+							"episodeNumber": 4,
+							"thumbUrl": "",
+							"description": "Com outro hospital fechado no dia mais movimentado do ano, Robby e a equipe atendem pacientes extras, incluindo a vítima de um acidente de parkour.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e5",
+							"title": "11:00 A.M.",
+							"episodeNumber": 5,
+							"thumbUrl": "",
+							"description": "Com o aumento constante de pacientes, incluindo um detento de uma prisão local, Robby e Langdon trabalham juntos para salvar um paciente querido.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e6",
+							"title": "12:00 P.M.",
+							"episodeNumber": 6,
+							"thumbUrl": "",
+							"description": "Enquanto a equipe lida com uma perda, Al-Hashimi e Robby continuam em conflito sobre o melhor tratamento para um paciente com sinais de desnutrição.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e7",
+							"title": "1:00 P.M.",
+							"episodeNumber": 7,
+							"thumbUrl": "",
+							"description": "Dana atende uma vítima de agressão sexual, Abbot ajuda um policial ferido e Mohan tenta manter um paciente sem plano de saúde no pronto-socorro.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e8",
+							"title": "2:00 P.M.",
+							"episodeNumber": 8,
+							"thumbUrl": "",
+							"description": "Com a pane no sistema de TI, Princess gerencia um pronto-socorro totalmente analógico. Al-Hashimi, Mohan e King avaliam uma mulher com cegueira repentina.",
+							"streamUrl": ""
+						}
+					]
+				}
+			]
+		}
+	]
 }
