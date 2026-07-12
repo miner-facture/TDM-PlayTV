@@ -24,9 +24,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/cnnbrasil/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -58,9 +61,12 @@
 			"logoUrl": "https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/jovempannews/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -76,9 +82,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/globonews.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/globonews/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -145,9 +154,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/sbt.png",
 			"streamUrl": "https://1906.cdnvipcanais.xyz/sbtsp/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -163,9 +175,12 @@
 			"logoUrl": "https://vipcanaisplus.com/images/globo.webp",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/globorj/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -181,9 +196,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/tvcultura.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/tvcultura/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -199,9 +217,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/record.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/recordrj/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -220,9 +241,12 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -343,9 +367,12 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -361,9 +388,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/megapix.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/megapix/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -382,9 +412,12 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -403,9 +436,12 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -424,9 +460,12 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -442,9 +481,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/multishow.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/multishow/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -460,9 +502,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/amc.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/amc/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -478,9 +523,12 @@
 			"logoUrl": "https://vipcanaisplus.com/images/amcseries.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/amcseries/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -496,9 +544,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/tnt.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tnt/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -514,9 +565,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntseries.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tntseries/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -532,9 +586,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntnovelas.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tntnovelas/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -550,9 +607,12 @@
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tcpremium/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -568,9 +628,12 @@
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tcaction/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -586,9 +649,12 @@
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tctouch/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -624,9 +690,12 @@
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tcpipoca/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -642,9 +711,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/space.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/space/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -660,9 +732,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/gnt.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/gnt/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -678,9 +753,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/universaltv.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/universaltv/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -720,9 +798,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/axn.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/axn/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -762,9 +843,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/foodnetwork.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/foodnetwork/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -780,9 +864,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/espn.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/espn/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -798,9 +885,12 @@
 			"logoUrl": "https://logowik.com/content/uploads/images/espn24510.jpg",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/espn2/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -816,9 +906,12 @@
 			"logoUrl": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/espn3/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -834,9 +927,12 @@
 			"logoUrl": "https://vipcanaisplus.com/images/history.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/history/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -852,9 +948,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/history2.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/history2/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -870,9 +969,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbo.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/hbo/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -888,9 +990,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbo2.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/hbo2/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -906,9 +1011,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbofamily.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/hbofamily/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -924,9 +1032,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbosignature.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/hbosignature/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -942,9 +1053,12 @@
 			"logoUrl": "https://ecotel.com.ar/wp-content/uploads/2024/12/hbomundi.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/hbomundi/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -960,9 +1074,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/hboxtreme.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/hboxtreme/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -978,9 +1095,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/hboplus.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/hboplus/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -996,9 +1116,12 @@
 			"logoUrl": "https://cdn.mitvstatic.com/channels/br_max-up-1_m.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/hbopop/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1014,9 +1137,12 @@
 			"logoUrl": "https://embedcanaisdetv.com/images/discoveryhh.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryhh/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1032,9 +1158,12 @@
 			"logoUrl": "https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/discoverychannel/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1050,9 +1179,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoverytheater.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/discoverytheater/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1068,9 +1200,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryworld.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryworld/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1086,9 +1221,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryid.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryid/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1104,9 +1242,12 @@
 			"logoUrl": "https://vipcanaisplus.com/images/discoveryscience.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryscience/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1122,9 +1263,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/adultswim.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/adultswim/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1139,9 +1283,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/gloobinho.png",
 			"streamUrl": "https://1906.cdnvipcanais.xyz/gloobinho/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1157,9 +1304,12 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/gloob.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/gloob/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -1226,9 +1376,12 @@
 			"logoUrl": "https://vipcanais.app/images/cartoonito.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/cartoonito/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://vipcanais.app/",
+				"Origin": "https://vipcanais.app",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
