@@ -1,38 +1,21 @@
 {
 	"liveChannels": [
 		{
-			"id": "426201",
-			"name": "HGTV",
-			"category": "Variedades",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hgtv.png",
-			"streamUrl": "https://origin-fast.b-cdn.net/HGTV_BR_NX/tracks-v1a1/mono.m3u8",
+			"id": "traceurban",
+			"name": "Trace Urban",
+			"category": "Música",
+			"logoUrl": "https://i.postimg.cc/kGtMzcNP/png-clipart-trace-urban-television-channel-free-to-air-urban-contemporary-others-television-text.png",
+			"streamUrl": "https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
-			"description": "",
+			"description": "Canal internacional dedicado à música urbana, Hip-Hop, Rap, R&B, Afrobeats, Dancehall e cultura urbana.",
 			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426201",
-			"tvgId": "426201",
-			"channelNumber": "99",
+			"epgId": "traceurban",
+			"tvgId": "traceurban",
+			"channelNumber": "503",
 			"backdropUrl": ""
-		},
-		{
-    "id": "traceurban",
-    "name": "Trace Urban",
-    "category": "Música",
-    "logoUrl": "https://i.postimg.cc/kGtMzcNP/png-clipart-trace-urban-television-channel-free-to-air-urban-contemporary-others-television-text.png",
-    "streamUrl": "https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8",
-    "currentProgram": "",
-    "nextProgram": "",
-    "description": "Canal internacional dedicado à música urbana, Hip-Hop, Rap, R&B, Afrobeats, Dancehall e cultura urbana.",
-    "headers": {},
-    "isProtected": false,
-    "isYoutube": false,
-    "epgId": "traceurban",
-    "tvgId": "traceurban",
-    "channelNumber": "503",
-    "backdropUrl": ""
 		},
 		{
 			"id": "426156",
@@ -297,6 +280,23 @@
 			"epgId": "426067",
 			"tvgId": "426067",
 			"channelNumber": "114",
+			"backdropUrl": ""
+		},
+		{
+			"id": "426201",
+			"name": "HGTV",
+			"category": "Variedades",
+			"logoUrl": "https://api.reidoscanais.ooo/img/hgtv.png",
+			"streamUrl": "https://origin-fast.b-cdn.net/HGTV_BR_NX/tracks-v1a1/mono.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426201",
+			"tvgId": "426201",
+			"channelNumber": "99",
 			"backdropUrl": ""
 		},
 		{
@@ -689,27 +689,30 @@
 			"channelNumber": "301",
 			"backdropUrl": ""
 		},
-{
-    "id": "usa.br",
-    "name": "USA HD",
-    "category": "Filmes e Séries",
-    "logoUrl": "https://logowik.com/content/uploads/images/usa-network9869.jpg",
-    "streamUrl": "https://rdcstream.life/live/usa/index.m3u8",
-    "currentProgram": "",
-    "nextProgram": "",
-    "description": "",
-    "headers": {
-        "Referer": "https://playerembed.xyz/",
-        "Origin": "https://playerembed.xyz",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0"
-    },
-    "isProtected": false,
-    "isYoutube": false,
-    "epgId": "usa.br",
-    "tvgId": "usa.br",
-    "channelNumber": "302",
-    "backdropUrl": ""
-},
+		{
+			"id": "usa.br",
+			"name": "USA HD",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://logowik.com/content/uploads/images/usa-network9869.jpg",
+			"streamUrl": "https://rdcstream.life/live/usa/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "usa.br",
+			"tvgId": "usa.br",
+			"channelNumber": "302",
+			"backdropUrl": ""
+		},
 		{
 			"id": "426044",
 			"name": "AXN",
@@ -1213,7 +1216,7 @@
 			"channelNumber": "403",
 			"backdropUrl": ""
 		},
-				{
+		{
 			"id": "425998",
 			"name": "CARTOONITO",
 			"category": "Infantil",
@@ -1235,11 +1238,11 @@
 	"movies": [
 		{
 			"id": "m1",
-			"title": "O Protetor",
-			"year": "2014",
+			"title": "Meu Primeiro Amor",
+			"year": "1991",
 			"coverUrl": "https://www.papodecinema.com.br/wp-content/uploads/2014/09/20180612-403236.webp",
-			"description": "Robert McCall, um ex-agente de operações especiais, tenta levar uma vida tranquila e deixar seu passado para trás. Quando conhece Teri, uma jovem explorada pela máfia russa, ele decide agir. Utilizando suas habilidades excepcionais, McCall inicia uma jornada para proteger os inocentes e combater criminosos impiedosos.",
-			"streamUrl": "https://cdnst17.tokyvideo.com/videos/667/667966/mp4/92f7aa4b65110c89627d14400a562021c0937aab2b50151a9084f34487d4a4d9.mp4?secure=O0urxk-E2de4G6fd4YBbWQ%3D%3D%2C1780398222",
+			"description": "Vada Sultenfuss é uma menina solitária, inteligente e hipocondríaca que vive na Pensilvânia em 1972 My Girl (filme). Como sua mãe morreu no parto e seu pai, Harry (Dan Aykroyd), edica todo o seu tempo ao trabalho na funerária local, Vada cresce fascinada e assustada com a morte. Diretor e Elenco •Howard Zieff • Macaulay Culkin, Anna Chlumsky, Dan Aykroyd, Jamie Lee Curtis, Richard Masur Produtoras • Columbia Pictures, Imagine Entertainment",
+			"streamUrl": "https://ia903105.us.archive.org/17/items/meu-primeiro-amor_202607/Meu%20Primeiro%20Amor.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
@@ -1262,97 +1265,6 @@
 		}
 	],
 	"series": [
-		{
-			"id": "bob",
-			"title": "Band of Brothers",
-			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
-			"seasonsInfo": "1 Temporada",
-			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
-			"year": "2001",
-			"genre": "Guerra",
-			"lastEpisodeInfo": "Completo",
-			"trailerYoutubeId": "",
-			"seasons": [
-				{
-					"number": 1,
-					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
-					"episodes": [
-						{
-							"id": "bob_s1_e1",
-							"title": "Currahee",
-							"episodeNumber": 1,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjIxODYyNTQxOF5BMl5BanBnXkFtZTgwNzQyMzY1MTE@._V1_FMjpg_UX2160_.jpg",
-							"description": "A Easy Company passa por treinamento sob a liderança de um capitão que implacavelmente os leva aos seus limites, mas pode ser limitado como líder em campo.",
-							"streamUrl": "https://lh3.googleusercontent.com/h2s2SD5n3nYq6g3k8BXVlTEroRLGRxhrKE22ZH6kjVk=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e2",
-							"title": "Dia dos Dias",
-							"episodeNumber": 2,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjk2MTBjY2YtMjA2Ny00NjUwLThlMjMtODAwNzdkNDNhZTZmXkEyXkFqcGc@._V1_FMjpg_UX796_.jpg",
-							"description": "Paraquedistas da Easy Company saltam atrás das linhas inimigas na Normandia no Dia D e lutam para se reunir em território hostil.",
-							"streamUrl": "https://lh3.googleusercontent.com/0fE9fvYBJEJ9hw5Tq2XLps8_0UtjEW0vUI9am-KYlNw=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e3",
-							"title": "Carentan",
-							"episodeNumber": 3,
-							"thumbUrl": "http://i.imgur.com/2cIctoL.png",
-							"description": "A Easy Company enfrenta as tropas alemãs na cidade francesa de Carentan, e a batalha deixa um soldado profundamente traumatizado pela experiência.",
-							"streamUrl": "https://lh3.googleusercontent.com/WR2r_vCdbxUS_Vxhmj1680MdrUr2-o4Si2PUhz8gWQI=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e4",
-							"title": "Substituições",
-							"episodeNumber": 4,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZjc4Y2U4YjgtZjUzMi00MmVjLWE1MWUtZmZhNzUzODQ3NmRlXkEyXkFqcGc@._V1_FMjpg_UX1798_.jpg",
-							"description": "Com a adição de muitos novos homens, a Easy Company segue para a Holanda para participar da Operação Market Garden e preparar uma rota aliada para a Alemanha, mas eles encontram forte resistência alemã.",
-							"streamUrl": "https://lh3.googleusercontent.com/cNy5Djx4WnDC3HllB_U-RM8XuIJWnesu0Hf3S2U_RCE=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e5",
-							"title": "Encruzilhada",
-							"episodeNumber": 5,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNDRkYmMwYjItNjRlNC00NDRmLWIxMzQtNGQzZDljYWY2YmJmXkEyXkFqcGc@._V1_FMjpg_UX1920_.jpg",
-							"description": "Winters escreve um relatório sobre o desafio de uma resistência inesperada a um ataque alemão e é assombrado por sua consciência após atirar em um adolescente soldado alemão da SS.",
-							"streamUrl": "https://lh3.googleusercontent.com/FMvZVE2XASW4EngnS4xeDHROyMS2eZpETFJnx7BQIv4=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e6",
-							"title": "Bastogne",
-							"episodeNumber": 6,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZWQ4MjhkNjAtY2E3NC00MjA2LWIxNDYtMzYyMjc0NGU0NDVkXkEyXkFqcGc@._V1_FMjpg_UX965_.jpg",
-							"description": "Os homens da Companhia Easy lutam contra o frio e a fome - além do inimigo - enquanto defendem a linha em uma floresta nos arredores de Bastogne.",
-							"streamUrl": "https://lh3.googleusercontent.com/4RUu5-hIp9WjJDrUS0rhwD_kMs_LPbo5ZkDDOxz_4_k=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e7",
-							"title": "O Ponto de Ruptura",
-							"episodeNumber": 7,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTZiNWY0NzYtODg2Yy00MDZmLTg2ZGQtNzdmY2RiMWFlZjE1XkEyXkFqcGc@._V1_FMjpg_UX626_.jpg",
-							"description": "A Companhia Easy permanece na Floresta das Ardenas, preparando-se para um ataque inevitável às forças alemãs na cidade de Foy.",
-							"streamUrl": "https://lh3.googleusercontent.com/jpuMvnET-2CtdhCvuRLEX3vqP3zpx4fuoeOIwtONfTw=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e8",
-							"title": "A Última Patrulha",
-							"episodeNumber": 8,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMThhMzE4YTMtY2E4OS00OTlkLTkzMzktODhiODk1ZjMwY2M0XkEyXkFqcGc@._V1_FMjpg_UX980_.jpg",
-							"description": "A Companhia Easy está em Hagenau em fevereiro de 1945, onde se prepara para uma missão de patrulha noturna para capturar prisioneiros alemães.",
-							"streamUrl": "https://lh3.googleusercontent.com/syBjFdKGeEMFUBMoHJHTD7db6G3QZ22R-f-tJ31xmU4=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e9",
-							"title": "Por que lutamos?",
-							"episodeNumber": 9,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGEyNjg1YjEtODQ4NS00MjBjLWIyODUtMDU5OWIxNTk3MGQwXkEyXkFqcGc@._V1_FMjpg_UX694_.jpg",
-							"description": "À medida que os Aliados avançam para a Alemanha e a guerra se aproxima do fim, a desilusão e a raiva tomam conta da Easy Company, até que eles tropeçam em um campo de concentração abandonado pelo exército alemão.",
-							"streamUrl": "https://lh3.googleusercontent.com/KoVn78DlSrZ_OldKvdfiUcirQrG-SoxIUEUJPQNRiWQ=m18?GrupoUp&Down"
-						}
-					]
-				}
-			]
-		},
 		{
 			"id": "the_pitt",
 			"title": "The Pitt ",
@@ -1501,6 +1413,97 @@
 							"thumbUrl": "",
 							"description": "Com a pane no sistema de TI, Princess gerencia um pronto-socorro totalmente analógico. Al-Hashimi, Mohan e King avaliam uma mulher com cegueira repentina.",
 							"streamUrl": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "bob",
+			"title": "Band of Brothers",
+			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
+			"seasonsInfo": "1 Temporada",
+			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
+			"year": "2001",
+			"genre": "Guerra",
+			"lastEpisodeInfo": "Completo",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
+					"episodes": [
+						{
+							"id": "bob_s1_e1",
+							"title": "Currahee",
+							"episodeNumber": 1,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjIxODYyNTQxOF5BMl5BanBnXkFtZTgwNzQyMzY1MTE@._V1_FMjpg_UX2160_.jpg",
+							"description": "A Easy Company passa por treinamento sob a liderança de um capitão que implacavelmente os leva aos seus limites, mas pode ser limitado como líder em campo.",
+							"streamUrl": "https://lh3.googleusercontent.com/h2s2SD5n3nYq6g3k8BXVlTEroRLGRxhrKE22ZH6kjVk=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e2",
+							"title": "Dia dos Dias",
+							"episodeNumber": 2,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjk2MTBjY2YtMjA2Ny00NjUwLThlMjMtODAwNzdkNDNhZTZmXkEyXkFqcGc@._V1_FMjpg_UX796_.jpg",
+							"description": "Paraquedistas da Easy Company saltam atrás das linhas inimigas na Normandia no Dia D e lutam para se reunir em território hostil.",
+							"streamUrl": "https://lh3.googleusercontent.com/0fE9fvYBJEJ9hw5Tq2XLps8_0UtjEW0vUI9am-KYlNw=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e3",
+							"title": "Carentan",
+							"episodeNumber": 3,
+							"thumbUrl": "http://i.imgur.com/2cIctoL.png",
+							"description": "A Easy Company enfrenta as tropas alemãs na cidade francesa de Carentan, e a batalha deixa um soldado profundamente traumatizado pela experiência.",
+							"streamUrl": "https://lh3.googleusercontent.com/WR2r_vCdbxUS_Vxhmj1680MdrUr2-o4Si2PUhz8gWQI=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e4",
+							"title": "Substituições",
+							"episodeNumber": 4,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZjc4Y2U4YjgtZjUzMi00MmVjLWE1MWUtZmZhNzUzODQ3NmRlXkEyXkFqcGc@._V1_FMjpg_UX1798_.jpg",
+							"description": "Com a adição de muitos novos homens, a Easy Company segue para a Holanda para participar da Operação Market Garden e preparar uma rota aliada para a Alemanha, mas eles encontram forte resistência alemã.",
+							"streamUrl": "https://lh3.googleusercontent.com/cNy5Djx4WnDC3HllB_U-RM8XuIJWnesu0Hf3S2U_RCE=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e5",
+							"title": "Encruzilhada",
+							"episodeNumber": 5,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNDRkYmMwYjItNjRlNC00NDRmLWIxMzQtNGQzZDljYWY2YmJmXkEyXkFqcGc@._V1_FMjpg_UX1920_.jpg",
+							"description": "Winters escreve um relatório sobre o desafio de uma resistência inesperada a um ataque alemão e é assombrado por sua consciência após atirar em um adolescente soldado alemão da SS.",
+							"streamUrl": "https://lh3.googleusercontent.com/FMvZVE2XASW4EngnS4xeDHROyMS2eZpETFJnx7BQIv4=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e6",
+							"title": "Bastogne",
+							"episodeNumber": 6,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZWQ4MjhkNjAtY2E3NC00MjA2LWIxNDYtMzYyMjc0NGU0NDVkXkEyXkFqcGc@._V1_FMjpg_UX965_.jpg",
+							"description": "Os homens da Companhia Easy lutam contra o frio e a fome - além do inimigo - enquanto defendem a linha em uma floresta nos arredores de Bastogne.",
+							"streamUrl": "https://lh3.googleusercontent.com/4RUu5-hIp9WjJDrUS0rhwD_kMs_LPbo5ZkDDOxz_4_k=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e7",
+							"title": "O Ponto de Ruptura",
+							"episodeNumber": 7,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTZiNWY0NzYtODg2Yy00MDZmLTg2ZGQtNzdmY2RiMWFlZjE1XkEyXkFqcGc@._V1_FMjpg_UX626_.jpg",
+							"description": "A Companhia Easy permanece na Floresta das Ardenas, preparando-se para um ataque inevitável às forças alemãs na cidade de Foy.",
+							"streamUrl": "https://lh3.googleusercontent.com/jpuMvnET-2CtdhCvuRLEX3vqP3zpx4fuoeOIwtONfTw=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e8",
+							"title": "A Última Patrulha",
+							"episodeNumber": 8,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMThhMzE4YTMtY2E4OS00OTlkLTkzMzktODhiODk1ZjMwY2M0XkEyXkFqcGc@._V1_FMjpg_UX980_.jpg",
+							"description": "A Companhia Easy está em Hagenau em fevereiro de 1945, onde se prepara para uma missão de patrulha noturna para capturar prisioneiros alemães.",
+							"streamUrl": "https://lh3.googleusercontent.com/syBjFdKGeEMFUBMoHJHTD7db6G3QZ22R-f-tJ31xmU4=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e9",
+							"title": "Por que lutamos?",
+							"episodeNumber": 9,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGEyNjg1YjEtODQ4NS00MjBjLWIyODUtMDU5OWIxNTk3MGQwXkEyXkFqcGc@._V1_FMjpg_UX694_.jpg",
+							"description": "À medida que os Aliados avançam para a Alemanha e a guerra se aproxima do fim, a desilusão e a raiva tomam conta da Easy Company, até que eles tropeçam em um campo de concentração abandonado pelo exército alemão.",
+							"streamUrl": "https://lh3.googleusercontent.com/KoVn78DlSrZ_OldKvdfiUcirQrG-SoxIUEUJPQNRiWQ=m18?GrupoUp&Down"
 						}
 					]
 				}
