@@ -1348,10 +1348,161 @@
 							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGEyNjg1YjEtODQ4NS00MjBjLWIyODUtMDU5OWIxNTk3MGQwXkEyXkFqcGc@._V1_FMjpg_UX694_.jpg",
 							"description": "À medida que os Aliados avançam para a Alemanha e a guerra se aproxima do fim, a desilusão e a raiva tomam conta da Easy Company, até que eles tropeçam em um campo de concentração abandonado pelo exército alemão.",
 							"streamUrl": "https://lh3.googleusercontent.com/KoVn78DlSrZ_OldKvdfiUcirQrG-SoxIUEUJPQNRiWQ=m18?GrupoUp&Down"
-						}
-					]
-				}
-			]
-		}
-	]
+						        }
+      ]
+    ]
+  },
+
+  {
+    "id": "the_pitt",
+  "title": "The Pitt ",
+  "coverUrl": "https://inspiraliposmedicina.com/content/ibcmed/pt_br/home/blog/2026-5/the-pitt/_jcr_content/root/container/section_blog_body/image.coreimg.png/1778533214336.png",
+  "seasonsInfo": "1 Temporada",
+  "description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
+  "year": "2025",
+  "genre": "Drama Médico",
+  "lastEpisodeInfo": "Temporada 1",
+  "trailerYoutubeId": "",
+  "seasons": [
+    {
+      "number": 1,
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYEctc13l0f89Ic8kJUbZT7KJjgRV19fqvHMX-b9nFA&s=10",
+      "episodes": [
+        {
+          "id": "the_pitt_s1_e1",
+          "title": "7:00 A.M.",
+          "episodeNumber": 1,
+          "thumbUrl": "",
+          "description": "Enquanto tenta se distrair do aniversário da morte de seu mentor, o Dr. Robby apresenta a rotina do pronto-socorro a um novo grupo de internos.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s1_e2",
+          "title": "8:00 A.M.",
+          "episodeNumber": 2,
+          "thumbUrl": "",
+          "description": "Robby ajuda irmãos a lidar com os cuidados terminais de seu pai idoso.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s1_e3",
+          "title": "9:00 A.M.",
+          "episodeNumber": 3,
+          "thumbUrl": "",
+          "description": "Samira faz o possível para manter Whitaker no caminho certo. A overdose de uma pessoa jovem provoca conflitos no pronto-socorro.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s1_e4",
+          "title": "10:00 A.M.",
+          "episodeNumber": 4,
+          "thumbUrl": "",
+          "description": "São feitas apostas sobre o paradeiro de uma ambulância roubada, enquanto Santos aprende uma lição e Whitaker ajuda a acalmar 'O Kraken'.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s1_e5",
+          "title": "11:00 A.M.",
+          "episodeNumber": 5,
+          "thumbUrl": "",
+          "description": "Santos e Collins lidam com dilemas morais. A abordagem cuidadosa de Samira recebe elogios dos pacientes e repreensão de Robby.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s1_e6",
+          "title": "12:00 P.M.",
+          "episodeNumber": 6,
+          "thumbUrl": "",
+          "description": "Enquanto Robby enfrenta um ultimato do hospital, Mel, Javadi e Collins cuidam de suas próprias dinâmicas entre mães e filhas.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s1_e7",
+          "title": "1:00 P.M.",
+          "episodeNumber": 7,
+          "thumbUrl": "",
+          "description": "Após examinar uma influenciadora com sintomas estranhos, Samira contesta Robby. Santos lida com um paciente acusado de assédio.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s1_e8",
+          "title": "2:00 P.M.",
+          "episodeNumber": 8,
+          "thumbUrl": "",
+          "description": "Robby cuida de um paciente idoso precisando de um novo marcapasso, que revela seu passado como integrante do inovador programa de paramédicos Freedom House em Pittsburgh.",
+          "streamUrl": ""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "coverUrl": "https://instagram.fthe3-1.fna.fbcdn.net/v/t51.82787-15/612509590_18205799878317619_3306075018608514100_n.webp?efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODAuc2RyLnJlZ3VsYXJfcGhvdG8uYzIifQ&_nc_ht=instagram.fthe3-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHtrPbFErcIZvkAoO5Vh3iYxv_HxIzDE5g8qUJMrYMVC9rkS0tP3vSKwNfdCQcJ7Vo&_nc_ohc=3gg5W8UYfyYQ7kNvwEJZdL7&_nc_gid=fLnU8SYQCkq5LQMd0ZRb6w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzgwNjI1NDM2NjEzOTE1MDI2NQ%3D%3D.3-ccb7-5&oh=00_AQCR3K165jt11Bd2_ZVm67lYNp4n0HwocBVrgHgorY8JbA&oe=6A59703D&_nc_sid=10d13b",
+      "episodes": [
+        {
+          "id": "the_pitt_s2_e1",
+          "title": "7:00 A.M.",
+          "episodeNumber": 1,
+          "thumbUrl": "",
+          "description": "Em 4 de julho, Robby se prepara para um período sabático e conhece seu substituto temporário, o Dr. Baran Al-Hashimi, um médico pragmático do Departamento para Assuntos de Veteranos. Mais tarde, alguém conhecido retorna ao Pitt.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s2_e2",
+          "title": "8:00 A.M.",
+          "episodeNumber": 2,
+          "thumbUrl": "",
+          "description": "Distraída com seu depoimento iminente, King sofre uma queda. Enquanto isso, Al-Hashimi tenta revolucionar a tecnologia do departamento e Javadi avalia a concorrência.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s2_e3",
+          "title": "9:00 A.M.",
+          "episodeNumber": 3,
+          "thumbUrl": "",
+          "description": "Após um acidente de motocicleta, um casal chega ao pronto-socorro. Robby cria laços com um sobrevivente do tiroteio na sinagoga Tree of Life.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s2_e4",
+          "title": "10:00 A.M.",
+          "episodeNumber": 4,
+          "thumbUrl": "",
+          "description": "Com outro hospital fechado no dia mais movimentado do ano, Robby e a equipe atendem pacientes extras, incluindo a vítima de um acidente de parkour.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s2_e5",
+          "title": "11:00 A.M.",
+          "episodeNumber": 5,
+          "thumbUrl": "",
+          "description": "Com o aumento constante de pacientes, incluindo um detento de uma prisão local, Robby e Langdon trabalham juntos para salvar um paciente querido.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s2_e6",
+          "title": "12:00 P.M.",
+          "episodeNumber": 6,
+          "thumbUrl": "",
+          "description": "Enquanto a equipe lida com uma perda, Al-Hashimi e Robby continuam em conflito sobre o melhor tratamento para um paciente com sinais de desnutrição.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s2_e7",
+          "title": "1:00 P.M.",
+          "episodeNumber": 7,
+          "thumbUrl": "",
+          "description": "Dana atende uma vítima de agressão sexual, Abbot ajuda um policial ferido e Mohan tenta manter um paciente sem plano de saúde no pronto-socorro.",
+          "streamUrl": ""
+        },
+        {
+          "id": "the_pitt_s2_e8",
+          "title": "2:00 P.M.",
+          "episodeNumber": 8,
+          "thumbUrl": "",
+          "description": "Com a pane no sistema de TI, Princess gerencia um pronto-socorro totalmente analógico. Al-Hashimi, Mohan e King avaliam uma mulher com cegueira repentina.",
+          "streamUrl": ""
+        }
+      ]
+    }
+  ]
 }
