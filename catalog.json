@@ -97,23 +97,6 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "523303",
-			"name": "SBT News",
-			"category": "Notícias",
-			"logoUrl": "https://api.reidoscanais.ooo/img/sbtnews.png",
-			"streamUrl": "https://www.youtube.com/c/sbtnews/live",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "Canal de notícias 24 horas do SBT com as principais informações do Brasil e do mundo.",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": true,
-			"epgId": "523303",
-			"tvgId": "523303",
-			"channelNumber": "103",
-			"backdropUrl": ""
-		},
-		{
 			"id": "523352",
 			"name": "Record News",
 			"category": "Notícias",
@@ -128,23 +111,6 @@
 			"epgId": "523352",
 			"tvgId": "523352",
 			"channelNumber": "501",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523268",
-			"name": "DW",
-			"category": "Notícias",
-			"logoUrl": "https://www.ifj.org/fileadmin/_processed_/3/8/csm_1280px-Deutsche_Welle_symbol_2012.svg_00f6c85387.png",
-			"streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523268",
-			"tvgId": "523268",
-			"channelNumber": "507",
 			"backdropUrl": ""
 		},
 		{
