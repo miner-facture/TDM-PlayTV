@@ -735,15 +735,18 @@
 			"id": "425996",
 			"name": "MODO VIAGEM",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg",
+			"logoUrl": "https://api.reidoscanais.ooo/img/modoviagem.svg",
 			"streamUrl": "https://rdcstream.life/live/modoviagem/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanaisplus.com/",
-				"Origin": "https://vipcanaisplus.com",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
 			"isYoutube": false,
