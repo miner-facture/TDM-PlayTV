@@ -18,7 +18,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426156",
+			"id": "426108",
 			"name": "CNN Brasil",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
@@ -33,8 +33,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426156",
-			"tvgId": "426156",
+			"epgId": "426108",
+			"tvgId": "426108",
 			"channelNumber": "506"
 		},
 		{
@@ -76,7 +76,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426168",
+			"id": "426199",
 			"name": "GloboNews",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/globonews.png",
@@ -91,13 +91,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426168",
-			"tvgId": "426168",
+			"epgId": "426199",
+			"tvgId": "426199",
 			"channelNumber": "505",
 			"backdropUrl": ""
 		},
 		{
-			"id": "523352",
+			"id": "426126",
 			"name": "Record News",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/recordnews.png",
@@ -108,13 +108,13 @@
 			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523352",
-			"tvgId": "523352",
+			"epgId": "426126",
+			"tvgId": "426126",
 			"channelNumber": "501",
 			"backdropUrl": ""
 		},
 		{
-			"id": "523298",
+			"id": "426178",
 			"name": "SBT",
 			"category": "TV Aberta",
 			"logoUrl": "https://api.reidoscanais.ooo/img/sbt.png",
@@ -129,13 +129,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523298",
-			"tvgId": "523298",
+			"epgId": "426178",
+			"tvgId": "426178",
 			"channelNumber": "101",
 			"backdropUrl": ""
 		},
 		{
-			"id": "426029",
+			"id": "426186",
 			"name": "Globo RJ",
 			"category": "TV Aberta",
 			"logoUrl": "https://vipcanaisplus.com/images/globo.webp",
@@ -150,8 +150,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426029",
-			"tvgId": "426029",
+			"epgId": "426186",
+			"tvgId": "426186",
 			"channelNumber": "5",
 			"backdropUrl": ""
 		},
@@ -177,7 +177,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426071",
+			"id": "425966",
 			"name": "Record RJ",
 			"category": "TV Aberta",
 			"logoUrl": "https://api.reidoscanais.ooo/img/record.png",
@@ -193,7 +193,7 @@
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "426071",
-			"tvgId": "426071",
+			"tvgId": "425966",
 			"channelNumber": "7",
 			"backdropUrl": ""
 		},
@@ -273,7 +273,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426201",
+			"id": "426020",
 			"name": "HGTV",
 			"category": "Variedades",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hgtv.png",
@@ -284,8 +284,8 @@
 			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426201",
-			"tvgId": "426201",
+			"epgId": "426020",
+			"tvgId": "426020",
 			"channelNumber": "99",
 			"backdropUrl": ""
 		},
@@ -417,7 +417,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "523350",
+			"id": "425963",
 			"name": "Warner Channel",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://vipcanaisplus.com/images/warner.png",
@@ -435,13 +435,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523350",
-			"tvgId": "523350",
+			"epgId": "425963",
+			"tvgId": "425963",
 			"channelNumber": "155",
 			"backdropUrl": ""
 		},
 		{
-			"id": "523321",
+			"id": "425979",
 			"name": "Multishow",
 			"category": "Entretenimento",
 			"logoUrl": "https://api.reidoscanais.ooo/img/multishow.png",
@@ -456,13 +456,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523321",
-			"tvgId": "523321",
+			"epgId": "425979",
+			"tvgId": "425979",
 			"channelNumber": "162",
 			"backdropUrl": ""
 		},
 		{
-			"id": "426132",
+			"id": "426040",
 			"name": "AMC",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/amc.png",
@@ -477,8 +477,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426132",
-			"tvgId": "426132",
+			"epgId": "426040",
+			"tvgId": "426040",
 			"channelNumber": "154",
 			"backdropUrl": ""
 		},
@@ -567,7 +567,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426181",
+			"id": "426123",
 			"name": "TELECINE PREMIUM",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
@@ -582,13 +582,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426181",
-			"tvgId": "426181",
+			"epgId": "426123",
+			"tvgId": "426123",
 			"channelNumber": "203",
 			"backdropUrl": ""
 		},
 		{
-			"id": "523346",
+			"id": "426131",
 			"name": "TELECINE ACTION",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
@@ -603,13 +603,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523346",
-			"tvgId": "523346",
+			"epgId": "426131",
+			"tvgId": "426131",
 			"channelNumber": "204",
 			"backdropUrl": ""
 		},
 		{
-			"id": "425987",
+			"id": "426159",
 			"name": "TELECINE TOUCH",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png",
@@ -624,13 +624,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "425987",
-			"tvgId": "425987",
+			"epgId": "426159",
+			"tvgId": "426159",
 			"channelNumber": "205",
 			"backdropUrl": ""
 		},
 		{
-			"id": "426087",
+			"id": "426183",
 			"name": "TELECINE FUN",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-fun-252x252.png",
@@ -644,13 +644,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426087",
-			"tvgId": "426087",
+			"epgId": "426183",
+			"tvgId": "426183",
 			"channelNumber": "206",
 			"backdropUrl": ""
 		},
 		{
-			"id": "523291",
+			"id": "426065",
 			"name": "TELECINE PIPOCA",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png",
@@ -665,13 +665,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523291",
-			"tvgId": "523291",
+			"epgId": "426065",
+			"tvgId": "426065",
 			"channelNumber": "207",
 			"backdropUrl": ""
 		},
 		{
-			"id": "523347",
+			"id": "426009",
 			"name": "SPACE",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/space.png",
@@ -686,13 +686,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523347",
-			"tvgId": "523347",
+			"epgId": "426009",
+			"tvgId": "426009",
 			"channelNumber": "299",
 			"backdropUrl": ""
 		},
 		{
-			"id": "523276",
+			"id": "426103",
 			"name": "GNT",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/gnt.png",
@@ -707,8 +707,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523276",
-			"tvgId": "523276",
+			"epgId": "426103",
+			"tvgId": "426103",
 			"channelNumber": "300",
 			"backdropUrl": ""
 		},
@@ -758,7 +758,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426044",
+			"id": "426140",
 			"name": "AXN",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/axn.png",
@@ -773,13 +773,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426044",
-			"tvgId": "426044",
+			"epgId": "426140",
+			"tvgId": "426140",
 			"channelNumber": "303",
 			"backdropUrl": ""
 		},
 		{
-			"id": "425996",
+			"id": "426006",
 			"name": "MODO VIAGEM",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://i.ibb.co/0jt6k2w6/modoviagem.png",
@@ -797,13 +797,13 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "425996",
-			"tvgId": "425996",
+			"epgId": "426006",
+			"tvgId": "426006",
 			"channelNumber": "305",
 			"backdropUrl": ""
 		},
 		{
-			"id": "426206",
+			"id": "426074",
 			"name": "Food Network",
 			"category": "Lifestyle",
 			"logoUrl": "https://api.reidoscanais.ooo/img/foodnetwork.png",
@@ -818,8 +818,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426206",
-			"tvgId": "426206",
+			"epgId": "426074",
+			"tvgId": "426074",
 			"channelNumber": "160",
 			"backdropUrl": ""
 		},
@@ -887,7 +887,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426085",
+			"id": "426149",
 			"name": "History",
 			"category": "Documentários",
 			"logoUrl": "https://vipcanaisplus.com/images/history.png",
@@ -902,8 +902,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426085",
-			"tvgId": "426085",
+			"epgId": "426149",
+			"tvgId": "426149",
 			"channelNumber": "180",
 			"backdropUrl": ""
 		},
@@ -971,7 +971,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "426081",
+			"id": "426090",
 			"name": "HBO Family",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hbofamily.png",
@@ -986,8 +986,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "426081",
-			"tvgId": "426081",
+			"epgId": "426090",
+			"tvgId": "426090",
 			"channelNumber": "154",
 			"backdropUrl": ""
 		},
@@ -1139,7 +1139,7 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "523292",
+			"id": "426106",
 			"name": "Discovery Theater",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoverytheater.png",
@@ -1154,8 +1154,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "523292",
-			"tvgId": "523292",
+			"epgId": "426106",
+			"tvgId": "426106",
 			"channelNumber": "162",
 			"backdropUrl": ""
 		},
