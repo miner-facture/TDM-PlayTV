@@ -352,7 +352,7 @@
 			"name": "Megapix",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/megapix.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/megapix/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/megapix/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -373,7 +373,7 @@
 			"name": "Cinemax",
 			"category": "Filmes",
 			"logoUrl": "https://vipcanaisplus.com/images/cinemax.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/cinemax/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/cinemax/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -397,7 +397,7 @@
 			"name": "Studio Universal",
 			"category": "Filmes",
 			"logoUrl": "https://api.reidoscanais.ooo/img/studiouniversal.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/studiouniversal/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/studiouniversal/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -466,7 +466,7 @@
 			"name": "AMC",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/amc.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/amc/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/amc/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -487,7 +487,7 @@
 			"name": "AMC SÉRIES",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://vipcanaisplus.com/images/amcseries.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/amcseries/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/amcseries/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -508,7 +508,7 @@
 			"name": "TNT",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tnt.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/tnt/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/tnt/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -529,7 +529,7 @@
 			"name": "TNT Series",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntseries.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/tntseries/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/tntseries/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -550,7 +550,7 @@
 			"name": "TNT NOVELAS",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntnovelas.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/tntnovelas/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/tntnovelas/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -613,7 +613,7 @@
 			"name": "TELECINE TOUCH",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/tctouch/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/tctouch/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -634,7 +634,7 @@
 			"name": "TELECINE FUN",
 			"category": "Filmes",
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-fun-252x252.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/live/telecinefun/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/live/telecinefun/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -696,7 +696,7 @@
 			"name": "GNT",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/gnt.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/gnt/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/gnt/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -762,7 +762,7 @@
 			"name": "AXN",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/axn.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/axn/index.m3u8",
+			"streamUrl": "https://3006.cdnvipcanais.xyz/axn/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.app/",
 				"Origin": "https://vipcanais.app",
@@ -1390,7 +1390,7 @@
 		{
 			"id": "the_pitt",
 			"title": "The Pitt ",
-			"coverUrl": "https://i.ibb.co/tpcCjvqK/1778533214336.png",
+			"coverUrl": "https://i.ibb.co/6Rfggm15/da19c8b234f4050bd7fee2f7cf38732a0b19fae725bcb2a0d3d11fe01b25ed86-SX1080-FMjpg.jpg",
 			"seasonsInfo": "2 Temporadas",
 			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
 			"year": "2025",
@@ -1416,7 +1416,7 @@
 							"episodeNumber": 2,
 							"thumbUrl": "",
 							"description": "Robby ajuda irmãos a lidar com os cuidados terminais de seu pai idoso.",
-							"streamUrl": ""
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X2.mp4"
 						},
 						{
 							"id": "the_pitt_s1_e3",
@@ -1424,7 +1424,7 @@
 							"episodeNumber": 3,
 							"thumbUrl": "",
 							"description": "Samira faz o possível para manter Whitaker no caminho certo. A overdose de uma pessoa jovem provoca conflitos no pronto-socorro.",
-							"streamUrl": ""
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X3.mp4"
 						},
 						{
 							"id": "the_pitt_s1_e4",
@@ -1432,7 +1432,7 @@
 							"episodeNumber": 4,
 							"thumbUrl": "",
 							"description": "São feitas apostas sobre o paradeiro de uma ambulância roubada, enquanto Santos aprende uma lição e Whitaker ajuda a acalmar 'O Kraken'.",
-							"streamUrl": ""
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X4.mp4"
 						},
 						{
 							"id": "the_pitt_s1_e5",
@@ -1440,7 +1440,7 @@
 							"episodeNumber": 5,
 							"thumbUrl": "",
 							"description": "Santos e Collins lidam com dilemas morais. A abordagem cuidadosa de Samira recebe elogios dos pacientes e repreensão de Robby.",
-							"streamUrl": ""
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X5.mp4"
 						},
 						{
 							"id": "the_pitt_s1_e6",
@@ -1448,7 +1448,7 @@
 							"episodeNumber": 6,
 							"thumbUrl": "",
 							"description": "Enquanto Robby enfrenta um ultimato do hospital, Mel, Javadi e Collins cuidam de suas próprias dinâmicas entre mães e filhas.",
-							"streamUrl": ""
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X6.mp4"
 						},
 						{
 							"id": "the_pitt_s1_e7",
@@ -1456,7 +1456,7 @@
 							"episodeNumber": 7,
 							"thumbUrl": "",
 							"description": "Após examinar uma influenciadora com sintomas estranhos, Samira contesta Robby. Santos lida com um paciente acusado de assédio.",
-							"streamUrl": ""
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X7.mp4"
 						},
 						{
 							"id": "the_pitt_s1_e8",
@@ -1464,13 +1464,69 @@
 							"episodeNumber": 8,
 							"thumbUrl": "",
 							"description": "Robby cuida de um paciente idoso precisando de um novo marcapasso, que revela seu passado como integrante do inovador programa de paramédicos Freedom House em Pittsburgh.",
-							"streamUrl": ""
-						}
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X8.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e9",
+							"title": "3:00 P.M.",
+							"episodeNumber": 9,
+							"thumbUrl": "",
+							"description": "Depois de Robby conduzir uma reunião de balanço comovente sobre um caso difícil, Dana separa uma briga entre duas mães na sala de espera. Whitaker encontra um denominador comum com o “Kraken.”",
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X9.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e10",
+							"title": "4:00 P.M.",
+							"episodeNumber": 10,
+							"thumbUrl": "",
+							"description": "Com um desfalque de pessoal no Pitt, Robby recorre à sua equipe para compensá-lo. Enquanto Whitaker dá apoio à esposa de uma vítima de queimadura e Samira toma a frente para cuidar de um jovem gamer que sofreu um derrame.",
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X10.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e11",
+							"title": "5:00 P.M.",
+							"episodeNumber": 11,
+							"thumbUrl": "",
+							"description": "Enquanto Collins orienta uma mãe substituta em um parto difícil, Robby se esforça para manter a discrição sobre uma situação na equipe. McKay confronta a namorada desrespeitosa do seu ex, e Whitaker vê Samira lidar com um paciente em busca de drogas.",
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X11.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e12",
+							"title": "6:00 P.M.",
+							"episodeNumber": 12,
+							"thumbUrl": "",
+							"description": "Pacientes críticos lotam a emergência, Robby e sua equipe têm dificuldades com os suprimentos se esgotando rapidamente. Mais tarde, o pensamento rápido de Javadi impressiona um cirurgião importante e Mel fica de olho em uma mãe e um filho feridos.",
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X12.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e13",
+							"title": "7:00 P.M.",
+							"episodeNumber": 13,
+							"thumbUrl": "",
+							"description": "Quando o turno da noite começa e o número de mortos cresce, Robby se recusa a desistir de uma vítima de um desastre, mesmo após a intervenção de Abbott.",
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X13.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e14",
+							"title": "8:00 P.M.",
+							"episodeNumber": 14,
+							"thumbUrl": "",
+							"description": "Enquanto Robby lida com uma perda, Abbott orienta Samira em um procedimento arriscado, e Mel cuida de um adolescente.",
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X14.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e15",
+							"title": "9:00 P.M.",
+							"episodeNumber": 15,
+							"thumbUrl": "",
+							"description": "Enquanto o turno do dia está prestes a acabar, Robby recorre a métodos pouco convencionais para convencer o pai de um adolescente em estado crítico a autorizar o tratamento.",
+							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X15.mp4"
+						},
 					]
 				},
 				{
 					"number": 2,
-					"coverUrl": "https://i.ibb.co/1fdPqJWD/the-pitt-1.jpg",
+					"coverUrl": "https://i.ibb.co/nNmmSdBx/the-pitt-1.jpg",
 					"episodes": [
 						{
 							"id": "the_pitt_s2_e1",
@@ -1534,6 +1590,63 @@
 							"episodeNumber": 8,
 							"thumbUrl": "",
 							"description": "Com a pane no sistema de TI, Princess gerencia um pronto-socorro totalmente analógico. Al-Hashimi, Mohan e King avaliam uma mulher com cegueira repentina.",
+							"streamUrl": ""
+						},						
+						{
+							"id": "the_pitt_s2_e9",
+							"title": "3:00 P.M.",
+							"episodeNumber": 9,
+							"thumbUrl": "",
+							"description": "Quando um paciente de Javadi acaba negligenciado, Dana chama um velho amigo com experiência em administrar um pronto-socorro com poucos recursos.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e10",
+							"title": "4:00 P.M.",
+							"episodeNumber": 10,
+							"thumbUrl": "",
+							"description": "Após um incidente em um parque aquático próximo, vários pacientes em estado crítico são levados às pressas ao Pitt.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e11",
+							"title": "5:00 P.M.",
+							"episodeNumber": 11,
+							"thumbUrl": "",
+							"description": "Enquanto King se esforça para lidar com a recém-descoberta independência da irmã, McKay traz Ogilvie para ajudar no atendimento a um paciente em campo. Mais tarde, pacientes e funcionários ficam apreensivos com uma presença inesperada no pronto-socorro.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e12",
+							"title": "6:00 P.M.",
+							"episodeNumber": 12,
+							"thumbUrl": "",
+							"description": "Após defender seu estagiário, Dana entra em conflito com Robby sobre seus métodos - e sobre o período sabático dele que se aproxima.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e13",
+							"title": "7:00 P.M.",
+							"episodeNumber": 13,
+							"thumbUrl": "",
+							"description": "Com o início do turno da noite, o paciente de Mohan que havia se dado alta volta ao pronto-socorro.",
+							"streamUrl": ""
+						},
+						{
+							"id": "the_pitt_s2_e14",
+							"title": "8:00 P.M.",
+							"episodeNumber": 14,
+							"thumbUrl": "",
+							"description": "Enquanto Dana compartilha seus receios sobre a viagem dele, a moto de Robby sofre um acidente na área de ambulâncias. Mais tarde, uma lesão de medula obriga Langdon e Robby a tentarem um procedimento arriscado para salvar um paciente da paralisia.",
+							"streamUrl": ""
+
+						},
+						{
+							"id": "the_pitt_s2_e15",
+							"title": "9:00 P.M.",
+							"episodeNumber": 15,
+							"thumbUrl": "",
+							"description": "Enquanto o turno do dia está prestes a acabar, Robby recorre a métodos pouco convencionais para convencer o pai de um adolescente em estado crítico a autorizar o tratamento.",
 							"streamUrl": ""
 						}
 					]
