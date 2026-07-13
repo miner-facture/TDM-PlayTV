@@ -1359,21 +1359,21 @@
 	],
 	"movies": [
 		{
-			"id": "m1",
-			"title": "Meu Primeiro Amor",
-			"year": "1991",
-			"coverUrl": "https://i.pinimg.com/736x/8c/49/2f/8c492fc87f33a5e65cf1b07c5b402208.jpg",
-			"description": "Vada Sultenfuss é uma menina solitária, inteligente e hipocondríaca que vive na Pensilvânia em 1972 My Girl (filme). Como sua mãe morreu no parto e seu pai, Harry (Dan Aykroyd), edica todo o seu tempo ao trabalho na funerária local, Vada cresce fascinada e assustada com a morte. Diretor e Elenco •Howard Zieff • Macaulay Culkin, Anna Chlumsky, Dan Aykroyd, Jamie Lee Curtis, Richard Masur Produtoras • Columbia Pictures, Imagine Entertainment",
-			"streamUrl": "https://ia903105.us.archive.org/17/items/meu-primeiro-amor_202607/Meu%20Primeiro%20Amor.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
 			"id": "m2",
 			"title": "As Ovelhas Detetives",
 			"year": "2026",
 			"coverUrl": "https://i.ibb.co/BK7WskV7/As-Ovelhas-Detetives.png",
 			"description": "George é um pastor que lê romances policiais para suas queridas ovelhas todas as noites, acreditando que elas não conseguem entender. Mas, quando um incidente misterioso interrompe a vida na fazenda, as ovelhas percebem que precisam se tornar as detetives. Ao seguir as pistas e investigar suspeitos humanos, elas provam que até mesmo ovelhas podem ser brilhantes solucionadoras de crimes.",
 			"streamUrl": "https://ia601607.us.archive.org/12/items/um.-ato.-de.-coragem/As%20Ovelhas%20Detetives.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m1",
+			"title": "Meu Primeiro Amor",
+			"year": "1991",
+			"coverUrl": "https://i.pinimg.com/736x/8c/49/2f/8c492fc87f33a5e65cf1b07c5b402208.jpg",
+			"description": "Vada Sultenfuss é uma menina solitária, inteligente e hipocondríaca que vive na Pensilvânia em 1972 My Girl (filme). Como sua mãe morreu no parto e seu pai, Harry (Dan Aykroyd), edica todo o seu tempo ao trabalho na funerária local, Vada cresce fascinada e assustada com a morte. Diretor e Elenco •Howard Zieff • Macaulay Culkin, Anna Chlumsky, Dan Aykroyd, Jamie Lee Curtis, Richard Masur Produtoras • Columbia Pictures, Imagine Entertainment",
+			"streamUrl": "https://ia903105.us.archive.org/17/items/meu-primeiro-amor_202607/Meu%20Primeiro%20Amor.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
@@ -1412,7 +1412,7 @@
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
-				{
+		{
 			"id": "m7",
 			"title": "Nome_do_filme",
 			"year": "Ano",
@@ -1421,7 +1421,7 @@
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
-				{
+		{
 			"id": "m8",
 			"title": "Nome_do_filme",
 			"year": "Ano",
@@ -1430,7 +1430,7 @@
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
-				{
+		{
 			"id": "m9",
 			"title": "Nome_do_filme",
 			"year": "Ano",
@@ -1439,7 +1439,7 @@
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
-				{
+		{
 			"id": "m10",
 			"title": "Nome_do_filme",
 			"year": "Ano",
@@ -1448,7 +1448,6 @@
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		}
-		
 	],
 	"series": [
 		{
@@ -1646,7 +1645,7 @@
 							"episodeNumber": 7,
 							"thumbUrl": "",
 							"description": "Dana atende uma vítima de agressão sexual, Abbot ajuda um policial ferido e Mohan tenta manter um paciente sem plano de saúde no pronto-socorro.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X7.mp4" 
+							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X7.mp4"
 						},
 						{
 							"id": "the_pitt_s2_e8",
@@ -1655,7 +1654,7 @@
 							"thumbUrl": "",
 							"description": "Com a pane no sistema de TI, Princess gerencia um pronto-socorro totalmente analógico. Al-Hashimi, Mohan e King avaliam uma mulher com cegueira repentina.",
 							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X8.mp4"
-						},						
+						},
 						{
 							"id": "the_pitt_s2_e9",
 							"title": "3:00 P.M.",
@@ -1703,7 +1702,6 @@
 							"thumbUrl": "",
 							"description": "Enquanto Dana compartilha seus receios sobre a viagem dele, a moto de Robby sofre um acidente na área de ambulâncias. Mais tarde, uma lesão de medula obriga Langdon e Robby a tentarem um procedimento arriscado para salvar um paciente da paralisia.",
 							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X14.mp4"
-
 						},
 						{
 							"id": "the_pitt_s2_e15",
