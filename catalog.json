@@ -1,6 +1,30 @@
 {
 	"liveChannels": [
 		{
+			"id": "426011",
+			"name": "BIS",
+			"category": "Música",
+			"logoUrl": "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png",
+			"streamUrl": "https://rdcstream.life/live/bis/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426011",
+			"tvgId": "426011",
+			"channelNumber": "220",
+			"backdropUrl": ""
+		},
+		{
 			"id": "traceurban",
 			"name": "Trace Urban",
 			"category": "Música",
@@ -219,23 +243,6 @@
 			"epgId": "523315",
 			"tvgId": "523315",
 			"channelNumber": "104",
-			"backdropUrl": ""
-		},
-		{
-			"id": "426195",
-			"name": "SIC HD",
-			"category": "Variedades",
-			"logoUrl": "https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1/original",
-			"streamUrl": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426195",
-			"tvgId": "426195",
-			"channelNumber": "118",
 			"backdropUrl": ""
 		},
 		{
@@ -824,6 +831,30 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "426041",
+			"name": "Combate",
+			"category": "Esportes",
+			"logoUrl": "https://i.ibb.co/7NJVGHrg/combate.png",
+			"streamUrl": "https://rdcstream.life/live/combate/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426041",
+			"tvgId": "426041",
+			"channelNumber": "340",
+			"backdropUrl": ""
+		},
+		{
 			"id": "418725",
 			"name": "ESPN",
 			"category": "Esportes",
@@ -1359,7 +1390,7 @@
 	],
 	"movies": [
 		{
-			"id": "m2",
+			"id": "m1",
 			"title": "As Ovelhas Detetives",
 			"year": "2026",
 			"coverUrl": "https://i.ibb.co/BK7WskV7/As-Ovelhas-Detetives.png",
@@ -1368,7 +1399,7 @@
 			"trailerYoutubeId": ""
 		},
 		{
-			"id": "m1",
+			"id": "m2",
 			"title": "Meu Primeiro Amor",
 			"year": "1991",
 			"coverUrl": "https://i.pinimg.com/736x/8c/49/2f/8c492fc87f33a5e65cf1b07c5b402208.jpg",
@@ -1387,28 +1418,28 @@
 		},
 		{
 			"id": "m4",
-			"title": "Nome_do_filme",
-			"year": "Ano",
-			"coverUrl": "link_png",
-			"description": "Texto_descritivo.",
+			"title": "Relatos do Mundo",
+			"year": "2021",
+			"coverUrl": "https://i.ibb.co/FkKxxL6B/Relatos-do-Mundo.png",
+			"description": "Em Relatos do Mundo, no ano de 1870, o Capitão Jefferson Kyle Kidd, um viúvo que já lutou em duas guerras, viaja através do Texas oferecendo notícias do mundo para as pessoas, apesar dos jornais estarem se tornando cada vez mais acessíveis. Ele aceita uma proposta para levar uma menina de 10 anos, Johanna, até seus familiares.",
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
 		{
 			"id": "m5",
-			"title": "Nome_do_filme",
-			"year": "Ano",
-			"coverUrl": "link_png",
-			"description": "Texto_descritivo.",
+			"title": "Intocáveis",
+			"year": "2011",
+			"coverUrl": "https://i.ibb.co/YB3rvCxK/intocaveis.jpg",
+			"description": "narra a amizade improvável entre Philippe (François Cluzet), um aristocrata milionário que ficou tetraplégico após um acidente, e Driss (Omar Sy), um jovem problemático da periferia contratado para ser seu cuidador. Baseado em uma história real, o filme mistura humor e drama ao unir dois mundos completamente opostos.",
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
 		{
 			"id": "m6",
-			"title": "Nome_do_filme",
-			"year": "Ano",
-			"coverUrl": "link_png",
-			"description": "Texto_descritivo.",
+			"title": "Quando a Guerra Acabar",
+			"year": "2023",
+			"coverUrl": "https://i.ibb.co/Xf9VQbQD/images.jpg",
+			"description": "Quando o diretor de uma escola secundária recebe ordens de abrigar mais de 500 refugiados civis alemães nos últimos dias da ocupação, ele e sua esposa Lis são colocados em um dilema impossível.",
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
