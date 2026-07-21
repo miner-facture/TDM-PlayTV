@@ -1,6 +1,5 @@
 {
 	"liveChannels": [
-
 		{
 			"id": "traceurban",
 			"name": "Trace Urban",
@@ -1935,6 +1934,14 @@
 							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGEyNjg1YjEtODQ4NS00MjBjLWIyODUtMDU5OWIxNTk3MGQwXkEyXkFqcGc@._V1_FMjpg_UX694_.jpg",
 							"description": "À medida que os Aliados avançam para a Alemanha e a guerra se aproxima do fim, a desilusão e a raiva tomam conta da Easy Company, até que eles tropeçam em um campo de concentração abandonado pelo exército alemão.",
 							"streamUrl": "https://lh3.googleusercontent.com/KoVn78DlSrZ_OldKvdfiUcirQrG-SoxIUEUJPQNRiWQ=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e10",
+							"title": "Pontos",
+							"episodeNumber": 10,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BN2E0MDhjNjItNDNlNi00YmU3LWE4NmEtYzkwMWJmZDdmZjEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+							"description": "A Easy Company entra na Áustria e toma o 'Ninho da Águia' de Hitler em Berchtesgaden. Com a rendição da Alemanha, os soldados refletem sobre seus futuros e buscam acumular pontos suficientes para voltar para casa.",
+							"streamUrl": "https://lh3.googleusercontent.com/3N4o5W8Jg-s8X_3e8f8w5Q8Y9L_z1234567890abcdef=m18?GrupoUp&Down"
 						}
 					]
 				}
