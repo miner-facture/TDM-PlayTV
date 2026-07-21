@@ -1,29 +1,6 @@
-{
+
 	"liveChannels": [
-		{
-			"id": "426011",
-			"name": "BIS",
-			"category": "Música",
-			"logoUrl": "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png",
-			"streamUrl": "https://rdcstream.life/live/bis/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {
-				"Referer": "https://playerembed.xyz/",
-				"Origin": "https://playerembed.xyz",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426011",
-			"tvgId": "426011",
-			"channelNumber": "220",
-			"backdropUrl": ""
-		},
+
 		{
 			"id": "traceurban",
 			"name": "Trace Urban",
@@ -48,11 +25,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/cnnbrasil/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -60,6 +37,27 @@
 			"epgId": "426108",
 			"tvgId": "426108",
 			"channelNumber": "506"
+		},
+		{
+			"id": "425977",
+			"name": "BANDNEWS",
+			"category": "Notícias",
+			"logoUrl": "https://vipcanais.net/images/bandnews.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/bandnews/index.m3u8",
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "425977",
+			"tvgId": "425977",
+			"channelNumber": "104",
+			"backdropUrl": ""
 		},
 		{
 			"id": "523278",
@@ -85,11 +83,11 @@
 			"logoUrl": "https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/jovempannews/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -106,11 +104,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/globonews.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/globonews/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -144,11 +142,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/sbt.png",
 			"streamUrl": "https://1906.cdnvipcanais.xyz/sbtsp/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -165,11 +163,11 @@
 			"logoUrl": "https://vipcanaisplus.com/images/globo.webp",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/globorj/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -186,11 +184,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/tvcultura.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/tvcultura/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -207,11 +205,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/record.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/recordrj/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -231,11 +229,11 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -340,11 +338,11 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -361,11 +359,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/megapix.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/megapix/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -385,11 +383,11 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -409,11 +407,11 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -433,11 +431,11 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -454,11 +452,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/multishow.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/multishow/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -469,17 +467,41 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "426011",
+			"name": "BIS",
+			"category": "Música",
+			"logoUrl": "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png",
+			"streamUrl": "https://rdcstream.life/live/bis/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
+				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
+				"sec-ch-ua-platform": "\"Windows\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "426011",
+			"tvgId": "426011",
+			"channelNumber": "220",
+			"backdropUrl": ""
+		},
+		{
 			"id": "426040",
 			"name": "AMC",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/amc.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/amc/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -496,11 +518,11 @@
 			"logoUrl": "https://vipcanaisplus.com/images/amcseries.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/amcseries/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -517,11 +539,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/tnt.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/tnt/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -538,11 +560,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntseries.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/tntseries/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -559,11 +581,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/tntnovelas.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/tntnovelas/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -580,11 +602,11 @@
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tcpremium/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -601,11 +623,11 @@
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-action-252x252.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tcaction/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -622,11 +644,11 @@
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-touch-252x252.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/tctouch/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -663,11 +685,11 @@
 			"logoUrl": "https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-pipoca-252x252.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/tcpipoca/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -684,11 +706,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/space.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/space/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -705,11 +727,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/gnt.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/gnt/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -726,11 +748,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/universaltv.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/universaltv/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -771,11 +793,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/axn.png",
 			"streamUrl": "https://3006.cdnvipcanais.xyz/axn/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -816,11 +838,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/foodnetwork.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/foodnetwork/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -861,11 +883,11 @@
 			"logoUrl": "https://api.reidoscanais.ooo/img/espn.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/espn/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -882,11 +904,11 @@
 			"logoUrl": "https://logowik.com/content/uploads/images/espn24510.jpg",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/espn2/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -903,11 +925,11 @@
 			"logoUrl": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/espn3/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
@@ -924,909 +946,11 @@
 			"logoUrl": "https://vipcanaisplus.com/images/history.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/history/index.m3u8",
 			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
 				"sec-fetch-mode": "cors"
 			},
 			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426149",
-			"tvgId": "426149",
-			"channelNumber": "180",
-			"backdropUrl": ""
-		},
-		{
-			"id": "417188",
-			"name": "History 2",
-			"category": "Documentários",
-			"logoUrl": "https://api.reidoscanais.ooo/img/history2.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/history2/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "417188",
-			"tvgId": "417188",
-			"channelNumber": "181",
-			"backdropUrl": ""
-		},
-		{
-			"id": "417383",
-			"name": "HBO",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hbo.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hbo/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "417383",
-			"tvgId": "417383",
-			"channelNumber": "152",
-			"backdropUrl": ""
-		},
-		{
-			"id": "426070",
-			"name": "HBO 2",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hbo2.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hbo2/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426070",
-			"tvgId": "426070",
-			"channelNumber": "153",
-			"backdropUrl": ""
-		},
-		{
-			"id": "426090",
-			"name": "HBO Family",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hbofamily.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hbofamily/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426090",
-			"tvgId": "426090",
-			"channelNumber": "154",
-			"backdropUrl": ""
-		},
-		{
-			"id": "426173",
-			"name": "HBO Signature",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hbosignature.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hbosignature/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426173",
-			"tvgId": "426173",
-			"channelNumber": "155",
-			"backdropUrl": ""
-		},
-		{
-			"id": "425973",
-			"name": "HBO Mundi",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://ecotel.com.ar/wp-content/uploads/2024/12/hbomundi.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hbomundi/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "425973",
-			"tvgId": "425973",
-			"channelNumber": "156",
-			"backdropUrl": ""
-		},
-		{
-			"id": "426015",
-			"name": "HBO Xtreme",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hboxtreme.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hboxtreme/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426015",
-			"tvgId": "426015",
-			"channelNumber": "157",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523328",
-			"name": "HBO Plus",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hboplus.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hboplus/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523328",
-			"tvgId": "523328",
-			"channelNumber": "158",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523328",
-			"name": "HBO MAX-UP",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://cdn.mitvstatic.com/channels/br_max-up-1_m.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hbopop/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523328",
-			"tvgId": "523328",
-			"channelNumber": "159",
-			"backdropUrl": ""
-		},
-		{
-			"id": "435551",
-			"name": "Discovery Home & Health",
-			"category": "Variedades",
-			"logoUrl": "https://embedcanaisdetv.com/images/discoveryhh.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryhh/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "435551",
-			"tvgId": "435551",
-			"channelNumber": "160",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523309",
-			"name": "Discovery Channel",
-			"category": "Documentários",
-			"logoUrl": "https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoverychannel/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523309",
-			"tvgId": "523309",
-			"channelNumber": "161",
-			"backdropUrl": ""
-		},
-		{
-			"id": "426106",
-			"name": "Discovery Theater",
-			"category": "Documentários",
-			"logoUrl": "https://api.reidoscanais.ooo/img/discoverytheater.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoverytheater/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426106",
-			"tvgId": "426106",
-			"channelNumber": "162",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523272",
-			"name": "Discovery World",
-			"category": "Documentários",
-			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryworld.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryworld/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523272",
-			"tvgId": "523272",
-			"channelNumber": "163",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523272",
-			"name": "Discovery ID",
-			"category": "Documentários",
-			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryid.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryid/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523272",
-			"tvgId": "523272",
-			"channelNumber": "164",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523359",
-			"name": "Discovery SCIENCE",
-			"category": "Documentários",
-			"logoUrl": "https://vipcanaisplus.com/images/discoveryscience.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryscience/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523359",
-			"tvgId": "523359",
-			"channelNumber": "165",
-			"backdropUrl": ""
-		},
-		{
-			"id": "417185",
-			"name": "Adult Swim",
-			"category": "Variedades",
-			"logoUrl": "https://api.reidoscanais.ooo/img/adultswim.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/adultswim/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "417185",
-			"tvgId": "417185",
-			"channelNumber": "404"
-		},
-		{
-			"id": "426169",
-			"name": "Gloobinho",
-			"category": "Infantil",
-			"logoUrl": "https://api.reidoscanais.ooo/img/gloobinho.png",
-			"streamUrl": "https://1906.cdnvipcanais.xyz/gloobinho/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426169",
-			"tvgId": "426169",
-			"channelNumber": "399",
-			"backdropUrl": ""
-		},
-		{
-			"id": "426063",
-			"name": "Gloob",
-			"category": "Infantil",
-			"logoUrl": "https://api.reidoscanais.ooo/img/gloob.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/gloob/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426063",
-			"tvgId": "426063",
-			"channelNumber": "400",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523325",
-			"name": "Cartoon Network",
-			"category": "Infantil",
-			"logoUrl": "https://api.reidoscanais.ooo/img/cartoonnetwork.webp",
-			"streamUrl": "https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523325",
-			"tvgId": "523325",
-			"channelNumber": "401",
-			"backdropUrl": ""
-		},
-		{
-			"id": "426130",
-			"name": "TV RA-TIM-BUM",
-			"category": "Infantil",
-			"logoUrl": "https://w7.pngwing.com/pngs/399/611/png-transparent-tv-ra-tim-bum-television-channel-nossa-tv-claro-tv-others-purple-television-violet-thumbnail.png",
-			"streamUrl": "https://cdn-5.nxplay.com.br/TV_RA_TIM_BUM/tracks-v2a1/mono.ts.m3u8?token=ff3ca6a3-1f5e-4ad2-a2fc-609daadc8b88",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "426130",
-			"tvgId": "426130",
-			"channelNumber": "402",
-			"backdropUrl": ""
-		},
-		{
-			"id": "523325_dreamworks",
-			"name": "DreamWorks Anime",
-			"category": "Infantil",
-			"logoUrl": "https://logosmarcas.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo-650x366.png",
-			"streamUrl": "https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523325",
-			"tvgId": "523325",
-			"channelNumber": "403",
-			"backdropUrl": ""
-		},
-		{
-			"id": "425998",
-			"name": "CARTOONITO",
-			"category": "Infantil",
-			"logoUrl": "https://vipcanais.app/images/cartoonito.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/cartoonito/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.app/",
-				"Origin": "https://vipcanais.app",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Avast/148.0.0.0",
-				"sec-ch-ua": "\"Chromium\";v=\"148\", \"Avast Secure Browser\";v=\"148\", \"Not/A)Brand\";v=\"99\"",
-				"sec-ch-ua-platform": "\"Windows\"",
-				"sec-fetch-mode": "cors"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "425998",
-			"tvgId": "425998",
-			"channelNumber": "404",
-			"backdropUrl": ""
-		}
-	],
-	"movies": [
-		{
-			"id": "m1",
-			"title": "As Ovelhas Detetives",
-			"year": "2026",
-			"coverUrl": "https://i.ibb.co/BK7WskV7/As-Ovelhas-Detetives.png",
-			"description": "George é um pastor que lê romances policiais para suas queridas ovelhas todas as noites, acreditando que elas não conseguem entender. Mas, quando um incidente misterioso interrompe a vida na fazenda, as ovelhas percebem que precisam se tornar as detetives. Ao seguir as pistas e investigar suspeitos humanos, elas provam que até mesmo ovelhas podem ser brilhantes solucionadoras de crimes.",
-			"streamUrl": "https://ia601607.us.archive.org/12/items/um.-ato.-de.-coragem/As%20Ovelhas%20Detetives.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m3",
-			"title": "Um Ato de Coragem",
-			"year": "2011",
-			"coverUrl": "https://i.ibb.co/LhJHPwKv/19878054.jpg",
-			"description": "O filho de John Q. Archibald precisa com urgência de um transplante de coração. Desesperado por não ter condições de pagar pela cirurgia, ele toma como refém toda a emergência de um hospital e passa a discutir uma solução com o chefe da polícia.",
-			"streamUrl": "https://ia601607.us.archive.org/12/items/um.-ato.-de.-coragem/Um.Ato.De.Coragem.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m4",
-			"title": "Relatos do Mundo",
-			"year": "2021",
-			"coverUrl": "https://i.ibb.co/FkKxxL6B/Relatos-do-Mundo.png",
-			"description": "Em Relatos do Mundo, no ano de 1870, o Capitão Jefferson Kyle Kidd, um viúvo que já lutou em duas guerras, viaja através do Texas oferecendo notícias do mundo para as pessoas, apesar dos jornais estarem se tornando cada vez mais acessíveis. Ele aceita uma proposta para levar uma menina de 10 anos, Johanna, até seus familiares.",
-			"streamUrl": "https://ia601904.us.archive.org/4/items/relatos.do.-mundo/Relatos.do.Mundo.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m5",
-			"title": "Intocáveis",
-			"year": "2011",
-			"coverUrl": "https://i.ibb.co/YB3rvCxK/intocaveis.jpg",
-			"description": "narra a amizade improvável entre Philippe (François Cluzet), um aristocrata milionário que ficou tetraplégico após um acidente, e Driss (Omar Sy), um jovem problemático da periferia contratado para ser seu cuidador. Baseado em uma história real, o filme mistura humor e drama ao unir dois mundos completamente opostos.",
-			"streamUrl": "https://ia800901.us.archive.org/5/items/quando.a.-guerra.-acabar/Intoc%C3%A1veis.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m6",
-			"title": "Quando a Guerra Acabar",
-			"year": "2023",
-			"coverUrl": "https://i.ibb.co/Xf9VQbQD/images.jpg",
-			"description": "Quando o diretor de uma escola secundária recebe ordens de abrigar mais de 500 refugiados civis alemães nos últimos dias da ocupação, ele e sua esposa Lis são colocados em um dilema impossível.",
-			"streamUrl": "https://ia600901.us.archive.org/5/items/quando.a.-guerra.-acabar/Quando.a.Guerra.Acabar.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m7",
-			"title": "Pegando Fogo",
-			"year": "2015",
-			"coverUrl": "https://i.ibb.co/JFWV4jrs/5801fd-f8d6b99bb0554e7fa419358bf3a64338.png",
-			"description": "Adam Jones já foi um respeitado chef em Paris, mas o abuso de drogas e álcool destruiu sua carreira. Após passar um tempo em Nova Orleans, ele tem uma nova oportunidade em Londres, quando é contratado por seu antigo maître para ser o chef de cozinha de um restaurante requintado.",
-			"streamUrl": "https://ia601904.us.archive.org/4/items/relatos.do.-mundo/pegando.fogo.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m8",
-			"title": "O Menu",
-			"year": "2022",
-			"coverUrl": "https://i.ibb.co/Y7ghvjYD/o-menu.jpg",
-			"description": "Um jovem casal viaja para uma ilha remota para comer em um restaurante exclusivo, onde o chef preparou um menu luxuoso, com algumas surpresas chocantes.",
-			"streamUrl": "https://ia601404.us.archive.org/18/items/o.menu/o.menu.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m9",
-			"title": "Nome_do_filme",
-			"year": "Ano",
-			"coverUrl": "link_png",
-			"description": "Texto_descritivo.",
-			"streamUrl": "link_do_video",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m10",
-			"title": "Nome_do_filme",
-			"year": "Ano",
-			"coverUrl": "link_png",
-			"description": "Texto_descritivo.",
-			"streamUrl": "link_do_video",
-			"trailerYoutubeId": ""
-		}
-	],
-	"series": [
-		{
-			"id": "the_pitt",
-			"title": "The Pitt ",
-			"coverUrl": "https://i.ibb.co/6Rfggm15/da19c8b234f4050bd7fee2f7cf38732a0b19fae725bcb2a0d3d11fe01b25ed86-SX1080-FMjpg.jpg",
-			"seasonsInfo": "2 Temporadas",
-			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
-			"year": "2025",
-			"genre": "Drama Médico",
-			"lastEpisodeInfo": "2ª Temporada Completa",
-			"trailerYoutubeId": "",
-			"seasons": [
-				{
-					"number": 1,
-					"coverUrl": "https://i.ibb.co/1fdPqJWD/the-pitt-1.jpg",
-					"episodes": [
-						{
-							"id": "the_pitt_s1_e1",
-							"title": "7:00 A.M.",
-							"episodeNumber": 1,
-							"thumbUrl": "",
-							"description": "Enquanto tenta se distrair do aniversário da morte de seu mentor, o Dr. Robby apresenta a rotina do pronto-socorro a um novo grupo de internos.",
-							"streamUrl": "https://ia600102.us.archive.org/10/items/700-a.-m/700%20A.M.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e2",
-							"title": "8:00 A.M.",
-							"episodeNumber": 2,
-							"thumbUrl": "",
-							"description": "Robby ajuda irmãos a lidar com os cuidados terminais de seu pai idoso.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X2.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e3",
-							"title": "9:00 A.M.",
-							"episodeNumber": 3,
-							"thumbUrl": "",
-							"description": "Samira faz o possível para manter Whitaker no caminho certo. A overdose de uma pessoa jovem provoca conflitos no pronto-socorro.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X3.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e4",
-							"title": "10:00 A.M.",
-							"episodeNumber": 4,
-							"thumbUrl": "",
-							"description": "São feitas apostas sobre o paradeiro de uma ambulância roubada, enquanto Santos aprende uma lição e Whitaker ajuda a acalmar 'O Kraken'.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X4.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e5",
-							"title": "11:00 A.M.",
-							"episodeNumber": 5,
-							"thumbUrl": "",
-							"description": "Santos e Collins lidam com dilemas morais. A abordagem cuidadosa de Samira recebe elogios dos pacientes e repreensão de Robby.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X5.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e6",
-							"title": "12:00 P.M.",
-							"episodeNumber": 6,
-							"thumbUrl": "",
-							"description": "Enquanto Robby enfrenta um ultimato do hospital, Mel, Javadi e Collins cuidam de suas próprias dinâmicas entre mães e filhas.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X6.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e7",
-							"title": "1:00 P.M.",
-							"episodeNumber": 7,
-							"thumbUrl": "",
-							"description": "Após examinar uma influenciadora com sintomas estranhos, Samira contesta Robby. Santos lida com um paciente acusado de assédio.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X7.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e8",
-							"title": "2:00 P.M.",
-							"episodeNumber": 8,
-							"thumbUrl": "",
-							"description": "Robby cuida de um paciente idoso precisando de um novo marcapasso, que revela seu passado como integrante do inovador programa de paramédicos Freedom House em Pittsburgh.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X8.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e9",
-							"title": "3:00 P.M.",
-							"episodeNumber": 9,
-							"thumbUrl": "",
-							"description": "Depois de Robby conduzir uma reunião de balanço comovente sobre um caso difícil, Dana separa uma briga entre duas mães na sala de espera. Whitaker encontra um denominador comum com o “Kraken.”",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X9.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e10",
-							"title": "4:00 P.M.",
-							"episodeNumber": 10,
-							"thumbUrl": "",
-							"description": "Com um desfalque de pessoal no Pitt, Robby recorre à sua equipe para compensá-lo. Enquanto Whitaker dá apoio à esposa de uma vítima de queimadura e Samira toma a frente para cuidar de um jovem gamer que sofreu um derrame.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X10.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e11",
-							"title": "5:00 P.M.",
-							"episodeNumber": 11,
-							"thumbUrl": "",
-							"description": "Enquanto Collins orienta uma mãe substituta em um parto difícil, Robby se esforça para manter a discrição sobre uma situação na equipe. McKay confronta a namorada desrespeitosa do seu ex, e Whitaker vê Samira lidar com um paciente em busca de drogas.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X11.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e12",
-							"title": "6:00 P.M.",
-							"episodeNumber": 12,
-							"thumbUrl": "",
-							"description": "Pacientes críticos lotam a emergência, Robby e sua equipe têm dificuldades com os suprimentos se esgotando rapidamente. Mais tarde, o pensamento rápido de Javadi impressiona um cirurgião importante e Mel fica de olho em uma mãe e um filho feridos.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X12.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e13",
-							"title": "7:00 P.M.",
-							"episodeNumber": 13,
-							"thumbUrl": "",
-							"description": "Quando o turno da noite começa e o número de mortos cresce, Robby se recusa a desistir de uma vítima de um desastre, mesmo após a intervenção de Abbott.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X13.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e14",
-							"title": "8:00 P.M.",
-							"episodeNumber": 14,
-							"thumbUrl": "",
-							"description": "Enquanto Robby lida com uma perda, Abbott orienta Samira em um procedimento arriscado, e Mel cuida de um adolescente.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X14.mp4"
-						},
-						{
-							"id": "the_pitt_s1_e15",
-							"title": "9:00 P.M.",
-							"episodeNumber": 15,
-							"thumbUrl": "",
-							"description": "Enquanto o turno do dia está prestes a acabar, Robby recorre a métodos pouco convencionais para convencer o pai de um adolescente em estado crítico a autorizar o tratamento.",
-							"streamUrl": "https://ia600602.us.archive.org/23/items/the-pitt-1-x-15/The%20Pitt%201X15.mp4"
-						}
-					]
-				},
-				{
-					"number": 2,
-					"coverUrl": "https://i.ibb.co/nNmmSdBx/the-pitt-1.jpg",
-					"episodes": [
-						{
-							"id": "the_pitt_s2_e1",
-							"title": "7:00 A.M.",
-							"episodeNumber": 1,
-							"thumbUrl": "",
-							"description": "Em 4 de julho, Robby se prepara para um período sabático e conhece seu substituto temporário, o Dr. Baran Al-Hashimi, um médico pragmático do Departamento para Assuntos de Veteranos. Mais tarde, alguém conhecido retorna ao Pitt.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X1.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e2",
-							"title": "8:00 A.M.",
-							"episodeNumber": 2,
-							"thumbUrl": "",
-							"description": "Distraída com seu depoimento iminente, King sofre uma queda. Enquanto isso, Al-Hashimi tenta revolucionar a tecnologia do departamento e Javadi avalia a concorrência.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X2.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e3",
-							"title": "9:00 A.M.",
-							"episodeNumber": 3,
-							"thumbUrl": "",
-							"description": "Após um acidente de motocicleta, um casal chega ao pronto-socorro. Robby cria laços com um sobrevivente do tiroteio na sinagoga Tree of Life.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X3.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e4",
-							"title": "10:00 A.M.",
-							"episodeNumber": 4,
-							"thumbUrl": "",
-							"description": "Com outro hospital fechado no dia mais movimentado do ano, Robby e a equipe atendem pacientes extras, incluindo a vítima de um acidente de parkour.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X4.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e5",
-							"title": "11:00 A.M.",
-							"episodeNumber": 5,
-							"thumbUrl": "",
-							"description": "Com o aumento constante de pacientes, incluindo um detento de uma prisão local, Robby e Langdon trabalham juntos para salvar um paciente querido.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X5.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e6",
-							"title": "12:00 P.M.",
-							"episodeNumber": 6,
-							"thumbUrl": "",
-							"description": "Enquanto a equipe lida com uma perda, Al-Hashimi e Robby continuam em conflito sobre o melhor tratamento para um paciente com sinais de desnutrição.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X6.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e7",
-							"title": "1:00 P.M.",
-							"episodeNumber": 7,
-							"thumbUrl": "",
-							"description": "Dana atende uma vítima de agressão sexual, Abbot ajuda um policial ferido e Mohan tenta manter um paciente sem plano de saúde no pronto-socorro.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X7.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e8",
-							"title": "2:00 P.M.",
-							"episodeNumber": 8,
-							"thumbUrl": "",
-							"description": "Com a pane no sistema de TI, Princess gerencia um pronto-socorro totalmente analógico. Al-Hashimi, Mohan e King avaliam uma mulher com cegueira repentina.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X8.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e9",
-							"title": "3:00 P.M.",
-							"episodeNumber": 9,
-							"thumbUrl": "",
-							"description": "Quando um paciente de Javadi acaba negligenciado, Dana chama um velho amigo com experiência em administrar um pronto-socorro com poucos recursos.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X9.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e10",
-							"title": "4:00 P.M.",
-							"episodeNumber": 10,
-							"thumbUrl": "",
-							"description": "Após um incidente em um parque aquático próximo, vários pacientes em estado crítico são levados às pressas ao Pitt.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X10.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e11",
-							"title": "5:00 P.M.",
-							"episodeNumber": 11,
-							"thumbUrl": "",
-							"description": "Enquanto King se esforça para lidar com a recém-descoberta independência da irmã, McKay traz Ogilvie para ajudar no atendimento a um paciente em campo. Mais tarde, pacientes e funcionários ficam apreensivos com uma presença inesperada no pronto-socorro.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X11.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e12",
-							"title": "6:00 P.M.",
-							"episodeNumber": 12,
-							"thumbUrl": "",
-							"description": "Após defender seu estagiário, Dana entra em conflito com Robby sobre seus métodos - e sobre o período sabático dele que se aproxima.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X12.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e13",
-							"title": "7:00 P.M.",
-							"episodeNumber": 13,
-							"thumbUrl": "",
-							"description": "Com o início do turno da noite, o paciente de Mohan que havia se dado alta volta ao pronto-socorro.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X13.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e14",
-							"title": "8:00 P.M.",
-							"episodeNumber": 14,
-							"thumbUrl": "",
-							"description": "Enquanto Dana compartilha seus receios sobre a viagem dele, a moto de Robby sofre um acidente na área de ambulâncias. Mais tarde, uma lesão de medula obriga Langdon e Robby a tentarem um procedimento arriscado para salvar um paciente da paralisia.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X14.mp4"
-						},
-						{
-							"id": "the_pitt_s2_e15",
-							"title": "9:00 P.M.",
-							"episodeNumber": 15,
-							"thumbUrl": "",
-							"description": "Enquanto o turno do dia está prestes a acabar, Robby recorre a métodos pouco convencionais para convencer o pai de um adolescente em estado crítico a autorizar o tratamento.",
-							"streamUrl": "https://ia601603.us.archive.org/4/items/episodio_2x1/Epis%C3%B3dio%202X15.mp4"
-						}
-					]
-				}
-			]
-		},
-		{
-			"id": "bob",
-			"title": "Band of Brothers",
-			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
-			"seasonsInfo": "1 Temporada",
-			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
-			"year": "2001",
-			"genre": "Guerra",
-			"lastEpisodeInfo": "Completo",
-			"trailerYoutubeId": "",
-			"seasons": [
-				{
-					"number": 1,
-					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
-					"episodes": [
-						{
-							"id": "bob_s1_e1",
-							"title": "Currahee",
-							"episodeNumber": 1,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjIxODYyNTQxOF5BMl5BanBnXkFtZTgwNzQyMzY1MTE@._V1_FMjpg_UX2160_.jpg",
-							"description": "A Easy Company passa por treinamento sob a liderança de um capitão que implacavelmente os leva aos seus limites, mas pode ser limitado como líder em campo.",
-							"streamUrl": "https://lh3.googleusercontent.com/h2s2SD5n3nYq6g3k8BXVlTEroRLGRxhrKE22ZH6kjVk=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e2",
-							"title": "Dia dos Dias",
-							"episodeNumber": 2,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjk2MTBjY2YtMjA2Ny00NjUwLThlMjMtODAwNzdkNDNhZTZmXkEyXkFqcGc@._V1_FMjpg_UX796_.jpg",
-							"description": "Paraquedistas da Easy Company saltam atrás das linhas inimigas na Normandia no Dia D e lutam para se reunir em território hostil.",
-							"streamUrl": "https://lh3.googleusercontent.com/0fE9fvYBJEJ9hw5Tq2XLps8_0UtjEW0vUI9am-KYlNw=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e3",
-							"title": "Carentan",
-							"episodeNumber": 3,
-							"thumbUrl": "http://i.imgur.com/2cIctoL.png",
-							"description": "A Easy Company enfrenta as tropas alemãs na cidade francesa de Carentan, e a batalha deixa um soldado profundamente traumatizado pela experiência.",
-							"streamUrl": "https://lh3.googleusercontent.com/WR2r_vCdbxUS_Vxhmj1680MdrUr2-o4Si2PUhz8gWQI=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e4",
-							"title": "Substituições",
-							"episodeNumber": 4,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZjc4Y2U4YjgtZjUzMi00MmVjLWE1MWUtZmZhNzUzODQ3NmRlXkEyXkFqcGc@._V1_FMjpg_UX1798_.jpg",
-							"description": "Com a adição de muitos novos homens, a Easy Company segue para a Holanda para participar da Operação Market Garden e preparar uma rota aliada para a Alemanha, mas eles encontram forte resistência alemã.",
-							"streamUrl": "https://lh3.googleusercontent.com/cNy5Djx4WnDC3HllB_U-RM8XuIJWnesu0Hf3S2U_RCE=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e5",
-							"title": "Encruzilhada",
-							"episodeNumber": 5,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNDRkYmMwYjItNjRlNC00NDRmLWIxMzQtNGQzZDljYWY2YmJmXkEyXkFqcGc@._V1_FMjpg_UX1920_.jpg",
-							"description": "Winters escreve um relatório sobre o desafio de uma resistência inesperada a um ataque alemão e é assombrado por sua consciência após atirar em um adolescente soldado alemão da SS.",
-							"streamUrl": "https://lh3.googleusercontent.com/FMvZVE2XASW4EngnS4xeDHROyMS2eZpETFJnx7BQIv4=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e6",
-							"title": "Bastogne",
-							"episodeNumber": 6,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZWQ4MjhkNjAtY2E3NC00MjA2LWIxNDYtMzYyMjc0NGU0NDVkXkEyXkFqcGc@._V1_FMjpg_UX965_.jpg",
-							"description": "Os homens da Companhia Easy lutam contra o frio e a fome - além do inimigo - enquanto defendem a linha em uma floresta nos arredores de Bastogne.",
-							"streamUrl": "https://lh3.googleusercontent.com/4RUu5-hIp9WjJDrUS0rhwD_kMs_LPbo5ZkDDOxz_4_k=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e7",
-							"title": "O Ponto de Ruptura",
-							"episodeNumber": 7,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTZiNWY0NzYtODg2Yy00MDZmLTg2ZGQtNzdmY2RiMWFlZjE1XkEyXkFqcGc@._V1_FMjpg_UX626_.jpg",
-							"description": "A Companhia Easy permanece na Floresta das Ardenas, preparando-se para um ataque inevitável às forças alemãs na cidade de Foy.",
-							"streamUrl": "https://lh3.googleusercontent.com/jpuMvnET-2CtdhCvuRLEX3vqP3zpx4fuoeOIwtONfTw=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e8",
-							"title": "A Última Patrulha",
-							"episodeNumber": 8,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMThhMzE4YTMtY2E4OS00OTlkLTkzMzktODhiODk1ZjMwY2M0XkEyXkFqcGc@._V1_FMjpg_UX980_.jpg",
-							"description": "A Companhia Easy está em Hagenau em fevereiro de 1945, onde se prepara para uma missão de patrulha noturna para capturar prisioneiros alemães.",
-							"streamUrl": "https://lh3.googleusercontent.com/syBjFdKGeEMFUBMoHJHTD7db6G3QZ22R-f-tJ31xmU4=m18?GrupoUp&Down"
-						},
-						{
-							"id": "bob_s1_e9",
-							"title": "Por que lutamos?",
-							"episodeNumber": 9,
-							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGEyNjg1YjEtODQ4NS00MjBjLWIyODUtMDU5OWIxNTk3MGQwXkEyXkFqcGc@._V1_FMjpg_UX694_.jpg",
-							"description": "À medida que os Aliados avançam para a Alemanha e a guerra se aproxima do fim, a desilusão e a raiva tomam conta da Easy Company, até que eles tropeçam em um campo de concentração abandonado pelo exército alemão.",
-							"streamUrl": "https://lh3.googleusercontent.com/KoVn78DlSrZ_OldKvdfiUcirQrG-SoxIUEUJPQNRiWQ=m18?GrupoUp&Down"
-						}
-					]
-				}
-			]
-		}
-	]
-}
