@@ -1688,6 +1688,7 @@
 			"id": "the_pitt",
 			"title": "The Pitt ",
 			"coverUrl": "https://i.ibb.co/6Rfggm15/da19c8b234f4050bd7fee2f7cf38732a0b19fae725bcb2a0d3d11fe01b25ed86-SX1080-FMjpg.jpg",
+			"backdropUrl": "link_imagem_slide",
 			"seasonsInfo": "2 Temporadas",
 			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
 			"year": "2025",
@@ -1953,6 +1954,7 @@
 			"id": "bob",
 			"title": "Band of Brothers",
 			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
+			"backdropUrl": "link_imagem_slide",
 			"seasonsInfo": "1 Temporada",
 			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
 			"year": "2001",
@@ -2043,6 +2045,202 @@
 							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BN2E0MDhjNjItNDNlNi00YmU3LWE4NmEtYzkwMWJmZDdmZjEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 							"description": "A Easy Company entra na Áustria e toma o 'Ninho da Águia' de Hitler em Berchtesgaden. Com a rendição da Alemanha, os soldados refletem sobre seus futuros e buscam acumular pontos suficientes para voltar para casa.",
 							"streamUrl": "https://lh3.googleusercontent.com/3N4o5W8Jg-s8X_3e8f8w5Q8Y9L_z1234567890abcdef=m18?GrupoUp&Down"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "pb",
+			"title": "Prison Break",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_FMjpg_UX1000_.jpg",
+			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
+			"seasonsInfo": "1 Temporada",
+			"description": "Um homem engenheiro estrutural se instala em uma prisão que ele mesmo ajudou a projetar para salvar seu irmão falsamente acusado, que está no corredor da morte.",
+			"year": "2005",
+			"genre": "Ação / Drama",
+			"lastEpisodeInfo": "22 Episódios",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_FMjpg_UX1000_.jpg",
+					"episodes": [
+						{
+							"id": "pb_s1_e1",
+							"title": "Em Busca da Verdade",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "Michael Scofield assalta um banco para ser preso na mesma penitenciária que seu irmão Lincoln Burrows, que aguarda a execução por um crime que alega não ter cometido.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E01%20-%20Em%20Busca%20da%20Verdade.mp4"
+						},
+						{
+							"id": "pb_s1_e2",
+							"title": "Acerto de Contas",
+							"episodeNumber": 2,
+							"thumbUrl": "",
+							"description": "Tensão racial esquenta na prisão enquanto Michael busca obter um item necessário para o seu plano de fuga.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E02%20-%20Acerto%20de%20Contas.mp4"
+						},
+						{
+							"id": "pb_s1_e3",
+							"title": "Teste do Celular",
+							"episodeNumber": 3,
+							"thumbUrl": "",
+							"description": "Michael testa a lealdade de seu colega de cela, Sucre, enquanto continua os preparativos dentro do sistema de ventilação.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E03%20-%20Teste%20do%20Celular.mp4"
+						},
+						{
+							"id": "pb_s1_e4",
+							"title": "A Volta de Sucre",
+							"episodeNumber": 4,
+							"thumbUrl": "",
+							"description": "Michael precisa de produtos químicos específicos para abrir caminho nas tubulações e conta com ajuda externa.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E04%20-%20A%20Volta%20de%20Sucre.mp4"
+						},
+						{
+							"id": "pb_s1_e5",
+							"title": "A Transferência",
+							"episodeNumber": 5,
+							"thumbUrl": "",
+							"description": "Forças externas tentam transferir Michael para outra prisão, o que arruinaria todo o plano de resgate.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E05%20-%20A%20Transfer%C3%AAncia.mp4"
+						},
+						{
+							"id": "pb_s1_e6",
+							"title": "A Rebelião Parte 1",
+							"episodeNumber": 6,
+							"thumbUrl": "",
+							"description": "Michael provoca um bloqueio no ar-condicionado para ganhar tempo no plano de escavação, mas a situação sai do controle e gera uma rebelião.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E06%20-%20A%20Rebeli%C3%A3o%20Parte%201.mp4"
+						},
+						{
+							"id": "pb_s1_e7",
+							"title": "A Rebelião Parte 2",
+							"episodeNumber": 7,
+							"thumbUrl": "",
+							"description": "Com a rebelião em andamento, Michael tenta resgatar a Dra. Sara Tancredi enquanto Lincoln luta pela própria vida.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E07%20-%20A%20Rebeli%C3%A3o%20Parte%202.mp4"
+						},
+						{
+							"id": "pb_s1_e8",
+							"title": "Perseguição",
+							"episodeNumber": 8,
+							"thumbUrl": "",
+							"description": "Michael precisa recrutar um novo membro para a fuga a fim de conseguir um avião de transporte.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E08%20-%20Persegui%C3%A7%C3%A3o.mp4"
+						},
+						{
+							"id": "pb_s1_e9",
+							"title": "Um Novo Chefe",
+							"episodeNumber": 9,
+							"thumbUrl": "",
+							"description": "A liderança da equipe de trabalho da prisão muda, ameaçando o acesso ao ponto cego do plano de fuga.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E09%20-%20Um%20Novo%20Chefe.mp4"
+						},
+						{
+							"id": "pb_s1_e10",
+							"title": "De Volta ao Plano de Fuga",
+							"episodeNumber": 10,
+							"thumbUrl": "",
+							"description": "Abruzzi tenta recuperar o controle do trabalho prisional enquanto Michael tenta avançar pelo túnel.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E10%20-%20De%20Volta%20ao%20Plano%20de%20Fuga.mp4"
+						},
+						{
+							"id": "pb_s1_e11",
+							"title": "Sete é Demais",
+							"episodeNumber": 11,
+							"thumbUrl": "",
+							"description": "O grupo de fuga cresce mais do que o esperado e nem todos poderão escapar.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E11%20-%20Sete%20%C3%A9%20Demais.mp4"
+						},
+						{
+							"id": "pb_s1_e12",
+							"title": "Perdão Fatal",
+							"episodeNumber": 12,
+							"thumbUrl": "",
+							"description": "A execução de Lincoln se aproxima rapidamente e Michael é forçado a adiantar a fuga.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E12%20-%20Perd%C3%A3o%20Fatal.mp4"
+						},
+						{
+							"id": "pb_s1_e13",
+							"title": "O Fim do Tunel",
+							"episodeNumber": 13,
+							"thumbUrl": "",
+							"description": "A tentativa de fuga começa, mas um obstáculo imprevisto no caminho coloca tudo em risco.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E13%20-%20O%20Fim%20do%20Tunel.mp4"
+						},
+						{
+							"id": "pb_s1_e14",
+							"title": "O Rato",
+							"episodeNumber": 14,
+							"thumbUrl": "",
+							"description": "Com a execução de Lincoln a poucas horas, Michael tenta atrasar a cadeira elétrica de qualquer maneira.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E14%20-%20O%20Rato.mp4"
+						},
+						{
+							"id": "pb_s1_e15",
+							"title": "O Adiamento",
+							"episodeNumber": 15,
+							"thumbUrl": "",
+							"description": "Novas evidências surgem no último minuto, alterando temporariamente os planos para Lincoln.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E15%20-%20O%20Adiamento.mp4"
+						},
+						{
+							"id": "pb_s1_e16",
+							"title": "O Guardião do Irmão",
+							"episodeNumber": 16,
+							"thumbUrl": "",
+							"description": "Flashbacks revelam como os personagens acabaram na penitenciária de Fox River.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E16%20-%20O%20Guardi%C3%A3o%20do%20Irm%C3%A3o.mp4"
+						},
+						{
+							"id": "pb_s1_e17",
+							"title": "O Surto",
+							"episodeNumber": 17,
+							"thumbUrl": "",
+							"description": "Michael precisa encontrar uma nova rota através da ala de psiquiatria da prisão.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E17%20-%20O%20Surto.mp4"
+						},
+						{
+							"id": "pb_s1_e18",
+							"title": "O Blefe",
+							"episodeNumber": 18,
+							"thumbUrl": "",
+							"description": "Michael precisa recuperar a parte perdida da tatuagem que foi queimada do seu corpo.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E18%20-%20O%20Blefe.mp4"
+						},
+						{
+							"id": "pb_s1_e19",
+							"title": "A Chave",
+							"episodeNumber": 19,
+							"thumbUrl": "",
+							"description": "Michael precisa conseguir a chave da enfermaria para garantir a saída final.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E19%20-%20A%20Chave.mp4"
+						},
+						{
+							"id": "pb_s1_e20",
+							"title": "A Segunda Fuga",
+							"episodeNumber": 20,
+							"thumbUrl": "",
+							"description": "Com a descoberta do buraco da fuga iminente, o grupo é forçado a agir imediatamente.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E20%20-%20A%20Segunda%20Fuga.mp4"
+						},
+						{
+							"id": "pb_s1_e21",
+							"title": "A Noite da Fuga",
+							"episodeNumber": 21,
+							"thumbUrl": "",
+							"description": "Michael e os outros detentos iniciam o plano final de fuga durante a noite.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E21%20-%20A%20Noite%20da%20Fuga.mp4"
+						},
+						{
+							"id": "pb_s1_e22",
+							"title": "A Reta Final",
+							"episodeNumber": 22,
+							"thumbUrl": "",
+							"description": "Os fugitivos tentam escapar da intensa caçada policial fora dos muros de Fox River.",
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E22%20-%20A%20Reta%20Final.mp4"
 						}
 					]
 				}
