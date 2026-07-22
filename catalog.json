@@ -1,6 +1,6 @@
 {
 	"liveChannels": [
-				{
+		{
 			"id": "sonyoneclassicas",
 			"name": "Sony One Clássicas",
 			"category": "Filmes e Séries",
@@ -55,6 +55,30 @@
 			"epgId": "CNNBrasil.br",
 			"tvgId": "CNNBrasil.br",
 			"channelNumber": "506"
+		},
+		{
+			"id": "sbtnews",
+			"name": "SBT News",
+			"category": "Notícias",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SBT_News_logo.svg/1024px-SBT_News_logo.svg.png",
+			"streamUrl": "https://sbtnews.maissbt.com/3.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal de jornalismo 24 horas do SBT com as principais notícias do Brasil e do mundo.",
+			"headers": {
+				"Referer": "https://www.cxtv.com.br/",
+				"Origin": "https://www.cxtv.com.br",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "sbtnews",
+			"tvgId": "sbtnews",
+			"channelNumber": "107",
+			"backdropUrl": ""
 		},
 		{
 			"id": "BandNews.br",
@@ -327,6 +351,27 @@
 			"epgId": "c25",
 			"tvgId": "c25",
 			"channelNumber": "304",
+			"backdropUrl": ""
+		},
+		{
+			"id": "gmusic",
+			"name": "G Music TV",
+			"category": "Música",
+			"logoUrl": "https://www.cxtv.com.br/img/canais/g-music-tv.png",
+			"streamUrl": "https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal dedicado à transmissão de videoclipes e programação musical variada.",
+			"headers": {
+				"Referer": "https://www.cxtv.com.br/",
+				"Origin": "https://www.cxtv.com.br",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "gmusic",
+			"tvgId": "gmusic",
+			"channelNumber": "508",
 			"backdropUrl": ""
 		},
 		{
