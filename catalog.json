@@ -1,5 +1,24 @@
 {
-		"liveChannels": [
+	"liveChannels": [
+				{
+			"id": "sonyoneclassicas",
+			"name": "Sony One Clássicas",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://www.sonyone.com.br/~sonyonecom/images/ba2bfa7dca8c0aa4adfea64b405d7a687db20c31.png",
+			"streamUrl": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal dedicado a séries e filmes clássicos da Sony Pictures.",
+			"headers": {
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "sonyoneclassicas",
+			"tvgId": "sonyoneclassicas",
+			"channelNumber": "105",
+			"backdropUrl": ""
+		},
 		{
 			"id": "traceurban",
 			"name": "Trace Urban",
@@ -1580,7 +1599,7 @@
 			"description": "descrição_filme",
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
-		}	
+		}
 	],
 	"series": [
 		{
