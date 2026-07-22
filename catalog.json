@@ -1,7 +1,5 @@
 {
-
-	"epgUrl": "https://iptv-epg.org/files/epg-br.xml",
-	"liveChannels": [
+		"liveChannels": [
 		{
 			"id": "traceurban",
 			"name": "Trace Urban",
