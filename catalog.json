@@ -1609,13 +1609,13 @@
 		},
 		{
 			"id": "m14",
-			"title": "texto_titulo",
-			"year": "ano",
-			"genre": "Genero",
-			"coverUrl": "link_do_png",
-			"backdropUrl": "link_imagem_slide",
-			"description": "descrição_filme",
-			"streamUrl": "link_do_video",
+			"title": "O Jovem Messias",
+			"year": "2016",
+			"genre": "Drama",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/O%20Jovem%20Messias.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/JovemMessias.jpg",
+			"description": "Jesus vive com sua família em Alexandria, onde eles fugiram do massacre de crianças. Com a morte do Rei eles voltam para Nazaré, sem saber que o herdeiro é como o pai e está determinado a matar Jesus.",
+			"streamUrl": "https://ia600507.us.archive.org/20/items/o.-jovem.-messias/O.Jovem.Messias.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
@@ -1689,7 +1689,7 @@
 			"id": "the_pitt",
 			"title": "The Pitt ",
 			"coverUrl": "https://i.ibb.co/6Rfggm15/da19c8b234f4050bd7fee2f7cf38732a0b19fae725bcb2a0d3d11fe01b25ed86-SX1080-FMjpg.jpg",
-			"backdropUrl": "link_imagem_slide",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/the-pitt-max-capa.jpg",
 			"seasonsInfo": "2 Temporadas",
 			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
 			"year": "2025",
@@ -1826,6 +1826,7 @@
 				{
 					"number": 2,
 					"coverUrl": "https://i.ibb.co/nNmmSdBx/the-pitt-1.jpg",
+					"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/the-pitt-max-capa.jpg",
 					"episodes": [
 						{
 							"id": "the_pitt_s2_e1",
@@ -1954,8 +1955,8 @@
 		{
 			"id": "bob",
 			"title": "Band of Brothers",
-			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
-			"backdropUrl": "link_imagem_slide",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/B_OF_BROTH.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/B_OF_BROTHW.jpg",
 			"seasonsInfo": "1 Temporada",
 			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
 			"year": "2001",
@@ -2127,7 +2128,7 @@
 							"id": "pb_s1_e8",
 							"title": "Perseguição",
 							"episodeNumber": 8,
-							"thumbUrl": "",
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
 							"description": "Michael precisa recrutar um novo membro para a fuga a fim de conseguir um avião de transporte.",
 							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E08%20-%20Persegui%C3%A7%C3%A3o.mp4"
 						},
