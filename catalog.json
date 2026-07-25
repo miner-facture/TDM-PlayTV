@@ -1,25 +1,6 @@
 {
 	"liveChannels": [
 		{
-			"id": "sonyoneclassicas",
-			"name": "Sony One Clássicas",
-			"category": "Filmes e Séries",
-			"logoUrl": "https://www.sonyone.com.br/~sonyonecom/images/ba2bfa7dca8c0aa4adfea64b405d7a687db20c31.png",
-			"streamUrl": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "Canal dedicado a séries e filmes clássicos da Sony Pictures.",
-			"headers": {
-				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
-			},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "sonyoneclassicas",
-			"tvgId": "sonyoneclassicas",
-			"channelNumber": "105",
-			"backdropUrl": ""
-		},
-		{
 			"id": "traceurban",
 			"name": "Trace Urban",
 			"category": "Música",
@@ -60,7 +41,7 @@
 			"id": "sbtnews",
 			"name": "SBT News",
 			"category": "Notícias",
-			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SBT_News_logo.svg/1024px-SBT_News_logo.svg.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/sbtnews.png",
 			"streamUrl": "https://sbtnews.maissbt.com/3.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -202,7 +183,7 @@
 			"id": "GloboRJ.br",
 			"name": "Globo RJ",
 			"category": "TV Aberta",
-			"logoUrl": "https://vipcanaisplus.com/images/globo.webp",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/tvglobo.png",
 			"streamUrl": "https://2007.cdnvipcanais.xyz/globorj/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
@@ -413,6 +394,25 @@
 			"epgId": "SonyChannel.br",
 			"tvgId": "SonyChannel.br",
 			"channelNumber": "163",
+			"backdropUrl": ""
+		},
+		{
+			"id": "sonyoneclassicas",
+			"name": "Sony One",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://www.sonyone.com.br/~sonyonecom/images/ba2bfa7dca8c0aa4adfea64b405d7a687db20c31.png",
+			"streamUrl": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal dedicado a séries e filmes clássicos da Sony Pictures.",
+			"headers": {
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "sonyoneclassicas",
+			"tvgId": "sonyoneclassicas",
+			"channelNumber": "105",
 			"backdropUrl": ""
 		},
 		{
@@ -944,8 +944,8 @@
 			"id": "ESPN.br",
 			"name": "ESPN",
 			"category": "Esportes",
-			"logoUrl": "https://api.reidoscanais.ooo/img/espn.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/espn/index.m3u8",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ESPN.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/espn/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -965,8 +965,8 @@
 			"id": "ESPN2.br",
 			"name": "ESPN 2",
 			"category": "Esportes",
-			"logoUrl": "https://logowik.com/content/uploads/images/espn24510.jpg",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/espn2/index.m3u8",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ESPN2.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/espn2/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -986,8 +986,8 @@
 			"id": "ESPN3.br",
 			"name": "ESPN 3",
 			"category": "Esportes",
-			"logoUrl": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/espn3/index.m3u8",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ESPN3.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/espn3/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1004,10 +1004,73 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "ESPN4.br",
+			"name": "ESPN 4",
+			"category": "Esportes",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ESPN4.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/espn4/index.m3u8",
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "ESPN4.br",
+			"tvgId": "ESPN4.br",
+			"channelNumber": "73",
+			"backdropUrl": ""
+		},
+		{
+			"id": "ESPN5.br",
+			"name": "ESPN 5",
+			"category": "Esportes",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ESPN5.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/espn5/index.m3u8",
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "ESPN5.br",
+			"tvgId": "ESPN5.br",
+			"channelNumber": "74",
+			"backdropUrl": ""
+		},
+		{
+			"id": "ESPN6.br",
+			"name": "ESPN 6",
+			"category": "Esportes",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ESPN6.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/espn6/index.m3u8",
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "ESPN6.br",
+			"tvgId": "ESPN6.br",
+			"channelNumber": "75",
+			"backdropUrl": ""
+		},
+		{
 			"id": "HistoryChannel.br",
 			"name": "History",
 			"category": "Documentários",
-			"logoUrl": "https://vipcanaisplus.com/images/history.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/history.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/history/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
@@ -1176,7 +1239,7 @@
 			"name": "HBO Plus",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hboplus.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hboplus/index.m3u8",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/hboplus/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1193,11 +1256,11 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "HBOPlus.br",
-			"name": "HBO MAX-UP",
+			"id": "HBOPop.br",
+			"name": "HBO Pop",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://cdn.mitvstatic.com/channels/br_max-up-1_m.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/hbopop/index.m3u8",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/hbopop/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1208,8 +1271,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "HBOPlus.br",
-			"tvgId": "HBOPlus.br",
+			"epgId": "HBOPop.br",
+			"tvgId": "HBOPop.br",
 			"channelNumber": "159",
 			"backdropUrl": ""
 		},
@@ -1218,7 +1281,7 @@
 			"name": "Discovery Home & Health",
 			"category": "Variedades",
 			"logoUrl": "https://embedcanaisdetv.com/images/discoveryhh.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryhh/index.m3u8",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/discoveryhh/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1239,7 +1302,7 @@
 			"name": "Discovery Channel",
 			"category": "Documentários",
 			"logoUrl": "https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoverychannel/index.m3u8",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/discoverychannel/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1260,7 +1323,7 @@
 			"name": "Discovery Theater",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoverytheater.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoverytheater/index.m3u8",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/discoverytheater/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1281,7 +1344,7 @@
 			"name": "Discovery World",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryworld.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryworld/index.m3u8",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/discoveryworld/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1302,7 +1365,7 @@
 			"name": "Discovery ID",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryid.png",
-			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryid/index.m3u8",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/discoveryid/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1322,7 +1385,7 @@
 			"id": "DiscoveryScience.br",
 			"name": "Discovery SCIENCE",
 			"category": "Documentários",
-			"logoUrl": "https://vipcanaisplus.com/images/discoveryscience.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/discoveryscience.png",
 			"streamUrl": "https://2406.cdnvipcanais.xyz/discoveryscience/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
@@ -1337,6 +1400,27 @@
 			"epgId": "DiscoveryScience.br",
 			"tvgId": "DiscoveryScience.br",
 			"channelNumber": "165",
+			"backdropUrl": ""
+		},
+		{
+			"id": "DiscoveryTurbo.br",
+			"name": "Discovery Turbo",
+			"category": "Documentários",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/discoveryturbo.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/discoveryturbo/index.m3u8",
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "DiscoveryTurbo.br",
+			"tvgId": "DiscoveryTurbo.br",
+			"channelNumber": "166",
 			"backdropUrl": ""
 		},
 		{
@@ -1703,7 +1787,7 @@
 			"coverUrl": "https://m.media-amazon.com/images/M/MV5BZDQ2MTBkMWQtNmQ1Yy00YjNiLWE3MjItOGZhY2Q0NDlkOGVlXkEyXkFqcGc@._V1_FMjpg_UX660_.jpg",
 			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjRlNGU1YTctMGRkZS00YTY0LTg2NjMtZDkzMmEyMjhlMGI2XkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
 			"description": "Um humano aprimorado e Sarah Connor precisam impedir que um avançado Exterminador líquido cace uma jovem garota, cujo destino é crucial para a raça humana.",
-			"streamUrl": "link_do_video",
+			"streamUrl": "https://ia801403.us.archive.org/19/items/o.-ext.-f.-d.-s/O.Ext.F.D.S.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
@@ -1817,8 +1901,72 @@
 							"title": "Piloto",
 							"episodeNumber": 1,
 							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTgyOTI3OTgwNF5BMl5BanBnXkFtZTgwMjI3MzYyMjE@._V1_.jpg",
-							"description": "Uma guerreira moderna e mãe solteira se esconde de um governo para pegar ela e seu filho adolescente.",
-							"streamUrl": "link_do_video"
+							"description": "Em 1999, Sarah e John Connor tentam reconstruir a vida sob identidades falsas, mas um novo Exterminador os encontra. Uma ciborgue amigável chamada Cameron surge para protegê-los e leva-os ao ano de 2007.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E01.mp4"
+						},
+						{
+							"id": "tscc_s1_e2",
+							"title": "Gnothi Seauton",
+							"episodeNumber": 2,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTM2NjlkMmYtMDQwYy00YjhlLTg3NTQtMDA3NTFmOWVhYzMzXkEyXkFqcGc@._V1_.jpg",
+							"description": "Sarah busca a ajuda de uma antiga amiga para conseguir novas identidades falsas, enquanto Cameron precisa encontrar peças para consertar seus danos antes de ser rastreada.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E02.mp4"
+						},
+						{
+							"id": "tscc_s1_e3",
+							"title": "O Turco",
+							"episodeNumber": 3,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BN2NhYzJkODUtMzA2YS00N2E4LWJhNjctN2RkZDczMGI3YmQyXkEyXkFqcGc@._V1_.jpg",
+							"description": "Sarah procura o criador da inteligência artificial 'O Turco', um computador de xadrez que pode ser o precursor da Skynet, enquanto John tenta se adaptar à nova escola.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E03.mp4"
+						},
+						{
+							"id": "tscc_s1_e4",
+							"title": "A Pesada Espada de Dâmocles",
+							"episodeNumber": 4,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZjk0MmJlMGItNWEwNS00YzM0LWI5MDQtMGUxZDUxOTYxYmM4XkEyXkFqcGc@._V1_.jpg",
+							"description": "Quando ficam sabendo de um enorme carregamento de Coltan chegando ao Porto de Los Angeles, Sarah, John e Cameron acreditam que Cromartie retornou, mas após investigação descobrem um Exterminador do Futuro inteiramente novo com sua própria missão.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E04.mp4"
+						},
+						{
+							"id": "tscc_s1_e5",
+							"title": "Rainha da Bateria",
+							"episodeNumber": 5,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNzFlMzdhNDQtNzliOC00MGE4LWI3ZjItODFkZTk0MTU2Y2Q4XkEyXkFqcGc@._V1_.jpg",
+							"description": "Sarah fica preocupada ao saber que Andy Goode reconstruiu seu computador, o Turk II, e o inscreveu em uma competição de xadrez com um contrato militar como prêmio vencedor. Um combatente da Resistência do futuro resolve o problema com as próprias mãos.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E05.mp4"
+						},
+						{
+							"id": "tscc_s1_e6",
+							"title": "Dungeons & Dragons",
+							"episodeNumber": 6,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTkzODY0MTY0Nl5BMl5BanBnXkFtZTgwODI4MzUyMjE@._V1_.jpg",
+							"description": "Desesperado para salvar a vida de Derek Reese, John pede a ajuda de Charley Dixon, mas o paramédico luta para chegar a um acordo com viajantes do tempo e Exterminadores. No futuro, Derek luta para sobreviver quando se separa de seu irmão Kyle.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E06.mp4"
+						},
+						{
+							"id": "tscc_s1_e7",
+							"title": "A Mão do Demônio",
+							"episodeNumber": 7,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNjM4YzMyY2YtYzJmNy00NDFhLTkzZGItODJlODRlOGM1MmE3XkEyXkFqcGc@._V1_.jpg",
+							"description": "Enquanto Derek Reese se recupera de seus ferimentos, Sarah tenta recuperar a mão decepada do Exterminador do Futuro e Cameron rastreia Dmitri Shipkov. Enquanto isso, o agente do FBI James Ellison visita o Dr. Silberman para saber mais sobre o passado de Sarah.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E07.mp4"
+						},
+						{
+							"id": "tscc_s1_e8",
+							"title": "Vick do Chip",
+							"episodeNumber": 8,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BODY2ODg0MDktOGMxMS00MzIzLWJjNDktZTk4NzE1MGNhN2I1XkEyXkFqcGc@._V1_.jpg",
+							"description": "Derek pega Cameron em uma mentira que os coloca dentro da cabeça de Vick, Sarah continua a rastrear o turco, e Cromartie chega mais perto de encontrar John.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E08.mp4"
+						},
+						{
+							"id": "tscc_s1_e9",
+							"title": "O que Ele Viu",
+							"episodeNumber": 9,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjAyMzk4MTE5MV5BMl5BanBnXkFtZTgwMDIxNTA2MzI@._V1_.jpg",
+							"description": "Sarah encontra-se em uma transação com um homem misterioso chamado Sarkissian, que afirma estar na posse do Turco roubado. Derek relembra sua infância. Ellison descobre que o terminador Cromartie está se passando por um agente do FBI.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E09.mp4"
 						}
 					]
 				},
@@ -2352,7 +2500,7 @@
 		{
 			"id": "pb",
 			"title": "Prison Break",
-			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_FMjpg_UX1000_.jpg",
+			"coverUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
 			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
 			"seasonsInfo": "1 Temporada",
 			"description": "Um homem engenheiro estrutural se instala em uma prisão que ele mesmo ajudou a projetar para salvar seu irmão falsamente acusado, que está no corredor da morte.",
@@ -2371,7 +2519,7 @@
 							"episodeNumber": 1,
 							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(3).jpeg",
 							"description": "Michael Scofield assalta um banco para ser preso na mesma penitenciária que seu irmão Lincoln Burrows, que aguarda a execução por um crime que alega não ter cometido.",
-							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E01%20-%20Em%20Busca%20da%20Verdade.mp4"
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E01%20-%20Em%20Busca%20da%20Verdade.mp4https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E01%20-%20Em%20Busca%20da%20Verdade.mp4"
 						},
 						{
 							"id": "pb_s1_e2",
