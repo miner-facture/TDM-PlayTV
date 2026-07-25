@@ -1620,64 +1620,175 @@
 		},
 		{
 			"id": "m15",
-			"title": "texto_titulo",
-			"year": "ano",
-			"genre": "Genero",
-			"coverUrl": "link_do_png",
-			"backdropUrl": "link_imagem_slide",
-			"description": "descrição_filme",
-			"streamUrl": "link_do_video",
+			"title": "Terremoto: A Falha de San Andreas",
+			"year": "2015",
+			"genre": "Ação/Thriller",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BOGMyNDc5MGItMmYyOC00ZmU5LWI1NDQtOTE0YWVlZjYwNzJhXkEyXkFqcGc@._V1_FMjpg_UY4000_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BYWRiMzE4OTAtODQ0Zi00YjdmLThhMWEtNzk4ZTcxMGVhNDBiXkEyXkFqcGc@._V1_FMjpg_UX1680_.jpg",
+			"description": "Após um grande terremoto na Califórnia, um piloto de helicóptero de resgate faz uma viagem perigosa com sua ex-mulher através do estado para resgatar sua filha.",
+			"streamUrl": "https://ia601806.us.archive.org/25/items/terremoto.-a.-falha.de.-san.-andreas/Terremoto.A.Falha.de.San.Andreas.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
 			"id": "m16",
-			"title": "texto_titulo",
-			"year": "ano",
-			"genre": "Genero",
-			"coverUrl": "link_do_png",
-			"backdropUrl": "link_imagem_slide",
-			"description": "descrição_filme",
-			"streamUrl": "link_do_video",
+			"title": "O Poder e a Lei",
+			"year": "2011",
+			"genre": "Thriller/Crime",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BNWZlNjFlODItNGQ1NS00NzUwLWJhOTQtNTQyZjE5NTVmNTRlXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+			"backdropUrl": "https://www.planocritico.com/wp-content/uploads/2015/09/57-O-Poder-e-a-Lei.jpg",
+			"description": "Um advogado que defende um homem rico começa a acreditar que seu cliente é culpado de mais de um crime.",
+			"streamUrl": "https://ia601505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Poder.Lei.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
 			"id": "m17",
-			"title": "texto_titulo",
-			"year": "ano",
-			"genre": "Genero",
-			"coverUrl": "link_do_png",
-			"backdropUrl": "link_imagem_slide",
-			"description": "descrição_filme",
-			"streamUrl": "link_do_video",
+			"title": "O Exterminador do Futuro",
+			"year": "1985",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/O.Exterminador.do.Futuro1.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BNjY4NzQzMzM4NV5BMl5BanBnXkFtZTcwODgzNDQyNA@@._V1_FMjpg_UX1023_.jpg",
+			"description": "Um assassino do futuro é enviado para Los Angeles.",
+			"streamUrl": "https://ia601505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro1.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
 			"id": "m18",
-			"title": "texto_titulo",
-			"year": "ano",
-			"genre": "Genero",
-			"coverUrl": "link_do_png",
-			"description": "descrição_filme",
-			"streamUrl": "link_do_video",
+			"title": "Exterminador do Futuro 2: O Julgamento Final",
+			"year": "1991",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BYTAxN2JhN2UtZmYxZC00Y2VhLWJiNjAtNzliNDAxMzI2MDVlXkEyXkFqcGc@._V1_FMjpg_UY6025_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjI4NTMyODY1Nl5BMl5BanBnXkFtZTgwNDA5MzgwMzI@._V1_FMjpg_UX2048_.jpg",
+			"description": "O pesadelo começa quando um novo Exterminador, mais novo e mais mortal, é enviado do futuro para o presente com uma única missão: mata John Connor o futuro líder da resistência. A resistência humana também enviou um guerreiro do futuro com as ordens de proteger John Connor a qualquer custo. A batalha pelo amanhã começou.",
+			"streamUrl": "https://ia601505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro2.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
 			"id": "m19",
+			"title": "O Exterminador do Futuro 3: A Rebelião das Máquinas",
+			"year": "2003",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BZDg4M2QzYTItNzE1MS00ZTdmLWE0ZDctNzJjYjYxOGEyNDcyXkEyXkFqcGc@._V1_FMjpg_UX561_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjIxOTgxMDgzM15BMl5BanBnXkFtZTcwMTQ4MjAzMw@@._V1_FMjpg_UX2048_.jpg",
+			"description": "Dez anos depois do juízo final, John Connor vive na escuridão. Entretanto, as máquinas da Skynet encontram seu rastro e enviam ao passado T-X, um androide indestrutível, para eliminar o futuro líder da resistência humana.",
+			"streamUrl": "https://archive.org/download/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro3.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m20",
+			"title": "O Exterminador do Futuro 4: A Salvação",
+			"year": "2009",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BOGQ4YjFjOTUtZDE3OS00ZThlLThlNWItYzQxNzM2Y2VjZjViXkEyXkFqcGc@._V1_FMjpg_UY2039_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMTEwMjY2MDM3NzBeQTJeQWpwZ15BbWU3MDY1ODU5MTQ@._V1_FMjpg_UX2048_.jpg",
+			"description": "Enquanto as máquinas da Skynet se preparam para um ataque final, John Connor e um estranho descobrem um terrível segredo envolvendo a aniquilação da humanidade.",
+			"streamUrl": "https://ia801505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro4.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m21",
+			"title": "O Exterminador do Futuro 5: Gênesis",
+			"year": "2015",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/2754781.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMTY1MDE3OTExOF5BMl5BanBnXkFtZTgwODQzOTUwNjE@._V1_FMjpg_UX2048_.jpg",
+			"description": "descrição_filme",
+			"streamUrl": "https://ia801505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro.G%C3%AAnesis.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m22",
+			"title": "O Exterminador do Futuro 6: Destino Sombrio",
+			"year": "2019",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BZDQ2MTBkMWQtNmQ1Yy00YjNiLWE3MjItOGZhY2Q0NDlkOGVlXkEyXkFqcGc@._V1_FMjpg_UX660_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjRlNGU1YTctMGRkZS00YTY0LTg2NjMtZDkzMmEyMjhlMGI2XkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
+			"description": "Um humano aprimorado e Sarah Connor precisam impedir que um avançado Exterminador líquido cace uma jovem garota, cujo destino é crucial para a raça humana.",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m23",
 			"title": "texto_titulo",
 			"year": "ano",
-			"genre": "Genero",
-			"coverUrl": "link_do_png",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
 			"backdropUrl": "link_imagem_slide",
 			"description": "descrição_filme",
 			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
 		{
-			"id": "m20",
+			"id": "m24",
 			"title": "texto_titulo",
 			"year": "ano",
-			"genre": "Genero",
-			"coverUrl": "link_do_png",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
+			"backdropUrl": "link_imagem_slide",
+			"description": "descrição_filme",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m25",
+			"title": "texto_titulo",
+			"year": "ano",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
+			"backdropUrl": "link_imagem_slide",
+			"description": "descrição_filme",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m26",
+			"title": "texto_titulo",
+			"year": "ano",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
+			"backdropUrl": "link_imagem_slide",
+			"description": "descrição_filme",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m27",
+			"title": "texto_titulo",
+			"year": "ano",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
+			"backdropUrl": "link_imagem_slide",
+			"description": "descrição_filme",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m28",
+			"title": "texto_titulo",
+			"year": "ano",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
+			"backdropUrl": "link_imagem_slide",
+			"description": "descrição_filme",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m29",
+			"title": "texto_titulo",
+			"year": "ano",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
+			"backdropUrl": "link_imagem_slide",
+			"description": "descrição_filme",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m30",
+			"title": "texto_titulo",
+			"year": "ano",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
 			"backdropUrl": "link_imagem_slide",
 			"description": "descrição_filme",
 			"streamUrl": "link_do_video",
@@ -1686,9 +1797,195 @@
 	],
 	"series": [
 		{
+			"id": "terminator_sarah_connor_chronicles",
+			"title": "O Exterminador do Futuro - As Crônicas de Sarah Connor",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BYzZkOTU3N2QtNWMwMi00MDU5LWE4YTMtYTQzZGMzODFmMmE2XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/As%20Cr%C3%B4nicas%20de%20Sarah%20Connor.png",
+			"seasonsInfo": "2 Temporadas",
+			"description": "Após os eventos em O Exterminador do Futuro 2, Sarah Connor e seu filho John tentam ficar fora do radar do governo, enquanto planejam destruir a rede de computadores Skynet, na esperança de impedir o Armagedom.",
+			"year": "2008",
+			"genre": "Ação / Ficção Científica / Drama",
+			"lastEpisodeInfo": "2ª Temporada Completa",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BYzZkOTU3N2QtNWMwMi00MDU5LWE4YTMtYTQzZGMzODFmMmE2XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+					"episodes": [
+						{
+							"id": "tscc_s1_e1",
+							"title": "Piloto",
+							"episodeNumber": 1,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTgyOTI3OTgwNF5BMl5BanBnXkFtZTgwMjI3MzYyMjE@._V1_.jpg",
+							"description": "Uma guerreira moderna e mãe solteira se esconde de um governo para pegar ela e seu filho adolescente.",
+							"streamUrl": "link_do_video"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTgxMTIwODgxMl5BMl5BanBnXkFtZTcwOTgyMjU1MQ@@._V1_FMjpg_UX1000_.jpg",
+					"episodes": [
+						{
+							"id": "tscc_s2_e1",
+							"title": "Samson & Delilah",
+							"episodeNumber": 1,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNjM3NzU5M15BMl5BanBnXkFtZTgwMTQwNjUyMjE@._V1_.jpg",
+							"description": "descrição_do_episodio",
+							"streamUrl": "link_do_video"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "stuart_fails_to_save_the_universe",
+			"title": "Stuart Não Consegue Salvar o Universo",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/stuart_capa.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/The-Big-Bang-Theory-.jpg",
+			"seasonsInfo": "1 Temporada",
+			"description": "Stuart Bloom, o trágico e azarado dono da loja de quadrinhos de The Big Bang Theory, tenta restaurar a realidade após acidentalmente quebrar um dispositivo criado por Sheldon e Leonard. Ao lado de Denise, Bert e Barry Kripke, ele precisa impedir um apocalipse multiversal, enquanto lida com versões alternativas de velhos conhecidos e com sua própria infelicidade crônica.",
+			"year": "2026",
+			"genre": "Comédia / Ficção Científica",
+			"lastEpisodeInfo": "Em exibição (1º Episódio)",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/stuart_capa.jpg",
+					"episodes": [
+						{
+							"id": "stuart_s1_e1",
+							"title": "Episódio 1",
+							"episodeNumber": 1,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/T1-E1.jpg",
+							"description": "Ao tentar arrumar a loja de quadrinhos, Stuart acidentalmente danifica um protótipo quântico deixado por Sheldon e Leonard. O incidente rasga o tecido do espaço-tempo, forçando Stuart, Denise, Bert e Barry Kripke a encarar os primeiros colapsos na realidade.",
+							"streamUrl": "https://archive.org/download/stuart.-nao.-consegue.-salvar.o.-universo/Stuart.N%C3%A3o.Consegue.Salvar.o.Universo.mkv"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "suits",
+			"title": "Suits",
+			"coverUrl": "https://m.media-amazon.com/images/I/81Tw+A9i8VL._AC_UF894,1000_QL80_.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/suits-wallpaper.jpg",
+			"seasonsInfo": "9 Temporadas",
+			"description": "Na fuga de um negócio de drogas que acabou mal, Mike Ross, um brilhante abandono da faculdade, encontra um trabalho trabalhando com Harvey Specter, um dos melhores advogados de Nova York.",
+			"year": "2011",
+			"genre": "Drama / Jurídico",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://m.media-amazon.com/images/I/81LqpwlhifL._AC_UF894,1000_QL80_.jpg",
+					"episodes": [
+						{
+							"id": "suits_s1_e1",
+							"title": "Piloto",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/aSZaWzIrhqrPemBvr2lLO83aS1B.jpg",
+							"description": "Harvey é promovido e precisa recrutar um formando da faculdade de Harvard. Ele escolhe Mike Ross, mas há um problema: Mike não tem diploma.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X1.mp4"
+						},
+						{
+							"id": "suits_s1_e2",
+							"title": "Erros e omissões",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/n0bGqpX5jZaxG3vvw4Gq5InvxFF.jpg",
+							"description": "Um caso supostamente simples se transforma em pesadelo quando Harvey é acusado de conduta inapropriada com uma mulher casada.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X2.mp4"
+						},
+						{
+							"id": "suits_s1_e3",
+							"title": "Vantagens",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rohDcpKFJwRXvHrEuh3j6eGOuLw.jpg",
+							"description": "Jessica acreditava que a promoção de Harvey o colocaria sob seu controle, mas ele faz decisões sem consultá-la logo na primeira crise.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X3.mp4"
+						},
+						{
+							"id": "suits_s1_e4",
+							"title": "Segredinhos sujos",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/u7Ips46UxRF9F0BJAdSxa0aQeMj.jpg",
+							"description": "Harvey defende uma pessoa ligada ao passado de Jessica e a relação entre eles é colocada à prova.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X4.mp4"
+						},
+						{
+							"id": "suits_s1_e5",
+							"title": "Fiança",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rmIh7NHAfreZgVoX7hG3EHEKIe6.jpg",
+							"description": "Mike entra numa enrascada quando um velho amigo reaparece e pede sua ajuda.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X5.mp4"
+						},
+						{
+							"id": "suits_s1_e6",
+							"title": "Ossos do ofício",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/yT4t1HJEx2jJTEYeJIZnTN1Y8za.jpg",
+							"description": "Harvey e Mike tentam salvar uma mulher injustamente acusada de um crime de colarinho branco.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X6.mp4"
+						},
+						{
+							"id": "suits_s1_e7",
+							"title": "Conheça o adversário",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/qZNVeetYoZo3JCPRu5oQbjsl3B5.jpg",
+							"description": "Mike tem a oportunidade de testar suas habilidades diante de Kyle, o protegido de Louis, em um julgamento simulado.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X7.mp4"
+						},
+						{
+							"id": "suits_s1_e8",
+							"title": "Crise de identidade",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hsfEwCAPwdSJNqC4ADLYh57pal1.jpg",
+							"description": "Mike precisa deter um Robin Hood moderno cujos atos ilícitos estão colocando em risco a empresa de um cliente.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X8.mp4"
+						},
+						{
+							"id": "suits_s1_e9",
+							"title": "Invicto",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w400/fIynnH3wjc8ArqfCULBCYdyWCB8.jpg",
+							"description": "Harvey está sempre um passo atrás de um advogado invicto porém desonesto, e precisa decidir se está disposto a sacrificar a ética para ganhar a causa.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X9.mp4"
+						},
+						{
+							"id": "suits_s1_e10",
+							"title": "Vida não alugada",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w400/4PrnmETDQgH8mZQk1YE1aRVo3Qz.jpg",
+							"description": "A empatia de Mike por um executivo dispensado prejudica a relação da firma com um cliente e Harvey acaba tendo que proteger Mike da raiva de Jessica.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X10.mp4"
+						},
+						{
+							"id": "suits_s1_e11",
+							"title": "Regras do jogo",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w400/4zPzCl3xqn1B6MCUdpnHyQAJHsf.jpg",
+							"description": "O ex-mentor de Harvey pede sua ajuda quando seu escritório passa a ser investigado.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X11.mp4"
+						},
+						{
+							"id": "suits_s1_e12",
+							"title": "A luta de um homem",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/cssJ7NhSXYfWNHdDJYXmDGgGYEp.jpg",
+							"description": "Harvey faz tudo para tirar um homem inocente da prisão, mas acaba batendo de frente com o novo promotor público.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X12.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
 			"id": "the_pitt",
 			"title": "The Pitt ",
-			"coverUrl": "https://i.ibb.co/6Rfggm15/da19c8b234f4050bd7fee2f7cf38732a0b19fae725bcb2a0d3d11fe01b25ed86-SX1080-FMjpg.jpg",
+			"coverUrl": "https://i.ibb.co/1fdPqJWD/the-pitt-1.jpg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/the-pitt-max-capa.jpg",
 			"seasonsInfo": "2 Temporadas",
 			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
