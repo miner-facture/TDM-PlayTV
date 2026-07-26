@@ -293,8 +293,8 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://redecanaistv.vision/",
-				"Origin": "https://redecanaistv.vision",
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
 				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
 			},
 			"isProtected": false,
@@ -458,6 +458,51 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "AandE.br",
+			"name": "A&E",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/aee.png",
+			"streamUrl": "https://2007.cdnvipcanais.xyz/warner/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+				"sec-ch-ua": "\"Avast Secure Browser\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+				"sec-ch-ua-platform": "\"Android\"",
+				"sec-fetch-mode": "cors"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "AandE.br", 
+			"tvgId": "AandE.br",
+			"channelNumber": "75",
+			"backdropUrl": ""
+		},
+		{
+			"id": "E.br",
+			"name": "E!",
+			"category": "Documentários",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/e.png",
+			"streamUrl": "https://rdcstream.life/live/entertainment/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "E.br",
+			"tvgId": "E.br",
+			"channelNumber": "85",
+			"backdropUrl": ""
+		},
+		{
 			"id": "Cinemax.br",
 			"name": "Cinemax",
 			"category": "Filmes",
@@ -584,8 +629,8 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://redecanaistv.vision/",
-				"Origin": "https://redecanaistv.vision",
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
 				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
 			},
 			"isProtected": false,
@@ -620,7 +665,7 @@
 			"id": "000000",
 			"name": "AMC SÉRIES",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://vipcanaisplus.com/images/amcseries.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/amcseries.png",
 			"streamUrl": "https://2007.cdnvipcanais.xyz/amcseries/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
@@ -815,8 +860,8 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://redecanaistv.vision/",
-				"Origin": "https://redecanaistv.vision",
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
 				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
 			},
 			"isProtected": false,
@@ -857,8 +902,8 @@
 			"nextProgram": "",
 			"description": "",
 			"headers": {
-				"Referer": "https://redecanaistv.vision/",
-				"Origin": "https://redecanaistv.vision",
+				"Referer": "https://playerembed.xyz/",
+				"Origin": "https://playerembed.xyz",
 				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
 			},
 			"isProtected": false,
@@ -1322,7 +1367,7 @@
 			"id": "HBOPlus.br",
 			"name": "HBO Plus",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://github.com/miner-facture/miner-facture/blob/main/hboplus.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/hboplus.png",
 			"streamUrl": "https://2007.cdnvipcanais.xyz/hboplus/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
@@ -2056,7 +2101,7 @@
 				},
 				{
 					"number": 2,
-					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTgxMTIwODgxMl5BMl5BanBnXkFtZTcwOTgyMjU1MQ@@._V1_FMjpg_UX1000_.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/T.S.C.jpg",
 					"episodes": [
 						{
 							"id": "tscc_s2_e1",
@@ -2064,7 +2109,7 @@
 							"episodeNumber": 1,
 							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNjM3NzU5M15BMl5BanBnXkFtZTgwMTQwNjUyMjE@._V1_.jpg",
 							"description": "descrição_do_episodio",
-							"streamUrl": "link_do_video"
+							"streamUrl": "https://ia600806.us.archive.org/31/items/csc.-s-02-e-05/CSC.S02E01.mp4"
 						}
 					]
 				}
