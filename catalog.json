@@ -284,6 +284,27 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "FishTV.br",
+			"name": "Fish TV",
+			"category": "Variedades",
+			"logoUrl": "https://api.reidoscanais.ooo/img/fishtv.png",
+			"streamUrl": "https://rdcstream.life/live/fishtv/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://redecanaistv.vision/",
+				"Origin": "https://redecanaistv.vision",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "FishTV.br",
+			"tvgId": "FishTV.br",
+			"channelNumber": "105",
+			"backdropUrl": ""
+		},
+		{
 			"id": "RedeGospel.br",
 			"name": "Rede Gospel",
 			"category": "Aberto",
@@ -440,7 +461,7 @@
 			"id": "Cinemax.br",
 			"name": "Cinemax",
 			"category": "Filmes",
-			"logoUrl": "https://vipcanaisplus.com/images/cinemax.png",
+			"logoUrl": "https://cdn.reidoscanais.st/imagens/cinemax.png",
 			"streamUrl": "https://2007.cdnvipcanais.xyz/cinemax/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -551,6 +572,27 @@
 			"epgId": "BIS.br",
 			"tvgId": "BIS.br",
 			"channelNumber": "220",
+			"backdropUrl": ""
+		},
+		{
+			"id": "Curta.br",
+			"name": "Curta!",
+			"category": "Cultura",
+			"logoUrl": "https://api.reidoscanais.ooo/img/curta.png",
+			"streamUrl": "https://rdcstream.life/live/curta/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://redecanaistv.vision/",
+				"Origin": "https://redecanaistv.vision",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "Curta.br",
+			"tvgId": "Curta.br",
+			"channelNumber": "107",
 			"backdropUrl": ""
 		},
 		{
@@ -764,6 +806,27 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "AnimalPlanet.br",
+			"name": "Animal Planet",
+			"category": "Documentários",
+			"logoUrl": "https://api.reidoscanais.ooo/img/animalplanet.png",
+			"streamUrl": "https://rdcstream.life/live/animalplanet/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://redecanaistv.vision/",
+				"Origin": "https://redecanaistv.vision",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "AnimalPlanet.br",
+			"tvgId": "AnimalPlanet.br",
+			"channelNumber": "108",
+			"backdropUrl": ""
+		},
+		{
 			"id": "Space.br",
 			"name": "SPACE",
 			"category": "Filmes e Séries",
@@ -782,6 +845,27 @@
 			"epgId": "Space.br",
 			"tvgId": "Space.br",
 			"channelNumber": "299",
+			"backdropUrl": ""
+		},
+		{
+			"id": "TLC.br",
+			"name": "TLC",
+			"category": "Variedades",
+			"logoUrl": "https://api.reidoscanais.ooo/img/tlc.png",
+			"streamUrl": "https://rdcstream.life/live/tlc/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"Referer": "https://redecanaistv.vision/",
+				"Origin": "https://redecanaistv.vision",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "TLC.br",
+			"tvgId": "TLC.br",
+			"channelNumber": "109",
 			"backdropUrl": ""
 		},
 		{
@@ -1238,7 +1322,7 @@
 			"id": "HBOPlus.br",
 			"name": "HBO Plus",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://api.reidoscanais.ooo/img/hboplus.png",
+			"logoUrl": "https://github.com/miner-facture/miner-facture/blob/main/hboplus.png",
 			"streamUrl": "https://2007.cdnvipcanais.xyz/hboplus/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
@@ -1259,7 +1343,7 @@
 			"id": "HBOPop.br",
 			"name": "HBO Pop",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://cdn.mitvstatic.com/channels/br_max-up-1_m.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/hbopop.png",
 			"streamUrl": "https://2007.cdnvipcanais.xyz/hbopop/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
@@ -2500,7 +2584,7 @@
 		{
 			"id": "pb",
 			"title": "Prison Break",
-			"coverUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
 			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
 			"seasonsInfo": "1 Temporada",
 			"description": "Um homem engenheiro estrutural se instala em uma prisão que ele mesmo ajudou a projetar para salvar seu irmão falsamente acusado, que está no corredor da morte.",
@@ -2511,7 +2595,7 @@
 			"seasons": [
 				{
 					"number": 1,
-					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_FMjpg_UX1000_.jpg",
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
 					"episodes": [
 						{
 							"id": "pb_s1_e1",
@@ -2519,7 +2603,7 @@
 							"episodeNumber": 1,
 							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(3).jpeg",
 							"description": "Michael Scofield assalta um banco para ser preso na mesma penitenciária que seu irmão Lincoln Burrows, que aguarda a execução por um crime que alega não ter cometido.",
-							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E01%20-%20Em%20Busca%20da%20Verdade.mp4https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E01%20-%20Em%20Busca%20da%20Verdade.mp4"
+							"streamUrl": "https://ia801506.us.archive.org/25/items/t-01-e-06-a-rebeliao-parte-1_202607/T01E01%20-%20Em%20Busca%20da%20Verdade.mp4"
 						},
 						{
 							"id": "pb_s1_e2",
