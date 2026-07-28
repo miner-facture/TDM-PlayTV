@@ -2017,7 +2017,7 @@
 			"seasonsInfo": "2 Temporadas",
 			"description": "Após os eventos em O Exterminador do Futuro 2, Sarah Connor e seu filho John tentam ficar fora do radar do governo, enquanto planejam destruir a rede de computadores Skynet, na esperança de impedir o Armagedom.",
 			"year": "2008",
-			"genre": "Ação / Ficção Científica / Drama",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
 			"lastEpisodeInfo": "2ª Temporada Completa",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -2291,7 +2291,7 @@
 			"seasonsInfo": "1 Temporada",
 			"description": "Stuart Bloom, o trágico e azarado dono da loja de quadrinhos de The Big Bang Theory, tenta restaurar a realidade após acidentalmente quebrar um dispositivo criado por Sheldon e Leonard. Ao lado de Denise, Bert e Barry Kripke, ele precisa impedir um apocalipse multiversal, enquanto lida com versões alternativas de velhos conhecidos e com sua própria infelicidade crônica.",
 			"year": "2026",
-			"genre": "Comédia / Ficção Científica",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
 			"lastEpisodeInfo": "Em exibição (1º Episódio)",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -2319,7 +2319,7 @@
 			"seasonsInfo": "9 Temporadas",
 			"description": "Na fuga de um negócio de drogas que acabou mal, Mike Ross, um brilhante abandono da faculdade, encontra um trabalho trabalhando com Harvey Specter, um dos melhores advogados de Nova York.",
 			"year": "2011",
-			"genre": "Drama / Jurídico",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
 			"lastEpisodeInfo": "1ª Temporada",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -2435,7 +2435,7 @@
 			"seasonsInfo": "2 Temporadas",
 			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
 			"year": "2025",
-			"genre": "Drama Médico",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
 			"lastEpisodeInfo": "2ª Temporada Completa",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -2702,7 +2702,7 @@
 			"seasonsInfo": "1 Temporada",
 			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
 			"year": "2001",
-			"genre": "Guerra",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
 			"lastEpisodeInfo": "Completo",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -2802,7 +2802,7 @@
 			"seasonsInfo": "1 Temporada",
 			"description": "Um homem engenheiro estrutural se instala em uma prisão que ele mesmo ajudou a projetar para salvar seu irmão falsamente acusado, que está no corredor da morte.",
 			"year": "2005",
-			"genre": "Ação / Drama",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
 			"lastEpisodeInfo": "22 Episódios",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -2987,21 +2987,7 @@
 							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E22.mp4"
 						}
 					]
-				}
-			]
-		},
-		{
-			"id": "pb_s2",
-			"title": "Prison Break",
-			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
-			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
-			"seasonsInfo": "2ª Temporada",
-			"description": "Fora das paredes de Fox River, Michael Scofield, Lincoln Burrows e os outros fugitivos embarcam em uma caçada nacional desesperada. Enquanto tentam alcançar a liberdade e encontrar o dinheiro escondido de Westmoreland, eles são caçados sem trégua pelo incansável agente do FBI Alexander Mahone.",
-			"year": "2006",
-			"genre": "Ação / Drama",
-			"lastEpisodeInfo": "22 Episódios",
-			"trailerYoutubeId": "",
-			"seasons": [
+				},
 				{
 					"number": 2,
 					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
@@ -3183,21 +3169,7 @@
 							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E22.mp4"
 						}
 					]
-				}
-			]
-		},
-		{
-			"id": "pb_s3",
-			"title": "Prison Break",
-			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
-			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
-			"seasonsInfo": "3ª Temporada",
-			"description": "Michael Scofield é preso na infame prisão de Sona, no Panamá, onde não há guardas e as regras são impostas pelos próprios detentos. Ele precisa encontrar uma forma de fugir trazendo consigo um prisioneiro misterioso.",
-			"year": "2007",
-			"genre": "Ação / Drama",
-			"lastEpisodeInfo": "13 Episódios",
-			"trailerYoutubeId": "",
-			"seasons": [
+				},
 				{
 					"number": 3,
 					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
@@ -3307,21 +3279,7 @@
 							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e13.mp4"
 						}
 					]
-				}
-			]
-		},
-		{
-			"id": "pb_s4",
-			"title": "Prison Break",
-			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
-			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
-			"seasonsInfo": "4ª Temporada",
-			"description": "Em busca de vingança e justiça, Michael Scofield e Lincoln Burrows se unem a um agente governamental para recrutar uma equipe e destruir 'A Companhia' de uma vez por todas, recuperando um dispositivo de dados ultra-secreto chamado Scylla.",
-			"year": "2008",
-			"genre": "Ação / Drama",
-			"lastEpisodeInfo": "22 Episódios",
-			"trailerYoutubeId": "",
-			"seasons": [
+				},
 				{
 					"number": 4,
 					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
