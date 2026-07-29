@@ -1,4 +1,6 @@
 {
+	"version": "1.0",
+	"epgUrl": "https://iptv-epg.org",
 	"liveChannels": [
 		{
 			"id": "traceurban",
