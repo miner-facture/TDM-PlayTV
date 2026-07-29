@@ -1689,6 +1689,28 @@
 	],
 	"movies": [
 		{
+			"id": "m23",
+			"title": "Interestelar",
+			"year": "2014",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/UY2048_.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/interestelar.jpg",
+			"description": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço, na tentativa de garantir a sobrevivência da humanidade.",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m23",
+			"title": "O Bom Gigante Amigo",
+			"year": "2016",
+			"genre": "Aventura/Fantasia",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ubga.png",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/bfg-arvore.png",
+			"description": "Uma garotinha órfã faz amizade com um gigante benevolente que a leva para o País dos Gigantes, onde eles tentam deter os gigantes devoradores de homens que estão invadindo o mundo humano.",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
+		},
+		{
 			"id": "m1",
 			"title": "As Ovelhas Detetives",
 			"year": "2026",
@@ -1917,17 +1939,6 @@
 			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjRlNGU1YTctMGRkZS00YTY0LTg2NjMtZDkzMmEyMjhlMGI2XkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
 			"description": "Um humano aprimorado e Sarah Connor precisam impedir que um avançado Exterminador líquido cace uma jovem garota, cujo destino é crucial para a raça humana.",
 			"streamUrl": "https://ia801403.us.archive.org/19/items/o.-ext.-f.-d.-s/O.Ext.F.D.S.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m23",
-			"title": "texto_titulo",
-			"year": "ano",
-			"genre": "Ficção científica/Ação",
-			"coverUrl": "link_imagem_png",
-			"backdropUrl": "link_imagem_slide",
-			"description": "descrição_filme",
-			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		},
 		{
@@ -2430,8 +2441,8 @@
 		{
 			"id": "the_pitt",
 			"title": "The Pitt ",
-			"coverUrl": "https://i.ibb.co/1fdPqJWD/the-pitt-1.jpg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/the-pitt-max-capa.jpg",
+			"coverUrl": "https://i.ibb.co/1fdPqJWD/the-pitt-1.jpg",
 			"seasonsInfo": "2 Temporadas",
 			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
 			"year": "2025",
@@ -2797,7 +2808,7 @@
 		{
 			"id": "pb",
 			"title": "Prison Break",
-			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(2).jpeg",
 			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
 			"seasonsInfo": "1 Temporada",
 			"description": "Um homem engenheiro estrutural se instala em uma prisão que ele mesmo ajudou a projetar para salvar seu irmão falsamente acusado, que está no corredor da morte.",
@@ -2990,7 +3001,7 @@
 				},
 				{
 					"number": 2,
-					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/pb2.png",
 					"episodes": [
 						{
 							"id": "pb_s2_e1",
@@ -3172,7 +3183,7 @@
 				},
 				{
 					"number": 3,
-					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/pb3.png",
 					"episodes": [
 						{
 							"id": "pb_s3_e1",
@@ -3282,7 +3293,7 @@
 				},
 				{
 					"number": 4,
-					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/pb4.webp",
 					"episodes": [
 						{
 							"id": "pb_s4_e1",
