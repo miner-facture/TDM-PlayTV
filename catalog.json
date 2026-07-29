@@ -1689,6 +1689,37 @@
 	],
 	"movies": [
 		{
+			"id": "m34",
+			"title": "À Procura da Felicidade",
+			"year": "2006",
+			"genre": "Drama/Biografia",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BNWQ0Yzc2YTItNWEzOS00MGFmLTgxMjgtNjlhYzBhMDNhNzY0XkEyXkFqcGc@._V1_FMjpg_UY2141_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMTQwNjM4NzA5Nl5BMl5BanBnXkFtZTcwNTA1NjYyMw@@._V1_FMjpg_UX1280_.jpg",
+			"description": "Enfrentando sérios problemas financeiros, Chris Gardner é abandonado por sua esposa e precisa cuidar sozinho de seu filho de cinco anos. Ele consegue um estágio não remunerado em uma prestigiada corretora de valores, apostando tudo em um futuro melhor enquanto luta contra a extrema pobreza e a falta de moradia.",
+			"streamUrl": "https://ia600804.us.archive.org/3/items/apdf_20260729/APDF.mp4"
+		},
+		{
+			"id": "m32",
+			"title": "Dia D",
+			"year": "2026",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Dia_D-1.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Dia_D-2.jpg",
+			"description": "descrição_filme",
+			"streamUrl": "https://archive.org/download/dddoc/d%2Cd%2Cdoc.mkv",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m30",
+			"title": "X-Men Origens: Wolverine",
+			"year": "2009",
+			"genre": "Ação/Ficção científica",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/X-Men_Origins_Wolverine2.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/X-Men_Origins_Wolverine1.jpg",
+			"description": "O longa conta a história do passado violento e romântico de Wolverine, de seu complexo relacionamento com Dentes de Sabre, e do ameaçador programa Arma-X. Wolverine encontra muitos mutantes pelo seu caminho, tanto familiares quanto novos, incluindo aparições surpresas de várias lendas do universo dos X-Men.",
+			"streamUrl": "https://ia600408.us.archive.org/16/items/tcc.-x.-m.-o.-w/TCC.X.M.O.W.mp4"
+		},
+		{
 			"id": "m23",
 			"title": "Interestelar",
 			"year": "2014",
