@@ -1696,7 +1696,7 @@
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/UY2048_.jpg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/interestelar.jpg",
 			"description": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço, na tentativa de garantir a sobrevivência da humanidade.",
-			"streamUrl": "link_do_video",
+			"streamUrl": "https://ia600100.us.archive.org/28/items/obga_20260729/f.i.e.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ubga.png",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/bfg-arvore.png",
 			"description": "Uma garotinha órfã faz amizade com um gigante benevolente que a leva para o País dos Gigantes, onde eles tentam deter os gigantes devoradores de homens que estão invadindo o mundo humano.",
-			"streamUrl": "link_do_video",
+			"streamUrl": "https://ia600100.us.archive.org/28/items/obga_20260729/OBGA.mp4",
 			"trailerYoutubeId": ""
 		},
 		{
@@ -3298,18 +3298,10 @@
 						{
 							"id": "pb_s4_e1",
 							"title": "Resgate",
-							"episodeNumber": 1,
+							"episodeNumber": 1.2,
 							"thumbUrl": "",
 							"description": "Michael busca vingança contra Gretchen pela suposta morte de Sara. Após serem presos novamente, Michael, Lincoln e seus aliados recebem uma proposta do agente Don Self: derrubar A Companhia em troca da liberdade.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E01.mp4"
-						},
-						{
-							"id": "pb_s4_e2",
-							"title": "A Quebra de Sona",
-							"episodeNumber": 2,
-							"thumbUrl": "",
-							"description": "O grupo chega a Los Angeles e começa a rastrear o primeiro cartão do Scylla. Michael descobre que Sara está viva, reunindo-se com ela.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E02.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E01E02.mp4"
 						},
 						{
 							"id": "pb_s4_e3",
@@ -3317,7 +3309,7 @@
 							"episodeNumber": 3,
 							"thumbUrl": "",
 							"description": "A equipe precisa invadir um evento de alta classe em uma mansão para copiar os dados do segundo cartão do Scylla, mas o plano corre risco de falhar.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E03.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E03.mp4"
 						},
 						{
 							"id": "pb_s4_e4",
@@ -3325,7 +3317,7 @@
 							"episodeNumber": 4,
 							"thumbUrl": "",
 							"description": "A equipe rastreia o próximo portador do cartão até um evento de homenagens da polícia, exigindo que Lincoln e Mahone usem disfarces arriscados.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E04.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E04.mp4"
 						},
 						{
 							"id": "pb_s4_e5",
@@ -3333,7 +3325,7 @@
 							"episodeNumber": 5,
 							"thumbUrl": "",
 							"description": "Sara luta contra a culpa do seu passado. Enquanto isso, Mahone tenta rastrear o assassino de seu filho, mantendo o foco na missão do Scylla.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E05.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E05.mp4"
 						},
 						{
 							"id": "pb_s4_e6",
@@ -3341,7 +3333,7 @@
 							"episodeNumber": 6,
 							"thumbUrl": "",
 							"description": "A equipe precisa grampear o telefone do General para encontrar os portadores restantes do cartão, enquanto T-Bag continua sua vida dupla em Los Angeles.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E06.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E06.mp4"
 						},
 						{
 							"id": "pb_s4_e7",
@@ -3349,7 +3341,7 @@
 							"episodeNumber": 7,
 							"thumbUrl": "",
 							"description": "Lincoln e Sucre correm contra o tempo para recuperar um cartão antes que seu portador saia da cidade. A saúde de Michael começa a deteriorar sensivelmente.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E07.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E07.mp4"
 						},
 						{
 							"id": "pb_s4_e8",
@@ -3357,7 +3349,7 @@
 							"episodeNumber": 8,
 							"thumbUrl": "",
 							"description": "Uma aliança inesperada é formada com Gretchen. A equipe elabora um plano audacioso para emboscar o General e obter o último cartão.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E08.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E08.mp4"
 						},
 						{
 							"id": "pb_s4_e9",
@@ -3365,7 +3357,7 @@
 							"episodeNumber": 9,
 							"thumbUrl": "",
 							"description": "Michael descobre a localização da sede da Companhia e prepara o plano de invasão subterrânea através da empresa GATE.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E09.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E09.mp4"
 						},
 						{
 							"id": "pb_s4_e10",
@@ -3373,7 +3365,7 @@
 							"episodeNumber": 10,
 							"thumbUrl": "",
 							"description": "O grupo escava em direção ao cofre do Scylla, mas enfrenta sérios obstáculos técnicos e o agravamento das dores de cabeça de Michael.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E10.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E10.mp4"
 						},
 						{
 							"id": "pb_s4_e11",
@@ -3381,7 +3373,7 @@
 							"episodeNumber": 11,
 							"thumbUrl": "",
 							"description": "Superando os sistemas de segurança avançados, a equipe finalmente consegue entrar na sala do cofre do Scylla.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E11.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E11.mp4"
 						},
 						{
 							"id": "pb_s4_e12",
@@ -3389,7 +3381,7 @@
 							"episodeNumber": 12,
 							"thumbUrl": "",
 							"description": "Michael e sua equipe capturam o Scylla diretamente da sede da Companhia em uma operação arriscada e cheia de tensão.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E12.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E12.mp4"
 						},
 						{
 							"id": "pb_s4_e13",
@@ -3397,7 +3389,7 @@
 							"episodeNumber": 13,
 							"thumbUrl": "",
 							"description": "Quando o grupo se prepara para entregar o dispositivo e receber o perdão judicial, uma traição chocante muda o rumo da missão.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E13.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E13.mp4"
 						},
 						{
 							"id": "pb_s4_e14",
@@ -3405,7 +3397,7 @@
 							"episodeNumber": 14,
 							"thumbUrl": "",
 							"description": "Michael desmaia e é capturado pela Companhia. O General oferece uma cirurgia para salvar a vida de Michael em troca do retorno do Scylla.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E14.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E14.mp4"
 						},
 						{
 							"id": "pb_s4_e15",
@@ -3413,7 +3405,7 @@
 							"episodeNumber": 15,
 							"thumbUrl": "",
 							"description": "Michael acorda após a cirurgia e descobre que seu cérebro guarda a chave para desvendar os segredos do Scylla. Lincoln vai para Miami buscar o dispositivo.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E15.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E15.mp4"
 						},
 						{
 							"id": "pb_s4_e16",
@@ -3421,7 +3413,7 @@
 							"episodeNumber": 16,
 							"thumbUrl": "",
 							"description": "Lincoln e sua nova equipe tentam rastrear o Scylla em Miami, enquanto Michael é mantido em uma instalação remota da Companhia sob pressão psicológica.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E16.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E16.mp4"
 						},
 						{
 							"id": "pb_s4_e17",
@@ -3429,7 +3421,7 @@
 							"episodeNumber": 17,
 							"thumbUrl": "",
 							"description": "Michael escapa do cativeiro e tenta se reunir com Sara, enquanto Lincoln enfrenta problemas com novos compradores do Scylla.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E17.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E17.mp4"
 						},
 						{
 							"id": "pb_s4_e18",
@@ -3437,7 +3429,7 @@
 							"episodeNumber": 18,
 							"thumbUrl": "",
 							"description": "Michael e Lincoln se reencontram em Miami, mas com ideais opostos sobre como lidar com o Scylla, gerando um forte confronto entre os irmãos.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E18.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E18.mp4"
 						},
 						{
 							"id": "pb_s4_e19",
@@ -3445,7 +3437,7 @@
 							"episodeNumber": 19,
 							"thumbUrl": "",
 							"description": "Uma revelação impressionante mostra que a mãe de Michael e Lincoln, Christina Rose, está viva e no controle do Scylla.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E19.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E19.mp4"
 						},
 						{
 							"id": "pb_s4_e20",
@@ -3453,7 +3445,7 @@
 							"episodeNumber": 20,
 							"thumbUrl": "",
 							"description": "Michael tenta interceptar um encontro geopolítico orquestrado por sua mãe para evitar um incidente internacional.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E20.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E20.mp4"
 						},
 						{
 							"id": "pb_s4_e21",
@@ -3461,7 +3453,7 @@
 							"episodeNumber": 21,
 							"thumbUrl": "",
 							"description": "Com Lincoln e Sara capturados por lados opostos, Michael é forçado a fazer uma escolha impossível para salvar quem ama.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E21.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E21.mp4"
 						},
 						{
 							"id": "pb_s4_e22",
@@ -3469,7 +3461,15 @@
 							"episodeNumber": 22,
 							"thumbUrl": "",
 							"description": "A luta pelo Scylla chega ao fim. Uma figura do passado reaparece para oferecer a imunidade definitiva aos irmãos, selando seus destinos.",
-							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T04E22.mp4"
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E22.mp4"
+						},
+						{
+							"id": "pb_s4_e23_24",
+							"title": "A Liberação",
+							"episodeNumber": 23.24,
+							"thumbUrl": "",
+							"description": "A luta pelo Scylla chega ao fim. Uma figura do passado reaparece para oferecer a imunidade definitiva aos irmãos, selando seus destinos.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E23E24.mp4"
 						}
 					]
 				}
