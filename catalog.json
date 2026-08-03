@@ -1,6 +1,21 @@
 {
 	"liveChannels": [
 		{
+  "id": "retrotv_cz",
+  "name": "Retro Music Television",
+  "category": "Música",
+  "logoUrl": "https://www.retrotv.cz/images/logo.png",
+  "streamUrl": "https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "isProtected": false,
+  "isYoutube": false,
+  "epgId": "RetroTV.cz",
+  "tvgId": "RetroTV.cz",
+  "channelNumber": "100"
+},
+		{
 			"id": "traceurban",
 			"name": "Trace Urban",
 			"category": "Música",
