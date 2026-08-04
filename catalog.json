@@ -1725,56 +1725,6 @@
 	"movies": [
 		{
 			"id": "m34",
-			"title": "Piratas do Caribe: A Maldição do Pérola Negra",
-			"year": "2003",
-			"genre": "Ação/Aventura/Fantasia",
-			"coverUrl": "Link_cartaz_png",
-			"backdropUrl": "Link_Slade_png",
-			"description": "O ferreiro Will Turner se une ao excêntrico pirata Jack Sparrow para resgatar o amor de sua vida, Elizabeth Swann, sequestrada pelo Capitão Barbossa. O que eles não sabem é que Barbossa e sua tripulação carregam uma maldição antiga que os transforma em mortos-vivos sob a luz da lua.",
-			"streamUrl": "link_do_video"
-		},
-		{
-			"id": "m35",
-			"title": "Piratas do Caribe: O Baú da Morte",
-			"year": "2006",
-			"genre": "Ação/Aventura/Fantasia",
-			"coverUrl": "Link_cartaz_png",
-			"backdropUrl": "Link_Slade_png",
-			"description": "Jack Sparrow descobre que tem uma dívida de sangue com o temível Davy Jones, capitão do lendário Holandês Voador. Para evitar ser condenado à servidão eterna, Jack precisa encontrar o misterioso Baú da Morte com a ajuda de Will e Elizabeth.",
-			"streamUrl": "link_do_video"
-		},
-		{
-			"id": "m36",
-			"title": "Piratas do Caribe: No Fim do Mundo",
-			"year": "2007",
-			"genre": "Ação/Aventura/Fantasia",
-			"coverUrl": "Link_cartaz_png",
-			"backdropUrl": "Link_Slade_png",
-			"description": "Com Davy Jones sob o controle da Companhia das Índias Orientais, os piratas estão prestes a ser extintos dos mares. Will, Elizabeth e o Capitão Barbossa precisam viajar até os confins da Terra para resgatar Jack Sparrow do Baú de Davy Jones e travar a batalha final.",
-			"streamUrl": "link_do_video"
-		},
-		{
-			"id": "m37",
-			"title": "Piratas do Caribe: Navegando em Águas Misteriosas",
-			"year": "2011",
-			"genre": "Ação/Aventura/Fantasia",
-			"coverUrl": "Link_cartaz_png",
-			"backdropUrl": "Link_Slade_png",
-			"description": "O Capitão Jack Sparrow cruza o caminho de Angélica, uma mulher do seu passado. Forçado a embarcar no navio do temido Barba Negra, Jack é levado a uma perigosa jornada em busca da lendária Fonte da Juventude.",
-			"streamUrl": "link_do_video"
-		},
-		{
-			"id": "m38",
-			"title": "Piratas do Caribe: A Vingança de Salazar",
-			"year": "2017",
-			"genre": "Ação/Aventura/Fantasia",
-			"coverUrl": "Link_cartaz_png",
-			"backdropUrl": "Link_Slade_png",
-			"description": "O terrível Capitão Salazar escapa do Triângulo das Bermudas liderando um exército de marinheiros fantasmas determinado a matar todos os piratas, especialmente Jack Sparrow. Para sobreviver, Jack precisa encontrar o lendário Tridente de Poseidon.",
-			"streamUrl": "link_do_video"
-		},
-		{
-			"id": "m34",
 			"title": "À Procura da Felicidade",
 			"year": "2006",
 			"genre": "Drama/Biografia",
@@ -2055,17 +2005,6 @@
 			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjRlNGU1YTctMGRkZS00YTY0LTg2NjMtZDkzMmEyMjhlMGI2XkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
 			"description": "Um humano aprimorado e Sarah Connor precisam impedir que um avançado Exterminador líquido cace uma jovem garota, cujo destino é crucial para a raça humana.",
 			"streamUrl": "https://ia801403.us.archive.org/19/items/o.-ext.-f.-d.-s/O.Ext.F.D.S.mp4",
-			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m30",
-			"title": "texto_titulo",
-			"year": "ano",
-			"genre": "Ficção científica/Ação",
-			"coverUrl": "link_imagem_png",
-			"backdropUrl": "link_imagem_slide",
-			"description": "descrição_filme",
-			"streamUrl": "link_do_video",
 			"trailerYoutubeId": ""
 		}
 	],
