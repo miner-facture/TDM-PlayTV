@@ -1779,7 +1779,218 @@
 	],
 	"series": [
 		{
-			
+			"id": "pb",
+			"title": "Prison Break",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(2).jpeg",
+			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
+			"seasonsInfo": "1 Temporada",
+			"description": "Um homem engenheiro estrutural se instala em uma prisão que ele mesmo ajudou a projetar para salvar seu irmão falsamente acusado, que está no corredor da morte.",
+			"year": "2005",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
+			"lastEpisodeInfo": "22 Episódios",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
+					"episodes": [
+						{
+							"id": "pb_s1_e1",
+							"title": "Em Busca da Verdade",
+							"episodeNumber": 1,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(3).jpeg",
+							"description": "Michael Scofield assalta um banco para ser preso na mesma penitenciária que seu irmão Lincoln Burrows, que aguarda a execução por um crime que alega não ter cometido.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E01.mp4"
+						},
+						{
+							"id": "pb_s1_e2",
+							"title": "Acerto de Contas",
+							"episodeNumber": 2,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(2).jpeg",
+							"description": "Tensão racial esquenta na prisão enquanto Michael busca obter um item necessário para o seu plano de fuga.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E02.mp4"
+						},
+						{
+							"id": "pb_s1_e3",
+							"title": "Teste do Celular",
+							"episodeNumber": 3,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(1).jpeg",
+							"description": "Michael testa a lealdade de seu colega de cela, Sucre, enquanto continua os preparativos dentro do sistema de ventilação.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E03.mp4"
+						},
+						{
+							"id": "pb_s1_e4",
+							"title": "A Volta de Sucre",
+							"episodeNumber": 4,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images.jpeg",
+							"description": "Michael precisa de produtos químicos específicos para abrir caminho nas tubulações e conta com ajuda externa.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E04.mp4"
+						},
+						{
+							"id": "pb_s1_e5",
+							"title": "A Transferência",
+							"episodeNumber": 5,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Forças externas tentam transferir Michael para outra prisão, o que arruinaria todo o plano de resgate.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E05.mp4"
+						},
+						{
+							"id": "pb_s1_e6",
+							"title": "A Rebelião Parte 1",
+							"episodeNumber": 6,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael provoca um bloqueio no ar-condicionado para ganhar tempo no plano de escavação, mas a situação sai do controle e gera uma rebelião.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E06.mp4"
+						},
+						{
+							"id": "pb_s1_e7",
+							"title": "A Rebelião Parte 2",
+							"episodeNumber": 7,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Com a rebelião em andamento, Michael tenta resgatar a Dra. Sara Tancredi enquanto Lincoln luta pela própria vida.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E07.mp4"
+						},
+						{
+							"id": "pb_s1_e8",
+							"title": "Perseguição",
+							"episodeNumber": 8,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael precisa recrutar um novo membro para a fuga a fim de conseguir um avião de transporte.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E08.mp4"
+						},
+						{
+							"id": "pb_s1_e9",
+							"title": "Um Novo Chefe",
+							"episodeNumber": 9,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "A liderança da equipe de trabalho da prisão muda, ameaçando o acesso ao ponto cego do plano de fuga.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E09.mp4"
+						},
+						{
+							"id": "pb_s1_e10",
+							"title": "De Volta ao Plano de Fuga",
+							"episodeNumber": 10,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Abruzzi tenta recuperar o controle do trabalho prisional enquanto Michael tenta avançar pelo túnel.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E10.mp4"
+						},
+						{
+							"id": "pb_s1_e11",
+							"title": "Sete é Demais",
+							"episodeNumber": 11,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "O grupo de fuga cresce mais do que o esperado e nem todos poderão escapar.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E11.mp4"
+						},
+						{
+							"id": "pb_s1_e12",
+							"title": "Perdão Fatal",
+							"episodeNumber": 12,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "A execução de Lincoln se aproxima rapidamente e Michael é forçado a adiantar a fuga.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E12.mp4"
+						},
+						{
+							"id": "pb_s1_e13",
+							"title": "O Fim do Tunel",
+							"episodeNumber": 13,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "A tentativa de fuga começa, mas um obstáculo imprevisto no caminho coloca tudo em risco.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E13.mp4"
+						},
+						{
+							"id": "pb_s1_e14",
+							"title": "O Rato",
+							"episodeNumber": 14,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Com a execução de Lincoln a poucas horas, Michael tenta atrasar a cadeira elétrica de qualquer maneira.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E14.mp4"
+						},
+						{
+							"id": "pb_s1_e15",
+							"title": "O Adiamento",
+							"episodeNumber": 15,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Novas evidências surgem no último minuto, alterando temporariamente os planos para Lincoln.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E15.mp4"
+						},
+						{
+							"id": "pb_s1_e16",
+							"title": "O Guardião do Irmão",
+							"episodeNumber": 16,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Flashbacks revelam como os personagens acabaram na penitenciária de Fox River.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E16.mp4"
+						},
+						{
+							"id": "pb_s1_e17",
+							"title": "O Surto",
+							"episodeNumber": 17,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael precisa encontrar uma nova rota através da ala de psiquiatria da prisão.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E17.mp4"
+						},
+						{
+							"id": "pb_s1_e18",
+							"title": "O Blefe",
+							"episodeNumber": 18,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael precisa recuperar a parte perdida da tatuagem que foi queimada do seu corpo.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E18.mp4"
+						},
+						{
+							"id": "pb_s1_e19",
+							"title": "A Chave",
+							"episodeNumber": 19,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael precisa conseguir a chave da enfermaria para garantir a saída final.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E19.mp4"
+						},
+						{
+							"id": "pb_s1_e20",
+							"title": "A Segunda Fuga",
+							"episodeNumber": 20,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Com a descoberta do buraco da fuga iminente, o grupo é forçado a agir imediatamente.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E20.mp4"
+						},
+						{
+							"id": "pb_s1_e21",
+							"title": "A Noite da Fuga",
+							"episodeNumber": 21,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael e os outros detentos iniciam o plano final de fuga durante a noite.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E21.mp4"
+						},
+						{
+							"id": "pb_s1_e22",
+							"title": "A Reta Final",
+							"episodeNumber": 22,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Os fugitivos tentam escapar da intensa caçada policial fora dos muros de Fox River.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E22.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/pb2.png",
+					"episodes": [
+						{
+							"id": "pb_s2_e1",
+							"title": "A Caçada",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "Apenas oito horas após a fuga de Fox River, Michael, Lincoln, Sucre, C-Note e Abruzzi correm contra o tempo para escapar das autoridades. O implacável agente do FBI Alexander Mahone assume o comando da caçada nacional.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E01.mp4"
+						},
+						{
+							"id": "pb_s2_e2",
+							"title": "Otis",
+							"episodeNumber": 2,
+							"thumbUrl": "",
+							"description": "Michael e Lincoln tentam resgatar LJ do tribunal antes que ele seja transferido para uma prisão de segurança máxima no Arizona, mas Mahone prevê a jogada da dupla.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E02.mp4"
 						}
 					]
 				}
