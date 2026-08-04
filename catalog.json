@@ -1,20 +1,21 @@
 {
+	"epgUrl": "https://iptv-epg.org/files/epg-br.xml",
 	"liveChannels": [
 		{
-  "id": "retrotv_cz",
-  "name": "Retro Music Television",
-  "category": "Música",
-  "logoUrl": "https://www.retrotv.cz/images/logo.png",
-  "streamUrl": "https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8",
-  "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-  },
-  "isProtected": false,
-  "isYoutube": false,
-  "epgId": "RetroTV.cz",
-  "tvgId": "RetroTV.cz",
-  "channelNumber": "100"
-},
+			"id": "retrotv_cz",
+			"name": "Retro Music Television",
+			"category": "Música",
+			"logoUrl": "https://oficina.design/wp-content/uploads/2022/09/RETRO_logo-1.gif",
+			"streamUrl": "https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8",
+			"headers": {
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/120.0.0.0 Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "RetroTV.cz",
+			"tvgId": "RetroTV.cz",
+			"channelNumber": "100"
+		},
 		{
 			"id": "traceurban",
 			"name": "Trace Urban",
@@ -51,6 +52,25 @@
 			"epgId": "CNNBrasil.br",
 			"tvgId": "CNNBrasil.br",
 			"channelNumber": "506"
+		},
+		{
+			"id": "FoxNewsChannel.br",
+			"name": "Fox News",
+			"category": "Notícias",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/FoxNewsChannel.png",
+			"streamUrl": "https://247.foxnews.com/hls/live/2003586/FNCHLSv3/primary_792.m3u8",
+			"headers": {
+				"Referer": "https://static.foxnews.com/static/orion/html/video/iframe/tve.html?v=null",
+				"Origin": "https://static.foxnews.com",
+				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+				"sec-fetch-mode": "cors",
+				"sec-ch-ua-platform": "\"Android\""
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "FoxNewsChannel.br",
+			"tvgId": "FoxNewsChannel.br",
+			"channelNumber": "507"
 		},
 		{
 			"id": "sbtnews",
@@ -1705,6 +1725,56 @@
 	"movies": [
 		{
 			"id": "m34",
+			"title": "Piratas do Caribe: A Maldição do Pérola Negra",
+			"year": "2003",
+			"genre": "Ação/Aventura/Fantasia",
+			"coverUrl": "Link_cartaz_png",
+			"backdropUrl": "Link_Slade_png",
+			"description": "O ferreiro Will Turner se une ao excêntrico pirata Jack Sparrow para resgatar o amor de sua vida, Elizabeth Swann, sequestrada pelo Capitão Barbossa. O que eles não sabem é que Barbossa e sua tripulação carregam uma maldição antiga que os transforma em mortos-vivos sob a luz da lua.",
+			"streamUrl": "link_do_video"
+		},
+		{
+			"id": "m35",
+			"title": "Piratas do Caribe: O Baú da Morte",
+			"year": "2006",
+			"genre": "Ação/Aventura/Fantasia",
+			"coverUrl": "Link_cartaz_png",
+			"backdropUrl": "Link_Slade_png",
+			"description": "Jack Sparrow descobre que tem uma dívida de sangue com o temível Davy Jones, capitão do lendário Holandês Voador. Para evitar ser condenado à servidão eterna, Jack precisa encontrar o misterioso Baú da Morte com a ajuda de Will e Elizabeth.",
+			"streamUrl": "link_do_video"
+		},
+		{
+			"id": "m36",
+			"title": "Piratas do Caribe: No Fim do Mundo",
+			"year": "2007",
+			"genre": "Ação/Aventura/Fantasia",
+			"coverUrl": "Link_cartaz_png",
+			"backdropUrl": "Link_Slade_png",
+			"description": "Com Davy Jones sob o controle da Companhia das Índias Orientais, os piratas estão prestes a ser extintos dos mares. Will, Elizabeth e o Capitão Barbossa precisam viajar até os confins da Terra para resgatar Jack Sparrow do Baú de Davy Jones e travar a batalha final.",
+			"streamUrl": "link_do_video"
+		},
+		{
+			"id": "m37",
+			"title": "Piratas do Caribe: Navegando em Águas Misteriosas",
+			"year": "2011",
+			"genre": "Ação/Aventura/Fantasia",
+			"coverUrl": "Link_cartaz_png",
+			"backdropUrl": "Link_Slade_png",
+			"description": "O Capitão Jack Sparrow cruza o caminho de Angélica, uma mulher do seu passado. Forçado a embarcar no navio do temido Barba Negra, Jack é levado a uma perigosa jornada em busca da lendária Fonte da Juventude.",
+			"streamUrl": "link_do_video"
+		},
+		{
+			"id": "m38",
+			"title": "Piratas do Caribe: A Vingança de Salazar",
+			"year": "2017",
+			"genre": "Ação/Aventura/Fantasia",
+			"coverUrl": "Link_cartaz_png",
+			"backdropUrl": "Link_Slade_png",
+			"description": "O terrível Capitão Salazar escapa do Triângulo das Bermudas liderando um exército de marinheiros fantasmas determinado a matar todos os piratas, especialmente Jack Sparrow. Para sobreviver, Jack precisa encontrar o lendário Tridente de Poseidon.",
+			"streamUrl": "link_do_video"
+		},
+		{
+			"id": "m34",
 			"title": "À Procura da Felicidade",
 			"year": "2006",
 			"genre": "Drama/Biografia",
@@ -1832,17 +1902,601 @@
 			"description": "Um jovem casal viaja para uma ilha remota para comer em um restaurante exclusivo, onde o chef preparou um menu luxuoso, com algumas surpresas chocantes.",
 			"streamUrl": "https://ia601404.us.archive.org/18/items/o.menu/o.menu.mp4",
 			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m9",
+			"title": "William Tell - O Guerreiro",
+			"year": "2025",
+			"genre": "Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/william.o.guerreiro.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BYmE4ZjZhYmEtMGU5NS00ZjgwLTllMjQtMjYwMzI1NjYzZmEyXkEyXkFqcGc@._V1_FMjpg_UX1920_.jpg",
+			"description": "A narrativa se desenrola no século XIV, quando as nações europeias competem pela supremacia dentro do Sacro Império Romano..",
+			"streamUrl": "https://archive.org/download/william.-tell.-o.-guerreiro/William.Tell.O.Guerreiro.mkv",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m10",
+			"title": "Chopin, Uma Sonata em Paris",
+			"year": "2025",
+			"genre": "Drama/Biografia",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Chopin.Uma.Sonata.em.Paris.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BNWUzYjFkOTAtNDU1YS00ODdhLWJjOWYtMmJmYzA5YjM5Njk3XkEyXkFqcGc@._V1_.jpg",
+			"description": "Paris, 1835. Ídolo da aristocracia e presença constante nos salões da cidade, Chopin divide seus dias entre partituras encomendadas e aulas de piano, enquanto uma doença progressiva ameaça silenciar um dos maiores talentos da música.",
+			"streamUrl": "https://archive.org/download/william.-tell.-o.-guerreiro/Chopin.Uma%20Sonata.em.Paris.mkv",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m11",
+			"title": "Morte na Fronteira",
+			"year": "2023",
+			"genre": "Policial/Drama",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Morte.na.Fronteira.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BZmQ1NDE3MzctZDUxYy00ZjljLTg4OWItMDg2ZjY2NjU3MTdhXkEyXkFqcGc@._V1_.jpg",
+			"description": "Na fronteira dos Estados Unidos com o México, duas mulheres arriscam suas próprias vidas para resgatar um grupo de garotas vítimas de uma rede de tráfico sexual.",
+			"streamUrl": "https://archive.org/download/morte.na.-fronteira/Morte.na.Fronteira.mkv",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m12",
+			"title": "007: Operação Skyfall",
+			"year": "2012",
+			"genre": "Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/007.Opera%C3%A7%C3%A3o.Skyfall.jpg",
+			"backdropUrl": "https://cinepop.com.br/wp-content/uploads/2021/09/skyfall-cinepop3.jpg",
+			"description": "A lealdade de James Bond é testada quando o passado de M volta para assombrá-la. Quando o MI6 é atacado, 007 deve rastrear e destruir a ameaça, não importa quão pessoal seja o custo.",
+			"streamUrl": "https://ia600109.us.archive.org/16/items/007.-operacao.-skyfall/007.Opera%C3%A7%C3%A3o.Skyfall.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m13",
+			"title": "007 - Cassino Royale",
+			"year": "2006",
+			"genre": "Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/007.Cassino.Royale.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/S/pv-target-images/96c5114d3c621a25bf58bf7c344e84907803656431305c532287041fca0c7008.jpg",
+			"description": "A 1ª missão de James Bond (Daniel Craig) como agente 007 o leva a Madagascar. Sua tarefa é espionar o terrorista Mollaka (Sebastien Foucan), mas nem tudo sai como o planejado. Bond decide espionar por conta própria o restante da célula terrorista, o que o leva às Bahamas.",
+			"streamUrl": "https://ia601506.us.archive.org/23/items/007.-cassino.-royale/007.Cassino.Royale.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m14",
+			"title": "O Jovem Messias",
+			"year": "2016",
+			"genre": "Drama",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/O%20Jovem%20Messias.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/JovemMessias.jpg",
+			"description": "Jesus vive com sua família em Alexandria, onde eles fugiram do massacre de crianças. Com a morte do Rei eles voltam para Nazaré, sem saber que o herdeiro é como o pai e está determinado a matar Jesus.",
+			"streamUrl": "https://ia600507.us.archive.org/20/items/o.-jovem.-messias/O.Jovem.Messias.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m15",
+			"title": "Terremoto: A Falha de San Andreas",
+			"year": "2015",
+			"genre": "Ação/Thriller",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BOGMyNDc5MGItMmYyOC00ZmU5LWI1NDQtOTE0YWVlZjYwNzJhXkEyXkFqcGc@._V1_FMjpg_UY4000_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BYWRiMzE4OTAtODQ0Zi00YjdmLThhMWEtNzk4ZTcxMGVhNDBiXkEyXkFqcGc@._V1_FMjpg_UX1680_.jpg",
+			"description": "Após um grande terremoto na Califórnia, um piloto de helicóptero de resgate faz uma viagem perigosa com sua ex-mulher através do estado para resgatar sua filha.",
+			"streamUrl": "https://ia601806.us.archive.org/25/items/terremoto.-a.-falha.de.-san.-andreas/Terremoto.A.Falha.de.San.Andreas.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m16",
+			"title": "O Poder e a Lei",
+			"year": "2011",
+			"genre": "Thriller/Crime",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BNWZlNjFlODItNGQ1NS00NzUwLWJhOTQtNTQyZjE5NTVmNTRlXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+			"backdropUrl": "https://www.planocritico.com/wp-content/uploads/2015/09/57-O-Poder-e-a-Lei.jpg",
+			"description": "Um advogado que defende um homem rico começa a acreditar que seu cliente é culpado de mais de um crime.",
+			"streamUrl": "https://ia601505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Poder.Lei.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m17",
+			"title": "O Exterminador do Futuro",
+			"year": "1985",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/O.Exterminador.do.Futuro1.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BNjY4NzQzMzM4NV5BMl5BanBnXkFtZTcwODgzNDQyNA@@._V1_FMjpg_UX1023_.jpg",
+			"description": "Um assassino do futuro é enviado para Los Angeles.",
+			"streamUrl": "https://ia601505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro1.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m18",
+			"title": "Exterminador do Futuro 2: O Julgamento Final",
+			"year": "1991",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BYTAxN2JhN2UtZmYxZC00Y2VhLWJiNjAtNzliNDAxMzI2MDVlXkEyXkFqcGc@._V1_FMjpg_UY6025_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjI4NTMyODY1Nl5BMl5BanBnXkFtZTgwNDA5MzgwMzI@._V1_FMjpg_UX2048_.jpg",
+			"description": "O pesadelo começa quando um novo Exterminador, mais novo e mais mortal, é enviado do futuro para o presente com uma única missão: mata John Connor o futuro líder da resistência. A resistência humana também enviou um guerreiro do futuro com as ordens de proteger John Connor a qualquer custo. A batalha pelo amanhã começou.",
+			"streamUrl": "https://ia601505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro2.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m19",
+			"title": "O Exterminador do Futuro 3: A Rebelião das Máquinas",
+			"year": "2003",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BZDg4M2QzYTItNzE1MS00ZTdmLWE0ZDctNzJjYjYxOGEyNDcyXkEyXkFqcGc@._V1_FMjpg_UX561_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjIxOTgxMDgzM15BMl5BanBnXkFtZTcwMTQ4MjAzMw@@._V1_FMjpg_UX2048_.jpg",
+			"description": "Dez anos depois do juízo final, John Connor vive na escuridão. Entretanto, as máquinas da Skynet encontram seu rastro e enviam ao passado T-X, um androide indestrutível, para eliminar o futuro líder da resistência humana.",
+			"streamUrl": "https://archive.org/download/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro3.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m20",
+			"title": "O Exterminador do Futuro 4: A Salvação",
+			"year": "2009",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BOGQ4YjFjOTUtZDE3OS00ZThlLThlNWItYzQxNzM2Y2VjZjViXkEyXkFqcGc@._V1_FMjpg_UY2039_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMTEwMjY2MDM3NzBeQTJeQWpwZ15BbWU3MDY1ODU5MTQ@._V1_FMjpg_UX2048_.jpg",
+			"description": "Enquanto as máquinas da Skynet se preparam para um ataque final, John Connor e um estranho descobrem um terrível segredo envolvendo a aniquilação da humanidade.",
+			"streamUrl": "https://ia801505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro4.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m21",
+			"title": "O Exterminador do Futuro 5: Gênesis",
+			"year": "2015",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/2754781.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMTY1MDE3OTExOF5BMl5BanBnXkFtZTgwODQzOTUwNjE@._V1_FMjpg_UX2048_.jpg",
+			"description": "descrição_filme",
+			"streamUrl": "https://ia801505.us.archive.org/6/items/o.-exterminador.do.-futuro.-genesis/O.Exterminador.do.Futuro.G%C3%AAnesis.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m22",
+			"title": "O Exterminador do Futuro 6: Destino Sombrio",
+			"year": "2019",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BZDQ2MTBkMWQtNmQ1Yy00YjNiLWE3MjItOGZhY2Q0NDlkOGVlXkEyXkFqcGc@._V1_FMjpg_UX660_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjRlNGU1YTctMGRkZS00YTY0LTg2NjMtZDkzMmEyMjhlMGI2XkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
+			"description": "Um humano aprimorado e Sarah Connor precisam impedir que um avançado Exterminador líquido cace uma jovem garota, cujo destino é crucial para a raça humana.",
+			"streamUrl": "https://ia801403.us.archive.org/19/items/o.-ext.-f.-d.-s/O.Ext.F.D.S.mp4",
+			"trailerYoutubeId": ""
+		},
+		{
+			"id": "m30",
+			"title": "texto_titulo",
+			"year": "ano",
+			"genre": "Ficção científica/Ação",
+			"coverUrl": "link_imagem_png",
+			"backdropUrl": "link_imagem_slide",
+			"description": "descrição_filme",
+			"streamUrl": "link_do_video",
+			"trailerYoutubeId": ""
 		}
 	],
 	"series": [
 		{
+			"id": "terminator_sarah_connor_chronicles",
+			"title": "O Exterminador do Futuro - As Crônicas de Sarah Connor",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BYzZkOTU3N2QtNWMwMi00MDU5LWE4YTMtYTQzZGMzODFmMmE2XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/As%20Cr%C3%B4nicas%20de%20Sarah%20Connor.png",
+			"seasonsInfo": "2 Temporadas",
+			"description": "Após os eventos em O Exterminador do Futuro 2, Sarah Connor e seu filho John tentam ficar fora do radar do governo, enquanto planejam destruir a rede de computadores Skynet, na esperança de impedir o Armagedom.",
+			"year": "2008",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
+			"lastEpisodeInfo": "2ª Temporada Completa",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BYzZkOTU3N2QtNWMwMi00MDU5LWE4YTMtYTQzZGMzODFmMmE2XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+					"episodes": [
+						{
+							"id": "tscc_s1_e1",
+							"title": "Piloto",
+							"episodeNumber": 1,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTgyOTI3OTgwNF5BMl5BanBnXkFtZTgwMjI3MzYyMjE@._V1_.jpg",
+							"description": "Em 1999, Sarah e John Connor tentam reconstruir a vida sob identidades falsas, mas um novo Exterminador os encontra. Uma ciborgue amigável chamada Cameron surge para protegê-los e leva-os ao ano de 2007.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E01.mp4"
+						},
+						{
+							"id": "tscc_s1_e2",
+							"title": "Gnothi Seauton",
+							"episodeNumber": 2,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTM2NjlkMmYtMDQwYy00YjhlLTg3NTQtMDA3NTFmOWVhYzMzXkEyXkFqcGc@._V1_.jpg",
+							"description": "Sarah busca a ajuda de uma antiga amiga para conseguir novas identidades falsas, enquanto Cameron precisa encontrar peças para consertar seus danos antes de ser rastreada.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E02.mp4"
+						},
+						{
+							"id": "tscc_s1_e3",
+							"title": "O Turco",
+							"episodeNumber": 3,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BN2NhYzJkODUtMzA2YS00N2E4LWJhNjctN2RkZDczMGI3YmQyXkEyXkFqcGc@._V1_.jpg",
+							"description": "Sarah procura o criador da inteligência artificial 'O Turco', um computador de xadrez que pode ser o precursor da Skynet, enquanto John tenta se adaptar à nova escola.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E03.mp4"
+						},
+						{
+							"id": "tscc_s1_e4",
+							"title": "A Pesada Espada de Dâmocles",
+							"episodeNumber": 4,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZjk0MmJlMGItNWEwNS00YzM0LWI5MDQtMGUxZDUxOTYxYmM4XkEyXkFqcGc@._V1_.jpg",
+							"description": "Quando ficam sabendo de um enorme carregamento de Coltan chegando ao Porto de Los Angeles, Sarah, John e Cameron acreditam que Cromartie retornou, mas após investigação descobrem um Exterminador do Futuro inteiramente novo com sua própria missão.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E04.mp4"
+						},
+						{
+							"id": "tscc_s1_e5",
+							"title": "Rainha da Bateria",
+							"episodeNumber": 5,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNzFlMzdhNDQtNzliOC00MGE4LWI3ZjItODFkZTk0MTU2Y2Q4XkEyXkFqcGc@._V1_.jpg",
+							"description": "Sarah fica preocupada ao saber que Andy Goode reconstruiu seu computador, o Turk II, e o inscreveu em uma competição de xadrez com um contrato militar como prêmio vencedor. Um combatente da Resistência do futuro resolve o problema com as próprias mãos.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E05.mp4"
+						},
+						{
+							"id": "tscc_s1_e6",
+							"title": "Dungeons & Dragons",
+							"episodeNumber": 6,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTkzODY0MTY0Nl5BMl5BanBnXkFtZTgwODI4MzUyMjE@._V1_.jpg",
+							"description": "Desesperado para salvar a vida de Derek Reese, John pede a ajuda de Charley Dixon, mas o paramédico luta para chegar a um acordo com viajantes do tempo e Exterminadores. No futuro, Derek luta para sobreviver quando se separa de seu irmão Kyle.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E06.mp4"
+						},
+						{
+							"id": "tscc_s1_e7",
+							"title": "A Mão do Demônio",
+							"episodeNumber": 7,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNjM4YzMyY2YtYzJmNy00NDFhLTkzZGItODJlOGM1MmE3XkEyXkFqcGc@._V1_.jpg",
+							"description": "Enquanto Derek Reese se recupera de seus ferimentos, Sarah tenta recuperar a mão decepada do Exterminador do Futuro e Cameron rastreia Dmitri Shipkov. Enquanto isso, o agente do FBI James Ellison visita o Dr. Silberman para saber mais sobre o passado de Sarah.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E07.mp4"
+						},
+						{
+							"id": "tscc_s1_e8",
+							"title": "Vick do Chip",
+							"episodeNumber": 8,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BODY2ODg0MDktOGMxMS00MzIzLWJjNDktZTk4NzE1MGNhN2I1XkEyXkFqcGc@._V1_.jpg",
+							"description": "Derek pega Cameron em uma mentira que os coloca dentro da cabeça de Vick, Sarah continua a rastrear o turco, e Cromartie chega mais perto de encontrar John.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E08.mp4"
+						},
+						{
+							"id": "tscc_s1_e9",
+							"title": "O que Ele Viu",
+							"episodeNumber": 9,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjAyMzk4MTE5MV5BMl5BanBnXkFtZTgwMDIxNTA2MzI@._V1_.jpg",
+							"description": "Sarah encontra-se em uma transação com um homem misterioso chamado Sarkissian, que afirma estar na posse do Turco roubado. Derek relembra sua infância. Ellison descobre que o terminador Cromartie está se passando por um agente do FBI.",
+							"streamUrl": "https://ia600100.us.archive.org/6/items/csc.-s-01-e-01/CSC.S01E09.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/T.S.C.jpg",
+					"episodes": [
+						{
+							"id": "tscc_s2_e1",
+							"title": "Sansão e Dalila",
+							"episodeNumber": 1,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNjM3NzU5M15BMl5BanBnXkFtZTgwMTQwNjUyMjE@._V1_.jpg",
+							"description": "Após a explosão da caminhonete, o chip de programação de Cameron sofre danos e sua missão é revertida para eliminar John Connor.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E01.mp4"
+						},
+						{
+							"id": "tscc_s2_e2",
+							"title": "Automático para o Povo",
+							"episodeNumber": 2,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjM5ODQzNjM3M15BMl5BanBnXkFtZTgwMjQwNjUyMjE@._V1_.jpg",
+							"description": "Sarah investiga uma usina nuclear após a morte de um combatente da resistência vindo do futuro.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E02.mp4"
+						},
+						{
+							"id": "tscc_s2_e3",
+							"title": "Armadilha para Ratos",
+							"episodeNumber": 3,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNWYxMjlkMWYtNmE4ZS00NTcxLTkyNjEtZTBiMjg5ZmYzNjMwXkEyXkFqcGc@._V1_.jpg",
+							"description": "Cromartie usa o ex-noivo de Sarah, Charley Dixon, para atrair Sarah e John para uma armadilha.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E03.mp4"
+						},
+						{
+							"id": "tscc_s2_e4",
+							"title": "Allison de Palmdale",
+							"episodeNumber": 4,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BOTM2NDc5ODk1MV5BMl5BanBnXkFtZTgwNDM4NTUyMjE@._V1_.jpg",
+							"description": "Cameron sofre uma amnésia temporária e acredita ser Allison Young, a humana na qual o Exterminador baseou sua aparência.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E04.mp4"
+						},
+						{
+							"id": "tscc_s2_e5",
+							"title": "Adeus a Tudo Isso",
+							"episodeNumber": 5,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTcxNTg0Nzc1MF5BMl5BanBnXkFtZTcwNDA5MTY5MQ@@._V1_.jpg",
+							"description": "John e Cameron entram para uma academia militar para proteger um garoto que se tornará um futuro líder da resistência.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E05.mp4"
+						},
+						{
+							"id": "tscc_s2_e6",
+							"title": "A Torre é Alta, Mas a Queda é Curta",
+							"episodeNumber": 6,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNjQ1NjkxMmUtNzE4Ny00NDFkLWI4ZmQtNTAxN2VkZWJhYTM2XkEyXkFqcGc@._V1_.jpg",
+							"description": "Sarah, John e Cameron procuram um psiquiatra vinculado à criação da inteligência artificial O Turco.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E06.mp4"
+						},
+						{
+							"id": "tscc_s2_e7",
+							"title": "Irmãos de Nablus",
+							"episodeNumber": 7,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTA2ODQ4NzI3NDFeQTJeQWpwZ15BbWU4MDAzODU1MjIx._V1_.jpg",
+							"description": "Após terem a casa roubada, Sarah e sua equipe rastreiam os criminosos para recuperar informações confidenciais.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E07.mp4"
+						},
+						{
+							"id": "tscc_s2_e8",
+							"title": "Sr. Ferguson Está Doente Hoje",
+							"episodeNumber": 8,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTc0NzY5MjA4MV5BMl5BanBnXkFtZTgwNjk3NTUyMjE@._V1_.jpg",
+							"description": "John viaja com sua namorada para o México, desencadeando um confronto direto e decisivo com Cromartie.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E08.mp4"
+						},
+						{
+							"id": "tscc_s2_e9",
+							"title": "Complicações",
+							"episodeNumber": 9,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjE3NjExODk4Ml5BMl5BanBnXkFtZTgwMjc3NTUyMjE@._V1_.jpg",
+							"description": "Sarah tenta lidar com pesadelos assustadores enquanto Derek descobre um segredo sobre Jesse.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E09.mp4"
+						},
+						{
+							"id": "tscc_s2_e10",
+							"title": "Coisas Estranhas Acontecem no Ponto Um Dois",
+							"episodeNumber": 10,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNTc1MzIyNl5BMl5BanBnXkFtZTgwNzE4NTUyMjE@._V1_.jpg",
+							"description": "Sarah busca os criadores de três pontos misteriosos marcados nas paredes.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E10.mp4"
+						},
+						{
+							"id": "tscc_s2_e11",
+							"title": "Homem Feito por Si Mesmo",
+							"episodeNumber": 11,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTcwNzg5NDc5NF5BMl5BanBnXkFtZTcwNTY3MjcwMg@@._V1_.jpg",
+							"description": "Cameron pesquisa o passado de um Exterminador enviado por engano para a década de 1920.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E11.mp4"
+						},
+						{
+							"id": "tscc_s2_e12",
+							"title": "Campos Alpinos",
+							"episodeNumber": 12,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjQwODNkMWUtZDRkYi00OWZlLTlkZTUtMjM2MTI5YmJlNTIzXkEyXkFqcGc@._V1_.jpg",
+							"description": "Sarah e Cameron ajudam uma mulher grávida cujo futuro filho será crucial para a resistência.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E12.mp4"
+						},
+						{
+							"id": "tscc_s2_e13",
+							"title": "Terráqueos São Bem-Vindos Aqui",
+							"episodeNumber": 13,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTYxNzY5NTQ2Ml5BMl5BanBnXkFtZTcwNzY5MDAyMg@@._V1_.jpg",
+							"description": "Sarah frequenta uma convenção sobre OVNIs em busca de pistas sobre a marca dos três pontos.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E13.mp4"
+						},
+						{
+							"id": "tscc_s2_e14",
+							"title": "Uma Boa Ferida",
+							"episodeNumber": 14,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTAyOTkzNTY1NDVeQTJeQWpwZ15BbWU4MDY5NDM2MjIx._V1_.jpg",
+							"description": "Ferida por um tiro, Sarah é levada às pressas a uma clínica médica clandestina.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E14.mp4"
+						},
+						{
+							"id": "tscc_s2_e15",
+							"title": "Cânticos do Deserto",
+							"episodeNumber": 15,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjEzNjE1NzUwNF5BMl5BanBnXkFtZTcwNTU5MTQzMg@@._V1_.jpg",
+							"description": "A família Connor comparece ao funeral das vítimas da explosão na fábrica para descobrir se a Skynet esteve envolvida.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E15.mp4"
+						},
+						{
+							"id": "tscc_s2_e16",
+							"title": "Alguns Devem Vigiar, Outros Devem Dormir",
+							"episodeNumber": 16,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTc5OWEyMDQtM2ZkYS00NmFhLTkwMDctOTM4ZGMzNGE5MjY3XkEyXkFqcGc@._V1_.jpg",
+							"description": "Insone e atormentada por pesadelos, Sarah se interna em uma clínica do sono.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E16.mp4"
+						},
+						{
+							"id": "tscc_s2_e17",
+							"title": "Apenas Nós Mesmos",
+							"episodeNumber": 17,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BODcwODIwNTQ0OF5BMl5BanBnXkFtZTgwODg0MzYyMjE@._V1_.jpg",
+							"description": "Cameron começa a apresentar falhas de funcionamento novamente, levantando suspeitas na equipe.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E17.mp4"
+						},
+						{
+							"id": "tscc_s2_e18",
+							"title": "Hoje é o Dia (Parte 1)",
+							"episodeNumber": 18,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTQyNzE3NzM2OF5BMl5BanBnXkFtZTcwNTY1MTA0Mg@@._V1_.jpg",
+							"description": "Jesse relembra um evento traumático a bordo de um submarino comandado por uma inteligência artificial.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E18.mp4"
+						},
+						{
+							"id": "tscc_s2_e19",
+							"title": "Hoje é o Dia (Parte 2)",
+							"episodeNumber": 19,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BYWE4OTQ4N2UtOTg3ZC00MWZiLWI3ZmEtNDI3NzlmNGJhYTU1XkEyXkFqcGc@._V1_.jpg",
+							"description": "Conflitos do passado vêm à tona culminando no confronto sobre o assassinato de Riley.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E19.mp4"
+						},
+						{
+							"id": "tscc_s2_e20",
+							"title": "Rumo ao Farol",
+							"episodeNumber": 20,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjM1NTYxNjMxMV5BMl5BanBnXkFtZTgwOTc0MzYyMjE@._V1_.jpg",
+							"description": "Preocupada com sua saúde e segurança, Sarah esconde John em um local seguro enquanto averigua a ZeiraCorp.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E20.mp4"
+						},
+						{
+							"id": "tscc_s2_e21",
+							"title": "Adão Criou Caim",
+							"episodeNumber": 21,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMTY0Njg2MzkwN15BMl5BanBnXkFtZTgwNTk0MzYyMjE@._V1_.jpg",
+							"description": "John tenta resgatar a filha de Savin enquanto a ameaça aos Connor atinge o ápice com perdas dolorosas.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E21.mp4"
+						},
+						{
+							"id": "tscc_s2_e22",
+							"title": "Nascido para Correr",
+							"episodeNumber": 22,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BYjA1MWRmNTMtOTg5Ny00ZGNjLTljMGYtM2RkZDY0YjU1YThhXkEyXkFqcGc@._V1_.jpg",
+							"description": "No episódio final da série, Sarah e John enfrentam John Henry e a decisão de viajar no tempo toma um rumo inesperado.",
+							"streamUrl": "https://ia800607.us.archive.org/34/items/csc.-s-02-e-05_202607/CSC.S02E22.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "stuart_fails_to_save_the_universe",
+			"title": "Stuart Não Consegue Salvar o Universo",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/stuart_capa.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/The-Big-Bang-Theory-.jpg",
+			"seasonsInfo": "1 Temporada",
+			"description": "Stuart Bloom, o trágico e azarado dono da loja de quadrinhos de The Big Bang Theory, tenta restaurar a realidade após acidentalmente quebrar um dispositivo criado por Sheldon e Leonard. Ao lado de Denise, Bert e Barry Kripke, ele precisa impedir um apocalipse multiversal, enquanto lida com versões alternativas de velhos conhecidos e com sua própria infelicidade crônica.",
+			"year": "2026",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
+			"lastEpisodeInfo": "Em exibição (1º Episódio)",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/stuart_capa.jpg",
+					"episodes": [
+						{
+							"id": "stuart_s1_e1",
+							"title": "Episódio 1",
+							"episodeNumber": 1,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/T1-E1.jpg",
+							"description": "Ao tentar arrumar a loja de quadrinhos, Stuart acidentalmente danifica um protótipo quântico deixado por Sheldon e Leonard. O incidente rasga o tecido do espaço-tempo, forçando Stuart, Denise, Bert e Barry Kripke a encarar os primeiros colapsos na realidade.",
+							"streamUrl": "https://archive.org/download/stuart.-nao.-consegue.-salvar.o.-universo/Stuart.N%C3%A3o.Consegue.Salvar.o.Universo.mkv"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "suits",
+			"title": "Suits",
+			"coverUrl": "https://m.media-amazon.com/images/I/81Tw+A9i8VL._AC_UF894,1000_QL80_.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/suits-wallpaper.jpg",
+			"seasonsInfo": "9 Temporadas",
+			"description": "Na fuga de um negócio de drogas que acabou mal, Mike Ross, um brilhante abandono da faculdade, encontra um trabalho trabalhando com Harvey Specter, um dos melhores advogados de Nova York.",
+			"year": "2011",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://m.media-amazon.com/images/I/81LqpwlhifL._AC_UF894,1000_QL80_.jpg",
+					"episodes": [
+						{
+							"id": "suits_s1_e1",
+							"title": "Piloto",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/aSZaWzIrhqrPemBvr2lLO83aS1B.jpg",
+							"description": "Harvey é promovido e precisa recrutar um formando da faculdade de Harvard. Ele escolhe Mike Ross, mas há um problema: Mike não tem diploma.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X1.mp4"
+						},
+						{
+							"id": "suits_s1_e2",
+							"title": "Erros e omissões",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/n0bGqpX5jZaxG3vvw4Gq5InvxFF.jpg",
+							"description": "Um caso supostamente simples se transforma em pesadelo quando Harvey é acusado de conduta inapropriada com uma mulher casada.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X2.mp4"
+						},
+						{
+							"id": "suits_s1_e3",
+							"title": "Vantagens",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rohDcpKFJwRXvHrEuh3j6eGOuLw.jpg",
+							"description": "Jessica acreditava que a promoção de Harvey o colocaria sob seu controle, mas ele faz decisões sem consultá-la logo na primeira crise.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X3.mp4"
+						},
+						{
+							"id": "suits_s1_e4",
+							"title": "Segredinhos sujos",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/u7Ips46UxRF9F0BJAdSxa0aQeMj.jpg",
+							"description": "Harvey defende uma pessoa ligada ao passado de Jessica e a relação entre eles é colocada à prova.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X4.mp4"
+						},
+						{
+							"id": "suits_s1_e5",
+							"title": "Fiança",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rmIh7NHAfreZgVoX7hG3EHEKIe6.jpg",
+							"description": "Mike entra numa enrascada quando um velho amigo reaparece e pede sua ajuda.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X5.mp4"
+						},
+						{
+							"id": "suits_s1_e6",
+							"title": "Ossos do ofício",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/yT4t1HJEx2jJTEYeJIZnTN1Y8za.jpg",
+							"description": "Harvey e Mike tentam salvar uma mulher injustamente acusada de um crime de colarinho branco.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X6.mp4"
+						},
+						{
+							"id": "suits_s1_e7",
+							"title": "Conheça o adversário",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/qZNVeetYoZo3JCPRu5oQbjsl3B5.jpg",
+							"description": "Mike tem a oportunidade de testar suas habilidades diante de Kyle, o protegido de Louis, em um julgamento simulado.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X7.mp4"
+						},
+						{
+							"id": "suits_s1_e8",
+							"title": "Crise de identidade",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hsfEwCAPwdSJNqC4ADLYh57pal1.jpg",
+							"description": "Mike precisa deter um Robin Hood moderno cujos atos ilícitos estão colocando em risco a empresa de um cliente.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X8.mp4"
+						},
+						{
+							"id": "suits_s1_e9",
+							"title": "Invicto",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w400/fIynnH3wjc8ArqfCULBCYdyWCB8.jpg",
+							"description": "Harvey está sempre um passo atrás de um advogado invicto porém desonesto, e precisa decidir se está disposto a sacrificar a ética para ganhar a causa.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X9.mp4"
+						},
+						{
+							"id": "suits_s1_e10",
+							"title": "Vida não alugada",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w400/4PrnmETDQgH8mZQk1YE1aRVo3Qz.jpg",
+							"description": "A empatia de Mike por um executivo dispensado prejudica a relação da firma com um cliente e Harvey acaba tendo que proteger Mike da raiva de Jessica.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X10.mp4"
+						},
+						{
+							"id": "suits_s1_e11",
+							"title": "Regras do jogo",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w400/4zPzCl3xqn1B6MCUdpnHyQAJHsf.jpg",
+							"description": "O ex-mentor de Harvey pede sua ajuda quando seu escritório passa a ser investigado.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X11.mp4"
+						},
+						{
+							"id": "suits_s1_e12",
+							"title": "A luta de um homem",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/cssJ7NhSXYfWNHdDJYXmDGgGYEp.jpg",
+							"description": "Harvey faz tudo para tirar um homem inocente da prisão, mas acaba batendo de frente com o novo promotor público.",
+							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X12.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
 			"id": "the_pitt",
 			"title": "The Pitt ",
-			"coverUrl": "https://i.ibb.co/6Rfggm15/da19c8b234f4050bd7fee2f7cf38732a0b19fae725bcb2a0d3d11fe01b25ed86-SX1080-FMjpg.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/the-pitt-max-capa.jpg",
+			"coverUrl": "https://i.ibb.co/1fdPqJWD/the-pitt-1.jpg",
 			"seasonsInfo": "2 Temporadas",
 			"description": "Drama médico que acompanha um intenso plantão de 15 horas em um pronto-socorro de Pittsburgh, mostrando os desafios enfrentados por médicos, enfermeiros e residentes.",
 			"year": "2025",
-			"genre": "Drama Médico",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
 			"lastEpisodeInfo": "2ª Temporada Completa",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -1975,6 +2629,7 @@
 				{
 					"number": 2,
 					"coverUrl": "https://i.ibb.co/nNmmSdBx/the-pitt-1.jpg",
+					"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/the-pitt-max-capa.jpg",
 					"episodes": [
 						{
 							"id": "the_pitt_s2_e1",
@@ -2103,11 +2758,12 @@
 		{
 			"id": "bob",
 			"title": "Band of Brothers",
-			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/B_OF_BROTH.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/B_OF_BROTHW.jpg",
 			"seasonsInfo": "1 Temporada",
 			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
 			"year": "2001",
-			"genre": "Guerra",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
 			"lastEpisodeInfo": "Completo",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -2186,6 +2842,684 @@
 							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGEyNjg1YjEtODQ4NS00MjBjLWIyODUtMDU5OWIxNTk3MGQwXkEyXkFqcGc@._V1_FMjpg_UX694_.jpg",
 							"description": "À medida que os Aliados avançam para a Alemanha e a guerra se aproxima do fim, a desilusão e a raiva tomam conta da Easy Company, até que eles tropeçam em um campo de concentração abandonado pelo exército alemão.",
 							"streamUrl": "https://lh3.googleusercontent.com/KoVn78DlSrZ_OldKvdfiUcirQrG-SoxIUEUJPQNRiWQ=m18?GrupoUp&Down"
+						},
+						{
+							"id": "bob_s1_e10",
+							"title": "Pontos",
+							"episodeNumber": 10,
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BN2E0MDhjNjItNDNlNi00YmU3LWE4NmEtYzkwMWJmZDdmZjEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+							"description": "A Easy Company entra na Áustria e toma o 'Ninho da Águia' de Hitler em Berchtesgaden. Com a rendição da Alemanha, os soldados refletem sobre seus futuros e buscam acumular pontos suficientes para voltar para casa.",
+							"streamUrl": "https://lh3.googleusercontent.com/3N4o5W8Jg-s8X_3e8f8w5Q8Y9L_z1234567890abcdef=m18?GrupoUp&Down"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "pb",
+			"title": "Prison Break",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(2).jpeg",
+			"backdropUrl": "https://uploads.tracklist.com.br/file/uploads-tracklist-com-br/2025/10/prison-break.png",
+			"seasonsInfo": "1 Temporada",
+			"description": "Um homem engenheiro estrutural se instala em uma prisão que ele mesmo ajudou a projetar para salvar seu irmão falsamente acusado, que está no corredor da morte.",
+			"year": "2005",
+			"genre": "Ação/Ficção/Drama/Comédia/Guerra/Suspense/Jurídico",
+			"lastEpisodeInfo": "22 Episódios",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMjE0ODQxNjI2MV5BMl5BanBnXkFtZTYwNTgzMzg3._V1_.jpg",
+					"episodes": [
+						{
+							"id": "pb_s1_e1",
+							"title": "Em Busca da Verdade",
+							"episodeNumber": 1,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(3).jpeg",
+							"description": "Michael Scofield assalta um banco para ser preso na mesma penitenciária que seu irmão Lincoln Burrows, que aguarda a execução por um crime que alega não ter cometido.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E01.mp4"
+						},
+						{
+							"id": "pb_s1_e2",
+							"title": "Acerto de Contas",
+							"episodeNumber": 2,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(2).jpeg",
+							"description": "Tensão racial esquenta na prisão enquanto Michael busca obter um item necessário para o seu plano de fuga.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E02.mp4"
+						},
+						{
+							"id": "pb_s1_e3",
+							"title": "Teste do Celular",
+							"episodeNumber": 3,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(1).jpeg",
+							"description": "Michael testa a lealdade de seu colega de cela, Sucre, enquanto continua os preparativos dentro do sistema de ventilação.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E03.mp4"
+						},
+						{
+							"id": "pb_s1_e4",
+							"title": "A Volta de Sucre",
+							"episodeNumber": 4,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images.jpeg",
+							"description": "Michael precisa de produtos químicos específicos para abrir caminho nas tubulações e conta com ajuda externa.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E04.mp4"
+						},
+						{
+							"id": "pb_s1_e5",
+							"title": "A Transferência",
+							"episodeNumber": 5,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Forças externas tentam transferir Michael para outra prisão, o que arruinaria todo o plano de resgate.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E05.mp4"
+						},
+						{
+							"id": "pb_s1_e6",
+							"title": "A Rebelião Parte 1",
+							"episodeNumber": 6,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael provoca um bloqueio no ar-condicionado para ganhar tempo no plano de escavação, mas a situação sai do controle e gera uma rebelião.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E06.mp4"
+						},
+						{
+							"id": "pb_s1_e7",
+							"title": "A Rebelião Parte 2",
+							"episodeNumber": 7,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Com a rebelião em andamento, Michael tenta resgatar a Dra. Sara Tancredi enquanto Lincoln luta pela própria vida.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E07.mp4"
+						},
+						{
+							"id": "pb_s1_e8",
+							"title": "Perseguição",
+							"episodeNumber": 8,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael precisa recrutar um novo membro para a fuga a fim de conseguir um avião de transporte.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E08.mp4"
+						},
+						{
+							"id": "pb_s1_e9",
+							"title": "Um Novo Chefe",
+							"episodeNumber": 9,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "A liderança da equipe de trabalho da prisão muda, ameaçando o acesso ao ponto cego do plano de fuga.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E09.mp4"
+						},
+						{
+							"id": "pb_s1_e10",
+							"title": "De Volta ao Plano de Fuga",
+							"episodeNumber": 10,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Abruzzi tenta recuperar o controle do trabalho prisional enquanto Michael tenta avançar pelo túnel.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E10.mp4"
+						},
+						{
+							"id": "pb_s1_e11",
+							"title": "Sete é Demais",
+							"episodeNumber": 11,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "O grupo de fuga cresce mais do que o esperado e nem todos poderão escapar.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E11.mp4"
+						},
+						{
+							"id": "pb_s1_e12",
+							"title": "Perdão Fatal",
+							"episodeNumber": 12,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "A execução de Lincoln se aproxima rapidamente e Michael é forçado a adiantar a fuga.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E12.mp4"
+						},
+						{
+							"id": "pb_s1_e13",
+							"title": "O Fim do Tunel",
+							"episodeNumber": 13,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "A tentativa de fuga começa, mas um obstáculo imprevisto no caminho coloca tudo em risco.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E13.mp4"
+						},
+						{
+							"id": "pb_s1_e14",
+							"title": "O Rato",
+							"episodeNumber": 14,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Com a execução de Lincoln a poucas horas, Michael tenta atrasar a cadeira elétrica de qualquer maneira.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E14.mp4"
+						},
+						{
+							"id": "pb_s1_e15",
+							"title": "O Adiamento",
+							"episodeNumber": 15,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Novas evidências surgem no último minuto, alterando temporariamente os planos para Lincoln.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E15.mp4"
+						},
+						{
+							"id": "pb_s1_e16",
+							"title": "O Guardião do Irmão",
+							"episodeNumber": 16,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Flashbacks revelam como os personagens acabaram na penitenciária de Fox River.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E16.mp4"
+						},
+						{
+							"id": "pb_s1_e17",
+							"title": "O Surto",
+							"episodeNumber": 17,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael precisa encontrar uma nova rota através da ala de psiquiatria da prisão.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E17.mp4"
+						},
+						{
+							"id": "pb_s1_e18",
+							"title": "O Blefe",
+							"episodeNumber": 18,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael precisa recuperar a parte perdida da tatuagem que foi queimada do seu corpo.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E18.mp4"
+						},
+						{
+							"id": "pb_s1_e19",
+							"title": "A Chave",
+							"episodeNumber": 19,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael precisa conseguir a chave da enfermaria para garantir a saída final.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E19.mp4"
+						},
+						{
+							"id": "pb_s1_e20",
+							"title": "A Segunda Fuga",
+							"episodeNumber": 20,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Com a descoberta do buraco da fuga iminente, o grupo é forçado a agir imediatamente.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E20.mp4"
+						},
+						{
+							"id": "pb_s1_e21",
+							"title": "A Noite da Fuga",
+							"episodeNumber": 21,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Michael e os outros detentos iniciam o plano final de fuga durante a noite.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E21.mp4"
+						},
+						{
+							"id": "pb_s1_e22",
+							"title": "A Reta Final",
+							"episodeNumber": 22,
+							"thumbUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/images%20(4).jpeg",
+							"description": "Os fugitivos tentam escapar da intensa caçada policial fora dos muros de Fox River.",
+							"streamUrl": "https://ia903104.us.archive.org/35/items/p.-b.-t-01-e-06/P.B.T01E22.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/pb2.png",
+					"episodes": [
+						{
+							"id": "pb_s2_e1",
+							"title": "A Caçada",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "Apenas oito horas após a fuga de Fox River, Michael, Lincoln, Sucre, C-Note e Abruzzi correm contra o tempo para escapar das autoridades. O implacável agente do FBI Alexander Mahone assume o comando da caçada nacional.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E01.mp4"
+						},
+						{
+							"id": "pb_s2_e2",
+							"title": "Otis",
+							"episodeNumber": 2,
+							"thumbUrl": "",
+							"description": "Michael e Lincoln tentam resgatar LJ do tribunal antes que ele seja transferido para uma prisão de segurança máxima no Arizona, mas Mahone prevê a jogada da dupla.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E02.mp4"
+						},
+						{
+							"id": "pb_s2_e3",
+							"title": "Verificação de Escaneamento",
+							"episodeNumber": 3,
+							"thumbUrl": "",
+							"description": "Michael e Lincoln vão a Utah para recuperar o carro de fuga de Michael, mas encontram complicações. C-Note se reúne com velhos amigos para tentar entrar em contato com sua família.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E03.mp4"
+						},
+						{
+							"id": "pb_s2_e4",
+							"title": "Primeiro a Morrer",
+							"episodeNumber": 4,
+							"thumbUrl": "",
+							"description": "Bellick e Geary se juntam à caçada aos fugitivos com segundas intenções. Abruzzi busca vingança contra Fibonacci, caindo na armadilha de Mahone.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E04.mp4"
+						},
+						{
+							"id": "pb_s2_e5",
+							"title": "O Mapa",
+							"episodeNumber": 5,
+							"thumbUrl": "",
+							"description": "Em Tooele, Utah, os fugitivos começam a procurar pelo silo onde Charles Westmoreland escondeu seus 5 milhões de dólares, descobrindo que uma área residencial foi construída por cima.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E05.mp4"
+						},
+						{
+							"id": "pb_s2_e6",
+							"title": "Subdivisão",
+							"episodeNumber": 6,
+							"thumbUrl": "",
+							"description": "Michael, Lincoln, Sucre, C-Note e T-Bag invadem a casa de uma moradora local para escavar o porão em busca do dinheiro escondido.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E06.mp4"
+						},
+						{
+							"id": "pb_s2_e7",
+							"title": "Enterrado",
+							"episodeNumber": 7,
+							"thumbUrl": "",
+							"description": "A busca pelo dinheiro fica cada vez mais tensa quando a polícia local começa a suspeitar da movimentação na casa. Lincoln sai para resgatar LJ.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E07.mp4"
+						},
+						{
+							"id": "pb_s2_e8",
+							"title": "Armadilha",
+							"episodeNumber": 8,
+							"thumbUrl": "",
+							"description": "A ganância toma conta do grupo após encontrarem o dinheiro de Westmoreland. Sucre toma uma atitude drástica e surpreende a todos.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E08.mp4"
+						},
+						{
+							"id": "pb_s2_e9",
+							"title": "A Descoberta",
+							"episodeNumber": 9,
+							"thumbUrl": "",
+							"description": "Michael se encontra com Sara no Novo México para decodificar as pistas de suas tatuagens, mas Mahone não está longe de descobrir o próximo passo deles.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E09.mp4"
+						},
+						{
+							"id": "pb_s2_e10",
+							"title": "Rendezvous",
+							"episodeNumber": 10,
+							"thumbUrl": "",
+							"description": "Michael e Sara finalmente se reúnem cara a cara em um motel, mas o agente Mahone aparece para interceptá-los.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E10.mp4"
+						},
+						{
+							"id": "pb_s2_e11",
+							"title": "Bolshoi Booze",
+							"episodeNumber": 11,
+							"thumbUrl": "",
+							"description": "Michael tenta barganhar por um avião que o levará ao México. Enquanto isso, Kellerman tortura Sara para obter informações sobre a fita do presidente.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E11.mp4"
+						},
+						{
+							"id": "pb_s2_e12",
+							"title": "Desconexão",
+							"episodeNumber": 12,
+							"thumbUrl": "",
+							"description": "Michael se reúne com seu pai, Aldo Burrows, que revela verdades chocantes sobre a Companhia antes que Mahone chegue para confrontá-los.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E12.mp4"
+						},
+						{
+							"id": "pb_s2_e13",
+							"title": "A Armadilha de Mahone",
+							"episodeNumber": 13,
+							"thumbUrl": "",
+							"description": "A patrulha de fronteira intercepta o avião de fuga de Sucre. Michael e Lincoln são presos pela patrulha rodoviária e Mahone tenta garantir que eles não cheguem vivos ao tribunal.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E13.mp4"
+						},
+						{
+							"id": "pb_s2_e14",
+							"title": "A Aliança",
+							"episodeNumber": 14,
+							"thumbUrl": "",
+							"description": "Kellerman muda de lado e ajuda Michael e Lincoln a escaparem das garras de Mahone, unindo forças para derrubar a presidente Reynolds.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E14.mp4"
+						},
+						{
+							"id": "pb_s2_e15",
+							"title": "A Mensagem",
+							"episodeNumber": 15,
+							"thumbUrl": "",
+							"description": "Michael, Lincoln e Kellerman sequestram uma câmera de TV para transmitir uma mensagem pública expondo a conspiração da Companhia e enviando códigos para Sara.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E15.mp4"
+						},
+						{
+							"id": "pb_s2_e16",
+							"title": "Chicago",
+							"episodeNumber": 16,
+							"thumbUrl": "",
+							"description": "Michael e Sara se reencontram em um trem a caminho de Chicago. Eles buscam a chave que o falecido pai de Sara deixou para abrir um cofre misterioso.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E16.mp4"
+						},
+						{
+							"id": "pb_s2_e17",
+							"title": "Bad Blood",
+							"episodeNumber": 17,
+							"thumbUrl": "",
+							"description": "Michael e Sara pedem ajuda ao ex-diretor de Fox River, Henry Pope, para recuperar um arquivo de áudio incriminador guardado em um clube privado em Chicago.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E17.mp4"
+						},
+						{
+							"id": "pb_s2_e18",
+							"title": "A Fita",
+							"episodeNumber": 18,
+							"thumbUrl": "",
+							"description": "Michael usa a gravação secreta para chantagear a Presidente Caroline Reynolds, exigindo o perdão total para ele e para seu irmão Lincoln.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E18.mp4"
+						},
+						{
+							"id": "pb_s2_e19",
+							"title": "Sweet Caroline",
+							"episodeNumber": 19,
+							"thumbUrl": "",
+							"description": "A Presidente Reynolds toma uma decisão drástica e inesperada durante seu discurso em Chicago, forçando Michael e Lincoln a fugirem do país imediatamente.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E19.mp4"
+						},
+						{
+							"id": "pb_s2_e20",
+							"title": "Panamá",
+							"episodeNumber": 20,
+							"thumbUrl": "",
+							"description": "Michael e Lincoln chegam ao Panamá a bordo do barco 'Christina Rose'. T-Bag também desembarca na cidade e espalha o terror em busca de seu dinheiro.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E20.mp4"
+						},
+						{
+							"id": "pb_s2_e21",
+							"title": "A Caça Continua",
+							"episodeNumber": 21,
+							"thumbUrl": "",
+							"description": "Michael decide ir atrás de T-Bag no Panamá para entregar o vilão às autoridades locais, enquanto Mahone prepara uma armadilha fatal para capturar os irmãos.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E21.mp4"
+						},
+						{
+							"id": "pb_s2_e22",
+							"title": "Sona",
+							"episodeNumber": 22,
+							"thumbUrl": "",
+							"description": "O julgamento de Sara ganha um revés com o depoimento surpreendente de Kellerman. No Panamá, confrontos trágicos levam Michael a tomar o lugar de seu irmão, sendo trancado na terrível Prisão de Sona.",
+							"streamUrl": "https://ia801808.us.archive.org/20/items/spb.-t-02-e-14/SPB.T02E22.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/pb3.png",
+					"episodes": [
+						{
+							"id": "pb_s3_e1",
+							"title": "Orientação",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "Michael entra na Prisão Federal de Sona e descobre o caos que reina no local. Lincoln tenta encontrar uma maneira de ajudar seu irmão do lado de fora.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e1.mp4"
+						},
+						{
+							"id": "pb_s3_e2",
+							"title": "Fogo / Água",
+							"episodeNumber": 2,
+							"thumbUrl": "",
+							"description": "Com o fornecimento de água cortado em Sona, o caos ameaça estourar. Michael procura por James Whistler enquanto Lincoln lida com as exigências da Companhia.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e2.mp4"
+						},
+						{
+							"id": "pb_s3_e3",
+							"title": "Chamada em Espera",
+							"episodeNumber": 3,
+							"thumbUrl": "",
+							"description": "Michael tenta se comunicar com a Companhia para garantir a segurança de Sara e LJ, enquanto busca obter o telefone celular do líder de Sona, Lechero.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e3.mp4"
+						},
+						{
+							"id": "pb_s3_e4",
+							"title": "Boas Cercas",
+							"episodeNumber": 4,
+							"thumbUrl": "",
+							"description": "Michael tenta provocar um apagão na prisão para testar a segurança externa e planejar a fuga de Sona.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e4.mp4"
+						},
+						{
+							"id": "pb_s3_e5",
+							"title": "Interferência",
+							"episodeNumber": 5,
+							"thumbUrl": "",
+							"description": "Um novo prisioneiro chega a Sona e chama a atenção de Michael. O plano de fuga começa a tomar forma à luz do dia.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e5.mp4"
+						},
+						{
+							"id": "pb_s3_e6",
+							"title": "Foto Final",
+							"episodeNumber": 6,
+							"thumbUrl": "",
+							"description": "Michael exige provas de que Sara está viva antes de prosseguir com o plano de fuga, forçando Lincoln a tomar medidas drásticas.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e6.mp4"
+						},
+						{
+							"id": "pb_s3_e7",
+							"title": "Vamonos",
+							"episodeNumber": 7,
+							"thumbUrl": "",
+							"description": "A tentativa de fuga de Michael não sai como planejado, desencadeando um confronto direto entre os detentos e a guarda do exército do Panamá.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e7.mp4"
+						},
+						{
+							"id": "pb_s3_e8",
+							"title": "Ataque Total",
+							"episodeNumber": 8,
+							"thumbUrl": "",
+							"description": "Impaciente com a demora de Michael, a Companhia assume o controle e tenta resgatar Whistler por conta própria usando força helicotada.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e8.mp4"
+						},
+						{
+							"id": "pb_s3_e9",
+							"title": "Encurralado",
+							"episodeNumber": 9,
+							"thumbUrl": "",
+							"description": "Após a tentativa frustrada de resgate, Michael é colocado em uma cela de isolamento sob o sol escaldante pelo novo comandante do presídio.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e9.mp4"
+						},
+						{
+							"id": "pb_s3_e10",
+							"title": "Soneca Eterna",
+							"episodeNumber": 10,
+							"thumbUrl": "",
+							"description": "A autoridade de Lechero em Sona é abalada enquanto Sammy tenta assumir o controle do local, ameaçando revelar o túnel de fuga.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e10.mp4"
+						},
+						{
+							"id": "pb_s3_e11",
+							"title": "Por Baixo e Para Fora",
+							"episodeNumber": 11,
+							"thumbUrl": "",
+							"description": "Chuva forte ameaça desmoronar o túnel de fuga, forçando Michael e o grupo a anteciparem a execução do plano.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e11.mp4"
+						},
+						{
+							"id": "pb_s3_e12",
+							"title": "A Caminho do Inferno",
+							"episodeNumber": 12,
+							"thumbUrl": "",
+							"description": "Michael e os outros detentos colocam em prática o plano de fuga de Sona, mas nem todos conseguirão chegar ao ponto de encontro.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e12.mp4"
+						},
+						{
+							"id": "pb_s3_e13",
+							"title": "A Arte do Negócio",
+							"episodeNumber": 13,
+							"thumbUrl": "",
+							"description": "Michael e Lincoln buscam realizar a troca de Whistler por LJ e Sofia, encerrando o conturbado capítulo em território panamenho.",
+							"streamUrl": "https://ia800804.us.archive.org/26/items/p.b.t3.e10/p.b.t3.e13.mp4"
+						}
+					]
+				},
+				{
+					"number": 4,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/pb4.webp",
+					"episodes": [
+						{
+							"id": "pb_s4_e1",
+							"title": "Resgate",
+							"episodeNumber": 1.2,
+							"thumbUrl": "",
+							"description": "Michael busca vingança contra Gretchen pela suposta morte de Sara. Após serem presos novamente, Michael, Lincoln e seus aliados recebem uma proposta do agente Don Self: derrubar A Companhia em troca da liberdade.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E01E02.mp4"
+						},
+						{
+							"id": "pb_s4_e3",
+							"title": "Desligar",
+							"episodeNumber": 3,
+							"thumbUrl": "",
+							"description": "A equipe precisa invadir um evento de alta classe em uma mansão para copiar os dados do segundo cartão do Scylla, mas o plano corre risco de falhar.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E03.mp4"
+						},
+						{
+							"id": "pb_s4_e4",
+							"title": "Águias e Anjos",
+							"episodeNumber": 4,
+							"thumbUrl": "",
+							"description": "A equipe rastreia o próximo portador do cartão até um evento de homenagens da polícia, exigindo que Lincoln e Mahone usem disfarces arriscados.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E04.mp4"
+						},
+						{
+							"id": "pb_s4_e5",
+							"title": "Seguro de Vida",
+							"episodeNumber": 5,
+							"thumbUrl": "",
+							"description": "Sara luta contra a culpa do seu passado. Enquanto isso, Mahone tenta rastrear o assassino de seu filho, mantendo o foco na missão do Scylla.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E05.mp4"
+						},
+						{
+							"id": "pb_s4_e6",
+							"title": "Guerra dos Cartões",
+							"episodeNumber": 6,
+							"thumbUrl": "",
+							"description": "A equipe precisa grampear o telefone do General para encontrar os portadores restantes do cartão, enquanto T-Bag continua sua vida dupla em Los Angeles.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E06.mp4"
+						},
+						{
+							"id": "pb_s4_e7",
+							"title": "Cinco Minutos",
+							"episodeNumber": 7,
+							"thumbUrl": "",
+							"description": "Lincoln e Sucre correm contra o tempo para recuperar um cartão antes que seu portador saia da cidade. A saúde de Michael começa a deteriorar sensivelmente.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E07.mp4"
+						},
+						{
+							"id": "pb_s4_e8",
+							"title": "O Preço",
+							"episodeNumber": 8,
+							"thumbUrl": "",
+							"description": "Uma aliança inesperada é formada com Gretchen. A equipe elabora um plano audacioso para emboscar o General e obter o último cartão.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E08.mp4"
+						},
+						{
+							"id": "pb_s4_e9",
+							"title": "Grande Conexão",
+							"episodeNumber": 9,
+							"thumbUrl": "",
+							"description": "Michael descobre a localização da sede da Companhia e prepara o plano de invasão subterrânea através da empresa GATE.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E09.mp4"
+						},
+						{
+							"id": "pb_s4_e10",
+							"title": "A Passagem",
+							"episodeNumber": 10,
+							"thumbUrl": "",
+							"description": "O grupo escava em direção ao cofre do Scylla, mas enfrenta sérios obstáculos técnicos e o agravamento das dores de cabeça de Michael.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E10.mp4"
+						},
+						{
+							"id": "pb_s4_e11",
+							"title": "Efeito Dominó",
+							"episodeNumber": 11,
+							"thumbUrl": "",
+							"description": "Superando os sistemas de segurança avançados, a equipe finalmente consegue entrar na sala do cofre do Scylla.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E11.mp4"
+						},
+						{
+							"id": "pb_s4_e12",
+							"title": "Dinamite",
+							"episodeNumber": 12,
+							"thumbUrl": "",
+							"description": "Michael e sua equipe capturam o Scylla diretamente da sede da Companhia em uma operação arriscada e cheia de tensão.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E12.mp4"
+						},
+						{
+							"id": "pb_s4_e13",
+							"title": "A Traição",
+							"episodeNumber": 13,
+							"thumbUrl": "",
+							"description": "Quando o grupo se prepara para entregar o dispositivo e receber o perdão judicial, uma traição chocante muda o rumo da missão.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E13.mp4"
+						},
+						{
+							"id": "pb_s4_e14",
+							"title": "Apenas Negócios",
+							"episodeNumber": 14,
+							"thumbUrl": "",
+							"description": "Michael desmaia e é capturado pela Companhia. O General oferece uma cirurgia para salvar a vida de Michael em troca do retorno do Scylla.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E14.mp4"
+						},
+						{
+							"id": "pb_s4_e15",
+							"title": "A Caminho de Miami",
+							"episodeNumber": 15,
+							"thumbUrl": "",
+							"description": "Michael acorda após a cirurgia e descobre que seu cérebro guarda a chave para desvendar os segredos do Scylla. Lincoln vai para Miami buscar o dispositivo.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E15.mp4"
+						},
+						{
+							"id": "pb_s4_e16",
+							"title": "O Estado de Exceção",
+							"episodeNumber": 16,
+							"thumbUrl": "",
+							"description": "Lincoln e sua nova equipe tentam rastrear o Scylla em Miami, enquanto Michael é mantido em uma instalação remota da Companhia sob pressão psicológica.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E16.mp4"
+						},
+						{
+							"id": "pb_s4_e17",
+							"title": "A Invasão",
+							"episodeNumber": 17,
+							"thumbUrl": "",
+							"description": "Michael escapa do cativeiro e tenta se reunir com Sara, enquanto Lincoln enfrenta problemas com novos compradores do Scylla.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E17.mp4"
+						},
+						{
+							"id": "pb_s4_e18",
+							"title": "Versus",
+							"episodeNumber": 18,
+							"thumbUrl": "",
+							"description": "Michael e Lincoln se reencontram em Miami, mas com ideais opostos sobre como lidar com o Scylla, gerando um forte confronto entre os irmãos.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E18.mp4"
+						},
+						{
+							"id": "pb_s4_e19",
+							"title": "Chave de Mãe",
+							"episodeNumber": 19,
+							"thumbUrl": "",
+							"description": "Uma revelação impressionante mostra que a mãe de Michael e Lincoln, Christina Rose, está viva e no controle do Scylla.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E19.mp4"
+						},
+						{
+							"id": "pb_s4_e20",
+							"title": "O Ponto Inicial",
+							"episodeNumber": 20,
+							"thumbUrl": "",
+							"description": "Michael tenta interceptar um encontro geopolítico orquestrado por sua mãe para evitar um incidente internacional.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E20.mp4"
+						},
+						{
+							"id": "pb_s4_e21",
+							"title": "A Troca",
+							"episodeNumber": 21,
+							"thumbUrl": "",
+							"description": "Com Lincoln e Sara capturados por lados opostos, Michael é forçado a fazer uma escolha impossível para salvar quem ama.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E21.mp4"
+						},
+						{
+							"id": "pb_s4_e22",
+							"title": "A Liberação",
+							"episodeNumber": 22,
+							"thumbUrl": "",
+							"description": "A luta pelo Scylla chega ao fim. Uma figura do passado reaparece para oferecer a imunidade definitiva aos irmãos, selando seus destinos.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E22.mp4"
+						},
+						{
+							"id": "pb_s4_e23_24",
+							"title": "A Liberação",
+							"episodeNumber": 23.24,
+							"thumbUrl": "",
+							"description": "A luta pelo Scylla chega ao fim. Uma figura do passado reaparece para oferecer a imunidade definitiva aos irmãos, selando seus destinos.",
+							"streamUrl": "https://ia600401.us.archive.org/30/items/spb.-s-04-e-23-e-24/SPB.S04E23E24.mp4"
 						}
 					]
 				}
