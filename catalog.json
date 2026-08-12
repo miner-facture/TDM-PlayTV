@@ -109,23 +109,6 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "523278",
-			"name": "CNN Internacional",
-			"category": "Notícias",
-			"logoUrl": "https://i.ibb.co/nNfqgQ26/CNN-Logo-wine.png",
-			"streamUrl": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "523278",
-			"tvgId": "523278",
-			"channelNumber": "502",
-			"backdropUrl": ""
-		},
-		{
 			"id": "JovemPanNews.br",
 			"name": "JovemPan News",
 			"category": "Notícias",
@@ -225,7 +208,7 @@
 			"name": "Globo RJ",
 			"category": "TV Aberta",
 			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/tvglobo.png",
-			"streamUrl": "https://2007.cdnvipcanais.xyz/globorj/index.m3u8",
+			"streamUrl": "https://0908.cdnvipcanais.xyz/globorj/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
