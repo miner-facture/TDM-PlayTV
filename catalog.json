@@ -38,7 +38,7 @@
 			"name": "CNN Brasil",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
-			"streamUrl": "https://2007.cdnvipcanais.xyz/cnnbrasil/index.m3u8",
+			"streamUrl": "https://2109.cdnvipcanais.xyz/cnnbrasil/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -87,7 +87,7 @@
 			"name": "BANDNEWS",
 			"category": "Notícias",
 			"logoUrl": "https://vipcanais.net/images/bandnews.png",
-			"streamUrl": "https://2007.cdnvipcanais.xyz/bandnews/index.m3u8",
+			"streamUrl": "https://2109.cdnvipcanais.xyz/bandnews/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -1717,7 +1717,7 @@
 			"name": "Discovery ID",
 			"category": "Documentários",
 			"logoUrl": "https://api.reidoscanais.ooo/img/discoveryid.png",
-			"streamUrl": "https://2007.cdnvipcanais.xyz/discoveryid/index.m3u8",
+			"streamUrl": "https://0908.cdnvipcanais.xyz/discoveryid/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -1989,16 +1989,6 @@
 			"description": "descrição_filme",
 			"streamUrl": "https://archive.org/download/dddoc/d%2Cd%2Cdoc.mkv",
 			"trailerYoutubeId": ""
-		},
-		{
-			"id": "m30",
-			"title": "X-Men Origens: Wolverine",
-			"year": "2009",
-			"genre": "Ação/Ficção científica",
-			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/X-Men_Origins_Wolverine2.jpg",
-			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/X-Men_Origins_Wolverine1.jpg",
-			"description": "O longa conta a história do passado violento e romântico de Wolverine, de seu complexo relacionamento com Dentes de Sabre, e do ameaçador programa Arma-X. Wolverine encontra muitos mutantes pelo seu caminho, tanto familiares quanto novos, incluindo aparições surpresas de várias lendas do universo dos X-Men.",
-			"streamUrl": "https://ia600408.us.archive.org/16/items/tcc.-x.-m.-o.-w/TCC.X.M.O.W.mp4"
 		},
 		{
 			"id": "m23",
