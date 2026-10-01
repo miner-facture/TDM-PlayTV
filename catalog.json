@@ -403,6 +403,23 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "Smithsonian.br",
+			"name": "Smithsonian Channel",
+			"category": "Documentários",
+			"logoUrl": "https://images.seeklogo.com/logo-png/32/1/smithsonian-channel-logo-png_seeklogo-326533.png",
+			"streamUrl": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "Smithsonian.br",
+			"tvgId": "Smithsonian.br",
+			"channelNumber": "100",
+			"backdropUrl": ""
+		},
+		{
 			"id": "c25",
 			"name": "CLASSICOS",
 			"category": "Filmes e Séries",
