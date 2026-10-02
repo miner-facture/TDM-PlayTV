@@ -1925,6 +1925,23 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "Nickelodeon.br",
+			"name": "Nickelodeon",
+			"category": "Infantil",
+			"logoUrl": "https://png.pngtree.com/png-vector/20220923/ourmid/pngtree-nickelodeon-logo-free-png-image_6214213.png",
+			"streamUrl": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal Nickelodeon",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "Nickelodeon.br",
+			"tvgId": "Nickelodeon.br",
+			"channelNumber": "102",
+			"backdropUrl": ""
+		},
+		{
 			"id": "CartoonNetwork.br",
 			"name": "Cartoon Network",
 			"category": "Infantil",
