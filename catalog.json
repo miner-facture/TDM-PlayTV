@@ -475,6 +475,23 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "CSI.Miami.247.br",
+			"name": "CSI Miami 24/7",
+			"category": "Séries",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/CSI.png",
+			"streamUrl": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
+			"currentProgram": "CSI: Miami",
+			"nextProgram": "CSI: Miami",
+			"description": "Exibição 24 horas dos episódios de CSI: Miami.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "CSI.Miami.247.br",
+			"tvgId": "CSI.Miami.247.br",
+			"channelNumber": "130",
+			"backdropUrl": ""
+		},
+		{
 			"id": "SonyChannel.br",
 			"name": "Sony Channel",
 			"category": "Filmes e Séries",
