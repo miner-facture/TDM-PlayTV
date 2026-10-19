@@ -34,6 +34,23 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "Travelxp.us",
+			"name": "Travelxp",
+			"category": "Viagem",
+			"logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travelxp-us.png",
+			"streamUrl": "https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal dedicado a viagens, gastronomia, culturas e estilos de vida em alta definição.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "Travelxp.us",
+			"tvgId": "Travelxp.us",
+			"channelNumber": "",
+			"backdropUrl": ""
+		},
+		{
 			"id": "CNNBrasil.br",
 			"name": "CNN Brasil",
 			"category": "Notícias",
@@ -260,20 +277,11 @@
 			"name": "TV Cultura",
 			"category": "Educativo",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tvcultura.png",
-			"streamUrl": "https://d1-0710.cdnvipcanais.xyz/tvcultura/index.m3u8",
+			"streamUrl": "https://culturaplay.tvcultura.com.br/channels/14/embed",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
-			"headers": {
-				"Referer": "https://vipcanais.net/",
-				"Origin": "https://vipcanais.net",
-				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-				"sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Avast Secure Browser\";v=\"150\"",
-				"sec-ch-ua-mobile": "?1",
-				"sec-ch-ua-platform": "\"Android\"",
-				"sec-fetch-mode": "cors",
-				"sec-fetch-site": "cross-site"
-			},
+			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "Cultura.br",
@@ -2036,6 +2044,23 @@
 			"channelNumber": "509"
 		},
 		{
+			"id": "cartoongospel.br",
+			"name": "Gospel Cartoon",
+			"category": "Infantil",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/GC.png",
+			"streamUrl": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "cartoongospel.br",
+			"tvgId": "cartoongospel.br",
+			"channelNumber": "425",
+			"backdropUrl": ""
+		},
+		{
 			"id": "523325_dreamworks",
 			"name": "DreamWorks Anime",
 			"category": "Infantil",
@@ -2236,6 +2261,62 @@
 							"thumbUrl": "https://image.tmdb.org/t/p/w342/cssJ7NhSXYfWNHdDJYXmDGgGYEp.jpg",
 							"description": "Harvey faz tudo para tirar um homem inocente da prisão, mas acaba batendo de frente com o novo promotor público.",
 							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X12.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "id-da-segunda-serie",
+			"title": "O Bom Gigante Amigo",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ubga.png",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/bfg-arvore.png",
+			"seasonsInfo": "1 Temporada",
+			"description": "Uma garotinha órfã faz amizade com um gigante benevolente que a leva para o País dos Gigantes, onde eles tentam deter os gigantes devoradores de homens que estão invadindo o mundo humano.",
+			"year": "2023",
+			"genre": "Drama",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ubga.png",
+					"episodes": [
+						{
+							"id": "serie2_s1_e1",
+							"title": "Episódio 1",
+							"episodeNumber": 1,
+							"thumbUrl": "URL_DA_THUMB",
+							"description": "Uma garotinha órfã faz amizade com um gigante benevolente que a leva para o País dos Gigantes.",
+							"streamUrl": "https://ia600100.us.archive.org/28/items/obga_20260729/OBGA.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "id-da-terceira-serie",
+			"title": "À Procura da Felicidade",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/UY2048_.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/interestelar.jpg",
+			"seasonsInfo": "1 Temporada",
+			"description": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço.",
+			"year": "2024",
+			"genre": "Ficção",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/UY2048_.jpg",
+					"episodes": [
+						{
+							"id": "serie3_s1_e1",
+							"title": "Episódio 1",
+							"episodeNumber": 1,
+							"thumbUrl": "URL_DA_THUMB",
+							"description": "Na Tentativa de garantir a sobrevivência da humanidade.",
+							"streamUrl": "https://ia600100.us.archive.org/28/items/obga_20260729/f.i.e.mp4"
 						}
 					]
 				}
