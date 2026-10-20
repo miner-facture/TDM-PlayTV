@@ -55,20 +55,11 @@
 			"name": "CNN Brasil",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/cnnbrasil.png",
-			"streamUrl": "https://d1-0710.cdnvipcanais.xyz/cnnbrasil/index.m3u8",
+			"streamUrl": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
-			"headers": {
-				"Referer": "https://vipcanais.net/",
-				"Origin": "https://vipcanais.net",
-				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-				"sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Avast Secure Browser\";v=\"150\"",
-				"sec-ch-ua-mobile": "?1",
-				"sec-ch-ua-platform": "\"Android\"",
-				"sec-fetch-mode": "cors",
-				"sec-fetch-site": "cross-site"
-			},
+			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "CNNBrasil.br",
@@ -149,6 +140,25 @@
 			"epgId": "JovemPanNews.br",
 			"tvgId": "JovemPanNews.br",
 			"channelNumber": "508",
+			"backdropUrl": ""
+		},
+		{
+			"id": "ComedyCentral.br",
+			"name": "Comedy Central",
+			"category": "Entretenimento",
+			"logoUrl": "https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png",
+			"streamUrl": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "ComedyCentral.br",
+			"tvgId": "ComedyCentral.br",
+			"channelNumber": "432",
 			"backdropUrl": ""
 		},
 		{
@@ -327,6 +337,25 @@
 			"epgId": "BandBrasil.br",
 			"tvgId": "BandBrasil.br",
 			"channelNumber": "104",
+			"backdropUrl": ""
+		},
+		{
+			"id": "Tastemade.br",
+			"name": "Tastemade",
+			"category": "Variedades",
+			"logoUrl": "https://images.seeklogo.com/logo-png/61/1/tastemade-logo-png_seeklogo-611016.png",
+			"streamUrl": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "",
+			"headers": {
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "Tastemade.br",
+			"tvgId": "Tastemade.br",
+			"channelNumber": "",
 			"backdropUrl": ""
 		},
 		{
@@ -1396,7 +1425,7 @@
 			"name": "History",
 			"category": "Documentários",
 			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/history.png",
-			"streamUrl": "https://d1-0710.cdnvipcanais.xyz/history/index.m3u8",
+			"streamUrl": "https://d2-0710.cdnvipcanais.xyz/history/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
