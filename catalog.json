@@ -295,7 +295,7 @@
 			"name": "Record RJ",
 			"category": "TV Aberta",
 			"logoUrl": "https://api.reidoscanais.ooo/img/record.png",
-			"streamUrl": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
+			"streamUrl": "https://d1-0710.cdnvipcanais.xyz/recordrj/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
