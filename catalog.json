@@ -2336,7 +2336,35 @@
 							"episodeNumber": 1,
 							"thumbUrl": "URL_DA_THUMB",
 							"description": "Na Tentativa de garantir a sobrevivência da humanidade.",
-							"streamUrl": "https://ia600100.us.archive.org/28/items/obga_20260729/f.i.e.mp4"
+							"streamUrl": "https://ia600804.us.archive.org/3/items/apdf_20260729/APDF.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "id-da-quarta-serie",
+			"title": "Dia D",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Dia_D-1.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Dia_D-2.jpg",
+			"seasonsInfo": "1 Temporada",
+			"description": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço.",
+			"year": "2024",
+			"genre": "Ficção",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Dia_D-1.jpg",
+					"episodes": [
+						{
+							"id": "serie3_s1_e1",
+							"title": "Episódio 1",
+							"episodeNumber": 1,
+							"thumbUrl": "URL_DA_THUMB",
+							"description": "Na Tentativa de garantir a sobrevivência da humanidade.",
+							"streamUrl": "https://archive.org/download/dddoc/d%2Cd%2Cdoc.mkv"
 						}
 					]
 				}
