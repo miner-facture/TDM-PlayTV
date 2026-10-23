@@ -2018,7 +2018,7 @@
 		{
 			"id": "JetsonTV.br",
 			"name": "Jetson TV 24/7",
-			"category": "Variedades",
+			"category": "Infantil",
 			"logoUrl": "",
 			"streamUrl": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
 			"currentProgram": "",
@@ -2080,6 +2080,23 @@
 			"epgId": "cartoongospel.br",
 			"tvgId": "cartoongospel.br",
 			"channelNumber": "425",
+			"backdropUrl": ""
+		},
+		{
+			"id": "pica_pau_24h",
+			"name": "Pica-Pau 24h",
+			"category": "Infantil",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Pica-Pau.png",
+			"streamUrl": "https://raw.githubusercontent.com/miner-facture/woody/main/playlist.m3u8",
+			"currentProgram": "Pica-Pau e Seus Amigos",
+			"nextProgram": "Pica-Pau e Seus Amigos",
+			"description": "Transmissão 24 horas dos melhores episódios de Pica-Pau.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "999001",
+			"tvgId": "999001",
+			"channelNumber": "402",
 			"backdropUrl": ""
 		},
 		{
@@ -2163,7 +2180,7 @@
 			"id": "m23",
 			"title": "O Bom Gigante Amigo",
 			"year": "2016",
-			"genre": "Aventura/Fantasia",
+			"genre": "Infantil",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ubga.png",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/bfg-arvore.png",
 			"description": "Uma garotinha órfã faz amizade com um gigante benevolente que a leva para o País dos Gigantes, onde eles tentam deter os gigantes devoradores de homens que estão invadindo o mundo humano.",
