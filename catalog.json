@@ -691,7 +691,7 @@
 			"name": "Warner Channel",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/warner.png",
-			"streamUrl": "https://d1-0710.cdnvipcanais.xyz/warner/index.m3u8",
+			"streamUrl": "https://d2-0710.cdnvipcanais.xyz/warner/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
