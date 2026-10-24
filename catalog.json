@@ -431,10 +431,27 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "LoveNature.4k",
+			"name": "Love Nature 4K",
+			"category": "Documentários",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/LoveNature.png",
+			"streamUrl": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal dedicado a documentários sobre a vida selvagem e a natureza em altíssima definição 4K.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "LoveNature.4k",
+			"tvgId": "LoveNature.4k",
+			"channelNumber": "223",
+			"backdropUrl": ""
+		},
+		{
 			"id": "Smithsonian.br",
 			"name": "Smithsonian Channel",
 			"category": "Documentários",
-			"logoUrl": "https://images.seeklogo.com/logo-png/32/1/smithsonian-channel-logo-png_seeklogo-326533.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/smithsonian-channel.png",
 			"streamUrl": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
