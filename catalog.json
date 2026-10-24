@@ -51,6 +51,23 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "WHBQ.us",
+			"name": "Fox WHBQ-TV",
+			"category": "Notícias",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/WHBQ.png",
+			"streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Fox 13 WHBQ-TV Memphiss breaking news, weather, and live broadcast.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "WHBQ.us",
+			"tvgId": "WHBQ.us",
+			"channelNumber": "13",
+			"backdropUrl": ""
+		},
+		{
 			"id": "CNNBrasil.br",
 			"name": "CNN Brasil",
 			"category": "Notícias",
