@@ -626,7 +626,7 @@
 			"name": "A&E",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/aee.png",
-			"streamUrl": "https://d2-0710.cdnvipcanais.xyz/warner/index.m3u8",
+			"streamUrl": "https://d2-0710.cdnvipcanais.xyz/aee/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -1454,6 +1454,23 @@
 			"epgId": "ESPN6.br",
 			"tvgId": "ESPN6.br",
 			"channelNumber": "75",
+			"backdropUrl": ""
+		},
+		{
+			"id": "KenanKel24h.br",
+			"name": "Kenan e Kel 24 Horas",
+			"category": "Séries / Retro",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Kenan_and_kel_logo.png",
+			"streamUrl": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal 24 horas dedicado à clássica comédia Kenan & Kel.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "KenanKel24h.br",
+			"tvgId": "KenanKel24h.br",
+			"channelNumber": "103",
 			"backdropUrl": ""
 		},
 		{
