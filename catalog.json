@@ -85,6 +85,27 @@
 			"backdropUrl": ""
 		},
 		{
+			"id": "CNNBrasilMoney.br",
+			"name": "CNN Brasil Money",
+			"category": "Notícias / Economia",
+			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Brasil_logo.svg/512px-CNN_Brasil_logo.svg.png",
+			"streamUrl": "https://redecanaistv.by/player3/ch.php?canal=cnnbrasilmoney",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal da CNN Brasil voltado para notícias de economia, mercado financeiro e negócios.",
+			"headers": {
+				"Referer": "https://redecanaistv.by/",
+				"Origin": "https://redecanaistv.by",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+			},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "CNNBrasilMoney.br",
+			"tvgId": "CNNBrasilMoney.br",
+			"channelNumber": "106",
+			"backdropUrl": ""
+		},
+		{
 			"id": "CNNBrasil.br",
 			"name": "CNN Brasil",
 			"category": "Notícias",
