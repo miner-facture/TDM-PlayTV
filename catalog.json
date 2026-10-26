@@ -1,7 +1,6 @@
 {
 	"epgUrl": "https://iptv-epg.org/files/epg-br.xml",
 	"liveChannels": [
-		
 		{
 			"id": "Travelxp.us",
 			"name": "Travelxp",
@@ -2515,7 +2514,7 @@
 		{
 			"id": "bob",
 			"title": "Band of Brothers",
-			"coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97d7acf58b24c1daeb3040b3e62a8f798b5d82b9a3416a5970417ff82114788.png",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
 			"seasonsInfo": "1 Temporada",
 			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
 			"year": "2001",
@@ -2525,7 +2524,7 @@
 			"seasons": [
 				{
 					"number": 1,
-					"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
+					"coverUrl": "https://m.media-amazon.com/images/M/MV5BYjdlNGJlYjQtMDU2Mi00ZjA1LWEwYzgtYzlmNDM5MmE1ZGUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
 					"episodes": [
 						{
 							"id": "bob_s1_e1",
