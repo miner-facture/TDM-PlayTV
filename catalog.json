@@ -85,24 +85,20 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "CNNBrasilMoney.br",
+			"id": "CNBCBrasilMoney.yt",
 			"name": "CNN Brasil Money",
 			"category": "Notícias / Economia",
-			"logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Brasil_logo.svg/512px-CNN_Brasil_logo.svg.png",
-			"streamUrl": "https://redecanaistv.by/player3/ch.php?canal=cnnbrasilmoney",
+			"logoUrl": "https://images.seeklogo.com/logo-png/61/1/cnn-brasil-money-logo-png_seeklogo-612480.png",
+			"streamUrl": "https://youtu.be/_NlkqxwElcc",
 			"currentProgram": "",
 			"nextProgram": "",
-			"description": "Canal da CNN Brasil voltado para notícias de economia, mercado financeiro e negócios.",
-			"headers": {
-				"Referer": "https://redecanaistv.by/",
-				"Origin": "https://redecanaistv.by",
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-			},
+			"description": "Transmissão ao vivo oficial via YouTube do canal CNN Brasil / Money.",
+			"headers": {},
 			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "CNNBrasilMoney.br",
-			"tvgId": "CNNBrasilMoney.br",
-			"channelNumber": "106",
+			"isYoutube": true,
+			"epgId": "CNBCBrasilMoney.yt",
+			"tvgId": "CNBCBrasilMoney.yt",
+			"channelNumber": "107",
 			"backdropUrl": ""
 		},
 		{
