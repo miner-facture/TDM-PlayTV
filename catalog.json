@@ -2,6 +2,23 @@
 	"epgUrl": "https://iptv-epg.org/files/epg-br.xml",
 	"liveChannels": [
 		{
+			"id": "PlayTV.br",
+			"name": "PlayTV",
+			"category": "Variedades / Animes",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/PlayTV2006.png",
+			"streamUrl": "http://45.162.64.114/PLAY_TV/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal focado em cultura pop, games, animes e música.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "PlayTV.br",
+			"tvgId": "PlayTV.br",
+			"channelNumber": "003",
+			"backdropUrl": ""
+		},
+		{
 			"id": "retrotv_cz",
 			"name": "Retro Music Television",
 			"category": "Música",
@@ -1196,6 +1213,23 @@
 			"epgId": "USA.br",
 			"tvgId": "USA.br",
 			"channelNumber": "302",
+			"backdropUrl": ""
+		},
+		{
+			"id": "AXNMovies.pt",
+			"name": "AXN Movies",
+			"category": "Filmes e Séries",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/logo-AXN-Movies-light.png",
+			"streamUrl": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal focado nos melhores filmes de ação, suspense e grandes produções de cinema.",
+			"headers": {},
+			"isProtected": false,
+			"isYoutube": false,
+			"epgId": "AXNMovies.pt",
+			"tvgId": "AXNMovies.pt",
+			"channelNumber": "104",
 			"backdropUrl": ""
 		},
 		{
