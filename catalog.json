@@ -85,23 +85,6 @@
 			"backdropUrl": ""
 		},
 		{
-			"id": "CNBCBrasilMoney.br",
-			"name": "CNN Brasil Money",
-			"category": "Notícias / Economia",
-			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/CNNMoney_Logo.png",
-			"streamUrl": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1793065909/ei/Va_faqqVJqiL-LAP3puXuQQ/ip/45.176.55.116/id/_NlkqxwElcc.2/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr2---sn-uxaxpo4vcg-j286.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AWzQHwqk1-fD43vvpOdxPqm836jzkx19KyaabbiSRRrkvwhWsM7egNIlCFBq16Bw_4dYqL-vMEyeYJA6/spc/mpRQ_1QXInfQ1N4KMkIr_7GhBgyoXIIPOQOHrhiO2QihAEzPSJEBlhlBmt0z/vprv/1/reg/0/playlist_type/DVR/met/1793044309,/mh/qn/mm/44/mn/sn-uxaxpo4vcg-j286/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51565116,52184237/mt/1793043895/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAIx2AwIYSFoeZdFcy5FX-xJat1ZW7yvFQIztxtLkybKeAiAyb_Qe8ycj2LhHR-WiGYL7VZ65UUPFukcAIrH8Td6oCg%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgMNiD9HkWiKRw0v2ie2oYvIhy-686E-eNz--7vKT1OTsCIQDco-7hhFHGNFvnRkP6EVLUnDD46Zv-oivw7IGafBCzRA%3D%3D/playlist/index.m3u8",
-			"currentProgram": "",
-			"nextProgram": "",
-			"description": "Transmissão ao vivo oficial do canal via YouTube com áudio e vídeo sincronizados.",
-			"headers": {},
-			"isProtected": false,
-			"isYoutube": false,
-			"epgId": "CNBCBrasilMoney.br",
-			"tvgId": "CNBCBrasilMoney.br",
-			"channelNumber": "107",
-			"backdropUrl": ""
-		},
-		{
 			"id": "CNNBrasil.br",
 			"name": "CNN Brasil",
 			"category": "Notícias",
@@ -394,7 +377,7 @@
 			"id": "Tastemade.br",
 			"name": "Tastemade",
 			"category": "Variedades",
-			"logoUrl": "https://images.seeklogo.com/logo-png/61/1/tastemade-logo-png_seeklogo-611016.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/tastemade.pngr",
 			"streamUrl": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -754,11 +737,11 @@
 			"channelNumber": "202",
 			"backdropUrl": ""
 		},
-		{
-			"id": "WarnerChannel.br",
-			"name": "Warner Channel",
+{
+			"id": "Warner.br",
+			"name": "WARNER CHANNEL",
 			"category": "Filmes e Séries",
-			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/warner.png",
+			"logoUrl": "https://api.reidoscanais.ooo/img/warner.png",
 			"streamUrl": "https://d2-0710.cdnvipcanais.xyz/warner/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -775,8 +758,8 @@
 			},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "WarnerChannel.br",
-			"tvgId": "WarnerChannel.br",
+			"epgId": "Warner.br",
+			"tvgId": "Warner.br",
 			"channelNumber": "155",
 			"backdropUrl": ""
 		},
@@ -1180,7 +1163,7 @@
 			"channelNumber": "300",
 			"backdropUrl": ""
 		},
-		{
+{
 			"id": "Universal.br",
 			"name": "UNIVERSAL TV",
 			"category": "Filmes e Séries",
@@ -2088,7 +2071,7 @@
 			"name": "Cartoon Network",
 			"category": "Infantil",
 			"logoUrl": "https://api.reidoscanais.ooo/img/cartoonnetwork.webp",
-			"streamUrl": "https://cdn-5.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8",
+			"streamUrl": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
