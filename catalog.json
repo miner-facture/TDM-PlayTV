@@ -2920,6 +2920,1368 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "sheriff_country",
+			"title": "Sheriff Country",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+			"seasonsInfo": "1 Temporada",
+			"description": "Acompanhe as investigações e os desafios enfrentados no condado.",
+			"year": "2025",
+			"genre": "Drama / Policial",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+					"episodes": [
+						{
+							"id": "sheriff_country_s1_e1",
+							"title": "Sheriff Country S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314861.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e2",
+							"title": "Sheriff Country S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314862.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e3",
+							"title": "Sheriff Country S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314863.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e4",
+							"title": "Sheriff Country S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314864.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e5",
+							"title": "Sheriff Country S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314865.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e6",
+							"title": "Sheriff Country S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314866.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e7",
+							"title": "Sheriff Country S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314867.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e8",
+							"title": "Sheriff Country S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314868.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e9",
+							"title": "Sheriff Country S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314869.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e10",
+							"title": "Sheriff Country S01E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 10 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314870.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e11",
+							"title": "Sheriff Country S01E11",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 11 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314871.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e12",
+							"title": "Sheriff Country S01E12",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 12 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314872.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e13",
+							"title": "Sheriff Country S01E13",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 13 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314873.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e14",
+							"title": "Sheriff Country S01E14",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 14 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314874.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e15",
+							"title": "Sheriff Country S01E15",
+							"episodeNumber": 15,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 15 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314875.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e16",
+							"title": "Sheriff Country S01E16",
+							"episodeNumber": 16,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 16 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314876.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e17",
+							"title": "Sheriff Country S01E17",
+							"episodeNumber": 17,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 17 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314877.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e18",
+							"title": "Sheriff Country S01E18",
+							"episodeNumber": 18,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 18 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314878.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e19",
+							"title": "Sheriff Country S01E19",
+							"episodeNumber": 19,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 19 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314879.mp4"
+						},
+						{
+							"id": "sheriff_country_s1_e20",
+							"title": "Sheriff Country S01E20",
+							"episodeNumber": 20,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+							"description": "Episódio 20 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314880.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "a_fraude_do_seculo",
+			"title": "A Fraude do Século",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+			"seasonsInfo": "1 Temporada",
+			"description": "Acompanhe os desdobramentos e os segredos por trás de uma das maiores fraudes já investigadas.",
+			"year": "2025",
+			"genre": "Drama / Suspense",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+					"episodes": [
+						{
+							"id": "a_fraude_do_seculo_s1_e1",
+							"title": "A Fraude do Século S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315023.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e2",
+							"title": "A Fraude do Século S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315024.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e3",
+							"title": "A Fraude do Século S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315025.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e4",
+							"title": "A Fraude do Século S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315026.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e5",
+							"title": "A Fraude do Século S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315027.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e6",
+							"title": "A Fraude do Século S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315028.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e7",
+							"title": "A Fraude do Século S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315029.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e8",
+							"title": "A Fraude do Século S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315030.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e9",
+							"title": "A Fraude do Século S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315031.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e10",
+							"title": "A Fraude do Século S01E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 10 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315032.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e11",
+							"title": "A Fraude do Século S01E11",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 11 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315033.mp4"
+						},
+						{
+							"id": "a_fraude_do_seculo_s1_e12",
+							"title": "A Fraude do Século S01E12",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
+							"description": "Episódio 12 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315034.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "operacao_berlim",
+			"title": "Operação Berlim",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+			"seasonsInfo": "3 Temporadas",
+			"description": "Acompanhe operações secretas de alta tensão e conspirações internacionais ambientadas em Berlim.",
+			"year": "2024",
+			"genre": "Espionagem / Ação",
+			"lastEpisodeInfo": "3ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+					"episodes": [
+						{
+							"id": "operacao_berlim_s1_e1",
+							"title": "Operação Berlim S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216853.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e2",
+							"title": "Operação Berlim S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216854.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e3",
+							"title": "Operação Berlim S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216855.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e4",
+							"title": "Operação Berlim S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216856.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e5",
+							"title": "Operação Berlim S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216857.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e6",
+							"title": "Operação Berlim S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216858.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e7",
+							"title": "Operação Berlim S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216859.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e8",
+							"title": "Operação Berlim S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216860.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e9",
+							"title": "Operação Berlim S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216861.mp4"
+						},
+						{
+							"id": "operacao_berlim_s1_e10",
+							"title": "Operação Berlim S01E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 10 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216862.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+					"episodes": [
+						{
+							"id": "operacao_berlim_s2_e1",
+							"title": "Operação Berlim S02E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 1 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216863.mp4"
+						},
+						{
+							"id": "operacao_berlim_s2_e2",
+							"title": "Operação Berlim S02E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 2 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216864.mp4"
+						},
+						{
+							"id": "operacao_berlim_s2_e3",
+							"title": "Operação Berlim S02E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 3 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216865.mp4"
+						},
+						{
+							"id": "operacao_berlim_s2_e4",
+							"title": "Operação Berlim S02E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 4 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216866.mp4"
+						},
+						{
+							"id": "operacao_berlim_s2_e5",
+							"title": "Operação Berlim S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216867.mp4"
+						},
+						{
+							"id": "operacao_berlim_s2_e6",
+							"title": "Operação Berlim S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216868.mp4"
+						},
+						{
+							"id": "operacao_berlim_s2_e7",
+							"title": "Operação Berlim S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216869.mp4"
+						},
+						{
+							"id": "operacao_berlim_s2_e8",
+							"title": "Operação Berlim S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216870.mp4"
+						},
+						{
+							"id": "operacao_berlim_s2_e9",
+							"title": "Operação Berlim S02E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 9 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216871.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+					"episodes": [
+						{
+							"id": "operacao_berlim_s3_e1",
+							"title": "Operação Berlim S03E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 1 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216872.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e2",
+							"title": "Operação Berlim S03E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 2 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216873.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e3",
+							"title": "Operação Berlim S03E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 3 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216874.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e4",
+							"title": "Operação Berlim S03E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 4 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216875.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e5",
+							"title": "Operação Berlim S03E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 5 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216876.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e6",
+							"title": "Operação Berlim S03E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 6 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216877.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e7",
+							"title": "Operação Berlim S03E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 7 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216878.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e8",
+							"title": "Operação Berlim S03E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 8 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216879.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e9",
+							"title": "Operação Berlim S03E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 9 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216880.mp4"
+						},
+						{
+							"id": "operacao_berlim_s3_e10",
+							"title": "Operação Berlim S03E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"description": "Episódio 10 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216881.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "o_sucessor",
+			"title": "O Sucessor",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+			"seasonsInfo": "2 Temporadas",
+			"description": "Disputas de poder, alianças estratégicas e segredos revelados na corrida pela sucessão.",
+			"year": "2024",
+			"genre": "Drama / Negócios",
+			"lastEpisodeInfo": "2ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+					"episodes": [
+						{
+							"id": "o_sucessor_s1_e1",
+							"title": "O Sucessor S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216626.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e2",
+							"title": "O Sucessor S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216627.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e3",
+							"title": "O Sucessor S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216628.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e4",
+							"title": "O Sucessor S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216629.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e5",
+							"title": "O Sucessor S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216630.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e6",
+							"title": "O Sucessor S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216631.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e7",
+							"title": "O Sucessor S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216632.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e8",
+							"title": "O Sucessor S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216633.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e9",
+							"title": "O Sucessor S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216634.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e10",
+							"title": "O Sucessor S01E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 10 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216635.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e11",
+							"title": "O Sucessor S01E11",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 11 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216636.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e12",
+							"title": "O Sucessor S01E12",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 12 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216637.mp4"
+						},
+						{
+							"id": "o_sucessor_s1_e13",
+							"title": "O Sucessor S01E13",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 13 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216638.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+					"episodes": [
+						{
+							"id": "o_sucessor_s2_e1",
+							"title": "O Sucessor S02E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 1 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216639.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e2",
+							"title": "O Sucessor S02E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 2 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216640.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e3",
+							"title": "O Sucessor S02E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 3 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216641.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e4",
+							"title": "O Sucessor S02E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 4 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216642.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e5",
+							"title": "O Sucessor S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216643.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e6",
+							"title": "O Sucessor S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216644.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e7",
+							"title": "O Sucessor S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216645.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e8",
+							"title": "O Sucessor S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216646.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e9",
+							"title": "O Sucessor S02E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 9 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216647.mp4"
+						},
+						{
+							"id": "o_sucessor_s2_e10",
+							"title": "O Sucessor S02E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/3rXXJuuBZeeoGira74z1dWJvsU3.jpg",
+							"description": "Episódio 10 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216648.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "o_segredo_do_rancho_skinwalker",
+			"title": "O Segredo do Rancho Skinwalker",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+			"seasonsInfo": "5 Temporadas",
+			"description": "Uma equipe de cientistas e especialistas investiga os fenômenos paranormais, ufológicos e anomalias inexplicáveis no lendário Rancho Skinwalker.",
+			"year": "2020",
+			"genre": "Documentário / Mistério",
+			"lastEpisodeInfo": "5ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+					"episodes": [
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s1_e1",
+							"title": "O Segredo do Rancho Skinwalker S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216556.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s1_e2",
+							"title": "O Segredo do Rancho Skinwalker S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216557.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s1_e3",
+							"title": "O Segredo do Rancho Skinwalker S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216558.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s1_e4",
+							"title": "O Segredo do Rancho Skinwalker S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216559.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s1_e5",
+							"title": "O Segredo do Rancho Skinwalker S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216560.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s1_e6",
+							"title": "O Segredo do Rancho Skinwalker S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216561.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s1_e7",
+							"title": "O Segredo do Rancho Skinwalker S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216562.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s1_e8",
+							"title": "O Segredo do Rancho Skinwalker S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216563.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+					"episodes": [
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e1",
+							"title": "O Segredo do Rancho Skinwalker S02E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 1 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216564.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e2",
+							"title": "O Segredo do Rancho Skinwalker S02E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 2 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216565.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e3",
+							"title": "O Segredo do Rancho Skinwalker S02E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 3 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216566.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e4",
+							"title": "O Segredo do Rancho Skinwalker S02E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 4 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216567.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e5",
+							"title": "O Segredo do Rancho Skinwalker S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216568.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e6",
+							"title": "O Segredo do Rancho Skinwalker S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216569.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e7",
+							"title": "O Segredo do Rancho Skinwalker S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216570.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e8",
+							"title": "O Segredo do Rancho Skinwalker S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216571.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e9",
+							"title": "O Segredo do Rancho Skinwalker S02E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 9 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216572.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s2_e10",
+							"title": "O Segredo do Rancho Skinwalker S02E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 10 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216573.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+					"episodes": [
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e1",
+							"title": "O Segredo do Rancho Skinwalker S03E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 1 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216574.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e2",
+							"title": "O Segredo do Rancho Skinwalker S03E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 2 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216575.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e3",
+							"title": "O Segredo do Rancho Skinwalker S03E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 3 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216576.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e4",
+							"title": "O Segredo do Rancho Skinwalker S03E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 4 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216577.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e5",
+							"title": "O Segredo do Rancho Skinwalker S03E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 5 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216578.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e6",
+							"title": "O Segredo do Rancho Skinwalker S03E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 6 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216579.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e7",
+							"title": "O Segredo do Rancho Skinwalker S03E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 7 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216580.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e8",
+							"title": "O Segredo do Rancho Skinwalker S03E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 8 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216581.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e9",
+							"title": "O Segredo do Rancho Skinwalker S03E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 9 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216582.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e10",
+							"title": "O Segredo do Rancho Skinwalker S03E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 10 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216583.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s3_e11",
+							"title": "O Segredo do Rancho Skinwalker S03E11",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 11 da 3ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216584.mp4"
+						}
+					]
+				},
+				{
+					"number": 4,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+					"episodes": [
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e1",
+							"title": "O Segredo do Rancho Skinwalker S04E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 1 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216585.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e2",
+							"title": "O Segredo do Rancho Skinwalker S04E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 2 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216586.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e3",
+							"title": "O Segredo do Rancho Skinwalker S04E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 3 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216587.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e4",
+							"title": "O Segredo do Rancho Skinwalker S04E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 4 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216588.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e5",
+							"title": "O Segredo do Rancho Skinwalker S04E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 5 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216589.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e6",
+							"title": "O Segredo do Rancho Skinwalker S04E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 6 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216590.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e7",
+							"title": "O Segredo do Rancho Skinwalker S04E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 7 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216591.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e8",
+							"title": "O Segredo do Rancho Skinwalker S04E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 8 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216592.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e9",
+							"title": "O Segredo do Rancho Skinwalker S04E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 9 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216593.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e10",
+							"title": "O Segredo do Rancho Skinwalker S04E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 10 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216594.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e11",
+							"title": "O Segredo do Rancho Skinwalker S04E11",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 11 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216595.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e12",
+							"title": "O Segredo do Rancho Skinwalker S04E12",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 12 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216596.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e13",
+							"title": "O Segredo do Rancho Skinwalker S04E13",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 13 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216597.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e14",
+							"title": "O Segredo do Rancho Skinwalker S04E14",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 14 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216598.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s4_e15",
+							"title": "O Segredo do Rancho Skinwalker S04E15",
+							"episodeNumber": 15,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 15 da 4ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216599.mp4"
+						}
+					]
+				},
+				{
+					"number": 5,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+					"episodes": [
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e1",
+							"title": "O Segredo do Rancho Skinwalker S05E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 1 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216600.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e2",
+							"title": "O Segredo do Rancho Skinwalker S05E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 2 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216601.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e3",
+							"title": "O Segredo do Rancho Skinwalker S05E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 3 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216602.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e4",
+							"title": "O Segredo do Rancho Skinwalker S05E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 4 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216603.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e5",
+							"title": "O Segredo do Rancho Skinwalker S05E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 5 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216604.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e6",
+							"title": "O Segredo do Rancho Skinwalker S05E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 6 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216605.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e7",
+							"title": "O Segredo do Rancho Skinwalker S05E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 7 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216606.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e8",
+							"title": "O Segredo do Rancho Skinwalker S05E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 8 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216607.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e9",
+							"title": "O Segredo do Rancho Skinwalker S05E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 9 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216608.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e10",
+							"title": "O Segredo do Rancho Skinwalker S05E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 10 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216609.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e11",
+							"title": "O Segredo do Rancho Skinwalker S05E11",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 11 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216610.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e12",
+							"title": "O Segredo do Rancho Skinwalker S05E12",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 12 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216611.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e13",
+							"title": "O Segredo do Rancho Skinwalker S05E13",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 13 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216612.mp4"
+						},
+						{
+							"id": "o_segredo_do_rancho_skinwalker_s5_e14",
+							"title": "O Segredo do Rancho Skinwalker S05E14",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/lil3qywnOXgwSOmdgsrX3qHH8Sb.jpg",
+							"description": "Episódio 14 da 5ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216613.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "o_negociador",
+			"title": "O Negociador",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+			"seasonsInfo": "1 Temporada",
+			"description": "Um capitão perito em negociações lida com situações extremas de reféns enquanto enfrenta traumas do passado.",
+			"year": "2023",
+			"genre": "Drama / Policial",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+					"episodes": [
+						{
+							"id": "o_negociador_s1_e1",
+							"title": "O Negociador S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216516.mp4"
+						},
+						{
+							"id": "o_negociador_s1_e2",
+							"title": "O Negociador S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216517.mp4"
+						},
+						{
+							"id": "o_negociador_s1_e3",
+							"title": "O Negociador S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216518.mp4"
+						},
+						{
+							"id": "o_negociador_s1_e4",
+							"title": "O Negociador S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216519.mp4"
+						},
+						{
+							"id": "o_negociador_s1_e5",
+							"title": "O Negociador S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216520.mp4"
+						},
+						{
+							"id": "o_negociador_s1_e6",
+							"title": "O Negociador S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216521.mp4"
+						},
+						{
+							"id": "o_negociador_s1_e7",
+							"title": "O Negociador S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216522.mp4"
+						},
+						{
+							"id": "o_negociador_s1_e8",
+							"title": "O Negociador S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216523.mp4"
+						}
+					]
+				}
+			]
 		}
 	]
 }
