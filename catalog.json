@@ -2628,8 +2628,7 @@
 		{
 			"id": "desenhos_biblicos",
 			"title": "Desenhos Bíblicos",
-			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ruth.jpeg",
-			"seasonsInfo": "2 Temporada",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/ReuniaoDeJose.jpeg",
 			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
 			"year": "2004",
 			"genre": "Infantil / Religioso",
@@ -2638,7 +2637,7 @@
 			"seasons": [
 				{
 					"number": 2,
-					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ruth.jpeg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/ReuniaoDeJose.jpeg",
 					"episodes": [
 						{
 							"id": "db_s1_e2",
@@ -2682,7 +2681,7 @@
 		{
 			"id": "desenhos_biblicos",
 			"title": "Desenhos Bíblicos",
-			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/abraaoisaac.jpeg",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/daniel.jpeg",
 			"seasonsInfo": "4 Temporada",
 			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
 			"year": "2004",
@@ -2692,12 +2691,12 @@
 			"seasons": [
 				{
 					"number": 4,
-					"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/abraaoisaac.jpeg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/daniel.jpeg",
 					"episodes": [
 						{
 							"id": "db_s1_e4",
 							"title": "Daniel",
-							"episodeNumber": 4,
+							"episodeNumber": 1,
 							"thumbUrl": "",
 							"description": "Daniel na cova dos leões.",
 							"streamUrl": "https://dn721909.ca.archive.org/0/items/Desenhos_Biblicos/Daniel.mp4"
@@ -2736,6 +2735,168 @@
 		{
 			"id": "desenhos_biblicos",
 			"title": "Desenhos Bíblicos",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/elias.jpg",
+			"seasonsInfo": "6 Temporada",
+			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
+			"year": "2004",
+			"genre": "Infantil / Religioso",
+			"lastEpisodeInfo": "Completo",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 6,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/elias.jpg",
+					"episodes": [
+						{
+							"id": "db_s1_e6",
+							"title": "Elias",
+							"episodeNumber": 6,
+							"thumbUrl": "",
+							"description": "A trajetória do profeta Elias.",
+							"streamUrl": "https://dn721909.ca.archive.org/0/items/Desenhos_Biblicos/Elias.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "desenhos_biblicos",
+			"title": "Desenhos Bíblicos",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/eliseu.jpeg",
+			"seasonsInfo": "7 Temporada",
+			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
+			"year": "2004",
+			"genre": "Infantil / Religioso",
+			"lastEpisodeInfo": "Completo",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 7,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/eliseu.jpeg",
+					"episodes": [
+						{
+							"id": "db_s1_e7",
+							"title": "Eliseu",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "A história do profeta Eliseu.",
+							"streamUrl": "https://dn721909.ca.archive.org/0/items/Desenhos_Biblicos/Eliseu.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "desenhos_biblicos",
+			"title": "Desenhos Bíblicos",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/ester.jpeg",
+			"seasonsInfo": "8 Temporada",
+			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
+			"year": "2004",
+			"genre": "Infantil / Religioso",
+			"lastEpisodeInfo": "Completo",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 8,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/ester.jpeg",
+					"episodes": [
+						{
+							"id": "db_s1_e8",
+							"title": "Esther",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "A história da Rainha Ester.",
+							"streamUrl": "https://dn721909.ca.archive.org/0/items/Desenhos_Biblicos/Esther.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "desenhos_biblicos",
+			"title": "Desenhos Bíblicos",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/joseegito.jpeg",
+			"seasonsInfo": "9 Temporada",
+			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
+			"year": "2004",
+			"genre": "Infantil / Religioso",
+			"lastEpisodeInfo": "Completo",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 9,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/joseegito.jpeg",
+					"episodes": [
+						{
+							"id": "db_s1_e9",
+							"title": "José No Egito",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "José vendido como escravo e sua ascensão no Egito.",
+							"streamUrl": "https://dn721909.ca.archive.org/0/items/Desenhos_Biblicos/Jos%C3%A9%20No%20Egito.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "desenhos_biblicos",
+			"title": "Desenhos Bíblicos",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/moises.jpeg",
+			"seasonsInfo": "10 Temporada",
+			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
+			"year": "2004",
+			"genre": "Infantil / Religioso",
+			"lastEpisodeInfo": "Completo",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 10,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/moises.jpeg",
+					"episodes": [
+						{
+							"id": "db_s1_e10",
+							"title": "Moisés",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "A história de Moisés e a libertação do povo hebreu.",
+							"streamUrl": "https://dn721909.ca.archive.org/0/items/Desenhos_Biblicos/Moseis.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "desenhos_biblicos",
+			"title": "Desenhos Bíblicos",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/salom%C3%A3o.jpeg",
+			"seasonsInfo": "11 Temporada",
+			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
+			"year": "2004",
+			"genre": "Infantil / Religioso",
+			"lastEpisodeInfo": "Completo",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 11,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/salom%C3%A3o.jpeg",
+					"episodes": [
+						{
+							"id": "db_s1_e11",
+							"title": "Salomão",
+							"episodeNumber": 1,
+							"thumbUrl": "",
+							"description": "O reinado e a sabedoria de Salomão.",
+							"streamUrl": "https://dn721909.ca.archive.org/0/items/Desenhos_Biblicos/Salom%C3%A3o.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "desenhos_biblicos",
+			"title": "Desenhos Bíblicos",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/samuelmeninoprofeta.jpeg",
 			"seasonsInfo": "12 Temporada",
 			"description": "Coleção clássica de animações sobre histórias e passagens bíblicas.",
@@ -2751,7 +2912,7 @@
 						{
 							"id": "db_s1_e12",
 							"title": "Samuel O Menino Profeta",
-							"episodeNumber": 12,
+							"episodeNumber": 1,
 							"thumbUrl": "",
 							"description": "A infância e chamado do profeta Samuel.",
 							"streamUrl": "https://dn721909.ca.archive.org/0/items/Desenhos_Biblicos/Samuel%20O%20Menino%20Profeta.mp4"
