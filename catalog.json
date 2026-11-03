@@ -2504,6 +2504,2972 @@
 							"streamUrl": "https://ia801609.us.archive.org/22/items/episodio.-1-x-1/Epis%C3%B3dio.1X12.mp4"
 						}
 					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxpdq2c3dQqqlYU3WUdc6RfYdq6.jpg",
+					"episodes": [
+						{
+							"id": "suits_s2_e1",
+							"title": "SUITS S02E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yxpdq2c3dQqqlYU3WUdc6RfYdq6.jpg",
+							"description": "Episódio 1 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501569.mp4"
+						},
+						{
+							"id": "suits_s2_e2",
+							"title": "SUITS S02E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/clxK6oT6F5FD8EWsg3J0CiQIXWx.jpg",
+							"description": "Episódio 2 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501570.mp4"
+						},
+						{
+							"id": "suits_s2_e3",
+							"title": "SUITS S02E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sQ6oD8xZ2lJwvhk01jQ5QPF6syI.jpg",
+							"description": "Episódio 3 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501571.mp4"
+						},
+						{
+							"id": "suits_s2_e4",
+							"title": "SUITS S02E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7VdwhntEMnIz1EhxkcRk09gv5ts.jpg",
+							"description": "Episódio 4 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501572.mp4"
+						},
+						{
+							"id": "suits_s2_e5",
+							"title": "SUITS S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/adxd0ppqT9zOynFvtSjl7Fq5knP.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501573.mp4"
+						},
+						{
+							"id": "suits_s2_e6",
+							"title": "SUITS S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bwTLLOML8VpuJ3ACrY3yHCqGJqc.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501574.mp4"
+						},
+						{
+							"id": "suits_s2_e7",
+							"title": "SUITS S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/gv7yM01BPxu5IEyiOXAlriqKIV7.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501575.mp4"
+						},
+						{
+							"id": "suits_s2_e8",
+							"title": "SUITS S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/cQ29XCZiAyiDpKnmB6hTAJSgR9u.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501576.mp4"
+						},
+						{
+							"id": "suits_s2_e9",
+							"title": "SUITS S02E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/3bprO7iFRbHpjJzRsFjvjDjQIYm.jpg",
+							"description": "Episódio 9 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501577.mp4"
+						},
+						{
+							"id": "suits_s2_e10",
+							"title": "SUITS S02E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/muaurjvMczn6PZE2hOGKuh4EkqR.jpg",
+							"description": "Episódio 10 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501578.mp4"
+						},
+						{
+							"id": "suits_s2_e11",
+							"title": "SUITS S02E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bUBHCJ7IPQinpi1eyo1C6n8vbvu.jpg",
+							"description": "Episódio 11 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501579.mp4"
+						},
+						{
+							"id": "suits_s2_e12",
+							"title": "SUITS S02E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7fY3QJRQGtdYsMbteTw30GarU79.jpg",
+							"description": "Episódio 12 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501580.mp4"
+						},
+						{
+							"id": "suits_s2_e13",
+							"title": "SUITS S02E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dzyXiBetjvP4lAtvMzz5IDww1ae.jpg",
+							"description": "Episódio 13 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501581.mp4"
+						},
+						{
+							"id": "suits_s2_e14",
+							"title": "SUITS S02E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9JsguU7Ehw6AuqB4z1s1dtRx9Ka.jpg",
+							"description": "Episódio 14 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501582.mp4"
+						},
+						{
+							"id": "suits_s2_e15",
+							"title": "SUITS S02E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/jDzK1uE2ied6viZ98uDtx3xjJEw.jpg",
+							"description": "Episódio 15 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501583.mp4"
+						},
+						{
+							"id": "suits_s2_e16",
+							"title": "SUITS S02E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wqLV57rFhBS5LyWKf1koHKcwETd.jpg",
+							"description": "Episódio 16 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501584.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIk9qBkpJDsVXdrU3kqtan2Ylg5.jpg",
+					"episodes": [
+						{
+							"id": "suits_s3_e1",
+							"title": "SUITS S03E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/gIk9qBkpJDsVXdrU3kqtan2Ylg5.jpg",
+							"description": "Episódio 1 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501585.mp4"
+						},
+						{
+							"id": "suits_s3_e2",
+							"title": "SUITS S03E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xg8ehY3sTZ4b1cFgluhKBo0xSQo.jpg",
+							"description": "Episódio 2 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501586.mp4"
+						},
+						{
+							"id": "suits_s3_e3",
+							"title": "SUITS S03E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mSsRY3eSD5MwKz8TWZozQ9NNUfR.jpg",
+							"description": "Episódio 3 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501587.mp4"
+						},
+						{
+							"id": "suits_s3_e4",
+							"title": "SUITS S03E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/p6q2Dnx17Njeou2qFRDJ5rBG8zg.jpg",
+							"description": "Episódio 4 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501588.mp4"
+						},
+						{
+							"id": "suits_s3_e5",
+							"title": "SUITS S03E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yshzNsaOgDLWpejdWdNNppbk0SB.jpg",
+							"description": "Episódio 5 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501589.mp4"
+						},
+						{
+							"id": "suits_s3_e6",
+							"title": "SUITS S03E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/kwENlbTx0aBGeLBuVLdsfqyZ1Zk.jpg",
+							"description": "Episódio 6 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501590.mp4"
+						},
+						{
+							"id": "suits_s3_e7",
+							"title": "SUITS S03E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tRfGHMLDpaYjJJkfNsIgyIg3E9u.jpg",
+							"description": "Episódio 7 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501591.mp4"
+						},
+						{
+							"id": "suits_s3_e8",
+							"title": "SUITS S03E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/x4ajUguqfzg8AUsIwZNbpdcdXNe.jpg",
+							"description": "Episódio 8 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501592.mp4"
+						},
+						{
+							"id": "suits_s3_e9",
+							"title": "SUITS S03E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/eMOw6qCgSEJFl0zIjU76kQ7HqjJ.jpg",
+							"description": "Episódio 9 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501593.mp4"
+						},
+						{
+							"id": "suits_s3_e10",
+							"title": "SUITS S03E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/27ZFjhAkAxdwce2FghKFclsnuC.jpg",
+							"description": "Episódio 10 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501594.mp4"
+						},
+						{
+							"id": "suits_s3_e11",
+							"title": "SUITS S03E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/knOogYDCMqZN7uGzkJFXpaxY4fx.jpg",
+							"description": "Episódio 11 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501595.mp4"
+						},
+						{
+							"id": "suits_s3_e12",
+							"title": "SUITS S03E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5Uwf4LB96caRnZbnvuJ7jzwg1Bt.jpg",
+							"description": "Episódio 12 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501596.mp4"
+						},
+						{
+							"id": "suits_s3_e13",
+							"title": "SUITS S03E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/pjIgziIbRXWrqFbK3OQR7WjD1Zu.jpg",
+							"description": "Episódio 13 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501597.mp4"
+						},
+						{
+							"id": "suits_s3_e14",
+							"title": "SUITS S03E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sIKGRAOziNDS8rybExHCGd8fSi3.jpg",
+							"description": "Episódio 14 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501598.mp4"
+						},
+						{
+							"id": "suits_s3_e15",
+							"title": "SUITS S03E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7KP5lT3FTURpDG9qfs5la0GnjSq.jpg",
+							"description": "Episódio 15 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501599.mp4"
+						},
+						{
+							"id": "suits_s3_e16",
+							"title": "SUITS S03E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/4fsur7I6snUigEJJMXJ9jdDZSE8.jpg",
+							"description": "Episódio 16 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501600.mp4"
+						}
+					]
+				},
+				{
+					"number": 4,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciKysHwQJh92yIWwaGPg43gvlO6.jpg",
+					"episodes": [
+						{
+							"id": "suits_s4_e1",
+							"title": "SUITS S04E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ciKysHwQJh92yIWwaGPg43gvlO6.jpg",
+							"description": "Episódio 1 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501601.mp4"
+						},
+						{
+							"id": "suits_s4_e2",
+							"title": "SUITS S04E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tjvT0ZMO8L6fNy62ks5xFKarbYc.jpg",
+							"description": "Episódio 2 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501602.mp4"
+						},
+						{
+							"id": "suits_s4_e3",
+							"title": "SUITS S04E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/cCg3mOxnmxRiaNEoXOVvqkPxzTp.jpg",
+							"description": "Episódio 3 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501603.mp4"
+						},
+						{
+							"id": "suits_s4_e4",
+							"title": "SUITS S04E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/eqekTyHGOfrAnjfL6sgDBZeRt5N.jpg",
+							"description": "Episódio 4 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501604.mp4"
+						},
+						{
+							"id": "suits_s4_e5",
+							"title": "SUITS S04E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fAvhkJ6HbYItMQDEdFfOuzvZU58.jpg",
+							"description": "Episódio 5 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501605.mp4"
+						},
+						{
+							"id": "suits_s4_e6",
+							"title": "SUITS S04E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/nqjxboVKeAfCxxpff4SEZdPxqFF.jpg",
+							"description": "Episódio 6 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501606.mp4"
+						},
+						{
+							"id": "suits_s4_e7",
+							"title": "SUITS S04E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mKEjEBxUwUcTdNzWYAIwJsgVeez.jpg",
+							"description": "Episódio 7 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501607.mp4"
+						},
+						{
+							"id": "suits_s4_e8",
+							"title": "SUITS S04E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wgpo4C1pFwbcXrWkHI55t5Q67ad.jpg",
+							"description": "Episódio 8 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501608.mp4"
+						},
+						{
+							"id": "suits_s4_e9",
+							"title": "SUITS S04E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/AfUwY3Z7z2gigfCdKgdy8288C3G.jpg",
+							"description": "Episódio 9 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501609.mp4"
+						},
+						{
+							"id": "suits_s4_e10",
+							"title": "SUITS S04E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yZohnbfPBKvxT1EbLpU48JjoZI7.jpg",
+							"description": "Episódio 10 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501610.mp4"
+						},
+						{
+							"id": "suits_s4_e11",
+							"title": "SUITS S04E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5SCOpxT0rhIQ82PKWTdIVVazm3S.jpg",
+							"description": "Episódio 11 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501611.mp4"
+						},
+						{
+							"id": "suits_s4_e12",
+							"title": "SUITS S04E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rKah4oW2kJtoITjfm9YdEcpOvGk.jpg",
+							"description": "Episódio 12 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501612.mp4"
+						},
+						{
+							"id": "suits_s4_e13",
+							"title": "SUITS S04E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/piMpSiiGorqeBwhD0gHsI9ud9Hu.jpg",
+							"description": "Episódio 13 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501613.mp4"
+						},
+						{
+							"id": "suits_s4_e14",
+							"title": "SUITS S04E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yKP8CNDvqTJLkeuOBlSUIsmPIrp.jpg",
+							"description": "Episódio 14 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501614.mp4"
+						},
+						{
+							"id": "suits_s4_e15",
+							"title": "SUITS S04E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qTzosMjl1hLp2kqcIMBsdQb3yRc.jpg",
+							"description": "Episódio 15 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501615.mp4"
+						},
+						{
+							"id": "suits_s4_e16",
+							"title": "SUITS S04E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/Zn4bKcTo3hwvfMK68kSVIKICuh.jpg",
+							"description": "Episódio 16 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501616.mp4"
+						}
+					]
+				},
+				{
+					"number": 5,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Pw2OFFGxv34Szk8rlWIa5st31J.jpg",
+					"episodes": [
+						{
+							"id": "suits_s5_e1",
+							"title": "SUITS S05E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6Pw2OFFGxv34Szk8rlWIa5st31J.jpg",
+							"description": "Episódio 1 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501617.mp4"
+						},
+						{
+							"id": "suits_s5_e2",
+							"title": "SUITS S05E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/lojXDaWy3gHJjQSEjkzJf1f0QsH.jpg",
+							"description": "Episódio 2 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501618.mp4"
+						},
+						{
+							"id": "suits_s5_e3",
+							"title": "SUITS S05E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mZ0YmsvDdcXDQ3P3yEBRQeb3K4J.jpg",
+							"description": "Episódio 3 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501619.mp4"
+						},
+						{
+							"id": "suits_s5_e4",
+							"title": "SUITS S05E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9QmG1eUy3kCdn1IsCzuWoo85CJl.jpg",
+							"description": "Episódio 4 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501620.mp4"
+						},
+						{
+							"id": "suits_s5_e5",
+							"title": "SUITS S05E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/m0ZiRkogS58WfS5OMMmRQDSwGmk.jpg",
+							"description": "Episódio 5 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501621.mp4"
+						},
+						{
+							"id": "suits_s5_e6",
+							"title": "SUITS S05E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tKT8uiYxRVDy83NN94J4MR9Z7Rf.jpg",
+							"description": "Episódio 6 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501622.mp4"
+						},
+						{
+							"id": "suits_s5_e7",
+							"title": "SUITS S05E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/liMoUzLWN7a3aXKDWiFsJ2sOzLB.jpg",
+							"description": "Episódio 7 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501623.mp4"
+						},
+						{
+							"id": "suits_s5_e8",
+							"title": "SUITS S05E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9WMmNJ5zER6oXtTlP44AdUQKp6C.jpg",
+							"description": "Episódio 8 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501624.mp4"
+						},
+						{
+							"id": "suits_s5_e9",
+							"title": "SUITS S05E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fMQFvQPZR3j6NijOJDdwGXi8Wfb.jpg",
+							"description": "Episódio 9 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501625.mp4"
+						},
+						{
+							"id": "suits_s5_e10",
+							"title": "SUITS S05E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qHW94gwiuA7rgxo4tWWlnBkr3UO.jpg",
+							"description": "Episódio 10 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501626.mp4"
+						},
+						{
+							"id": "suits_s5_e11",
+							"title": "SUITS S05E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/2j1VqVJe9zjKvr5IYk2sFuE7Rcl.jpg",
+							"description": "Episódio 11 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501627.mp4"
+						},
+						{
+							"id": "suits_s5_e12",
+							"title": "SUITS S05E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mg42HN3qlxYXLdSF6J2FQMlTs36.jpg",
+							"description": "Episódio 12 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501628.mp4"
+						},
+						{
+							"id": "suits_s5_e13",
+							"title": "SUITS S05E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/76RsiytPkQtFEBctLu3smkzHdGr.jpg",
+							"description": "Episódio 13 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501629.mp4"
+						},
+						{
+							"id": "suits_s5_e14",
+							"title": "SUITS S05E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/e1OIfK2nPDwEWWVgky0xzGdN8oc.jpg",
+							"description": "Episódio 14 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501630.mp4"
+						},
+						{
+							"id": "suits_s5_e15",
+							"title": "SUITS S05E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/804cu6b3SJt7BQJb6mb4Ow9H0UL.jpg",
+							"description": "Episódio 15 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501631.mp4"
+						},
+						{
+							"id": "suits_s5_e16",
+							"title": "SUITS S05E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/2Wl7uTah5nKcugkvwAtVNTNHlnL.jpg",
+							"description": "Episódio 16 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501632.mp4"
+						}
+					]
+				},
+				{
+					"number": 6,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKi6QhxAIKtZjOGhuWWNmbtGXSl.jpg",
+					"episodes": [
+						{
+							"id": "suits_s6_e1",
+							"title": "SUITS S06E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bKi6QhxAIKtZjOGhuWWNmbtGXSl.jpg",
+							"description": "Episódio 1 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501633.mp4"
+						},
+						{
+							"id": "suits_s6_e2",
+							"title": "SUITS S06E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sAkyfHORZroNF1u4jmc4cD1moDI.jpg",
+							"description": "Episódio 2 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501634.mp4"
+						},
+						{
+							"id": "suits_s6_e3",
+							"title": "SUITS S06E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/oDFy6GsoUhf44V1QQyPHy2vqMk8.jpg",
+							"description": "Episódio 3 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501635.mp4"
+						},
+						{
+							"id": "suits_s6_e4",
+							"title": "SUITS S06E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/todJONq3t4QSdeF7bQ0kYCJq9gv.jpg",
+							"description": "Episódio 4 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501636.mp4"
+						},
+						{
+							"id": "suits_s6_e5",
+							"title": "SUITS S06E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xynFYyL5NCucScNMPAoHIXFSt8M.jpg",
+							"description": "Episódio 5 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501637.mp4"
+						},
+						{
+							"id": "suits_s6_e6",
+							"title": "SUITS S06E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/jJyEmjxP5DIVsByEedkdOtKKP9U.jpg",
+							"description": "Episódio 6 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501638.mp4"
+						},
+						{
+							"id": "suits_s6_e7",
+							"title": "SUITS S06E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/jwItyuXvPwqcfhNOvhuSrz1FnG1.jpg",
+							"description": "Episódio 7 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501639.mp4"
+						},
+						{
+							"id": "suits_s6_e8",
+							"title": "SUITS S06E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/psjzLe7X8HjdJbRyMwklvlEdKTA.jpg",
+							"description": "Episódio 8 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501640.mp4"
+						},
+						{
+							"id": "suits_s6_e9",
+							"title": "SUITS S06E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yYFgCbyLHvOE6J8m64Cm8if6Zad.jpg",
+							"description": "Episódio 9 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501641.mp4"
+						},
+						{
+							"id": "suits_s6_e10",
+							"title": "SUITS S06E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/40WCqasCg082YJtUIZsWE9ABZvd.jpg",
+							"description": "Episódio 10 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501642.mp4"
+						},
+						{
+							"id": "suits_s6_e11",
+							"title": "SUITS S06E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tZDrPV71Hk0LM1HnmP5WoVSOhE0.jpg",
+							"description": "Episódio 11 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501643.mp4"
+						},
+						{
+							"id": "suits_s6_e12",
+							"title": "SUITS S06E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/e0LK33nfFMQwTMAtN7i7kBWUvfx.jpg",
+							"description": "Episódio 12 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501644.mp4"
+						},
+						{
+							"id": "suits_s6_e13",
+							"title": "SUITS S06E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wZah7tvwFfwTJsL2r61jLEBHuvr.jpg",
+							"description": "Episódio 13 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501645.mp4"
+						},
+						{
+							"id": "suits_s6_e14",
+							"title": "SUITS S06E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/Gqg8ClWIXbgVzFZ66xqD3bSbvp.jpg",
+							"description": "Episódio 14 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501646.mp4"
+						},
+						{
+							"id": "suits_s6_e15",
+							"title": "SUITS S06E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/iXtIuXhQjYzce9tbWjl3GS8xGgu.jpg",
+							"description": "Episódio 15 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501647.mp4"
+						},
+						{
+							"id": "suits_s6_e16",
+							"title": "SUITS S06E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/p1TfvX7Bm8aeZUILdixeijVhqN1.jpg",
+							"description": "Episódio 16 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501648.mp4"
+						}
+					]
+				},
+				{
+					"number": 7,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yXn3wrebhbZ8DYhO1MflQ8ycjV.jpg",
+					"episodes": [
+						{
+							"id": "suits_s7_e1",
+							"title": "SUITS S07E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6yXn3wrebhbZ8DYhO1MflQ8ycjV.jpg",
+							"description": "Episódio 1 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501649.mp4"
+						},
+						{
+							"id": "suits_s7_e2",
+							"title": "SUITS S07E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/r10NvlwUAqgfldrokUWsA0Ilw5c.jpg",
+							"description": "Episódio 2 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501650.mp4"
+						},
+						{
+							"id": "suits_s7_e3",
+							"title": "SUITS S07E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/oybNYUXWLY8u1Wdw4kFYS5d53BE.jpg",
+							"description": "Episódio 3 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501651.mp4"
+						},
+						{
+							"id": "suits_s7_e4",
+							"title": "SUITS S07E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/1F36le7YYNfTlkIMxAZFZlxWEBZ.jpg",
+							"description": "Episódio 4 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501652.mp4"
+						},
+						{
+							"id": "suits_s7_e5",
+							"title": "SUITS S07E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dc3oOcsVrMRkTByKQVVbGFF0gm3.jpg",
+							"description": "Episódio 5 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501653.mp4"
+						},
+						{
+							"id": "suits_s7_e6",
+							"title": "SUITS S07E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/zm0IQRnKoGc7SrevCuS56srAfAV.jpg",
+							"description": "Episódio 6 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501654.mp4"
+						},
+						{
+							"id": "suits_s7_e7",
+							"title": "SUITS S07E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tGbcJL68jSrGnXv50sqVwLMx408.jpg",
+							"description": "Episódio 7 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501655.mp4"
+						},
+						{
+							"id": "suits_s7_e8",
+							"title": "SUITS S07E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5c08FKCd2zpNYiRw5ObFRFDE0is.jpg",
+							"description": "Episódio 8 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501656.mp4"
+						},
+						{
+							"id": "suits_s7_e9",
+							"title": "SUITS S07E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/nEeFEpDmwOVpMXdBhrMro18j6GC.jpg",
+							"description": "Episódio 9 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501657.mp4"
+						},
+						{
+							"id": "suits_s7_e10",
+							"title": "SUITS S07E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/PWKluQslULQ761vNXi3yJyWkem.jpg",
+							"description": "Episódio 10 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501658.mp4"
+						},
+						{
+							"id": "suits_s7_e11",
+							"title": "SUITS S07E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/95pNVpSVFERZ799ZYdoBfM60TK9.jpg",
+							"description": "Episódio 11 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501659.mp4"
+						},
+						{
+							"id": "suits_s7_e12",
+							"title": "SUITS S07E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vh1839CG79zJMF4ThoXfm8IHG4O.jpg",
+							"description": "Episódio 12 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501660.mp4"
+						},
+						{
+							"id": "suits_s7_e13",
+							"title": "SUITS S07E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yYO4pJRoROezxB9FtOm7qdXtvJg.jpg",
+							"description": "Episódio 13 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501661.mp4"
+						},
+						{
+							"id": "suits_s7_e14",
+							"title": "SUITS S07E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/p0dhZyJKdIVQfSIGQPWc8XMvhmd.jpg",
+							"description": "Episódio 14 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501662.mp4"
+						},
+						{
+							"id": "suits_s7_e15",
+							"title": "SUITS S07E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/nXiraJqOApHb07KM5VUSs7wgi6N.jpg",
+							"description": "Episódio 15 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501663.mp4"
+						},
+						{
+							"id": "suits_s7_e16",
+							"title": "SUITS S07E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/2Tf11LtXCMJELjhw1KjSBYpN3d5.jpg",
+							"description": "Episódio 16 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501664.mp4"
+						}
+					]
+				},
+				{
+					"number": 8,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/irMbpaKsh9ZMUfc1gfFxUQVUsOV.jpg",
+					"episodes": [
+						{
+							"id": "suits_s8_e1",
+							"title": "SUITS S08E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/irMbpaKsh9ZMUfc1gfFxUQVUsOV.jpg",
+							"description": "Episódio 1 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501665.mp4"
+						},
+						{
+							"id": "suits_s8_e2",
+							"title": "SUITS S08E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/eR3fEt9tDFAMdCeGj0ecYWGwHVl.jpg",
+							"description": "Episódio 2 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501666.mp4"
+						},
+						{
+							"id": "suits_s8_e3",
+							"title": "SUITS S08E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/debMKpLwQOjMw4pGGw0UTYj5Zp0.jpg",
+							"description": "Episódio 3 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501667.mp4"
+						},
+						{
+							"id": "suits_s8_e4",
+							"title": "SUITS S08E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5dizq553p2WL3PQymokOvvdQQDF.jpg",
+							"description": "Episódio 4 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501668.mp4"
+						},
+						{
+							"id": "suits_s8_e5",
+							"title": "SUITS S08E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fOFgHXnUJ20fxRNrVdTw1qYuoeq.jpg",
+							"description": "Episódio 5 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501669.mp4"
+						},
+						{
+							"id": "suits_s8_e6",
+							"title": "SUITS S08E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/h5a19IndgRfP8tA7u1CBUiLDKLX.jpg",
+							"description": "Episódio 6 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501670.mp4"
+						},
+						{
+							"id": "suits_s8_e7",
+							"title": "SUITS S08E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/s9LtHmKQVjzhm8omPGtdUsW1FAp.jpg",
+							"description": "Episódio 7 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501671.mp4"
+						},
+						{
+							"id": "suits_s8_e8",
+							"title": "SUITS S08E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vAJx24Sg9wPcDl6P4qa3BIQeqxr.jpg",
+							"description": "Episódio 8 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501672.mp4"
+						},
+						{
+							"id": "suits_s8_e9",
+							"title": "SUITS S08E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/3JIccjqkciZkGFtm3QyjYrdFKX6.jpg",
+							"description": "Episódio 9 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501673.mp4"
+						},
+						{
+							"id": "suits_s8_e10",
+							"title": "SUITS S08E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/pf5ItXUnV1UyGwBBUcEkGbtWMl.jpg",
+							"description": "Episódio 10 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501674.mp4"
+						},
+						{
+							"id": "suits_s8_e11",
+							"title": "SUITS S08E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dSZ0eSWUtgCQwIA5NEa6OKzstDo.jpg",
+							"description": "Episódio 11 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501675.mp4"
+						},
+						{
+							"id": "suits_s8_e12",
+							"title": "SUITS S08E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8d16O500ai9w5ZyKpY3d5OC39n6.jpg",
+							"description": "Episódio 12 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501676.mp4"
+						},
+						{
+							"id": "suits_s8_e13",
+							"title": "SUITS S08E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/zLvIqkeXMfaHCPwOcXwa2Rr6xzN.jpg",
+							"description": "Episódio 13 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501677.mp4"
+						},
+						{
+							"id": "suits_s8_e14",
+							"title": "SUITS S08E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mZcZgsgR90e5JTSPKyRd7Cc6in.jpg",
+							"description": "Episódio 14 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501678.mp4"
+						},
+						{
+							"id": "suits_s8_e15",
+							"title": "SUITS S08E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/hfPrIhegS0p6UDoi0eSllsoEmsP.jpg",
+							"description": "Episódio 15 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501679.mp4"
+						},
+						{
+							"id": "suits_s8_e16",
+							"title": "SUITS S08E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/aLu4shQMUrEQWE2MTXD9gKw4g0m.jpg",
+							"description": "Episódio 16 da 8ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501680.mp4"
+						}
+					]
+				},
+				{
+					"number": 9,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiBwtxBWyHrBFIYZp7aNKEo83eD.jpg",
+					"episodes": [
+						{
+							"id": "suits_s9_e1",
+							"title": "SUITS S09E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/iiBwtxBWyHrBFIYZp7aNKEo83eD.jpg",
+							"description": "Episódio 1 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501681.mp4"
+						},
+						{
+							"id": "suits_s9_e2",
+							"title": "SUITS S09E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/b3aP6N0rhZ7VCzdeulBJWpuIBXg.jpg",
+							"description": "Episódio 2 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501682.mp4"
+						},
+						{
+							"id": "suits_s9_e3",
+							"title": "SUITS S09E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8iwNv3f0An0OTmsPIxibKlHgdgk.jpg",
+							"description": "Episódio 3 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501683.mp4"
+						},
+						{
+							"id": "suits_s9_e4",
+							"title": "SUITS S09E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/nl7p18DqW1O17EBvaNRoFWJs7Dj.jpg",
+							"description": "Episódio 4 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501684.mp4"
+						},
+						{
+							"id": "suits_s9_e5",
+							"title": "SUITS S09E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fk94OjmPBl9pCLeGzBf14GvRhtA.jpg",
+							"description": "Episódio 5 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501685.mp4"
+						},
+						{
+							"id": "suits_s9_e6",
+							"title": "SUITS S09E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qjrunQjCbktH5YkxyklBPjJZ8Z.jpg",
+							"description": "Episódio 6 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501686.mp4"
+						},
+						{
+							"id": "suits_s9_e7",
+							"title": "SUITS S09E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/An3IqeNWwE1RExEb24LXQzG1Jcv.jpg",
+							"description": "Episódio 7 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501687.mp4"
+						},
+						{
+							"id": "suits_s9_e8",
+							"title": "SUITS S09E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/viFjooW4tDBSpLPDrs5oiN2CB8W.jpg",
+							"description": "Episódio 8 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501688.mp4"
+						},
+						{
+							"id": "suits_s9_e9",
+							"title": "SUITS S09E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rZIXY9OFwrJnVri1ECFHOgWdnIm.jpg",
+							"description": "Episódio 9 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501689.mp4"
+						},
+						{
+							"id": "suits_s9_e10",
+							"title": "SUITS S09E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/e7BhlfSF2DHkTAbi7OGJes347PS.jpg",
+							"description": "Episódio 10 da 9ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5501690.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "the_pitt",
+			"title": "The Pitt",
+			"coverUrl": "https://image.tmdb.org/t/p/w300/ayWb4xVUahzP7xDlILfyoZTzB6B.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/suits-wallpaper.jpg",
+			"seasonsInfo": "2 Temporadas",
+			"description": "Acompanhe os dramas e desafios intensos enfrentados pelos profissionais de saúde.",
+			"year": "2024",
+			"genre": "Drama",
+			"lastEpisodeInfo": "2ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w300/ayWb4xVUahzP7xDlILfyoZTzB6B.jpg",
+					"episodes": [
+						{
+							"id": "the_pitt_s1_e1",
+							"title": "The Pitt S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ayWb4xVUahzP7xDlILfyoZTzB6B.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649394.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e2",
+							"title": "The Pitt S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6ArDi8ixkE3SZRBfn0PkLBRqdkO.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649395.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e3",
+							"title": "The Pitt S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/oBACF8XZBn0yO8HcNoUEHXUIFIt.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649396.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e4",
+							"title": "The Pitt S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/pF2vCpszIqVnBzeXOHCzrRHQhyO.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649397.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e5",
+							"title": "The Pitt S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yTZeG8q10PgHsaD65zhgMFIrDtc.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649398.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e6",
+							"title": "The Pitt S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/eQkpHLRtGAgVl1c0rVWBC8r2lgo.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649399.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e7",
+							"title": "The Pitt S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/nof5sLfwbTHnzt7PsgXtYc8qots.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649400.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e8",
+							"title": "The Pitt S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9VR1E1q3IN7zoNmzZKvqAzxcpv6.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649401.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e9",
+							"title": "The Pitt S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/hgoLaQ9c4uJ1QY8X9cOBeiWKhPg.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649402.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e10",
+							"title": "The Pitt S01E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xH8XPQbB6MZabyvEj6yK6jiVQxT.jpg",
+							"description": "Episódio 10 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649403.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e11",
+							"title": "The Pitt S01E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sjJBIya3Hn7o9Goatd3TxiOLQiq.jpg",
+							"description": "Episódio 11 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649404.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e12",
+							"title": "The Pitt S01E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/o4RHUNjjVTai7XbJqnF8aZ6QvRB.jpg",
+							"description": "Episódio 12 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649405.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e13",
+							"title": "The Pitt S01E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xJF2Mqqj50G1uke9f5bOVAJDmer.jpg",
+							"description": "Episódio 13 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649406.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e14",
+							"title": "The Pitt S01E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rtqwpIO26nLKR2QHKJqzs5l2PVz.jpg",
+							"description": "Episódio 14 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649407.mp4"
+						},
+						{
+							"id": "the_pitt_s1_e15",
+							"title": "The Pitt S01E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bmkXebhqV00lfS5DiXtBHnqbQKm.jpg",
+							"description": "Episódio 15 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649408.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w300/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
+					"episodes": [
+						{
+							"id": "the_pitt_s2_e5",
+							"title": "The Pitt S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wLPM0ZsFzfDh2hg7mj7fhtUobax.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649410.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e6",
+							"title": "The Pitt S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/i9VGMMhl3N6kAo8GqyE4kJoz1gt.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649414.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e7",
+							"title": "The Pitt S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/1ZSb0UkpCTj6j6WRFvyBS1ZgNFr.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649415.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e8",
+							"title": "The Pitt S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ucJUgXOj6MZFaA1SLCbm2NG5ieR.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649416.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e9",
+							"title": "The Pitt S02E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wSIk71oQQcWm0iRI7cx8WT3fCI0.jpg",
+							"description": "Episódio 9 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649417.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e10",
+							"title": "The Pitt S02E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/oBucYNits0Gfcj7woacTXAEwJFq.jpg",
+							"description": "Episódio 10 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649418.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e11",
+							"title": "The Pitt S02E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.207:80/...? No, image.tmdb.org/t/p/w300/8mcAB06OxqbOabiDWGXQ8sqJnxn.jpg",
+							"description": "Episódio 11 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649419.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e12",
+							"title": "The Pitt S02E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/1OPE9Cx6ZX2bAYBkuX6m7xz7JOv.jpg",
+							"description": "Episódio 12 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649420.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e13",
+							"title": "The Pitt S02E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rfabON5bw4tlS5w2wZFzC80GrSd.jpg",
+							"description": "Episódio 13 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649421.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e14",
+							"title": "The Pitt S02E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg",
+							"description": "Episódio 14 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649422.mp4"
+						},
+						{
+							"id": "the_pitt_s2_e15",
+							"title": "The Pitt S02E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
+							"description": "Episódio 15 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5649423.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "prison_break",
+			"title": "Prison Break: Em Busca Da Verdade",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
+			"seasonsInfo": "5 Temporadas",
+			"description": "Um homem engenheiro planeja um elaborado plano para resgatar seu irmão falsamente condenado à morte da prisão.",
+			"year": "2005",
+			"genre": "Ação",
+			"lastEpisodeInfo": "5ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQbhElwkCKV4QG6OtXmN7wResE.jpg",
+					"episodes": [
+						{
+							"id": "prison_break_s1_e1",
+							"title": "Prison Break: Em Busca Da Verdade S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/zQbhElwkCKV4QG6OtXmN7wResE.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470689.mp4"
+						},
+						{
+							"id": "prison_break_s1_e2",
+							"title": "Prison Break: Em Busca Da Verdade S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/cng0p8lg3dskrktVA2W9cJZePY4.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470690.mp4"
+						},
+						{
+							"id": "prison_break_s1_e3",
+							"title": "Prison Break: Em Busca Da Verdade S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/uVNfXPHVJV2KKzBXmeaboPv59LO.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470691.mp4"
+						},
+						{
+							"id": "prison_break_s1_e4",
+							"title": "Prison Break: Em Busca Da Verdade S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qdpqBpJnryXJ85WbU9ZXx8VTeTb.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470692.mp4"
+						},
+						{
+							"id": "prison_break_s1_e5",
+							"title": "Prison Break: Em Busca Da Verdade S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/Aw4MpQ2nRpzI2nDordPL4arhRsM.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470693.mp4"
+						},
+						{
+							"id": "prison_break_s1_e6",
+							"title": "Prison Break: Em Busca Da Verdade S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qARzKfInwDxBusANmznpAJe6ZOC.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470694.mp4"
+						},
+						{
+							"id": "prison_break_s1_e7",
+							"title": "Prison Break: Em Busca Da Verdade S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/Av2ph7a1y7Xo6ppHHL73WnHfQGf.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470695.mp4"
+						},
+						{
+							"id": "prison_break_s1_e8",
+							"title": "Prison Break: Em Busca Da Verdade S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9acTia2cVK4Z0xMnoJJxmk2gGWa.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470696.mp4"
+						},
+						{
+							"id": "prison_break_s1_e9",
+							"title": "Prison Break: Em Busca Da Verdade S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rZvyjYfqaTrYX4zVQf4c8vmcP15.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470697.mp4"
+						},
+						{
+							"id": "prison_break_s1_e10",
+							"title": "Prison Break: Em Busca Da Verdade S01E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/P0CjFHhBPFLF6dMWpb3ariMUb3.jpg",
+							"description": "Episódio 10 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470698.mp4"
+						},
+						{
+							"id": "prison_break_s1_e11",
+							"title": "Prison Break: Em Busca Da Verdade S01E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8gpItMKN4stiHoBNjzQy25qQ7kT.jpg",
+							"description": "Episódio 11 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470699.mp4"
+						},
+						{
+							"id": "prison_break_s1_e12",
+							"title": "Prison Break: Em Busca Da Verdade S01E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/d2pIN5OtdCBqUPsOGEtGkMJ7hxW.jpg",
+							"description": "Episódio 12 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470700.mp4"
+						},
+						{
+							"id": "prison_break_s1_e13",
+							"title": "Prison Break: Em Busca Da Verdade S01E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mGvj5UD2BQklKIRPMiXRdkT33MJ.jpg",
+							"description": "Episódio 13 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470701.mp4"
+						},
+						{
+							"id": "prison_break_s1_e14",
+							"title": "Prison Break: Em Busca Da Verdade S01E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vOOMloi6UP8KuWZG7rcp5TC6T7i.jpg",
+							"description": "Episódio 14 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470702.mp4"
+						},
+						{
+							"id": "prison_break_s1_e15",
+							"title": "Prison Break: Em Busca Da Verdade S01E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/lGRsHESkKH7iCyoPgeKVsfANieB.jpg",
+							"description": "Episódio 15 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470703.mp4"
+						},
+						{
+							"id": "prison_break_s1_e16",
+							"title": "Prison Break: Em Busca Da Verdade S01E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/p1pofGSIemdioXJv2AXCq65bJUl.jpg",
+							"description": "Episódio 16 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470704.mp4"
+						},
+						{
+							"id": "prison_break_s1_e17",
+							"title": "Prison Break: Em Busca Da Verdade S01E17",
+							"episodeNumber": 17,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/3e4yHirYArcvRncNcTMrsKsiU4R.jpg",
+							"description": "Episódio 17 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470705.mp4"
+						},
+						{
+							"id": "prison_break_s1_e18",
+							"title": "Prison Break: Em Busca Da Verdade S01E18",
+							"episodeNumber": 18,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fmHL1u0qdKkhplMVlYUDSpBQvBb.jpg",
+							"description": "Episódio 18 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470706.mp4"
+						},
+						{
+							"id": "prison_break_s1_e19",
+							"title": "Prison Break: Em Busca Da Verdade S01E19",
+							"episodeNumber": 19,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mGwMC5LY5pHjEG0Mo6lJE1ap9pj.jpg",
+							"description": "Episódio 19 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470707.mp4"
+						},
+						{
+							"id": "prison_break_s1_e20",
+							"title": "Prison Break: Em Busca Da Verdade S01E20",
+							"episodeNumber": 20,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/k3CCu1lYCIVgK7UWv1Ufa16ztlj.jpg",
+							"description": "Episódio 20 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470708.mp4"
+						},
+						{
+							"id": "prison_break_s1_e21",
+							"title": "Prison Break: Em Busca Da Verdade S01E21",
+							"episodeNumber": 21,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/g5VBX1QD7tN0sfvGR6qd53frefG.jpg",
+							"description": "Episódio 21 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470709.mp4"
+						},
+						{
+							"id": "prison_break_s1_e22",
+							"title": "Prison Break: Em Busca Da Verdade S01E22",
+							"episodeNumber": 22,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/1JuljrTTKCwp9Ayyq0MbzmpsYR2.jpg",
+							"description": "Episódio 22 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470710.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gksayUgMiPsBGxYkmMmJcumJSI.jpg",
+					"episodes": [
+						{
+							"id": "prison_break_s2_e1",
+							"title": "Prison Break: Em Busca Da Verdade S02E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/3gksayUgMiPsBGxYkmMmJcumJSI.jpg",
+							"description": "Episódio 1 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470711.mp4"
+						},
+						{
+							"id": "prison_break_s2_e2",
+							"title": "Prison Break: Em Busca Da Verdade S02E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/4MQOW5Z4EFSELwWjwbyXD2xqP5.jpg",
+							"description": "Episódio 2 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470712.mp4"
+						},
+						{
+							"id": "prison_break_s2_e3",
+							"title": "Prison Break: Em Busca Da Verdade S02E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rOUd8Jr2LNM2adZFGa3UhbXaeNG.jpg",
+							"description": "Episódio 3 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470713.mp4"
+						},
+						{
+							"id": "prison_break_s2_e4",
+							"title": "Prison Break: Em Busca Da Verdade S02E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/veErpP2mQZrISTjmYOdKUrGNDiW.jpg",
+							"description": "Episódio 4 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470714.mp4"
+						},
+						{
+							"id": "prison_break_s2_e5",
+							"title": "Prison Break: Em Busca Da Verdade S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bjMUEiU1whaDRvqOG0jEvrlLzRX.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470715.mp4"
+						},
+						{
+							"id": "prison_break_s2_e6",
+							"title": "Prison Break: Em Busca Da Verdade S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ygLyVSxKgz4tJ06EN95i2FxCZd3.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470716.mp4"
+						},
+						{
+							"id": "prison_break_s2_e7",
+							"title": "Prison Break: Em Busca Da Verdade S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dW7OXLEeBVf8ob35E7mhrsaaEcm.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470717.mp4"
+						},
+						{
+							"id": "prison_break_s2_e8",
+							"title": "Prison Break: Em Busca Da Verdade S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vPTbbMkvfRw8oaOovWvxydPb3ZM.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470718.mp4"
+						},
+						{
+							"id": "prison_break_s2_e9",
+							"title": "Prison Break: Em Busca Da Verdade S02E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/i8cw2Ry9MBYXdkkNsLAPV8Ypuvo.jpg",
+							"description": "Episódio 9 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470719.mp4"
+						},
+						{
+							"id": "prison_break_s2_e10",
+							"title": "Prison Break: Em Busca Da Verdade S02E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qWjdbkRYeWFQChTplq31gvJ3Ut6.jpg",
+							"description": "Episódio 10 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470720.mp4"
+						},
+						{
+							"id": "prison_break_s2_e11",
+							"title": "Prison Break: Em Busca Da Verdade S02E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5P71xN6KvoMBm6Y1VnxSC0t0r8P.jpg",
+							"description": "Episódio 11 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470721.mp4"
+						},
+						{
+							"id": "prison_break_s2_e12",
+							"title": "Prison Break: Em Busca Da Verdade S02E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/f8KF5Bp9l8xOTMNPMAsO9zXtSQC.jpg",
+							"description": "Episódio 12 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470722.mp4"
+						},
+						{
+							"id": "prison_break_s2_e13",
+							"title": "Prison Break: Em Busca Da Verdade S02E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/1nfdYK2Xt4ORlLb887KcUDAyT2q.jpg",
+							"description": "Episódio 13 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470723.mp4"
+						},
+						{
+							"id": "prison_break_s2_e14",
+							"title": "Prison Break: Em Busca Da Verdade S02E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7nZHTGOls6mMM7MLbYC2Hh9UphH.jpg",
+							"description": "Episódio 14 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470724.mp4"
+						},
+						{
+							"id": "prison_break_s2_e15",
+							"title": "Prison Break: Em Busca Da Verdade S02E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tNVqdyl1jSoxAgs7NNTrgt73tkL.jpg",
+							"description": "Episódio 15 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470725.mp4"
+						},
+						{
+							"id": "prison_break_s2_e16",
+							"title": "Prison Break: Em Busca Da Verdade S02E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ArlG8hFg6rm4FmImPZKHUnvuEWT.jpg",
+							"description": "Episódio 16 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470726.mp4"
+						},
+						{
+							"id": "prison_break_s2_e17",
+							"title": "Prison Break: Em Busca Da Verdade S02E17",
+							"episodeNumber": 17,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/2FxTDM5XoLP0qKHR4s3UFrncPXu.jpg",
+							"description": "Episódio 17 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470727.mp4"
+						},
+						{
+							"id": "prison_break_s2_e18",
+							"title": "Prison Break: Em Busca Da Verdade S02E18",
+							"episodeNumber": 18,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sGpJDO4Oa4JFE2LmyqG8x83PkfI.jpg",
+							"description": "Episódio 18 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470728.mp4"
+						},
+						{
+							"id": "prison_break_s2_e19",
+							"title": "Prison Break: Em Busca Da Verdade S02E19",
+							"episodeNumber": 19,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vPl86rZOlluSHFlbsrpoFddtie3.jpg",
+							"description": "Episódio 19 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470729.mp4"
+						},
+						{
+							"id": "prison_break_s2_e20",
+							"title": "Prison Break: Em Busca Da Verdade S02E20",
+							"episodeNumber": 20,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9ouE9ZAQmcRCLVdcRgMkKs6cT1G.jpg",
+							"description": "Episódio 20 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470730.mp4"
+						},
+						{
+							"id": "prison_break_s2_e21",
+							"title": "Prison Break: Em Busca Da Verdade S02E21",
+							"episodeNumber": 21,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ziUmRwm7lFSWbruvIXloJaQsyMW.jpg",
+							"description": "Episódio 21 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470731.mp4"
+						},
+						{
+							"id": "prison_break_s2_e22",
+							"title": "Prison Break: Em Busca Da Verdade S02E22",
+							"episodeNumber": 22,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5eJCsOgHxB5uFmAGmjfH41SjhnB.jpg",
+							"description": "Episódio 22 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470732.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFHaINf2kx4XHU5WsPcKZNqn6GC.jpg",
+					"episodes": [
+						{
+							"id": "prison_break_s3_e1",
+							"title": "Prison Break: Em Busca Da Verdade S03E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mFHaINf2kx4XHU5WsPcKZNqn6GC.jpg",
+							"description": "Episódio 1 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470733.mp4"
+						},
+						{
+							"id": "prison_break_s3_e2",
+							"title": "Prison Break: Em Busca Da Verdade S03E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xFHAW5XDmcDUYU4sE8KsPvjCpts.jpg",
+							"description": "Episódio 2 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470734.mp4"
+						},
+						{
+							"id": "prison_break_s3_e3",
+							"title": "Prison Break: Em Busca Da Verdade S03E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qvltFe22fCFVmIsLQ5aynOg2UKc.jpg",
+							"description": "Episódio 3 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470735.mp4"
+						},
+						{
+							"id": "prison_break_s3_e4",
+							"title": "Prison Break: Em Busca Da Verdade S03E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mKNXCPU6nNjshRga5fs8TSh2DGZ.jpg",
+							"description": "Episódio 4 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470736.mp4"
+						},
+						{
+							"id": "prison_break_s3_e5",
+							"title": "Prison Break: Em Busca Da Verdade S03E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/loUrlgClL1zmVnph1fWSeYq9w1A.jpg",
+							"description": "Episódio 5 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470737.mp4"
+						},
+						{
+							"id": "prison_break_s3_e6",
+							"title": "Prison Break: Em Busca Da Verdade S03E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5W892drWT7g6MbADUsa1iWCPrWT.jpg",
+							"description": "Episódio 6 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470738.mp4"
+						},
+						{
+							"id": "prison_break_s3_e7",
+							"title": "Prison Break: Em Busca Da Verdade S03E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/1SpOoCkp3tug4y3pSR34yNCfilN.jpg",
+							"description": "Episódio 7 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470739.mp4"
+						},
+						{
+							"id": "prison_break_s3_e8",
+							"title": "Prison Break: Em Busca Da Verdade S03E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yaCg43U3IM1MAKFHtkZhSSq3hpE.jpg",
+							"description": "Episódio 8 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470740.mp4"
+						},
+						{
+							"id": "prison_break_s3_e9",
+							"title": "Prison Break: Em Busca Da Verdade S03E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/3RnZb5y8EPkwl7xg55jxjiSmFGG.jpg",
+							"description": "Episódio 9 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470741.mp4"
+						},
+						{
+							"id": "prison_break_s3_e10",
+							"title": "Prison Break: Em Busca Da Verdade S03E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vpfzpdq9nG85pMQpYScPK1Zwpye.jpg",
+							"description": "Episódio 10 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470742.mp4"
+						},
+						{
+							"id": "prison_break_s3_e11",
+							"title": "Prison Break: Em Busca Da Verdade S03E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sNfYmjCrjdySjqWz4lGEpkguhEl.jpg",
+							"description": "Episódio 11 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470743.mp4"
+						},
+						{
+							"id": "prison_break_s3_e12",
+							"title": "Prison Break: Em Busca Da Verdade S03E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/zMICJcH3qJC2CQQvV6mMaEvmww3.jpg",
+							"description": "Episódio 12 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470744.mp4"
+						},
+						{
+							"id": "prison_break_s3_e13",
+							"title": "Prison Break: Em Busca Da Verdade S03E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/a4FlhFHeB4zTT4GNzaq1UNj1Ro4.jpg",
+							"description": "Episódio 13 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470745.mp4"
+						}
+					]
+				},
+				{
+					"number": 4,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gQemktoi0xe61MRDbmr5dsIbVQ.jpg",
+					"episodes": [
+						{
+							"id": "prison_break_s4_e1",
+							"title": "Prison Break: Em Busca Da Verdade S04E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/2gQemktoi0xe61MRDbmr5dsIbVQ.jpg",
+							"description": "Episódio 1 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470746.mp4"
+						},
+						{
+							"id": "prison_break_s4_e3",
+							"title": "Prison Break: Em Busca Da Verdade S04E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9hBjKkIaMwDgi4VQqzxe9abFeBv.jpg",
+							"description": "Episódio 3 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470747.mp4"
+						},
+						{
+							"id": "prison_break_s4_e4",
+							"title": "Prison Break: Em Busca Da Verdade S04E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9z4WcRWthFEXEMFRBTrBfrx1w6O.jpg",
+							"description": "Episódio 4 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470748.mp4"
+						},
+						{
+							"id": "prison_break_s4_e5",
+							"title": "Prison Break: Em Busca Da Verdade S04E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8XAatpNwBB0GOfgZZcI7pXJyN1V.jpg",
+							"description": "Episódio 5 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470749.mp4"
+						},
+						{
+							"id": "prison_break_s4_e6",
+							"title": "Prison Break: Em Busca Da Verdade S04E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/cYe7h6LWEx3xjUXZSK0GbT5nsuZ.jpg",
+							"description": "Episódio 6 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470750.mp4"
+						},
+						{
+							"id": "prison_break_s4_e7",
+							"title": "Prison Break: Em Busca Da Verdade S04E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/gyoD7lfoZos3MTIdcpW2236sUfJ.jpg",
+							"description": "Episódio 7 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470751.mp4"
+						},
+						{
+							"id": "prison_break_s4_e8",
+							"title": "Prison Break: Em Busca Da Verdade S04E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/uFmxAOgUQacoW5Z1hIMljRDRSSl.jpg",
+							"description": "Episódio 8 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470752.mp4"
+						},
+						{
+							"id": "prison_break_s4_e9",
+							"title": "Prison Break: Em Busca Da Verdade S04E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/oMsY8jonPTz32YFqAePkrXUrLA4.jpg",
+							"description": "Episódio 9 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470753.mp4"
+						},
+						{
+							"id": "prison_break_s4_e10",
+							"title": "Prison Break: Em Busca Da Verdade S04E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9Ea4EtsNpuVC594IOOBR5fddRwd.jpg",
+							"description": "Episódio 10 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470754.mp4"
+						},
+						{
+							"id": "prison_break_s4_e11",
+							"title": "Prison Break: Em Busca Da Verdade S04E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ewfheXLRlvCRMYoBar1R6GzzBcU.jpg",
+							"description": "Episódio 11 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470755.mp4"
+						},
+						{
+							"id": "prison_break_s4_e12",
+							"title": "Prison Break: Em Busca Da Verdade S04E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/eGWb6avyyKyjRxo4SrJ59eiiDaQ.jpg",
+							"description": "Episódio 12 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470756.mp4"
+						},
+						{
+							"id": "prison_break_s4_e13",
+							"title": "Prison Break: Em Busca Da Verdade S04E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/54UxpQbYKDDpXZMK2O6V7o6ubjZ.jpg",
+							"description": "Episódio 13 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470757.mp4"
+						},
+						{
+							"id": "prison_break_s4_e14",
+							"title": "Prison Break: Em Busca Da Verdade S04E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/a6LSuCiQTC53cPGNqJ2PhVtFM6B.jpg",
+							"description": "Episódio 14 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470758.mp4"
+						},
+						{
+							"id": "prison_break_s4_e15",
+							"title": "Prison Break: Em Busca Da Verdade S04E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/j1RjXLsQPq0DshcO7O04uVJIVnH.jpg",
+							"description": "Episódio 15 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470759.mp4"
+						},
+						{
+							"id": "prison_break_s4_e16",
+							"title": "Prison Break: Em Busca Da Verdade S04E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/r0p9UMOVZtHkgq7uAAfQA6Ewu0h.jpg",
+							"description": "Episódio 16 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470760.mp4"
+						},
+						{
+							"id": "prison_break_s4_e17",
+							"title": "Prison Break: Em Busca Da Verdade S04E17",
+							"episodeNumber": 17,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/eAcHEa8EMuLeo9WH8Fau9DXzsVF.jpg",
+							"description": "Episódio 17 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470761.mp4"
+						},
+						{
+							"id": "prison_break_s4_e18",
+							"title": "Prison Break: Em Busca Da Verdade S04E18",
+							"episodeNumber": 18,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xuroAkXAlGnHXrRsFY5eCppDFzR.jpg",
+							"description": "Episódio 18 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470762.mp4"
+						},
+						{
+							"id": "prison_break_s4_e19",
+							"title": "Prison Break: Em Busca Da Verdade S04E19",
+							"episodeNumber": 19,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wABDmPQ6azbS62AnIqu5GLkuFRP.jpg",
+							"description": "Episódio 19 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470763.mp4"
+						},
+						{
+							"id": "prison_break_s4_e20",
+							"title": "Prison Break: Em Busca Da Verdade S04E20",
+							"episodeNumber": 20,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fTha4ieHNSwadoNEdPxONrnLTQQ.jpg",
+							"description": "Episódio 20 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470764.mp4"
+						},
+						{
+							"id": "prison_break_s4_e21",
+							"title": "Prison Break: Em Busca Da Verdade S04E21",
+							"episodeNumber": 21,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/AvlGIjrLMsMPHuSRi0Jwu5GtEHI.jpg",
+							"description": "Episódio 21 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470765.mp4"
+						},
+						{
+							"id": "prison_break_s4_e22",
+							"title": "Prison Break: Em Busca Da Verdade S04E22",
+							"episodeNumber": 22,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5a4gEiDFk1IYjCUCh41grh8QBgg.jpg",
+							"description": "Episódio 22 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470766.mp4"
+						},
+						{
+							"id": "prison_break_s4_e23",
+							"title": "Prison Break: Em Busca Da Verdade S04E23",
+							"episodeNumber": 23,
+							"thumbUrl": "http://lgfp.one/GTD8",
+							"description": "Episódio 23 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470767.mp4"
+						}
+					]
+				},
+				{
+					"number": 5,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
+					"episodes": [
+						{
+							"id": "prison_break_s5_e1",
+							"title": "Prison Break: Em Busca Da Verdade S05E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
+							"description": "Episódio 1 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470768.mp4"
+						},
+						{
+							"id": "prison_break_s5_e2",
+							"title": "Prison Break: Em Busca Da Verdade S05E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/iIWt0XSI5lf8JzfZovyEd9EOdep.jpg",
+							"description": "Episódio 2 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470769.mp4"
+						},
+						{
+							"id": "prison_break_s5_e3",
+							"title": "Prison Break: Em Busca Da Verdade S05E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/y8YPPydBfZeVG4Lk9wHyKC8NTAi.jpg",
+							"description": "Episódio 3 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470770.mp4"
+						},
+						{
+							"id": "prison_break_s5_e4",
+							"title": "Prison Break: Em Busca Da Verdade S05E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wDCQJ8AFqHFmSmytw3zwQb6Yzrk.jpg",
+							"description": "Episódio 4 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470771.mp4"
+						},
+						{
+							"id": "prison_break_s5_e5",
+							"title": "Prison Break: Em Busca Da Verdade S05E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mmn4lNsoelI97AJpJpPBaTss3M8.jpg",
+							"description": "Episódio 5 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470772.mp4"
+						},
+						{
+							"id": "prison_break_s5_e6",
+							"title": "Prison Break: Em Busca Da Verdade S05E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/kbYBABw81gnyTPpBAl4MRnCwFUA.jpg",
+							"description": "Episódio 6 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470773.mp4"
+						},
+						{
+							"id": "prison_break_s5_e7",
+							"title": "Prison Break: Em Busca Da Verdade S05E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/zeKnUr0NXeLlb8NrC0UJSa8Alsb.jpg",
+							"description": "Episódio 7 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470774.mp4"
+						},
+						{
+							"id": "prison_break_s5_e8",
+							"title": "Prison Break: Em Busca Da Verdade S05E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rJjw5noJPUdZ3XiNaIqbnDoT8eA.jpg",
+							"description": "Episódio 8 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470775.mp4"
+						},
+						{
+							"id": "prison_break_s5_e9",
+							"title": "Prison Break: Em Busca Da Verdade S05E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/d21YkZrWDPGXzqvM4PVqWwU0vJN.jpg",
+							"description": "Episódio 9 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470776.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "seal_team",
+			"title": "SEAL Team: Soldados De Elite",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8VzyiIRCOslX94rFPhkNuJPjl3.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/v8VzyiIRCOslX94rFPhkNuJPjl3.jpg",
+			"seasonsInfo": "7 Temporadas",
+			"description": "As vidas profissionais e pessoais dos membros de uma unidade de elite dos Navy SEALs enquanto treinam, planejam e executam as missões mais perigosas que seu país pode pedir.",
+			"year": "2017",
+			"genre": "Guerra",
+			"lastEpisodeInfo": "7ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8VzyiIRCOslX94rFPhkNuJPjl3.jpg",
+					"episodes": [
+						{
+							"id": "seal_team_s1_e1",
+							"title": "SEAL Team: Soldados De Elite S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/v8VzyiIRCOslX94rFPhkNuJPjl3.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558633.mp4"
+						},
+						{
+							"id": "seal_team_s1_e2",
+							"title": "SEAL Team: Soldados De Elite S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/kHuIKwUmN4n9NJ4kUALiV8n5hBz.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558634.mp4"
+						},
+						{
+							"id": "seal_team_s1_e3",
+							"title": "SEAL Team: Soldados De Elite S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/avKmJd7EmTwR1HFPmacBjnI0R0q.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558635.mp4"
+						},
+						{
+							"id": "seal_team_s1_e4",
+							"title": "SEAL Team: Soldados De Elite S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/jvQucdxtMM43bXMoGF6lPIBTKk2.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558636.mp4"
+						},
+						{
+							"id": "seal_team_s1_e5",
+							"title": "SEAL Team: Soldados De Elite S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mM8oIKiooFsNNXdgLtrLH5fT6Gw.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558637.mp4"
+						},
+						{
+							"id": "seal_team_s1_e6",
+							"title": "SEAL Team: Soldados De Elite S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/frNXhRhluriWb4DwqEELvCBhSTX.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558638.mp4"
+						},
+						{
+							"id": "seal_team_s1_e7",
+							"title": "SEAL Team: Soldados De Elite S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tSFjp2yg87COrldWPQLYcsMpK8W.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558639.mp4"
+						},
+						{
+							"id": "seal_team_s1_e8",
+							"title": "SEAL Team: Soldados De Elite S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/iuJ8txqqz5WvNvVxDf0Z8kkhQUz.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558640.mp4"
+						},
+						{
+							"id": "seal_team_s1_e9",
+							"title": "SEAL Team: Soldados De Elite S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/uS1Zm58e0JR1Fn74MUhzRVjPmRz.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558641.mp4"
+						},
+						{
+							"id": "seal_team_s1_e10",
+							"title": "SEAL Team: Soldados De Elite S01E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/kC4UsSew1ZLBLeiOiFIu2P4XiMM.jpg",
+							"description": "Episódio 10 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558642.mp4"
+						},
+						{
+							"id": "seal_team_s1_e11",
+							"title": "SEAL Team: Soldados De Elite S01E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sfewmvVFSXo7fCp2cAdk3iM0Kbj.jpg",
+							"description": "Episódio 11 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558643.mp4"
+						},
+						{
+							"id": "seal_team_s1_e12",
+							"title": "SEAL Team: Soldados De Elite S01E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dnLF3wzP8zwPkv0Urr5U5Q7zdCn.jpg",
+							"description": "Episódio 12 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558644.mp4"
+						},
+						{
+							"id": "seal_team_s1_e13",
+							"title": "SEAL Team: Soldados De Elite S01E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8LqmXQRon5bc8gpihaxRP9fHkU3.jpg",
+							"description": "Episódio 13 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558645.mp4"
+						},
+						{
+							"id": "seal_team_s1_e14",
+							"title": "SEAL Team: Soldados De Elite S01E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/hP09IthUw0muTPozGJ1kyCfZVti.jpg",
+							"description": "Episódio 14 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558646.mp4"
+						},
+						{
+							"id": "seal_team_s1_e15",
+							"title": "SEAL Team: Soldados De Elite S01E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fyFz2xW8jytgIljzP2f1I3w2xqG.jpg",
+							"description": "Episódio 15 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558647.mp4"
+						},
+						{
+							"id": "seal_team_s1_e16",
+							"title": "SEAL Team: Soldados De Elite S01E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bAHiUuKGYAM3icNIaPHu0hChdmw.jpg",
+							"description": "Episódio 16 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558648.mp4"
+						},
+						{
+							"id": "seal_team_s1_e17",
+							"title": "SEAL Team: Soldados De Elite S01E17",
+							"episodeNumber": 17,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/aY9tl9YaEGLOEgZ8BUnQswm5FUO.jpg",
+							"description": "Episódio 17 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558649.mp4"
+						},
+						{
+							"id": "seal_team_s1_e18",
+							"title": "SEAL Team: Soldados De Elite S01E18",
+							"episodeNumber": 18,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fDpi7UKywpthYufil7fLBUESxr3.jpg",
+							"description": "Episódio 18 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558650.mp4"
+						},
+						{
+							"id": "seal_team_s1_e19",
+							"title": "SEAL Team: Soldados De Elite S01E19",
+							"episodeNumber": 19,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tklBavuCBOAARtb4eYOJ36h11cc.jpg",
+							"description": "Episódio 19 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558651.mp4"
+						},
+						{
+							"id": "seal_team_s1_e20",
+							"title": "SEAL Team: Soldados De Elite S01E20",
+							"episodeNumber": 20,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5uFqREX1qDn8f7Iz0AED3326eLa.jpg",
+							"description": "Episódio 20 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558652.mp4"
+						},
+						{
+							"id": "seal_team_s1_e21",
+							"title": "SEAL Team: Soldados De Elite S01E21",
+							"episodeNumber": 21,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/pUXSBJjktMtzVYas2SqDhT7dnsw.jpg",
+							"description": "Episódio 21 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558653.mp4"
+						},
+						{
+							"id": "seal_team_s1_e22",
+							"title": "SEAL Team: Soldados De Elite S01E22",
+							"episodeNumber": 22,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6DUIBTEaLQqpQ9lxOyJp1ILsrAS.jpg",
+							"description": "Episódio 22 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558654.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqnGvxBkUFzwuZgHcdcZTqAygNw.jpg",
+					"episodes": [
+						{
+							"id": "seal_team_s2_e1",
+							"title": "SEAL Team: Soldados De Elite S02E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wqnGvxBkUFzwuZgHcdcZTqAygNw.jpg",
+							"description": "Episódio 1 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558655.mp4"
+						},
+						{
+							"id": "seal_team_s2_e2",
+							"title": "SEAL Team: Soldados De Elite S02E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6qffeVl5PvWkmOje80IeS4B4RyN.jpg",
+							"description": "Episódio 2 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558656.mp4"
+						},
+						{
+							"id": "seal_team_s2_e3",
+							"title": "SEAL Team: Soldados De Elite S02E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sN7q7Dlc5ZQFWhyJufMP9dg7zut.jpg",
+							"description": "Episódio 3 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558657.mp4"
+						},
+						{
+							"id": "seal_team_s2_e4",
+							"title": "SEAL Team: Soldados De Elite S02E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rcOeOHSRURsA54iuWVFiSKDoEL9.jpg",
+							"description": "Episódio 4 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558658.mp4"
+						},
+						{
+							"id": "seal_team_s2_e5",
+							"title": "SEAL Team: Soldados De Elite S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/juGpAzXsi9iQ8pYH7vL67iFRoFt.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558659.mp4"
+						},
+						{
+							"id": "seal_team_s2_e6",
+							"title": "SEAL Team: Soldados De Elite S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/iFTULr60Yg4MdXq6I7dToLRNqV2.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558660.mp4"
+						},
+						{
+							"id": "seal_team_s2_e7",
+							"title": "SEAL Team: Soldados De Elite S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/jvgh3i5dkybPE5NaNR7laQy32jt.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558661.mp4"
+						},
+						{
+							"id": "seal_team_s2_e8",
+							"title": "SEAL Team: Soldados De Elite S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8VMgYrPkQ67674uK0TOFS6Q42fX.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558662.mp4"
+						},
+						{
+							"id": "seal_team_s2_e9",
+							"title": "SEAL Team: Soldados De Elite S02E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/o9vX8jh1Sc7SKrEMDPGqGqwNwaa.jpg",
+							"description": "Episódio 9 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558663.mp4"
+						},
+						{
+							"id": "seal_team_s2_e10",
+							"title": "SEAL Team: Soldados De Elite S02E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/v5oRUlIvuGgzVJQVOwKeb31Sp2P.jpg",
+							"description": "Episódio 10 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558664.mp4"
+						},
+						{
+							"id": "seal_team_s2_e11",
+							"title": "SEAL Team: Soldados De Elite S02E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/jFkxstpz3d0vIs0ByZaMQCi0oOA.jpg",
+							"description": "Episódio 11 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558665.mp4"
+						},
+						{
+							"id": "seal_team_s2_e12",
+							"title": "SEAL Team: Soldados De Elite S02E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/hdgsPwK1Pbznuun9SF83oLc26GF.jpg",
+							"description": "Episódio 12 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558666.mp4"
+						},
+						{
+							"id": "seal_team_s2_e13",
+							"title": "SEAL Team: Soldados De Elite S02E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6HPvbTLt89o2G4qpzKRCAf8lWKs.jpg",
+							"description": "Episódio 13 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558667.mp4"
+						},
+						{
+							"id": "seal_team_s2_e14",
+							"title": "SEAL Team: Soldados De Elite S02E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xZurmjIAnWu3ItZNzbfObXC0Bc4.jpg",
+							"description": "Episódio 14 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558668.mp4"
+						},
+						{
+							"id": "seal_team_s2_e15",
+							"title": "SEAL Team: Soldados De Elite S02E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/inZQUTcZW4UDVPpjV5e90mFD42Q.jpg",
+							"description": "Episódio 15 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558669.mp4"
+						},
+						{
+							"id": "seal_team_s2_e16",
+							"title": "SEAL Team: Soldados De Elite S02E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/elrfuSwHZ5GP0QCQdhRd0zWUQOy.jpg",
+							"description": "Episódio 16 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558670.mp4"
+						},
+						{
+							"id": "seal_team_s2_e17",
+							"title": "SEAL Team: Soldados De Elite S02E17",
+							"episodeNumber": 17,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/hJm9c1kNy2K9RCN2XB7OuNabDzf.jpg",
+							"description": "Episódio 17 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558671.mp4"
+						},
+						{
+							"id": "seal_team_s2_e18",
+							"title": "SEAL Team: Soldados De Elite S02E18",
+							"episodeNumber": 18,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xGf5WZi8TqGCo7FyEUrHTipKf0z.jpg",
+							"description": "Episódio 18 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558672.mp4"
+						},
+						{
+							"id": "seal_team_s2_e19",
+							"title": "SEAL Team: Soldados De Elite S02E19",
+							"episodeNumber": 19,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xz72XuD8OhQh6JmC26V7nlgp4bI.jpg",
+							"description": "Episódio 19 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558673.mp4"
+						},
+						{
+							"id": "seal_team_s2_e20",
+							"title": "SEAL Team: Soldados De Elite S02E20",
+							"episodeNumber": 20,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/iKeJ8892hBaZGCOpexfpY3sqJdn.jpg",
+							"description": "Episódio 20 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558674.mp4"
+						},
+						{
+							"id": "seal_team_s2_e21",
+							"title": "SEAL Team: Soldados De Elite S02E21",
+							"episodeNumber": 21,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/cnjloAUqDQm23vMipEpZ8YVEBBW.jpg",
+							"description": "Episódio 21 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558675.mp4"
+						},
+						{
+							"id": "seal_team_s2_e22",
+							"title": "SEAL Team: Soldados De Elite S02E22",
+							"episodeNumber": 22,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dqaqg7UHPaVdSC4GdAKEb0FBNgl.jpg",
+							"description": "Episódio 22 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558676.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rJ1LH003APwHgdhJiyd0qWG4WW.jpg",
+					"episodes": [
+						{
+							"id": "seal_team_s3_e1",
+							"title": "SEAL Team: Soldados De Elite S03E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6rJ1LH003APwHgdhJiyd0qWG4WW.jpg",
+							"description": "Episódio 1 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558677.mp4"
+						},
+						{
+							"id": "seal_team_s3_e2",
+							"title": "SEAL Team: Soldados De Elite S03E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/48AeqqXbot0SDN5yZ7nw9Mz8Qfc.jpg",
+							"description": "Episódio 2 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558678.mp4"
+						},
+						{
+							"id": "seal_team_s3_e3",
+							"title": "SEAL Team: Soldados De Elite S03E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9fepttTdsPa46xrUnYODetecPg8.jpg",
+							"description": "Episódio 3 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558679.mp4"
+						},
+						{
+							"id": "seal_team_s3_e4",
+							"title": "SEAL Team: Soldados De Elite S03E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/plFZXPm0v5e4EVCA1KO9hoGlk3V.jpg",
+							"description": "Episódio 4 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558680.mp4"
+						},
+						{
+							"id": "seal_team_s3_e5",
+							"title": "SEAL Team: Soldados De Elite S03E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dDZEKv9tGDa2G33U8tMHq9Qzpvc.jpg",
+							"description": "Episódio 5 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558681.mp4"
+						},
+						{
+							"id": "seal_team_s3_e6",
+							"title": "SEAL Team: Soldados De Elite S03E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7YU7B72pm355P86bAmemx28u3xR.jpg",
+							"description": "Episódio 6 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558682.mp4"
+						},
+						{
+							"id": "seal_team_s3_e7",
+							"title": "SEAL Team: Soldados De Elite S03E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8gpLUxkDYuz7JH2GpuQoRG9K8qH.jpg",
+							"description": "Episódio 7 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558683.mp4"
+						},
+						{
+							"id": "seal_team_s3_e8",
+							"title": "SEAL Team: Soldados De Elite S03E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/40rr6IlL1Ry5nOIHuFDlTe60ARP.jpg",
+							"description": "Episódio 8 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558684.mp4"
+						},
+						{
+							"id": "seal_team_s3_e9",
+							"title": "SEAL Team: Soldados De Elite S03E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/yh6JGpuyT3135nJkVEo9s5BKWEA.jpg",
+							"description": "Episódio 9 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558685.mp4"
+						},
+						{
+							"id": "seal_team_s3_e10",
+							"title": "SEAL Team: Soldados De Elite S03E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/zjALfOFeH4xEC2KYzPdIabZniV0.jpg",
+							"description": "Episódio 10 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558686.mp4"
+						},
+						{
+							"id": "seal_team_s3_e11",
+							"title": "SEAL Team: Soldados De Elite S03E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/zopMDLdygUcu0a2HgBhwmKKBU66.jpg",
+							"description": "Episódio 11 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558687.mp4"
+						},
+						{
+							"id": "seal_team_s3_e13",
+							"title": "SEAL Team: Soldados De Elite S03E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sW4S0bVQPNX6vXqWgcjNgQbSRmf.jpg",
+							"description": "Episódio 13 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558688.mp4"
+						},
+						{
+							"id": "seal_team_s3_e14",
+							"title": "SEAL Team: Soldados De Elite S03E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/swXLbnD4rnOGEOqatpaV6tl9n26.jpg",
+							"description": "Episódio 14 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558689.mp4"
+						},
+						{
+							"id": "seal_team_s3_e15",
+							"title": "SEAL Team: Soldados De Elite S03E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/am87EoBevYOeEkal6mFwKSVEYAQ.jpg",
+							"description": "Episódio 15 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558690.mp4"
+						},
+						{
+							"id": "seal_team_s3_e16",
+							"title": "SEAL Team: Soldados De Elite S03E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6G87yUclTDStX3ewxQbI9g7j7LP.jpg",
+							"description": "Episódio 16 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558691.mp4"
+						},
+						{
+							"id": "seal_team_s3_e17",
+							"title": "SEAL Team: Soldados De Elite S03E17",
+							"episodeNumber": 17,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/aypBSGW1b33zbBgz9vNMurE14Xe.jpg",
+							"description": "Episódio 17 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558692.mp4"
+						},
+						{
+							"id": "seal_team_s3_e18",
+							"title": "SEAL Team: Soldados De Elite S03E18",
+							"episodeNumber": 18,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7rI9Noqnzo0BvrkYXZqqueS9xW6.jpg",
+							"description": "Episódio 18 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558693.mp4"
+						},
+						{
+							"id": "seal_team_s3_e19",
+							"title": "SEAL Team: Soldados De Elite S03E19",
+							"episodeNumber": 19,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/4bFmjQ71o1iPRnx3NzGXqooMQqj.jpg",
+							"description": "Episódio 19 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558694.mp4"
+						},
+						{
+							"id": "seal_team_s3_e20",
+							"title": "SEAL Team: Soldados De Elite S03E20",
+							"episodeNumber": 20,
+							"thumbUrl": "http://lgfp.one/AGTJ",
+							"description": "Episódio 20 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558695.mp4"
+						}
+					]
+				},
+				{
+					"number": 4,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8raKTaiYxk9440Q1y0HQ3YV8ZY.jpg",
+					"episodes": [
+						{
+							"id": "seal_team_s4_e1",
+							"title": "SEAL Team: Soldados De Elite S04E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/g8raKTaiYxk9440Q1y0HQ3YV8ZY.jpg",
+							"description": "Episódio 1 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558696.mp4"
+						},
+						{
+							"id": "seal_team_s4_e2",
+							"title": "SEAL Team: Soldados De Elite S04E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://lgfp.one/AGTJ",
+							"description": "Episódio 2 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558697.mp4"
+						},
+						{
+							"id": "seal_team_s4_e3",
+							"title": "SEAL Team: Soldados De Elite S04E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bjhXsGCViCoxaaQG642iK39s0GU.jpg",
+							"description": "Episódio 3 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558698.mp4"
+						},
+						{
+							"id": "seal_team_s4_e4",
+							"title": "SEAL Team: Soldados De Elite S04E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7T9ETRkvlOAAM5NemTAi0rqSKQF.jpg",
+							"description": "Episódio 4 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558699.mp4"
+						},
+						{
+							"id": "seal_team_s4_e5",
+							"title": "SEAL Team: Soldados De Elite S04E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6hgvFGel51IHQXvJtUWdD0H5Lys.jpg",
+							"description": "Episódio 5 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558700.mp4"
+						},
+						{
+							"id": "seal_team_s4_e6",
+							"title": "SEAL Team: Soldados De Elite S04E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/lWpOckG7uOB9FAkCrzsnVz6v9BC.jpg",
+							"description": "Episódio 6 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558701.mp4"
+						},
+						{
+							"id": "seal_team_s4_e7",
+							"title": "SEAL Team: Soldados De Elite S04E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/1q2uYmRs4uNClQVgNUuYNAQFJij.jpg",
+							"description": "Episódio 7 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558702.mp4"
+						},
+						{
+							"id": "seal_team_s4_e8",
+							"title": "SEAL Team: Soldados De Elite S04E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/hqlljqhaJY0MAeltc46jSP91sb3.jpg",
+							"description": "Episódio 8 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558703.mp4"
+						},
+						{
+							"id": "seal_team_s4_e9",
+							"title": "SEAL Team: Soldados De Elite S04E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vPOCJj9G8u3KZuO379esXZjqfa.jpg",
+							"description": "Episódio 9 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558704.mp4"
+						},
+						{
+							"id": "seal_team_s4_e10",
+							"title": "SEAL Team: Soldados De Elite S04E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vJ1SV4lmJqfFNXjKukFnrMN2293.jpg",
+							"description": "Episódio 10 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558705.mp4"
+						},
+						{
+							"id": "seal_team_s4_e11",
+							"title": "SEAL Team: Soldados De Elite S04E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/4iOayZTaPT0Fe33d5E4e4JBaWJ2.jpg",
+							"description": "Episódio 11 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558706.mp4"
+						},
+						{
+							"id": "seal_team_s4_e12",
+							"title": "SEAL Team: Soldados De Elite S04E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/cczfCQVLcVoLBY4x8vEFACXRq5l.jpg",
+							"description": "Episódio 12 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558707.mp4"
+						},
+						{
+							"id": "seal_team_s4_e13",
+							"title": "SEAL Team: Soldados De Elite S04E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7AeNRE9Ro7cjklpt9Pi2Vxmrfsh.jpg",
+							"description": "Episódio 13 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558708.mp4"
+						},
+						{
+							"id": "seal_team_s4_e14",
+							"title": "SEAL Team: Soldados De Elite S04E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6aje0XBbzJeZEu72Gwqekh0BUkj.jpg",
+							"description": "Episódio 14 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558709.mp4"
+						},
+						{
+							"id": "seal_team_s4_e15",
+							"title": "SEAL Team: Soldados De Elite S04E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xHjTGksfRHTh35cWIfKSEIYoCLq.jpg",
+							"description": "Episódio 15 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558710.mp4"
+						},
+						{
+							"id": "seal_team_s4_e16",
+							"title": "SEAL Team: Soldados De Elite S04E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/i55tbRvjzQ75SIwl7XHUmZpEKVc.jpg",
+							"description": "Episódio 16 da 4ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558711.mp4"
+						}
+					]
+				},
+				{
+					"number": 5,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSBn3SLDN8TykDjW1eC9Zo2TlPN.jpg",
+					"episodes": [
+						{
+							"id": "seal_team_s5_e1",
+							"title": "SEAL Team: Soldados De Elite S05E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bSBn3SLDN8TykDjW1eC9Zo2TlPN.jpg",
+							"description": "Episódio 1 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558712.mp4"
+						},
+						{
+							"id": "seal_team_s5_e2",
+							"title": "SEAL Team: Soldados De Elite S05E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7YCxUPP6v4sfE7iYxMb0P1SATAb.jpg",
+							"description": "Episódio 2 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558713.mp4"
+						},
+						{
+							"id": "seal_team_s5_e3",
+							"title": "SEAL Team: Soldados De Elite S05E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/pkCrp08p1NJDBHXyYr7iagD33yz.jpg",
+							"description": "Episódio 3 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558714.mp4"
+						},
+						{
+							"id": "seal_team_s5_e4",
+							"title": "SEAL Team: Soldados De Elite S05E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8vfpa0JGTMxWAiYKUttuuIkCQOj.jpg",
+							"description": "Episódio 4 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558715.mp4"
+						},
+						{
+							"id": "seal_team_s5_e5",
+							"title": "SEAL Team: Soldados De Elite S05E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qMTT2b3SN2CsVoX33jhpQf6g8M4.jpg",
+							"description": "Episódio 5 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558716.mp4"
+						},
+						{
+							"id": "seal_team_s5_e6",
+							"title": "SEAL Team: Soldados De Elite S05E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7kYpG5Qr1j8fdR9NufTJgK1eUBl.jpg",
+							"description": "Episódio 6 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558717.mp4"
+						},
+						{
+							"id": "seal_team_s5_e7",
+							"title": "SEAL Team: Soldados De Elite S05E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/le6P7L2fP73StFu4Edie82LAIt8.jpg",
+							"description": "Episódio 7 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558718.mp4"
+						},
+						{
+							"id": "seal_team_s5_e8",
+							"title": "SEAL Team: Soldados De Elite S05E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/woH8Gdrt4C8jVLEDQN4YRdRluxu.jpg",
+							"description": "Episódio 8 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558719.mp4"
+						},
+						{
+							"id": "seal_team_s5_e9",
+							"title": "SEAL Team: Soldados De Elite S05E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/l0AJGrq0SLBPTF24U08GJF9Psv4.jpg",
+							"description": "Episódio 9 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558720.mp4"
+						},
+						{
+							"id": "seal_team_s5_e10",
+							"title": "SEAL Team: Soldados De Elite S05E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/o7l25s5DcM7GtTHDd2bq0cWTVUL.jpg",
+							"description": "Episódio 10 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558721.mp4"
+						},
+						{
+							"id": "seal_team_s5_e11",
+							"title": "SEAL Team: Soldados De Elite S05E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sD8I5AQozkV3dQ08Dl8NYrA83fA.jpg",
+							"description": "Episódio 11 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558722.mp4"
+						},
+						{
+							"id": "seal_team_s5_e12",
+							"title": "SEAL Team: Soldados De Elite S05E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/m2a7SBWvkYPx9RiLwnkGZJnkmEV.jpg",
+							"description": "Episódio 12 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558723.mp4"
+						},
+						{
+							"id": "seal_team_s5_e13",
+							"title": "SEAL Team: Soldados De Elite S05E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/i9NjjbBmpPezMR2umazflVa0MkL.jpg",
+							"description": "Episódio 13 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558724.mp4"
+						},
+						{
+							"id": "seal_team_s5_e14",
+							"title": "SEAL Team: Soldados De Elite S05E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dBFAkR4Be3aEvxYJ06aXmEoSPAO.jpg",
+							"description": "Episódio 14 da 5ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558725.mp4"
+						}
+					]
+				},
+				{
+					"number": 6,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkPXP9RZ3vjhBquR8BWk2kyx7oU.jpg",
+					"episodes": [
+						{
+							"id": "seal_team_s6_e1",
+							"title": "SEAL Team: Soldados De Elite S06E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/wkPXP9RZ3vjhBquR8BWk2kyx7oU.jpg",
+							"description": "Episódio 1 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558726.mp4"
+						},
+						{
+							"id": "seal_team_s6_e2",
+							"title": "SEAL Team: Soldados De Elite S06E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/psU0I83qjQiU5ycdAkOecPSunvU.jpg",
+							"description": "Episódio 2 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558727.mp4"
+						},
+						{
+							"id": "seal_team_s6_e3",
+							"title": "SEAL Team: Soldados De Elite S06E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/uEvEA06aJj7sVwieNZ3H30CfYYT.jpg",
+							"description": "Episódio 3 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558728.mp4"
+						},
+						{
+							"id": "seal_team_s6_e4",
+							"title": "SEAL Team: Soldados De Elite S06E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/qqkANr0dGFY8WCTVOBcMHlNlhqQ.jpg",
+							"description": "Episódio 4 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558729.mp4"
+						},
+						{
+							"id": "seal_team_s6_e5",
+							"title": "SEAL Team: Soldados De Elite S06E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/j1ftQsd3IWy2sUZxLNTl1T2uD1s.jpg",
+							"description": "Episódio 5 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558730.mp4"
+						},
+						{
+							"id": "seal_team_s6_e6",
+							"title": "SEAL Team: Soldados De Elite S06E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xY0lpBX71PBS4dg1zGPdKyBnCTs.jpg",
+							"description": "Episódio 6 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558731.mp4"
+						},
+						{
+							"id": "seal_team_s6_e7",
+							"title": "SEAL Team: Soldados De Elite S06E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tRjtRer9NCxLgFULcm60BlqpJba.jpg",
+							"description": "Episódio 7 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558732.mp4"
+						},
+						{
+							"id": "seal_team_s6_e8",
+							"title": "SEAL Team: Soldados De Elite S06E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/6ElEvexKePBd7TLyHDzJopRBlx9.jpg",
+							"description": "Episódio 8 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558733.mp4"
+						},
+						{
+							"id": "seal_team_s6_e9",
+							"title": "SEAL Team: Soldados De Elite S06E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9oMeNZ3JzRUmQJUv8DuC56CVIK8.jpg",
+							"description": "Episódio 9 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558734.mp4"
+						},
+						{
+							"id": "seal_team_s6_e10",
+							"title": "SEAL Team: Soldados De Elite S06E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9ji7B6YxfISITUtwUR0ydfD5FFS.jpg",
+							"description": "Episódio 10 da 6ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558735.mp4"
+						}
+					]
+				},
+				{
+					"number": 7,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5HgsHJMhqy4gqwztJThZrbUWsD.jpg",
+					"episodes": [
+						{
+							"id": "seal_team_s7_e1",
+							"title": "SEAL Team: Soldados De Elite S07E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/z5HgsHJMhqy4gqwztJThZrbUWsD.jpg",
+							"description": "Episódio 1 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558736.mp4"
+						},
+						{
+							"id": "seal_team_s7_e2",
+							"title": "SEAL Team: Soldados De Elite S07E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/eKoe7tu5OBvLgBfNX2MAqC2gP2e.jpg",
+							"description": "Episódio 2 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558737.mp4"
+						},
+						{
+							"id": "seal_team_s7_e3",
+							"title": "SEAL Team: Soldados De Elite S07E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/tiVRGHVbqmYXMuHpNh6JMd75SYP.jpg",
+							"description": "Episódio 3 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558738.mp4"
+						},
+						{
+							"id": "seal_team_s7_e4",
+							"title": "SEAL Team: Soldados De Elite S07E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mUrIPK3DtmNeYw4HpEYauPSldRR.jpg",
+							"description": "Episódio 4 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558739.mp4"
+						},
+						{
+							"id": "seal_team_s7_e5",
+							"title": "SEAL Team: Soldados De Elite S07E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/gw3dHIwwbjSV4Ef2Bz4PDCw0B3I.jpg",
+							"description": "Episódio 5 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558740.mp4"
+						},
+						{
+							"id": "seal_team_s7_e6",
+							"title": "SEAL Team: Soldados De Elite S07E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xTuhXFqS5QdA1SLQBx03V60Vw8e.jpg",
+							"description": "Episódio 6 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558741.mp4"
+						},
+						{
+							"id": "seal_team_s7_e7",
+							"title": "SEAL Team: Soldados De Elite S07E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fIK7gRKyLhccwetuvK5hnX30NtB.jpg",
+							"description": "Episódio 7 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558742.mp4"
+						},
+						{
+							"id": "seal_team_s7_e8",
+							"title": "SEAL Team: Soldados De Elite S07E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/urLMIwelmyAx7BbvGFpUIsRYwIl.jpg",
+							"description": "Episódio 8 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558743.mp4"
+						},
+						{
+							"id": "seal_team_s7_e9",
+							"title": "SEAL Team: Soldados De Elite S07E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/n8BCjC932y758ZjLYnBRL0XhYCs.jpg",
+							"description": "Episódio 9 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558744.mp4"
+						},
+						{
+							"id": "seal_team_s7_e10",
+							"title": "SEAL Team: Soldados De Elite S07E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/lV5LR42Q8SahUdDMp6x7MqKmhTD.jpg",
+							"description": "Episódio 10 da 7ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5558745.mp4"
+						}
+					]
 				}
 			]
 		},
@@ -2929,7 +5895,7 @@
 			"seasonsInfo": "1 Temporada",
 			"description": "Acompanhe as investigações e os desafios enfrentados no condado.",
 			"year": "2025",
-			"genre": "Drama / Policial",
+			"genre": "Drama",
 			"lastEpisodeInfo": "1ª Temporada",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -3109,7 +6075,7 @@
 			"seasonsInfo": "1 Temporada",
 			"description": "Acompanhe os desdobramentos e os segredos por trás de uma das maiores fraudes já investigadas.",
 			"year": "2025",
-			"genre": "Drama / Suspense",
+			"genre": "Drama",
 			"lastEpisodeInfo": "1ª Temporada",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -3225,7 +6191,7 @@
 			"seasonsInfo": "3 Temporadas",
 			"description": "Acompanhe operações secretas de alta tensão e conspirações internacionais ambientadas em Berlim.",
 			"year": "2024",
-			"genre": "Espionagem / Ação",
+			"genre": "Ação",
 			"lastEpisodeInfo": "3ª Temporada",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -3489,7 +6455,7 @@
 			"seasonsInfo": "2 Temporadas",
 			"description": "Disputas de poder, alianças estratégicas e segredos revelados na corrida pela sucessão.",
 			"year": "2024",
-			"genre": "Drama / Negócios",
+			"genre": "Drama",
 			"lastEpisodeInfo": "2ª Temporada",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -3699,7 +6665,7 @@
 			"seasonsInfo": "5 Temporadas",
 			"description": "Uma equipe de cientistas e especialistas investiga os fenômenos paranormais, ufológicos e anomalias inexplicáveis no lendário Rancho Skinwalker.",
 			"year": "2020",
-			"genre": "Documentário / Mistério",
+			"genre": "Drama",
 			"lastEpisodeInfo": "5ª Temporada",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -4207,7 +7173,7 @@
 			"seasonsInfo": "1 Temporada",
 			"description": "Um capitão perito em negociações lida com situações extremas de reféns enquanto enfrenta traumas do passado.",
 			"year": "2023",
-			"genre": "Drama / Policial",
+			"genre": "Drama",
 			"lastEpisodeInfo": "1ª Temporada",
 			"trailerYoutubeId": "",
 			"seasons": [
@@ -4278,6 +7244,272 @@
 							"thumbUrl": "https://image.tmdb.org/t/p/w342/4c8UDpjf0SJyM2LMCt3RJtcGYhj.jpg",
 							"description": "Episódio 8 da 1ª temporada.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216523.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "o_exterminador_do_futuro_as_cronicas_de_sarah_connor",
+			"title": "O Exterminador do Futuro: As Crônicas de Sarah Connor",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+			"seasonsInfo": "2 Temporadas",
+			"description": "Após os eventos de O Exterminador do Futuro 2, Sarah Connor e seu filho John fogem de inimigos do futuro e do presente enquanto tentam impedir a criação da Skynet.",
+			"year": "2008",
+			"genre": "Ação",
+			"lastEpisodeInfo": "2ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+					"episodes": [
+						{
+							"id": "o_exterminador_do_futuro_s1_e1",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216123.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s1_e2",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216124.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s1_e3",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216125.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s1_e4",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216126.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s1_e5",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216127.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s1_e6",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216128.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s1_e7",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216129.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s1_e8",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216130.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s1_e9",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216131.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+					"episodes": [
+						{
+							"id": "o_exterminador_do_futuro_s2_e1",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E01",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 1 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216132.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e2",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E02",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 2 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216133.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e3",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E03",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 3 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216134.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e4",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E04",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 4 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216135.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e5",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216136.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e6",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216137.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e7",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216138.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e8",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216139.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e9",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E09",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 9 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216140.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e10",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E10",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 10 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216141.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e11",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E11",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 11 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216142.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e12",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E12",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 12 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216143.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e13",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E13",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 13 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216144.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e14",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E14",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 14 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216145.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e15",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E15",
+							"episodeNumber": 15,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 15 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216146.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e16",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E16",
+							"episodeNumber": 16,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 16 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216147.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e17",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E17",
+							"episodeNumber": 17,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 17 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216148.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e19",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E19",
+							"episodeNumber": 18,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 19 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216149.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e20",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E20",
+							"episodeNumber": 19,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 20 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216150.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e21",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E21",
+							"episodeNumber": 20,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 21 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216151.mp4"
+						},
+						{
+							"id": "o_exterminador_do_futuro_s2_e22",
+							"title": "O Exterminador do Futuro As Cronicas de Sarah Connor S02E22",
+							"episodeNumber": 21,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/l45y6RjbDQ7fkypJMBmhwGrSiJu.jpg",
+							"description": "Episódio 22 da 2ª temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216152.mp4"
 						}
 					]
 				}
