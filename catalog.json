@@ -6068,6 +6068,558 @@
 			]
 		},
 		{
+			"id": "doug",
+			"title": "Doug",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/cartaz_doug.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/compose.jpg",
+			"seasonsInfo": "3 Temporadas",
+			"description": "As aventuras e dilemas do jovem Doug Funnie em sua nova cidade, Blossom Trail, enquanto escreve em seu diário sobre seus amigos, família e suas paixões.",
+			"year": "1991",
+			"genre": "Animação",
+			"lastEpisodeInfo": "3ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/doug_1temp.jpeg",
+					"episodes": [
+						{
+							"id": "doug_s1_e1",
+							"title": "Doug S01E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/aaa0CyH0PIjYhYPBKyZI4PWM3tf.jpg",
+							"description": "Episódio 1 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410824.mp4"
+						},
+						{
+							"id": "doug_s1_e2",
+							"title": "Doug S01E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fp2qrOpD1u4WphNzGPy7dLJNE6n.jpg",
+							"description": "Episódio 2 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410825.mp4"
+						},
+						{
+							"id": "doug_s1_e3",
+							"title": "Doug S01E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/d0PD4GixFBPywkjKyebMhLzcGJB.jpg",
+							"description": "Episódio 3 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410826.mp4"
+						},
+						{
+							"id": "doug_s1_e4",
+							"title": "Doug S01E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/94XeJ85TWTJkvApLaW50pHfSFeW.jpg",
+							"description": "Episódio 4 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410827.mp4"
+						},
+						{
+							"id": "doug_s1_e5",
+							"title": "Doug S01E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/aNjYJnE8ysjW0lIkjGwZSPEi4Kj.jpg",
+							"description": "Episódio 5 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410828.mp4"
+						},
+						{
+							"id": "doug_s1_e6",
+							"title": "Doug S01E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bmoA088QFx78jbw0eFLb7g31LTv.jpg",
+							"description": "Episódio 6 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410829.mp4"
+						},
+						{
+							"id": "doug_s1_e7",
+							"title": "Doug S01E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/kqfy6XNSRvGn5AUCoUCk6jj0zOt.jpg",
+							"description": "Episódio 7 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410830.mp4"
+						},
+						{
+							"id": "doug_s1_e8",
+							"title": "Doug S01E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/vu7tYA38Qt9YFIyPsOygLnZRHY1.jpg",
+							"description": "Episódio 8 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410831.mp4"
+						},
+						{
+							"id": "doug_s1_e9",
+							"title": "Doug S01E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/gVn3nLVXxvSDRHxFkbcWanUVQHp.jpg",
+							"description": "Episódio 9 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410832.mp4"
+						},
+						{
+							"id": "doug_s1_e10",
+							"title": "Doug S01E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rrhGOJBzmiqkGe5aSGPhCt47ZSB.jpg",
+							"description": "Episódio 10 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410833.mp4"
+						},
+						{
+							"id": "doug_s1_e11",
+							"title": "Doug S01E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8hcmQD2621Jr59wJguNluBQyi5g.jpg",
+							"description": "Episódio 11 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410834.mp4"
+						},
+						{
+							"id": "doug_s1_e12",
+							"title": "Doug S01E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mrugeQQEwKiqVmorWLnAV4EmMYY.jpg",
+							"description": "Episódio 12 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410835.mp4"
+						},
+						{
+							"id": "doug_s1_e13",
+							"title": "Doug S01E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/xjsXJZWqvMCBCRuuMsZY9Y1U9Gi.jpg",
+							"description": "Episódio 13 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410836.mp4"
+						},
+						{
+							"id": "doug_s1_e14",
+							"title": "Doug S01E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7FnCoQuzLdLaIk6V4iOnMZMTJkj.jpg",
+							"description": "Episódio 14 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410837.mp4"
+						},
+						{
+							"id": "doug_s1_e15",
+							"title": "Doug S01E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/erBFZp84jPIxrQUBVg81EPhASvk.jpg",
+							"description": "Episódio 15 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410838.mp4"
+						},
+						{
+							"id": "doug_s1_e16",
+							"title": "Doug S01E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/9ShjFux33wUjlE9sKFQrkjcDZL2.jpg",
+							"description": "Episódio 16 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410839.mp4"
+						},
+						{
+							"id": "doug_s1_e17",
+							"title": "Doug S01E17",
+							"episodeNumber": 17,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fCeS4K8RX9Jx8byLDMQ4LJwWDfx.jpg",
+							"description": "Episódio 17 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410840.mp4"
+						},
+						{
+							"id": "doug_s1_e18",
+							"title": "Doug S01E18",
+							"episodeNumber": 18,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7sQZyPIc721ZN9p2viKlOvtOT2F.jpg",
+							"description": "Episódio 18 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410841.mp4"
+						},
+						{
+							"id": "doug_s1_e19",
+							"title": "Doug S01E19",
+							"episodeNumber": 19,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/piT3MnX043fMkImMzi7sbjUfKo.jpg",
+							"description": "Episódio 19 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410842.mp4"
+						},
+						{
+							"id": "doug_s1_e20",
+							"title": "Doug S01E20",
+							"episodeNumber": 20,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/b0qqNfkIu0jX7nik4VzBeAGNKyr.jpg",
+							"description": "Episódio 20 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410843.mp4"
+						},
+						{
+							"id": "doug_s1_e21",
+							"title": "Doug S01E21",
+							"episodeNumber": 21,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/jtIAHIooPLNVBRyDZKgohF6I4gq.jpg",
+							"description": "Episódio 21 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410844.mp4"
+						},
+						{
+							"id": "doug_s1_e22",
+							"title": "Doug S01E22",
+							"episodeNumber": 22,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/z2l6dEkujR4LuRG8vL5RcS6ewWZ.jpg",
+							"description": "Episódio 22 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410845.mp4"
+						},
+						{
+							"id": "doug_s1_e23",
+							"title": "Doug S01E23",
+							"episodeNumber": 23,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/88Ipb6H5eP0nbckkzIz8XChCLD3.jpg",
+							"description": "Episódio 23 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410846.mp4"
+						},
+						{
+							"id": "doug_s1_e24",
+							"title": "Doug S01E24",
+							"episodeNumber": 24,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/3NDWhZYNT5Bk7uYILkjNZav45JQ.jpg",
+							"description": "Episódio 24 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410847.mp4"
+						},
+						{
+							"id": "doug_s1_e25",
+							"title": "Doug S01E25",
+							"episodeNumber": 25,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ezpf9bIjE7MCrlWR9lkKsWX6GYS.jpg",
+							"description": "Episódio 25 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410848.mp4"
+						},
+						{
+							"id": "doug_s1_e26",
+							"title": "Doug S01E26",
+							"episodeNumber": 26,
+							"thumbUrl": "http://lgfp.one/JBE2",
+							"description": "Episódio 26 da 1ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410849.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/doug_2temp.jpeg",
+					"episodes": [
+						{
+							"id": "doug_s2_e1",
+							"title": "Doug S02E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/nlKQPUcXjldjvLGlM95zLoCkvNn.jpg",
+							"description": "Episódio 1 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410850.mp4"
+						},
+						{
+							"id": "doug_s2_e2",
+							"title": "Doug S02E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sMnRzQVvNcRNXbBmSBirzaDkQPt.jpg",
+							"description": "Episódio 2 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410851.mp4"
+						},
+						{
+							"id": "doug_s2_e3",
+							"title": "Doug S02E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7QlN3UVAePplNYFv1atE61Zg6OV.jpg",
+							"description": "Episódio 3 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410852.mp4"
+						},
+						{
+							"id": "doug_s2_e4",
+							"title": "Doug S02E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/eMrLXFzUzPvP4XxBTQfTNBFm4R8.jpg",
+							"description": "Episódio 4 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410853.mp4"
+						},
+						{
+							"id": "doug_s2_e5",
+							"title": "Doug S02E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ryLyfGVGirZ3tZ3fpNl4Lw9QFoI.jpg",
+							"description": "Episódio 5 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410854.mp4"
+						},
+						{
+							"id": "doug_s2_e6",
+							"title": "Doug S02E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/shnr6fPshSuxRg5kfd55rfeYoKX.jpg",
+							"description": "Episódio 6 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410855.mp4"
+						},
+						{
+							"id": "doug_s2_e7",
+							"title": "Doug S02E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/7KFQKlUXZ29ff5ekAehNZUECmg4.jpg",
+							"description": "Episódio 7 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410856.mp4"
+						},
+						{
+							"id": "doug_s2_e8",
+							"title": "Doug S02E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/5osOY5yjpPsva1Ra7icVdmhRROR.jpg",
+							"description": "Episódio 8 da 2ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410857.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/doug_3temp.jpeg",
+					"episodes": [
+						{
+							"id": "doug_s3_e1",
+							"title": "Doug S03E01",
+							"episodeNumber": 1,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/i0fXHtGTNYDV0YOi0CzUtgzd5NB.jpg",
+							"description": "Episódio 1 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410858.mp4"
+						},
+						{
+							"id": "doug_s3_e2",
+							"title": "Doug S03E02",
+							"episodeNumber": 2,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/pUFyTrag7hr3wcFhSrPLf7hrv0K.jpg",
+							"description": "Episódio 2 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410859.mp4"
+						},
+						{
+							"id": "doug_s3_e3",
+							"title": "Doug S03E03",
+							"episodeNumber": 3,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/asNMKQBeyblKrort4D4jlM8GFR0.jpg",
+							"description": "Episódio 3 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410860.mp4"
+						},
+						{
+							"id": "doug_s3_e4",
+							"title": "Doug S03E04",
+							"episodeNumber": 4,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/jhjCKyOdeJ2fgDpWc1cXli7mWrp.jpg",
+							"description": "Episódio 4 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410861.mp4"
+						},
+						{
+							"id": "doug_s3_e5",
+							"title": "Doug S03E05",
+							"episodeNumber": 5,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/s3g4p9eqXlUVysuHSCIKWXoAlgM.jpg",
+							"description": "Episódio 5 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410862.mp4"
+						},
+						{
+							"id": "doug_s3_e6",
+							"title": "Doug S03E06",
+							"episodeNumber": 6,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/8J9LCcrZ1gah5S45Pr99dnPn18I.jpg",
+							"description": "Episódio 6 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410863.mp4"
+						},
+						{
+							"id": "doug_s3_e7",
+							"title": "Doug S03E07",
+							"episodeNumber": 7,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/dEx36Vzi6Zt39bd0PcnYNF6nT6w.jpg",
+							"description": "Episódio 7 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410864.mp4"
+						},
+						{
+							"id": "doug_s3_e8",
+							"title": "Doug S03E08",
+							"episodeNumber": 8,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/hwrTyzCQNiw9ZYHaH1Xi5IG0j3d.jpg",
+							"description": "Episódio 8 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410865.mp4"
+						},
+						{
+							"id": "doug_s3_e9",
+							"title": "Doug S03E09",
+							"episodeNumber": 9,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/pi7nYP0v8Yxtz23Ct07eraH1sXf.jpg",
+							"description": "Episódio 9 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410866.mp4"
+						},
+						{
+							"id": "doug_s3_e10",
+							"title": "Doug S03E10",
+							"episodeNumber": 10,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/p3SrONvHNh7JWfMnNufqZi3mAcd.jpg",
+							"description": "Episódio 10 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410867.mp4"
+						},
+						{
+							"id": "doug_s3_e11",
+							"title": "Doug S03E11",
+							"episodeNumber": 11,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/cDcEXknjJt6N5uGQQyBIsmanH52.jpg",
+							"description": "Episódio 11 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410868.mp4"
+						},
+						{
+							"id": "doug_s3_e12",
+							"title": "Doug S03E12",
+							"episodeNumber": 12,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/3zcyD37kYKlHLMIIJ9U4BE8P15d.jpg",
+							"description": "Episódio 12 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410869.mp4"
+						},
+						{
+							"id": "doug_s3_e13",
+							"title": "Doug S03E13",
+							"episodeNumber": 13,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/mOBbGjBC8pBeNXTRUp5QMNwkLxk.jpg",
+							"description": "Episódio 13 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410870.mp4"
+						},
+						{
+							"id": "doug_s3_e14",
+							"title": "Doug S03E14",
+							"episodeNumber": 14,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/hZ6CMxrw5WMl4wF6ihGAkDSYtJm.jpg",
+							"description": "Episódio 14 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410871.mp4"
+						},
+						{
+							"id": "doug_s3_e15",
+							"title": "Doug S03E15",
+							"episodeNumber": 15,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/z5nl6TWXDLB4uI83QZo685pkEZX.jpg",
+							"description": "Episódio 15 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410872.mp4"
+						},
+						{
+							"id": "doug_s3_e16",
+							"title": "Doug S03E16",
+							"episodeNumber": 16,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sW4RRFQY74lYP0fm9rLsvAltKHI.jpg",
+							"description": "Episódio 16 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410873.mp4"
+						},
+						{
+							"id": "doug_s3_e17",
+							"title": "Doug S03E17",
+							"episodeNumber": 17,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/rovJ7JOwJiK24WtHljHbcxaUCVW.jpg",
+							"description": "Episódio 17 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410874.mp4"
+						},
+						{
+							"id": "doug_s3_e18",
+							"title": "Doug S03E18",
+							"episodeNumber": 18,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/sAX7hKvy5pSwgrEpzYBYBX9nm4B.jpg",
+							"description": "Episódio 18 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410875.mp4"
+						},
+						{
+							"id": "doug_s3_e19",
+							"title": "Doug S03E19",
+							"episodeNumber": 19,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/t4J3YL2gxf4vsdsxyN3Mn7rXWXg.jpg",
+							"description": "Episódio 19 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410876.mp4"
+						},
+						{
+							"id": "doug_s3_e20",
+							"title": "Doug S03E20",
+							"episodeNumber": 20,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/bTybAQNNFGO5v8KR89qTUD6INAY.jpg",
+							"description": "Episódio 20 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410877.mp4"
+						},
+						{
+							"id": "doug_s3_e21",
+							"title": "Doug S03E21",
+							"episodeNumber": 21,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/fiAAZC1Wz8LkB1QjOabWVd2Ng05.jpg",
+							"description": "Episódio 21 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410878.mp4"
+						},
+						{
+							"id": "doug_s3_e22",
+							"title": "Doug S03E22",
+							"episodeNumber": 22,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/pstr9xiosu2F8yBKeAUGNg5k5xK.jpg",
+							"description": "Episódio 22 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410879.mp4"
+						},
+						{
+							"id": "doug_s3_e23",
+							"title": "Doug S03E23",
+							"episodeNumber": 23,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/2kTiXFJug9742yRbcsJlVXWBZFH.jpg",
+							"description": "Episódio 23 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410880.mp4"
+						},
+						{
+							"id": "doug_s3_e24",
+							"title": "Doug S03E24",
+							"episodeNumber": 24,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/i5ZmZbFiGaDnJuFODrgo40wZFZN.jpg",
+							"description": "Episódio 24 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410881.mp4"
+						},
+						{
+							"id": "doug_s3_e25",
+							"title": "Doug S03E25",
+							"episodeNumber": 25,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/ryrOWA2sT68qKJCj9YmeIRZLW3u.jpg",
+							"description": "Episódio 25 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410882.mp4"
+						},
+						{
+							"id": "doug_s3_e26",
+							"title": "Doug S03E26",
+							"episodeNumber": 26,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/frbLjMv02xAV1r65yNdxAZf7Mtx.jpg",
+							"description": "Episódio 26 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410883.mp4"
+						},
+						{
+							"id": "doug_s3_e27",
+							"title": "Doug S03E27",
+							"episodeNumber": 27,
+							"thumbUrl": "http://lgfp.one/JBE2",
+							"description": "Episódio 27 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410884.mp4"
+						},
+						{
+							"id": "doug_s3_e28",
+							"title": "Doug S03E28",
+							"episodeNumber": 28,
+							"thumbUrl": "http://lgfp.one/JBE2",
+							"description": "Episódio 28 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410885.mp4"
+						},
+						{
+							"id": "doug_s3_e29",
+							"title": "Doug S03E29",
+							"episodeNumber": 29,
+							"thumbUrl": "http://lgfp.one/JBE2",
+							"description": "Episódio 29 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410886.mp4"
+						},
+						{
+							"id": "doug_s3_e30",
+							"title": "Doug S03E30",
+							"episodeNumber": 30,
+							"thumbUrl": "http://lgfp.one/JBE2",
+							"description": "Episódio 30 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410887.mp4"
+						},
+						{
+							"id": "doug_s3_e31",
+							"title": "Doug S03E31",
+							"episodeNumber": 31,
+							"thumbUrl": "http://lgfp.one/JBE2",
+							"description": "Episódio 31 da 3ª temporada.",
+							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410888.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
 			"id": "a_fraude_do_seculo",
 			"title": "A Fraude do Século",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
