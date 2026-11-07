@@ -2262,11 +2262,11 @@
 		{
 			"id": "192",
 			"title": "A Grande Inundação",
-			"year": "",
+			"year": "2025",
 			"genre": "Lançamentos",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac0e9baf6i0OuypcoZcAmwojabQ.jpg",
 			"backdropUrl": "",
-			"description": "",
+			"description": "Uma catástrofe global faz com que ondas do tamanho de montanhas invadam as cidades, condenando toda a vida na Terra. Em meio ao caos, a cientista An-Na procura seu filho em um prédio que está prestes a ser devorado pelas águas. Mas a mulher é importante para criar a nova raça humana e se vê dividida entre encontrar seu filho e proteger o futuro da humanidade.",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/192.mp4"
 		},
 		{
@@ -2276,7 +2276,7 @@
 			"genre": "Lançamentos",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wf6E9zlMPHszXR8VwNH6a7dzgW.jpg",
 			"backdropUrl": "",
-			"description": "",
+			"description": "Durante a Segunda Guerra Mundial, o piloto americano Gene e a agente do serviço secreto Penny viajam até a casa dos tios dela. Mas o que Penny não sabe é que Gene foi contratado para espionar os moradores da região.",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/218.mp4"
 		},
 		{
@@ -2288,6 +2288,123 @@
 			"backdropUrl": "",
 			"description": "",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10242.mp4"
+		},
+		{
+			"id": "56195",
+			"title": "Homem-Aranha: No Aranhaverso",
+			"year": "2018",
+			"genre": "Animação / Ação / Aventura",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/voO5GpUKdMfryPHxqxdPBj319ky.jpg",
+			"description": "Após ser picado por uma aranha radioativa, o jovem Miles Morales torna-se o Homem-Aranha. Ele encontra vilões de outras dimensões e precisa aprender a ser um herói para salvar o multiverso.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56195.mp4"
+		},
+		{
+			"id": "56205",
+			"title": "Homem-Aranha: De Volta ao Lar",
+			"year": "2017",
+			"genre": "Ação / Aventura / Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg",
+			"description": "Peter Parker tenta equilibrar sua vida como um estudante comum em Nova York com sua identidade secreta como o amigão da vizinhança, sob a tutela de Tony Stark.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56205.mp4"
+		},
+		{
+			"id": "56210",
+			"title": "Homem-Aranha: Através do Aranhaverso",
+			"year": "2023",
+			"genre": "Animação / Ação / Aventura",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
+			"description": "Miles Morales é catapultado através do Multiverso, onde ele encontra uma equipe de Pessoas-Aranha encarregadas de proteger sua própria existência.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56210.mp4"
+		},
+		{
+			"id": "56215",
+			"title": "Homem-Aranha: Longe de Casa",
+			"year": "2019",
+			"genre": "Ação / Aventura / Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
+			"description": "Peter Parker viaja para a Europa em uma excursão de colégio, mas seus planos de descansar são interrompidos quando Nick Fury convoca sua ajuda para conter misteriosos ataques.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56215.mp4"
+		},
+		{
+			"id": "56220",
+			"title": "Homem-Aranha: Sem Volta Para Casa",
+			"year": "2021",
+			"genre": "Ação / Aventura / Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/lrexJi7P336iIwtogSq2OP7AVGJ.jpg",
+			"description": "Com a identidade do Homem-Aranha revelada, Peter pede ajuda ao Doutor Estranho. No entanto, um feitiço dá errado e vilões de outros universos começam a surgir.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56220.mp4"
+		},
+		{
+			"id": "56200",
+			"title": "Homem-Formiga e a Vespa",
+			"year": "2018",
+			"genre": "Ação / Aventura / Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/qZDafbofrZn46MmDwJS8fCSCe6l.jpg",
+			"description": "Scott Lang lida com as consequências de suas escolhas como super-herói e pai. Enquanto tenta equilibrar sua vida, ele recebe uma nova missão de Hank Pym e Hope van Dyne.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56200.mp4"
+		},
+		{
+			"id": "56225",
+			"title": "Homem-Formiga e a Vespa: Quantumania",
+			"year": "2023",
+			"genre": "Ação / Aventura / Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/qZDafbofrZn46MmDwJS8fCSCe6l.jpg",
+			"description": "Scott Lang e Hope van Dyne retornam para continuar suas aventuras como Homem-Formiga e a Vespa. Juntos, eles exploram o Reino Quântico e encaram o poderoso Kang.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56225.mp4"
+		},
+		{
+			"id": "4451",
+			"title": "Jurassic Park: O Parque dos Dinossauros",
+			"year": "1993",
+			"genre": "Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg",
+			"description": "Um milionário constrói um parque temático com dinossauros clonados, mas o sistema de segurança falha e a visita de avaliação se transforma em um pesadelo.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4451.mp4"
+		},
+		{
+			"id": "4455",
+			"title": "O Mundo Perdido: Jurassic Park",
+			"year": "1997",
+			"genre": "Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTRLIP4J4iJrVbJplKiaGnc3G93.jpg",
+			"description": "Uma equipe de pesquisa é enviada para o 'Sítio B', a ilha onde os dinossauros eram criados antes de serem levados para o parque, enquanto caçadores tentam capturá-los.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4455.mp4"
+		},
+		{
+			"id": "4460",
+			"title": "Jurassic Park III",
+			"year": "2001",
+			"genre": "Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dObEUGvS4cTbVNi8ewvd6gLIv4.jpg",
+			"description": "O Dr. Alan Grant é enganado por um casal rico para acompanhá-los em uma turnê na Ilha Sorna, mas descobre que eles estão procurando pelo filho desaparecido.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4460.mp4"
+		},
+		{
+			"id": "56504",
+			"title": "Jurassic World: Reino Ameaçado",
+			"year": "2018",
+			"genre": "Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/pi23N55j5ezB2wvybgAFuSGrVHB.jpg",
+			"description": "Owen e Claire retornam à ilha para resgatar os dinossauros restantes de uma erupção vulcânica iminente, mas descobrem uma conspiração muito maior.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56504.mp4"
+		},
+		{
+			"id": "56509",
+			"title": "Jurassic World: O Acampamento / Recomeço",
+			"year": "2020",
+			"genre": "Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg",
+			"description": "Com os dinossauros agora soltos pelo mundo, novos conflitos e desafios surgem para a convivência entre humanos e criaturas pré-históricas.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56509.mp4"
+		},
+		{
+			"id": "56510",
+			"title": "Jurassic World: Domínio",
+			"year": "2022",
+			"genre": "Ficção Científica",
+			"coverUrl": "https://image.tmdb.org/t/p/w500/7qeiCNSmzrkcEyIWi8sIcsjrOyW.jpg",
+			"description": "Quatro anos após a destruição da Isla Nublar, dinossauros vivem e caçam ao lado de humanos. O equilíbrio frágil reformulará o futuro da humanidade.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56510.mp4"
 		},
 		{
 			"id": "10246",
@@ -2421,42 +2538,40 @@
 		},
 		{
 			"id": "8037",
-			"title": "Viagem Ao Centro do Terra",
+			"title": "Viagem Ao Centro da Terra",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg",
-			"backdropUrl": "",
-			"description": "",
+			"description": "Viagem ao Centro da Terra acompanha o obstinado professor Lidenbrock, seu receoso sobrinho Axel e o guia Hans em uma expedição iniciada na cratera de um vulcão islandês. Atravessando túneis, mares e florestas subterrâneas, eles descobrem um mundo perdido repleto de maravilhas e perigos.",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8037.mp4"
 		},
 		{
 			"id": "7927",
-			"title": "Unabomber Terrorista",
-			"year": "",
+			"title": "Unabomber",
+			"year": "2026",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuQorCeoBtR2hShbe8ECz0Oc3ad.jpg",
-			"backdropUrl": "",
-			"description": "",
+			"description": "Um agente do FBI lidera uma equipe pouco convencional na busca pelo famoso assassino Ted Kaczynski.",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7927.mp4"
 		},
 		{
 			"id": "7931",
 			"title": "URI - Forças Especiais",
-			"year": "",
+			"year": "2019",
 			"genre": "Ação",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVDokwoLpVEVxYbX6wCHz35fHq1.jpg",
-			"backdropUrl": "",
-			"description": "",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BYTgyMTlkZTgtMTMxYi00Mjk5LTg2NTMtNGYyMDVlZWM0NmZjXkEyXkFqcGc@._V1_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/S/pv-target-images/ad73183c9baf36909d66efb190d802bc5be4965da28b047371409092e814e4ab._SX1080_FMjpg_.jpg",
+			"description": "URI – Forças Especiais acompanha uma missão real das forças especiais indianas em resposta a um ataque terrorista contra uma base militar, retratando planejamento estratégico e ação intensa.",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7931.mp4"
 		},
 		{
 			"id": "7935",
 			"title": "V de Vinganca",
-			"year": "",
+			"year": "2005",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg",
 			"backdropUrl": "",
-			"description": "",
+			"description": "V de Vingança apresenta uma Inglaterra futurista sob um regime totalitário, onde um misterioso mascarado desafia o governo e inspira revolta popular, arrastando consigo uma jovem inesperada para o centro da mudança. Vale assistir pela mistura de ação intensa, subtexto político e visual marcante. Foi bem recebido pela crítica, tornou-se um clássico cult e deixou impacto cultural duradouro.",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7935.mp4"
 		},
 		{
@@ -2466,7 +2581,7 @@
 			"genre": "Ficção científica/Ação",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Dia_D-1.jpg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Dia_D-2.jpg",
-			"description": "descrição_filme",
+			"description": "O Dia D foi a data em que tropas Aliadas desembarcaram na Normandia, quando houve um importante ataque para a vitória dos Aliados na Segunda Guerra.",
 			"streamUrl": "https://archive.org/download/dddoc/d%2Cd%2Cdoc.mkv",
 			"trailerYoutubeId": ""
 		},
@@ -2690,7 +2805,7 @@
 			"coverUrl": "https://br.web.img2.acsta.net/pictures/19/06/12/14/10/0645123.jpg",
 			"backdropUrl": "",
 			"description": "",
-			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4286.mp4"
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56357.mp4"
 		},
 		{
 			"id": "4290",
