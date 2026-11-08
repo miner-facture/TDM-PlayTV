@@ -2243,6 +2243,7 @@
 		{
 			"id": "m38",
 			"title": "Túmulo dos Vagalumes",
+			"titleLogoUrl": "",
 			"year": 1988,
 			"genre": "Animação / Drama / Guerra / Infantil",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/T%C3%BAmuloEspecial.png",
@@ -2251,19 +2252,9 @@
 			"streamUrl": "https://dn800305.us.archive.org/0/items/o-tumulo-dos-vagalumes-1988-dublado/O%20T%C3%BAmulo%20dos%20Vagalumes%20%281988%29%20-%20Dublado.mp4"
 		},
 		{
-  "id": "20638",
-  "title": "",
-  "titleLogoUrl": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019d6848-bd3e-701d-9089-4ee13829d468/trim?format=webp&width=2560",
-  "backdropUrl": "https://image.tmdb.org/t/p/original/backdrop_exemplo.jpg",
-  "coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/36QBO6MzM6FIGaT36GHA6E2TPMY.jpg",
-  "year": "2009",
-  "genre": "Comédia / Aventura / Família",
-  "description": "Larry Daley visita o Smithsonian em Washington D.C., onde o artefato que dá vida aos objetos foi transferido, atraindo vilões históricos.",
-  "streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20638.mp4"
-		},
-		{
 			"id": "192",
 			"title": "A Grande Inundação",
+			"titleLogoUrl": "",
 			"year": "2025",
 			"genre": "Lançamentos",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac0e9baf6i0OuypcoZcAmwojabQ.jpg",
@@ -2274,6 +2265,7 @@
 		{
 			"id": "218",
 			"title": "A Névoa da Guerra",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Lançamentos",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wf6E9zlMPHszXR8VwNH6a7dzgW.jpg",
@@ -2284,6 +2276,7 @@
 		{
 			"id": "10242",
 			"title": "O Bicho Vai Pegar 1",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg",
@@ -2294,6 +2287,7 @@
 		{
 			"id": "56195",
 			"title": "Homem-Aranha: No Aranhaverso",
+			"titleLogoUrl": "",
 			"year": "2018",
 			"genre": "Animação / Ação / Aventura",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/voO5GpUKdMfryPHxqxdPBj319ky.jpg",
@@ -2303,6 +2297,7 @@
 		{
 			"id": "56205",
 			"title": "Homem-Aranha: De Volta ao Lar",
+			"titleLogoUrl": "",
 			"year": "2017",
 			"genre": "Ação / Aventura / Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg",
@@ -2312,6 +2307,7 @@
 		{
 			"id": "56210",
 			"title": "Homem-Aranha: Através do Aranhaverso",
+			"titleLogoUrl": "",
 			"year": "2023",
 			"genre": "Animação / Ação / Aventura",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
@@ -2321,6 +2317,7 @@
 		{
 			"id": "56215",
 			"title": "Homem-Aranha: Longe de Casa",
+			"titleLogoUrl": "",
 			"year": "2019",
 			"genre": "Ação / Aventura / Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
@@ -2330,6 +2327,7 @@
 		{
 			"id": "56220",
 			"title": "Homem-Aranha: Sem Volta Para Casa",
+			"titleLogoUrl": "",
 			"year": "2021",
 			"genre": "Ação / Aventura / Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/lrexJi7P336iIwtogSq2OP7AVGJ.jpg",
@@ -2339,6 +2337,7 @@
 		{
 			"id": "56200",
 			"title": "Homem-Formiga e a Vespa",
+			"titleLogoUrl": "",
 			"year": "2018",
 			"genre": "Ação / Aventura / Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/qZDafbofrZn46MmDwJS8fCSCe6l.jpg",
@@ -2348,6 +2347,7 @@
 		{
 			"id": "56225",
 			"title": "Homem-Formiga e a Vespa: Quantumania",
+			"titleLogoUrl": "",
 			"year": "2023",
 			"genre": "Ação / Aventura / Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/qZDafbofrZn46MmDwJS8fCSCe6l.jpg",
@@ -2355,8 +2355,207 @@
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56225.mp4"
 		},
 		{
+			"id": "5830",
+			"title": "O Livro de Eli",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/eli.png",
+			"year": "2010",
+			"genre": "Ação / Ficção Científica / Drama",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUS4hknUZGJKqdFWf04eNSaaRfC.jpg",
+			"backdropUrl": "",
+			"description": "Em um mundo pós-apocalíptico devastado, um guerreiro solitário chamado Eli caminha pela América para proteger um livro sagrado que contém o segredo para salvar o futuro da humanidade.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5830.mp4"
+		},
+		{
+			"id": "5895",
+			"title": "O Pacificador",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/opacifica.png",
+			"year": "1997",
+			"genre": "Ação / Thriller",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFVnHoop9hLUtdqUeXfdc2bNVsS.jpg",
+			"backdropUrl": "",
+			"description": "Uma especialista em inteligência nuclear e um oficial das Forças Especiais dos EUA unem forças para rastrear ogivas nucleares roubadas por um grupo de terroristas.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5895.mp4"
+		},
+		{
+			"id": "22034",
+			"title": "12 Anos de Escravidão",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/12anosescra.png",
+			"year": "2013",
+			"genre": "Drama / Biografia / História",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5t8fqcNDyfojYwwlECZEgyD96T.jpg",
+			"backdropUrl": "",
+			"description": "Em 1841, Solomon Northup é um músico negro livre que vive em Nova York. Ele é sequestrado e vendido como escravo no sul dos Estados Unidos, lutando para sobreviver e manter sua dignidade por doze anos.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22034.mp4"
+		},
+		{
+			"id": "7626",
+			"title": "Top Gun: Ases Indomáveis",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/topgun-ases-indo.png",
+			"year": "1986",
+			"genre": "Ação / Drama",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg",
+			"backdropUrl": "https://rollingstone.com.br/wp-content/uploads/top-gun-ases-indomaveis-val-kilmer-tom-cruise-foto-reproducao.jpg",
+			"description": "O piloto Maverick Mitchell é enviado para a escola de elite de aviação naval Top Gun, onde compete com os melhores pilotos e lida com fantasmas do passado, além de se envolver com sua instrutora.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7626.mp4"
+		},
+		{
+			"id": "7635",
+			"title": "Top Gun: Maverick",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/topgun-maver.png",
+			"year": "2022",
+			"genre": "Ação / Drama",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EEaX9eHqgdBQlX4gOCCYSvlxAg.jpg",
+			"backdropUrl": "https://rollingstone.com.br/wp-content/uploads/tom_cruise_em_top_gun_maverick_foto_divulgacao.jpg",
+			"description": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete 'Maverick' Mitchell está onde pertence, testando os limites e enfrentando um treinamento especial para uma missão perigosa.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7635.mp4"
+		},
+		{
+			"id": "5044",
+			"title": "Missão: Impossível",
+			"titleLogoUrl": "https://image.tmdb.org/t/p/original/bvZkXNQ34l1XrmkGglqGCAWzfzK.png",
+			"year": "1996",
+			"genre": "Espionagem",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg",
+			"backdropUrl": "https://rollingstone.com.br/wp-content/uploads/2025/05/onde-assistir-aos-filmes-da-franquia-missao-impossivel.jpg",
+			"description": "O agente da IMF Ethan Hunt é acusado injustamente de traição durante uma missão em Praga. Ele precisa usar suas habilidades para descobrir o verdadeiro traidor e limpar seu nome.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5044.mp4"
+		},
+		{
+			"id": "5064",
+			"title": "Missão: Impossível 2",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/mi-2.png",
+			"year": "2000",
+			"genre": "Espionagem",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1wegwtkVFvHVDuKbSZOBlD6KID.jpg",
+			"backdropUrl": "https://cinema-em-cena.nyc3.cdn.digitaloceanspaces.com/reviews/1115/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
+			"description": "Ethan Hunt é enviado a Sydney para impedir que um ex-agente renegado libere um vírus geneticamente modificado mortal chamado 'Quimera'.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5064.mp4"
+		},
+		{
+			"id": "5086",
+			"title": "Missão: Impossível 3",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/mi-3.png",
+			"year": "2006",
+			"genre": "Espionagem",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWrmbQ7pFmazFI2ZQt6IgUPsZTQ.jpg",
+			"backdropUrl": "",
+			"description": "Ethan Hunt enfrenta seu maior desafio quando precisa resgatar uma de suas alunas e lidar com Owen Davian, um negociador de armas impiedoso e implacável que ameaça a vida de sua noiva.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5086.mp4"
+		},
+		{
+			"id": "5068",
+			"title": "Missão: Impossível - Protocolo Fantasma",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/protocolo-fantasma.png",
+			"year": "2011",
+			"genre": "Espionagem",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h264Wik2YY6mRoDMIVuGdbc7XYK.jpg",
+			"backdropUrl": "https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2025/05/2-2.jpg",
+			"description": "Após a explosão do Kremlin, a IMF é desativada pelo presidente dos EUA, iniciando o 'Protocolo Fantasma'. Ethan e sua equipe precisam operar sem recursos para limpar o nome da agência.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5068.mp4"
+		},
+		{
+			"id": "5052",
+			"title": "Missão: Impossível - Nação Secreta",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/mi%20secreta.png",
+			"year": "2015",
+			"genre": "Espionagem",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TlPBSjixffI0eu0xElK9cM8krO.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/S/pv-target-images/4cb5f54a5f0d8b3f97b8bc8609d83dd0db362ffd5b9c2956b93d2dee8d646e6e._SX1080_FMjpg_.jpg",
+			"description": "Ethan e sua equipe enfrentam o Sindicato, uma organização secreta internacional formada por agentes renegados dedicados a destruir a IMF.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5052.mp4"
+		},
+		{
+			"id": "5056",
+			"title": "Missão: Impossível - Efeito Fallout",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/fallout.png",
+			"year": "2018",
+			"genre": "Espionagem",
+			"coverUrl": "https://cloud.estacaonerd.com/wp-content/uploads/2018/05/14142533/MI6_INTL_SUNBURST_DGTL_1_SHT_BRA.jpg",
+			"backdropUrl": "https://cloud.estacaonerd.com/wp-content/uploads/2018/05/14143757/MCJ-01734-SRC.jpg",
+			"description": "Quando uma missão da IMF dá errado, o mundo enfrenta consequências terríveis. Ethan Hunt e sua equipe lutam contra o tempo para recuperar plutônio roubado.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5056.mp4"
+		},
+		{
+			"id": "5048",
+			"title": "Missão Impossível - Acerto de Contas",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Mi-Acertocontas.png",
+			"year": "2023",
+			"genre": "Espionagem",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBKxN5Z8gRo2am0whMeQlPv19K4.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/S/pv-target-images/f1ce71415517a04a78bc2f013d8f05798ec9cd3e3aa075f8df109aa85e669777.jpg",
+			"description": "Ethan Hunt e a equipe da IMF embarcam na missão mais perigosa de todas: rastrear uma nova arma aterrorizante que ameaça toda a humanidade antes que caia em mãos erradas.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56994.mp4"
+		},
+		{
+			"id": "5060",
+			"title": "Missão Impossível - O Acerto Final",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/acertofinal.png",
+			"year": "2025",
+			"genre": "Espionagem",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg",
+			"backdropUrl": "https://terranerdica.com.br/wp-content/uploads/2025/05/MI_Acerto_Final_Banner_Cortado.jpg",
+			"description": "Ethan Hunt continua sua corrida contra o tempo e contra o sistema para desmantelar a Inteligência Artificial conhecida como A Entidade.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56999.mp4"
+		},
+		{
+			"id": "4746",
+			"title": "Lucy",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Lucy__Film_-removebg-preview.png",
+			"year": "2014",
+			"genre": "Ação / Ficção Científica / Thriller",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/S/pv-target-images/21c07aced1012ffdf0d01fdd637d333fa367e24a96a19afd0fbf0291ef78f0eb.jpg",
+			"description": "Uma jovem traficada acidentalmente absorve uma poderosa droga sintética que lhe confere capacidades cerebrais sobrehumanas, transformando-a em uma guerreira implacável.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56702.mp4"
+		},
+		{
+			"id": "20634",
+			"title": "Uma Noite no Museu",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/UNM.png",
+			"year": "2006",
+			"genre": "Comédia / Aventura / Família",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Pca1hVNgPAUcp6zVHldlboh80R.jpg",
+			"backdropUrl": "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/3746/245e3c18636e2e1f548d044163c0286e.jpg",
+			"description": "Um pai divorciado aceita um emprego como vigia noturno no Museu de História Natural e descobre que, devido a uma maldição antiga, as peças ganham vida todas as noites.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20634.mp4"
+		},
+		{
+			"id": "20638",
+			"title": "Uma Noite no Museu 2",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/trim.png",
+			"year": "2009",
+			"genre": "Comédia / Aventura / Família",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/36QBO6MzM6FIGaT36GHA6E2TPMY.jpg",
+			"backdropUrl": "",
+			"description": "Larry Daley visita o Smithsonian em Washington D.C., onde o artefato que dá vida aos objetos foi transferido, atraindo vilões históricos.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20638.mp4"
+		},
+		{
+			"id": "20652",
+			"title": "Uma Noite no Museu 3: O Segredo da Tumba",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/museu3.png",
+			"year": "2014",
+			"genre": "Comédia / Aventura / Família",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfrWSuTUhu6nEhzU4ysnlaLm0fQ.jpg",
+			"backdropUrl": "",
+			"description": "Larry viaja para o Museu Britânico em Londres para salvar a placa mágica de Ahkmenrah antes que ela perca seus poderes para sempre.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20652.mp4"
+		},
+		{
+			"id": "11704",
+			"title": "Uma Noite no Museu: O Retorno de Kahmunrah",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/museu4.png",
+			"year": "2022",
+			"genre": "Animação / Comédia / Aventura",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M19SPS4iv5rP73fuUB1VF1eano.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjU0ZmJkYzAtNjBmYy00YTVmLWI1NGMtNWYzZTgxOGY3ZTdjXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+			"description": "Sequência animada em que Nick Daley assume o cargo de vigia noturno no museu e precisa impedir que o faraó Kahmunrah domine o mundo novamente.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11704.mp4"
+		},
+		{
 			"id": "4451",
 			"title": "Jurassic Park: O Parque dos Dinossauros",
+			"titleLogoUrl": "",
 			"year": "1993",
 			"genre": "Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg",
@@ -2366,6 +2565,7 @@
 		{
 			"id": "4455",
 			"title": "O Mundo Perdido: Jurassic Park",
+			"titleLogoUrl": "",
 			"year": "1997",
 			"genre": "Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTRLIP4J4iJrVbJplKiaGnc3G93.jpg",
@@ -2375,6 +2575,7 @@
 		{
 			"id": "4460",
 			"title": "Jurassic Park III",
+			"titleLogoUrl": "",
 			"year": "2001",
 			"genre": "Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dObEUGvS4cTbVNi8ewvd6gLIv4.jpg",
@@ -2384,6 +2585,7 @@
 		{
 			"id": "56504",
 			"title": "Jurassic World: Reino Ameaçado",
+			"titleLogoUrl": "",
 			"year": "2018",
 			"genre": "Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/pi23N55j5ezB2wvybgAFuSGrVHB.jpg",
@@ -2393,6 +2595,7 @@
 		{
 			"id": "56509",
 			"title": "Jurassic World: O Acampamento / Recomeço",
+			"titleLogoUrl": "",
 			"year": "2020",
 			"genre": "Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg",
@@ -2402,6 +2605,7 @@
 		{
 			"id": "56510",
 			"title": "Jurassic World: Domínio",
+			"titleLogoUrl": "",
 			"year": "2022",
 			"genre": "Ficção Científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w500/7qeiCNSmzrkcEyIWi8sIcsjrOyW.jpg",
@@ -2411,6 +2615,7 @@
 		{
 			"id": "10246",
 			"title": "O Bicho Vai Pegar 2",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/itTdFkQd8WdGirR2ooNgWgJPqkS.jpg",
@@ -2421,6 +2626,7 @@
 		{
 			"id": "10251",
 			"title": "O Bicho Vai Pegar 3",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwPUGK0THXrgqaFf4QnG5pdmnJw.jpg",
@@ -2431,6 +2637,7 @@
 		{
 			"id": "10255",
 			"title": "O Bicho Vai Pegar 4",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2dwEPtt8xBP6DSehwuwOGskokL.jpg",
@@ -2441,6 +2648,7 @@
 		{
 			"id": "10256",
 			"title": "O Cachorro Mágico",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7Yzy2Yrw4JQXD2IWCQdGpeQZbC.jpg",
@@ -2451,6 +2659,7 @@
 		{
 			"id": "10260",
 			"title": "O Bom Dinossauro",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h85jXVapDFhsDvlsrmuMJkfvXSj.jpg",
@@ -2461,6 +2670,7 @@
 		{
 			"id": "10261",
 			"title": "O Caminho para El Dorado",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaj2kKqOyFEo4Mj2Y12rwbjgv8u.jpg",
@@ -2471,6 +2681,7 @@
 		{
 			"id": "10264",
 			"title": "O Castelo Animado",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hTfaEWktMJPxCk5nZNtK7F86C9.jpg",
@@ -2481,6 +2692,7 @@
 		{
 			"id": "10268",
 			"title": "O Chefinho Bônus de Natal",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Animação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6HDYVK2qubLKtcjS1WtN8bch6c.jpg",
@@ -2491,6 +2703,7 @@
 		{
 			"id": "590",
 			"title": "Infiltrado na Máfia",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Lançamentos",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oH7yZcpWf7MddYIhs1Xvdk7NUbz.jpg",
@@ -2501,6 +2714,7 @@
 		{
 			"id": "5634",
 			"title": "O Exterminador Do Futuro 1",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo4SSoNT1ASI4JP7dOLrosWNWKa.jpg",
@@ -2511,6 +2725,7 @@
 		{
 			"id": "5636",
 			"title": "O Exterminador Do Futuro 2",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTIY2LO5cDclxgKtCHuvIKdF3c3.jpg",
@@ -2521,6 +2736,7 @@
 		{
 			"id": "5652",
 			"title": "O Exterminador Do Futuro 3",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzzuKhx8Ly6SZa8LxkT5Fvouc5z.jpg",
@@ -2531,6 +2747,7 @@
 		{
 			"id": "m34",
 			"title": "À Procura da Felicidade",
+			"titleLogoUrl": "",
 			"year": "2006",
 			"genre": "Drama/Biografia",
 			"coverUrl": "https://m.media-amazon.com/images/M/MV5BNWQ0Yzc2YTItNWEzOS00MGFmLTgxMjgtNjlhYzBhMDNhNzY0XkEyXkFqcGc@._V1_FMjpg_UY2141_.jpg",
@@ -2541,6 +2758,7 @@
 		{
 			"id": "8037",
 			"title": "Viagem Ao Centro da Terra",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg",
@@ -2550,6 +2768,7 @@
 		{
 			"id": "7927",
 			"title": "Unabomber",
+			"titleLogoUrl": "",
 			"year": "2026",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuQorCeoBtR2hShbe8ECz0Oc3ad.jpg",
@@ -2559,6 +2778,7 @@
 		{
 			"id": "7931",
 			"title": "URI - Forças Especiais",
+			"titleLogoUrl": "",
 			"year": "2019",
 			"genre": "Ação",
 			"coverUrl": "https://m.media-amazon.com/images/M/MV5BYTgyMTlkZTgtMTMxYi00Mjk5LTg2NTMtNGYyMDVlZWM0NmZjXkEyXkFqcGc@._V1_.jpg",
@@ -2569,6 +2789,7 @@
 		{
 			"id": "7935",
 			"title": "V de Vinganca",
+			"titleLogoUrl": "",
 			"year": "2005",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg",
@@ -2579,6 +2800,7 @@
 		{
 			"id": "m32",
 			"title": "Dia D",
+			"titleLogoUrl": "",
 			"year": "2026",
 			"genre": "Ficção científica/Ação",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Dia_D-1.jpg",
@@ -2590,6 +2812,7 @@
 		{
 			"id": "piratas_do_caribe_a_malicao_do_perola_negra",
 			"title": "Piratas do Caribe: A Maldição do Pérola Negra",
+			"titleLogoUrl": "",
 			"year": "2003",
 			"genre": "Ação / Aventura",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsAlxvMCRzyreLxdZL1dOUSbonV.jpg",
@@ -2600,6 +2823,7 @@
 		{
 			"id": "piratas_do_caribe_o_bau_da_morte",
 			"title": "Piratas do Caribe: O Baú da Morte",
+			"titleLogoUrl": "",
 			"year": "2006",
 			"genre": "Ação / Aventura",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvD1G41HwHgj8afCjmfGbyRmBBR.jpg",
@@ -2610,6 +2834,7 @@
 		{
 			"id": "piratas_do_caribe_no_fim_do_mundo",
 			"title": "Piratas do Caribe: No Fim do Mundo",
+			"titleLogoUrl": "",
 			"year": "2007",
 			"genre": "Ação / Aventura",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j15lZasREutscon6e61LSSNJoN7.jpg",
@@ -2620,6 +2845,7 @@
 		{
 			"id": "piratas_do_caribe_navegando_em_aguas_misteriosas",
 			"title": "Piratas do Caribe: Navegando em Águas Misteriosas",
+			"titleLogoUrl": "",
 			"year": "2011",
 			"genre": "Ação / Aventura",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/blt7kBXEk1HgJjCTusaUMQ7BCTY.jpg",
@@ -2630,6 +2856,7 @@
 		{
 			"id": "piratas_do_caribe_a_vinganca_de_salazar",
 			"title": "Piratas do Caribe: A Vingança de Salazar",
+			"titleLogoUrl": "",
 			"year": "2017",
 			"genre": "Ação / Aventura",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bXv1lIkXE1TXYsyd6HHQr4dfw4.jpg",
@@ -2640,6 +2867,7 @@
 		{
 			"id": "x_men_o_filme",
 			"title": "X-Men O Filme",
+			"titleLogoUrl": "",
 			"year": "2000",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg",
@@ -2650,6 +2878,7 @@
 		{
 			"id": "x_men_2",
 			"title": "X-Men 2",
+			"titleLogoUrl": "",
 			"year": "2003",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksYqKUL4CQ9HJPdNj5Nvln29Qwy.jpg",
@@ -2660,6 +2889,7 @@
 		{
 			"id": "x_men_o_confronto_final",
 			"title": "X-Men O Confronto Final",
+			"titleLogoUrl": "",
 			"year": "2006",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcPewUA6Lszt25wIa1nkW3A82JX.jpg",
@@ -2670,6 +2900,7 @@
 		{
 			"id": "m30",
 			"title": "X-Men Origens: Wolverine",
+			"titleLogoUrl": "",
 			"year": "2009",
 			"genre": "Ação",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/X-Men_Origins_Wolverine2.jpg",
@@ -2680,6 +2911,7 @@
 		{
 			"id": "wolverine_imortal",
 			"title": "Wolverine Imortal",
+			"titleLogoUrl": "",
 			"year": "2013",
 			"genre": "Ação / Ficção científica",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3J5TdW9sqDeZQYOSynJyDopGgZn.jpg",
@@ -2690,6 +2922,7 @@
 		{
 			"id": "x_men_primeira_classe",
 			"title": "X-Men Primeira Classe",
+			"titleLogoUrl": "",
 			"year": "2011",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gionQv04AWnRaDMNvBF24uJMSTf.jpg",
@@ -2700,6 +2933,7 @@
 		{
 			"id": "x_men_dias_de_um_futuro_esquecido",
 			"title": "X-Men Dias de um Futuro Esquecido",
+			"titleLogoUrl": "",
 			"year": "2014",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAGrjXVQoNyqHgxPoXr68JGqmp0.jpg",
@@ -2710,6 +2944,7 @@
 		{
 			"id": "x_men_apocalipse",
 			"title": "X-Men Apocalipse",
+			"titleLogoUrl": "",
 			"year": "2016",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8D2AnlP7YutsiJ6WbpxWHAazSs.jpg",
@@ -2720,6 +2955,7 @@
 		{
 			"id": "x_men_fenix_negra",
 			"title": "X-Men Fênix Negra",
+			"titleLogoUrl": "",
 			"year": "2019",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
@@ -2730,6 +2966,7 @@
 		{
 			"id": "m23",
 			"title": "Interestelar",
+			"titleLogoUrl": "",
 			"year": "2014",
 			"genre": "Ficção científica",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/UY2048_.jpg",
@@ -2741,6 +2978,7 @@
 		{
 			"id": "m23",
 			"title": "O Bom Gigante Amigo",
+			"titleLogoUrl": "",
 			"year": "2016",
 			"genre": "Aventura",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ubga.png",
@@ -2752,6 +2990,7 @@
 		{
 			"id": "3073",
 			"title": "Círculo de Fogo - Pacific Rim",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kd7YqI9Zq2IGwlevSX0OqOFz4YR.jpg",
@@ -2762,6 +3001,7 @@
 		{
 			"id": "3081",
 			"title": "Círculo de Fogo A Revolta",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwMkEC1V7dodX4gHBWILGhhI91k.jpg",
@@ -2772,6 +3012,7 @@
 		{
 			"id": "3077",
 			"title": "Céu em Chamas",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63mTxkeY9hsb9nFIUEiR2yBopuz.jpg",
@@ -2782,6 +3023,7 @@
 		{
 			"id": "4278",
 			"title": "Invasão à Casa Branca",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBoRmqFbbWhNn0ySe7W4RbiIZ54.jpg",
@@ -2792,6 +3034,7 @@
 		{
 			"id": "4282",
 			"title": "Invasao a Londres",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zR1JAiCplsizue3WqDn8hw7P8Bj.jpg",
@@ -2802,6 +3045,7 @@
 		{
 			"id": "4286",
 			"title": "Invasao Ao Servico Secreto",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://br.web.img2.acsta.net/pictures/19/06/12/14/10/0645123.jpg",
@@ -2812,6 +3056,7 @@
 		{
 			"id": "4290",
 			"title": "Invasão do Mundo Batalha de Los Angeles",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yApEJEltSSf05tRpWtmcu0P9mun.jpg",
@@ -2822,6 +3067,7 @@
 		{
 			"id": "5644",
 			"title": "O Exterminador Do Futuro 4",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/khMIfRCgsMMqjxuGtJ2dUfJ551R.jpg",
@@ -2832,6 +3078,7 @@
 		{
 			"id": "5648",
 			"title": "O Exterminador do Futuro Destino Sombrio",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg",
@@ -2842,6 +3089,7 @@
 		{
 			"id": "20434",
 			"title": "Um Senhor Estagiario",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Comédia",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjI2z9PvWm69DHzhyYIrsmD6Gj6.jpg",
@@ -2852,6 +3100,7 @@
 		{
 			"id": "15246",
 			"title": "Forrest Gump O Contador de Histórias",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Comédia",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
@@ -2862,6 +3111,7 @@
 		{
 			"id": "83721",
 			"title": "O Resgate do Soldado Ryan [L]",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Legendados",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
@@ -2872,6 +3122,7 @@
 		{
 			"id": "40664",
 			"title": "A Espera de um Milagre",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Religiosos",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",
@@ -2882,6 +3133,7 @@
 		{
 			"id": "4162",
 			"title": "Impacto Profundo",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/32CAzrGEHZu8Go6QLLVCjPglHTX.jpg",
@@ -2892,6 +3144,7 @@
 		{
 			"id": "m1",
 			"title": "As Ovelhas Detetives",
+			"titleLogoUrl": "",
 			"year": "2026",
 			"genre": "Comédia",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ovelhas.detetives.jpg",
@@ -2903,6 +3156,7 @@
 		{
 			"id": "m3",
 			"title": "Um Ato de Coragem",
+			"titleLogoUrl": "",
 			"year": "2011",
 			"genre": "Suspense",
 			"coverUrl": "https://i.ibb.co/LhJHPwKv/19878054.jpg",
@@ -2914,6 +3168,7 @@
 		{
 			"id": "m4",
 			"title": "Notícias do Mundo",
+			"titleLogoUrl": "",
 			"year": "2021",
 			"genre": "Faroeste",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/relatos.do.mundo.jpg",
@@ -2925,6 +3180,7 @@
 		{
 			"id": "m5",
 			"title": "Intocáveis",
+			"titleLogoUrl": "",
 			"year": "2011",
 			"genre": "Drama",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/intocaveis.jpg",
@@ -2936,6 +3192,7 @@
 		{
 			"id": "m6",
 			"title": "Quando a Guerra Acabar",
+			"titleLogoUrl": "",
 			"year": "2023",
 			"genre": "Drama",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Quando.a.Guerra.Acabar.jpg",
@@ -2947,6 +3204,7 @@
 		{
 			"id": "m7",
 			"title": "Pegando Fogo",
+			"titleLogoUrl": "",
 			"year": "2015",
 			"genre": "Drama",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/Pegando.Fogo.jpg",
@@ -2958,6 +3216,7 @@
 		{
 			"id": "8037",
 			"title": "Viagem Ao Centro do Terra",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg",
@@ -2966,38 +3225,9 @@
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8037.mp4"
 		},
 		{
-			"id": "7927",
-			"title": "Unabomber Terrorista",
-			"year": "",
-			"genre": "Ação",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuQorCeoBtR2hShbe8ECz0Oc3ad.jpg",
-			"backdropUrl": "",
-			"description": "",
-			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7927.mp4"
-		},
-		{
-			"id": "7931",
-			"title": "URI - Forças Especiais",
-			"year": "",
-			"genre": "Ação",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVDokwoLpVEVxYbX6wCHz35fHq1.jpg",
-			"backdropUrl": "",
-			"description": "",
-			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7931.mp4"
-		},
-		{
-			"id": "7935",
-			"title": "V de Vinganca",
-			"year": "",
-			"genre": "Ação",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg",
-			"backdropUrl": "",
-			"description": "",
-			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7935.mp4"
-		},
-		{
 			"id": "7923",
 			"title": "Unidade Ranger",
+			"titleLogoUrl": "",
 			"year": "",
 			"genre": "Ação",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ImC59wJCZ7Rx19el83c4nX8YTF.jpg",
@@ -3008,6 +3238,7 @@
 		{
 			"id": "m8",
 			"title": "O Menu",
+			"titleLogoUrl": "",
 			"year": "2022",
 			"genre": "Suspense/",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/o.menu.jpg",
