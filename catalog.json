@@ -3252,6 +3252,7 @@
 		{
 			"id": "suits",
 			"title": "Suits",
+			"titleLogoUrl": "https://www.freelogovectors.net/wp-content/uploads/2022/01/suits-logo-freelogovectors.net_.png",
 			"coverUrl": "https://m.media-amazon.com/images/I/81Tw+A9i8VL._AC_UF894,1000_QL80_.jpg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/suits-wallpaper.jpg",
 			"seasonsInfo": "9 Temporadas",
@@ -4392,8 +4393,9 @@
 		{
 			"id": "the_pitt",
 			"title": "The Pitt",
-			"coverUrl": "https://image.tmdb.org/t/p/w300/ayWb4xVUahzP7xDlILfyoZTzB6B.jpg",
-			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/suits-wallpaper.jpg",
+			"titleLogoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/The_Pitt_Max_series_logo.svg/3840px-The_Pitt_Max_series_logo.svg.png",
+			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMThjMjYxM2YtM2IzZC00NDdmLThiNDYtNzEyNzA0YTRmYTk3XkEyXkFqcGc@._V1_.jpg",
+			"backdropUrl": "https://cinebuzz.com.br/wp-content/uploads/2026/04/The-Pitt-drama-medico-da-HBO-Max-vai-ter-terceira-temporada-1024x576.jpg",
 			"seasonsInfo": "2 Temporadas",
 			"description": "Acompanhe os dramas e desafios intensos enfrentados pelos profissionais de saúde.",
 			"year": "2024",
@@ -4626,6 +4628,7 @@
 		{
 			"id": "prison_break",
 			"title": "Prison Break: Em Busca Da Verdade",
+			"titleLogoUrl": "https://image.tmdb.org/t/p/original/wxZ5vVPz5VYEjrtiLv7flmCgU9t.png",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break.png",
 			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
 			"seasonsInfo": "5 Temporadas",
@@ -5376,7 +5379,7 @@
 			"title": "The Good Wife",
 			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/TGWiLogo.png",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/images.jpeg",
-			"backdropUrl": "https://media.newyorker.com/photos/590976dd019dfc3494ea2d8f/master/w_1920,c_limit/Rothman-WhatWasTheGoodWifeReallyAbout.jpg",
+			"backdropUrl": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/asset/10/00/90/94/fd6666783b8871af_the_good_wife.jpg",
 			"seasonsInfo": "4 Temporadas",
 			"description": "Depois de um escândalo público e político envolvendo o seu marido Peter, Alicia Florrick retoma a sua carreira de advogada para sustentar os seus filhos e reconstruir a sua vida em Chicago.",
 			"year": "2009",
@@ -6045,7 +6048,8 @@
 		{
 			"id": "seal_team",
 			"title": "SEAL Team: Soldados De Elite",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8VzyiIRCOslX94rFPhkNuJPjl3.jpg",
+			"titleLogoUrl": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Seal_team_serie_logo.png",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-01.png",
 			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/v8VzyiIRCOslX94rFPhkNuJPjl3.jpg",
 			"seasonsInfo": "7 Temporadas",
 			"description": "As vidas profissionais e pessoais dos membros de uma unidade de elite dos Navy SEALs enquanto treinam, planejam e executam as missões mais perigosas que seu país pode pedir.",
@@ -7005,7 +7009,9 @@
 		{
 			"id": "bob",
 			"title": "Band of Brothers",
+			"titleLogoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/09/Band-of-brothers-tv-logo.png",
 			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMWIzZTIzMGMtOGViYi00NTQ1LTlkYzctOWYzNGZlYTI1NWM3XkEyXkFqcGdeQWpybA@@._V1_.jpg",
 			"seasonsInfo": "1 Temporada",
 			"description": "A história real da Easy Company, um group de soldados americanos durante a Segunda Guerra Mundial.",
 			"year": "2001",
