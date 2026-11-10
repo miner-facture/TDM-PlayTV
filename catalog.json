@@ -3110,13 +3110,13 @@
 		},
 		{
 			"id": "83721",
-			"title": "O Resgate do Soldado Ryan [L]",
+			"title": "O Resgate do Soldado Ryan",
 			"titleLogoUrl": "",
-			"year": "",
-			"genre": "Legendados",
+			"year": "1998",
+			"genre": "Guerra / Drama",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
-			"backdropUrl": "",
-			"description": "",
+			"backdropUrl": "https://www.papodecinema.com.br/wp-content/uploads/2016/01/20180621-1200.webp",
+			"description": "Depois de chegar a Normandía, um grupo de soldados precisa encontrar o único irmão vivo de três que morreram na guerra.",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83721.mp4"
 		},
 		{
@@ -4626,7 +4626,7 @@
 		{
 			"id": "prison_break",
 			"title": "Prison Break: Em Busca Da Verdade",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break.png",
 			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
 			"seasonsInfo": "5 Temporadas",
 			"description": "Um homem engenheiro planeja um elaborado plano para resgatar seu irmão falsamente condenado à morte da prisão.",
@@ -4637,735 +4637,1406 @@
 			"seasons": [
 				{
 					"number": 1,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQbhElwkCKV4QG6OtXmN7wResE.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break%201.png",
 					"episodes": [
 						{
 							"id": "prison_break_s1_e1",
-							"title": "Prison Break: Em Busca Da Verdade S01E01",
+							"title": "Piloto",
 							"episodeNumber": 1,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/zQbhElwkCKV4QG6OtXmN7wResE.jpg",
-							"description": "Episódio 1 da 1ª temporada.",
+							"description": "O engenheiro Michael Scofield faz com que o prendam para que possa planear a fuga do irmão, um preso condenado à morte que jura estar inocente.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470689.mp4"
 						},
 						{
 							"id": "prison_break_s1_e2",
-							"title": "Prison Break: Em Busca Da Verdade S01E02",
+							"title": "Allen",
 							"episodeNumber": 2,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/cng0p8lg3dskrktVA2W9cJZePY4.jpg",
-							"description": "Episódio 2 da 1ª temporada.",
+							"description": "A tensão racial aumenta em Fox River, ameaçando o plano de Michael. Enquanto isso, Veronica e Nick investigam o caso de Lincoln.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470690.mp4"
 						},
 						{
 							"id": "prison_break_s1_e3",
-							"title": "Prison Break: Em Busca Da Verdade S01E03",
+							"title": "Teste de cela",
 							"episodeNumber": 3,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/uVNfXPHVJV2KKzBXmeaboPv59LO.jpg",
-							"description": "Episódio 3 da 1ª temporada.",
+							"description": "Michael precisa de se livrar de Sucre como colega de cela para poder avançar com o plano, mas Sucre decide pedir a transferência por vontade própria.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470691.mp4"
 						},
 						{
 							"id": "prison_break_s1_e4",
-							"title": "Prison Break: Em Busca Da Verdade S01E04",
+							"title": "Tatuagens",
 							"episodeNumber": 4,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/qdpqBpJnryXJ85WbU9ZXx8VTeTb.jpg",
-							"description": "Episódio 4 da 1ª temporada.",
+							"description": "Michael tenta obter uma substância química para dissolver os tubos da enfermaria, enquanto os segredos por trás das suas tatuagens começam a ser revelados.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470692.mp4"
 						},
 						{
 							"id": "prison_break_s1_e5",
-							"title": "Prison Break: Em Busca Da Verdade S01E05",
+							"title": "English, Fitz ou Percy",
 							"episodeNumber": 5,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/Aw4MpQ2nRpzI2nDordPL4arhRsM.jpg",
-							"description": "Episódio 5 da 1ª temporada.",
+							"description": "Michael descobre três rotas possíveis de fuga da prisão e precisa de descobrir qual delas oferece a melhor hipótese de sucesso.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470693.mp4"
 						},
 						{
 							"id": "prison_break_s1_e6",
-							"title": "Prison Break: Em Busca Da Verdade S01E06",
+							"title": "Motins, perfurações e o diabo: Parte 1",
 							"episodeNumber": 6,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/qARzKfInwDxBusANmznpAJe6ZOC.jpg",
-							"description": "Episódio 6 da 1ª temporada.",
+							"description": "Um motim eclode na prisão quando o ar condicionado avaria, forçando Michael a apressar o plano de fuga antes que a segurança seja reforçada.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470694.mp4"
 						},
 						{
 							"id": "prison_break_s1_e7",
-							"title": "Prison Break: Em Busca Da Verdade S01E07",
+							"title": "Motins, perfurações e o diabo: Parte 2",
 							"episodeNumber": 7,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/Av2ph7a1y7Xo6ppHHL73WnHfQGf.jpg",
-							"description": "Episódio 7 da 1ª temporada.",
+							"description": "O motim continua a escalar perigosamente. Abruzzi e os outros presos enfrentam riscos graves enquanto tentam manter o controlo da situação.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470695.mp4"
 						},
 						{
 							"id": "prison_break_s1_e8",
-							"title": "Prison Break: Em Busca Da Verdade S01E08",
+							"title": "O velho experiente",
 							"episodeNumber": 8,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/9acTia2cVK4Z0xMnoJJxmk2gGWa.jpg",
-							"description": "Episódio 8 da 1ª temporada.",
+							"description": "Para avançar com a escavação, Michael precisa de obter um objeto guardado por um preso antigo, mas o plano sofre complicações imprevistas.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470696.mp4"
 						},
 						{
 							"id": "prison_break_s1_e9",
-							"title": "Prison Break: Em Busca Da Verdade S01E09",
+							"title": "Permeio",
 							"episodeNumber": 9,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/rZvyjYfqaTrYX4zVQf4c8vmcP15.jpg",
-							"description": "Episódio 9 da 1ª temporada.",
+							"description": "O comoroso processo de escavação é ameaçado quando a integridade do piso da enfermaria fica em risco e as suspeitas dos guardas aumentam.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470697.mp4"
 						},
 						{
 							"id": "prison_break_s1_e10",
-							"title": "Prison Break: Em Busca Da Verdade S01E10",
+							"title": "Prestidigitação",
 							"episodeNumber": 10,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/P0CjFHhBPFLF6dMWpb3ariMUb3.jpg",
-							"description": "Episódio 10 da 1ª temporada.",
+							"description": "O controlo da equipa de trabalho de Michael é colocado à prova, e T-Bag tenta garantir um lugar no grupo de fuga chantageando os restantes.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470698.mp4"
 						},
 						{
 							"id": "prison_break_s1_e11",
-							"title": "Prison Break: Em Busca Da Verdade S01E11",
+							"title": "E então ficaram 7",
 							"episodeNumber": 11,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/8gpItMKN4stiHoBNjzQy25qQ7kT.jpg",
-							"description": "Episódio 11 da 1ª temporada.",
+							"description": "O grupo de fuga fica demasiado cheio, obrigando Michael a procurar formas de eliminar participantes sem levantar suspeitas nem colocar o plano em risco.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470699.mp4"
 						},
 						{
 							"id": "prison_break_s1_e12",
-							"title": "Prison Break: Em Busca Da Verdade S01E12",
+							"title": "Extras ficam de fora",
 							"episodeNumber": 12,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/d2pIN5OtdCBqUPsOGEtGkMJ7hxW.jpg",
-							"description": "Episódio 12 da 1ª temporada.",
+							"description": "Abruzzi perde temporariamente o controlo das suas regalias na prisão, o que põe em perigo o acesso da equipa ao buraco de fuga na sala de descanso.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470700.mp4"
 						},
 						{
 							"id": "prison_break_s1_e13",
-							"title": "Prison Break: Em Busca Da Verdade S01E13",
+							"title": "O fundo do túnel",
 							"episodeNumber": 13,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/mGvj5UD2BQklKIRPMiXRdkT33MJ.jpg",
-							"description": "Episódio 13 da 1ª temporada.",
+							"description": "Tudo parece pronto para a grande fuga, mas um obstáculo intransponível de última hora ameaça destruir meses de preparação.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470701.mp4"
 						},
 						{
 							"id": "prison_break_s1_e14",
-							"title": "Prison Break: Em Busca Da Verdade S01E14",
+							"title": "O bufo",
 							"episodeNumber": 14,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/vOOMloi6UP8KuWZG7rcp5TC6T7i.jpg",
-							"description": "Episódio 14 da 1ª temporada.",
+							"description": "Com o túnel descoberto, a tensão atinge o pico enquanto a equipa tenta descobrir quem os traiu e tentou sabotar a operação.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470702.mp4"
 						},
 						{
 							"id": "prison_break_s1_e15",
-							"title": "Prison Break: Em Busca Da Verdade S01E15",
+							"title": "Por um triz",
 							"episodeNumber": 15,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/lGRsHESkKH7iCyoPgeKVsfANieB.jpg",
-							"description": "Episódio 15 da 1ª temporada.",
+							"description": "Michael esforça-se por reparar o buraco da enfermaria a tempo, enquanto Veronica e Nick fogem de assassinos profissionais no exterior.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470703.mp4"
 						},
 						{
 							"id": "prison_break_s1_e16",
-							"title": "Prison Break: Em Busca Da Verdade S01E16",
+							"title": "Guardião do irmão",
 							"episodeNumber": 16,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/p1pofGSIemdioXJv2AXCq65bJUl.jpg",
-							"description": "Episódio 16 da 1ª temporada.",
+							"description": "Um episódio em jeito de flashback que revela os acontecimentos passados que levaram Michael e Lincoln à situação atual em Fox River.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470704.mp4"
 						},
 						{
 							"id": "prison_break_s1_e17",
-							"title": "Prison Break: Em Busca Da Verdade S01E17",
+							"title": "Solitária",
 							"episodeNumber": 17,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/3e4yHirYArcvRncNcTMrsKsiU4R.jpg",
-							"description": "Episódio 17 da 1ª temporada.",
+							"description": "Colocado na solitária, Michael sofre alucinações e isolamento, enquanto os restantes prisioneiros lutam para manter o plano vivo sem o seu líder.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470705.mp4"
 						},
 						{
 							"id": "prison_break_s1_e18",
-							"title": "Prison Break: Em Busca Da Verdade S01E18",
+							"title": "Bluff",
 							"episodeNumber": 18,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/fmHL1u0qdKkhplMVlYUDSpBQvBb.jpg",
-							"description": "Episódio 18 da 1ª temporada.",
+							"description": "Westmoreland junta-se ao grupo de fuga e os presos participam num jogo de póquer de alto risco para recuperar acesso a áreas cruciais.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470706.mp4"
 						},
 						{
 							"id": "prison_break_s1_e19",
-							"title": "Prison Break: Em Busca Da Verdade S01E19",
+							"title": "A chave",
 							"episodeNumber": 19,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/mGwMC5LY5pHjEG0Mo6lJE1ap9pj.jpg",
-							"description": "Episódio 19 da 1ª temporada.",
+							"description": "Michael precisa de obter uma cópia da chave da enfermaria que está na posse da Dra. Sara Tancredi, colocando em risco a confiança entre ambos.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470707.mp4"
 						},
 						{
 							"id": "prison_break_s1_e20",
-							"title": "Prison Break: Em Busca Da Verdade S01E20",
+							"title": "Hoje à noite",
 							"episodeNumber": 20,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/k3CCu1lYCIVgK7UWv1Ufa16ztlj.jpg",
-							"description": "Episódio 20 da 1ª temporada.",
+							"description": "Depois de se ter descoberto o túnel de fuga, os presos têm de fugir. Mas Lincoln está a ser vigiado 24 horas e pode ter de ficar para trás.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470708.mp4"
 						},
 						{
 							"id": "prison_break_s1_e21",
-							"title": "Prison Break: Em Busca Da Verdade S01E21",
+							"title": "Go",
 							"episodeNumber": 21,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/g5VBX1QD7tN0sfvGR6qd53frefG.jpg",
-							"description": "Episódio 21 da 1ª temporada.",
+							"description": "A fuga é finalmente posta em prática, mas imprevistos e a perseguição implacável de Pope e Bellick ameaçam o sucesso da operação de última hora.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470709.mp4"
 						},
 						{
 							"id": "prison_break_s1_e22",
-							"title": "Prison Break: Em Busca Da Verdade S01E22",
+							"title": "Fuga",
 							"episodeNumber": 22,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/1JuljrTTKCwp9Ayyq0MbzmpsYR2.jpg",
-							"description": "Episódio 22 da 1ª temporada.",
+							"description": "Com os fugitivos do lado de fora dos muros de Fox River, começa uma caça ao homem desesperada enquanto tentam encontrar o veículo de fuga.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470710.mp4"
 						}
 					]
 				},
 				{
 					"number": 2,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gksayUgMiPsBGxYkmMmJcumJSI.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break%202.png",
 					"episodes": [
 						{
 							"id": "prison_break_s2_e1",
-							"title": "Prison Break: Em Busca Da Verdade S02E01",
+							"title": "Caça ao Homem",
 							"episodeNumber": 1,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/3gksayUgMiPsBGxYkmMmJcumJSI.jpg",
-							"description": "Episódio 1 da 2ª temporada.",
+							"description": "O Agente do FBI Alexander Mahone lidera a caça aos fugitivos de Fox River, enquanto os prisioneiros lutam para encontrar o dinheiro enterrado de Westmoreland.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470711.mp4"
 						},
 						{
 							"id": "prison_break_s2_e2",
-							"title": "Prison Break: Em Busca Da Verdade S02E02",
+							"title": "A Noite da Mentira",
 							"episodeNumber": 2,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/4MQOW5Z4EFSELwWjwbyXD2xqP5.jpg",
-							"description": "Episódio 2 da 2ª temporada.",
+							"description": "Michael, Lincoln e Wren attemptam fugir para o estrangeiro, mas Mahone aproxima-se perigosamente do seu rasto e do seu plano.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470712.mp4"
 						},
 						{
 							"id": "prison_break_s2_e3",
-							"title": "Prison Break: Em Busca Da Verdade S02E03",
+							"title": "Teste de Punição",
 							"episodeNumber": 3,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/rOUd8Jr2LNM2adZFGa3UhbXaeNG.jpg",
-							"description": "Episódio 3 da 2ª temporada.",
+							"description": "Michael e Lincoln tentam salvar LJ, mas acabam por cair numa armadilha montada por Mahone.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470713.mp4"
 						},
 						{
 							"id": "prison_break_s2_e4",
-							"title": "Prison Break: Em Busca Da Verdade S02E04",
+							"title": "Primeiro Ponto de Controlo",
 							"episodeNumber": 4,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/veErpP2mQZrISTjmYOdKUrGNDiW.jpg",
-							"description": "Episódio 4 da 2ª temporada.",
+							"description": "T-Bag procura ajuda médica desesperadamente para a sua mão amputada, enquanto Bellick e Geary perseguem os fugitivos por conta própria.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470714.mp4"
 						},
 						{
 							"id": "prison_break_s2_e5",
-							"title": "Prison Break: Em Busca Da Verdade S02E05",
+							"title": "Contagem de Cadáveres",
 							"episodeNumber": 5,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/bjMUEiU1whaDRvqOG0jEvrlLzRX.jpg",
-							"description": "Episódio 5 da 2ª temporada.",
+							"description": "Mahone persegue Michael e Lincoln até Utah, onde o grupo de fugitivos tenta desenterrar os cinco milhões de dólares.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470715.mp4"
 						},
 						{
 							"id": "prison_break_s2_e6",
-							"title": "Prison Break: Em Busca Da Verdade S02E06",
+							"title": "Pisando Barro",
 							"episodeNumber": 6,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/ygLyVSxKgz4tJ06EN95i2FxCZd3.jpg",
-							"description": "Episódio 6 da 2ª temporada.",
+							"description": "Em Utah, a tensão explode entre os prisioneiros na casa onde o dinheiro está enterrado, enquanto Mahone aperta o cerco.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470716.mp4"
 						},
 						{
 							"id": "prison_break_s2_e7",
-							"title": "Prison Break: Em Busca Da Verdade S02E07",
+							"title": "Enterrado",
 							"episodeNumber": 7,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/dW7OXLEeBVf8ob35E7mhrsaaEcm.jpg",
-							"description": "Episódio 7 da 2ª temporada.",
+							"description": "Lincoln é separado de Michael e foge com o seu pai, enquanto Bellick e Geary traem T-Bag para roubar o dinheiro.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470717.mp4"
 						},
 						{
 							"id": "prison_break_s2_e8",
-							"title": "Prison Break: Em Busca Da Verdade S02E08",
+							"title": "Comboio Fantasma",
 							"episodeNumber": 8,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/vPTbbMkvfRw8oaOovWvxydPb3ZM.jpg",
-							"description": "Episódio 8 da 2ª temporada.",
+							"description": "Michael e Sara reúnem-se finalmente, mas Mahone descobre o plano de encontro e prepara uma armadilha mortal.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470718.mp4"
 						},
 						{
 							"id": "prison_break_s2_e9",
-							"title": "Prison Break: Em Busca Da Verdade S02E09",
+							"title": "O Tesouro",
 							"episodeNumber": 9,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/i8cw2Ry9MBYXdkkNsLAPV8Ypuvo.jpg",
-							"description": "Episódio 9 da 2ª temporada.",
+							"description": "T-Bag recupera o dinheiro e parte em busca de Maricruz, enquanto C-Note tenta juntar-se à sua família.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470719.mp4"
 						},
 						{
 							"id": "prison_break_s2_e10",
-							"title": "Prison Break: Em Busca Da Verdade S02E10",
+							"title": "Falsidade Ideológica",
 							"episodeNumber": 10,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/qWjdbkRYeWFQChTplq31gvJ3Ut6.jpg",
-							"description": "Episódio 10 da 2ª temporada.",
+							"description": "Michael e Lincoln tentam obter provas para limpar o nome de Lincoln através de uma cassete comprometedora.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470720.mp4"
 						},
 						{
 							"id": "prison_break_s2_e11",
-							"title": "Prison Break: Em Busca Da Verdade S02E11",
+							"title": "Bolts",
 							"episodeNumber": 11,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/5P71xN6KvoMBm6Y1VnxSC0t0r8P.jpg",
-							"description": "Episódio 11 da 2ª temporada.",
+							"description": "Michael e Lincoln ficam encurralados por Kellerman e Mahone, forçando-os a arriscar tudo numa fuga desesperada.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470721.mp4"
 						},
 						{
 							"id": "prison_break_s2_e12",
-							"title": "Prison Break: Em Busca Da Verdade S02E12",
+							"title": "Desconhecidos",
 							"episodeNumber": 12,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/f8KF5Bp9l8xOTMNPMAsO9zXtSQC.jpg",
-							"description": "Episódio 12 da 2ª temporada.",
+							"description": "Michael e Sara unem forças com o antigo agente Kellerman para chantagear a Presidente dos Estados Unidos.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470722.mp4"
 						},
 						{
 							"id": "prison_break_s2_e13",
-							"title": "Prison Break: Em Busca Da Verdade S02E13",
+							"title": "O Homem dos Olhos de Caçador",
 							"episodeNumber": 13,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/1nfdYK2Xt4ORlLb887KcUDAyT2q.jpg",
-							"description": "Episódio 13 da 2ª temporada.",
+							"description": "Mahone encurrala os irmãos num armazém abandonado, enquanto T-Bag chantageia a sua antiga paixão e a respetiva família.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470723.mp4"
 						},
 						{
 							"id": "prison_break_s2_e14",
-							"title": "Prison Break: Em Busca Da Verdade S02E14",
+							"title": "Limalha e Ácido",
 							"episodeNumber": 14,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/7nZHTGOls6mMM7MLbYC2Hh9UphH.jpg",
-							"description": "Episódio 14 da 2ª temporada.",
+							"description": "Bellick é preso pelo assassinato de Geary e sofre nas mãos de prisioneiros sedentos de vingança em Fox River.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470724.mp4"
 						},
 						{
 							"id": "prison_break_s2_e15",
-							"title": "Prison Break: Em Busca Da Verdade S02E15",
+							"title": "Mensagem",
 							"episodeNumber": 15,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/tNVqdyl1jSoxAgs7NNTrgt73tkL.jpg",
-							"description": "Episódio 15 da 2ª temporada.",
+							"description": "Michael e Lincoln tentam descodificar uma mensagem enigmática deixada pelo seu pai, enquanto a perseguição de Mahone continua.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470725.mp4"
 						},
 						{
 							"id": "prison_break_s2_e16",
-							"title": "Prison Break: Em Busca Da Verdade S02E16",
+							"title": "Chicago",
 							"episodeNumber": 16,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/ArlG8hFg6rm4FmImPZKHUnvuEWT.jpg",
-							"description": "Episódio 16 da 2ª temporada.",
+							"description": "Michael e Sara viajam de comboio para Chicago com Kellerman, reencontrando surpresas e perigos ao longo do caminho.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470726.mp4"
 						},
 						{
 							"id": "prison_break_s2_e17",
-							"title": "Prison Break: Em Busca Da Verdade S02E17",
+							"title": "Mau Sangue",
 							"episodeNumber": 17,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/2FxTDM5XoLP0qKHR4s3UFrncPXu.jpg",
-							"description": "Episódio 17 da 2ª temporada.",
+							"description": "Segredos do passado de Mahone são revelados, enquanto Michael procura a ajuda de um velho amigo para decifrar a cassete.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470727.mp4"
 						},
 						{
 							"id": "prison_break_s2_e18",
-							"title": "Prison Break: Em Busca Da Verdade S02E18",
+							"title": "Cancun",
 							"episodeNumber": 18,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/sGpJDO4Oa4JFE2LmyqG8x83PkfI.jpg",
-							"description": "Episódio 18 da 2ª temporada.",
+							"description": "O plano para expor a conspiração avança, mas agentes do governo aproximam-se perigosamente de Michael e Sara.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470728.mp4"
 						},
 						{
 							"id": "prison_break_s2_e19",
-							"title": "Prison Break: Em Busca Da Verdade S02E19",
+							"title": "O Preço da Liberdade",
 							"episodeNumber": 19,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/vPl86rZOlluSHFlbsrpoFddtie3.jpg",
-							"description": "Episódio 19 da 2ª temporada.",
+							"description": "T-Bag tenta fugir com o dinheiro para o estrangeiro, mas a sua obsessão pela sua antiga família coloca-o em perigo iminente.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470729.mp4"
 						},
 						{
 							"id": "prison_break_s2_e20",
-							"title": "Prison Break: Em Busca Da Verdade S02E20",
+							"title": "Panamá",
 							"episodeNumber": 20,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/9ouE9ZAQmcRCLVdcRgMkKs6cT1G.jpg",
-							"description": "Episódio 20 da 2ª temporada.",
+							"description": "Michael, Lincoln e Mahone chegam finalmente ao Panamá, onde novas alianças e armadilhas os aguardam.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470730.mp4"
 						},
 						{
 							"id": "prison_break_s2_e21",
-							"title": "Prison Break: Em Busca Da Verdade S02E21",
+							"title": "Fin Del Camino",
 							"episodeNumber": 21,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/ziUmRwm7lFSWbruvIXloJaQsyMW.jpg",
-							"description": "Episódio 21 da 2ª temporada.",
+							"description": "A caça a T-Bag atinge o climax no Panamá, enquanto Michael e Mahone travam o seu confronto final.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470731.mp4"
 						},
 						{
 							"id": "prison_break_s2_e22",
-							"title": "Prison Break: Em Busca Da Verdade S02E22",
+							"title": "Sona",
 							"episodeNumber": 22,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/5eJCsOgHxB5uFmAGmjfH41SjhnB.jpg",
-							"description": "Episódio 22 da 2ª temporada.",
+							"description": "Michael acaba preso numa temida prisão panamenha chamada Sona, onde as regras de sobrevivência são brutais.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470732.mp4"
 						}
 					]
 				},
 				{
 					"number": 3,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFHaINf2kx4XHU5WsPcKZNqn6GC.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break%203.png",
 					"episodes": [
 						{
 							"id": "prison_break_s3_e1",
-							"title": "Prison Break: Em Busca Da Verdade S03E01",
+							"title": "Orientação",
 							"episodeNumber": 1,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/mFHaINf2kx4XHU5WsPcKZNqn6GC.jpg",
-							"description": "Episódio 1 da 3ª temporada.",
+							"description": "Michael tenta adaptar-se à violenta penitenciária de Sona e descobre que é forçado a planear outra fuga.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470733.mp4"
 						},
 						{
 							"id": "prison_break_s3_e2",
-							"title": "Prison Break: Em Busca Da Verdade S03E02",
+							"title": "Fogo de Artifício",
 							"episodeNumber": 2,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/xFHAW5XDmcDUYU4sE8KsPvjCpts.jpg",
-							"description": "Episódio 2 da 3ª temporada.",
+							"description": "Michael procura James Whistler em Sona, enquanto Lincoln tenta negociar a libertação dos reféns com a misteriosa organização \"A Companhia\".",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470734.mp4"
 						},
 						{
 							"id": "prison_break_s3_e3",
-							"title": "Prison Break: Em Busca Da Verdade S03E03",
+							"title": "Espera Escassa",
 							"episodeNumber": 3,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/qvltFe22fCFVmIsLQ5aynOg2UKc.jpg",
-							"description": "Episódio 3 da 3ª temporada.",
+							"description": "Michael tenta resolver o problema da escassez de água em Sona para obter informações cruciais de Whistler.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470735.mp4"
 						},
 						{
 							"id": "prison_break_s3_e4",
-							"title": "Prison Break: Em Busca Da Verdade S03E04",
+							"title": "Boa Sorte, Cumpadre",
 							"episodeNumber": 4,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/mKNXCPU6nNjshRga5fs8TSh2DGZ.jpg",
-							"description": "Episódio 4 da 3ª temporada.",
+							"description": "Sucre chega a Sona e ajuda Michael no seu complexo plano de fuga, enquanto Mahone lida com os seus demónios internos.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470736.mp4"
 						},
 						{
 							"id": "prison_break_s3_e5",
-							"title": "Prison Break: Em Busca Da Verdade S03E05",
+							"title": "Má Fama",
 							"episodeNumber": 5,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/loUrlgClL1zmVnph1fWSeYq9w1A.jpg",
-							"description": "Episódio 5 da 3ª temporada.",
+							"description": "Lincoln tenta resgatar LJ e Sara, mas um contratempo trágico abala emocionalmente os irmãos.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470737.mp4"
 						},
 						{
 							"id": "prison_break_s3_e6",
-							"title": "Prison Break: Em Busca Da Verdade S03E06",
+							"title": "Vasos Comunicantes",
 							"episodeNumber": 6,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/5W892drWT7g6MbADUsa1iWCPrWT.jpg",
-							"description": "Episódio 6 da 3ª temporada.",
+							"description": "Michael coordena um plano de comunicação arriscado com o exterior através de uma mensagem codificada.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470738.mp4"
 						},
 						{
 							"id": "prison_break_s3_e7",
-							"title": "Prison Break: Em Busca Da Verdade S03E07",
+							"title": "Coelhos e Pássaros",
 							"episodeNumber": 7,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/1SpOoCkp3tug4y3pSR34yNCfilN.jpg",
-							"description": "Episódio 7 da 3ª temporada.",
+							"description": "Mahone é chamado a depor e debate-se com a abstinência de drogas, enquanto Michael prepara a próxima fase do plano em Sona.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470739.mp4"
 						},
 						{
 							"id": "prison_break_s3_e8",
-							"title": "Prison Break: Em Busca Da Verdade S03E08",
+							"title": "Bang, The House",
 							"episodeNumber": 8,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/yaCg43U3IM1MAKFHtkZhSSq3hpE.jpg",
-							"description": "Episódio 8 da 3ª temporada.",
+							"description": "Uma falha de energia em Sona força Michael a avançar com a fuga antes do tempo previsto.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470740.mp4"
 						},
 						{
 							"id": "prison_break_s3_e9",
-							"title": "Prison Break: Em Busca Da Verdade S03E09",
+							"title": "Caçados",
 							"episodeNumber": 9,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/3RnZb5y8EPkwl7xg55jxjiSmFGG.jpg",
-							"description": "Episódio 9 da 3ª temporada.",
+							"description": "A tentativa de fuga sofre um revés dramático, obrigando Michael a repensar a sua estratégia por completo.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470741.mp4"
 						},
 						{
 							"id": "prison_break_s3_e10",
-							"title": "Prison Break: Em Busca Da Verdade S03E10",
+							"title": "A Arte do Negócio",
 							"episodeNumber": 10,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/vpfzpdq9nG85pMQpYScPK1Zwpye.jpg",
-							"description": "Episódio 10 da 3ª temporada.",
+							"description": "Michael lida com as exigências da Companhia para retirar Whistler de Sona a todo o custo.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470742.mp4"
 						},
 						{
 							"id": "prison_break_s3_e11",
-							"title": "Prison Break: Em Busca Da Verdade S03E11",
+							"title": "Risco Calculado",
 							"episodeNumber": 11,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/sNfYmjCrjdySjqWz4lGEpkguhEl.jpg",
-							"description": "Episódio 11 da 3ª temporada.",
+							"description": "Michael utiliza engenharia e pressão psicológica para abrir caminho através das defesas de Sona.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470743.mp4"
 						},
 						{
 							"id": "prison_break_s3_e12",
-							"title": "Prison Break: Em Busca Da Verdade S03E12",
+							"title": "Escalação",
 							"episodeNumber": 12,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/zMICJcH3qJC2CQQvV6mMaEvmww3.jpg",
-							"description": "Episódio 12 da 3ª temporada.",
+							"description": "A tensão dentro e fora de Sona atinge o auge enquanto os preparativos finais para a fuga são concluídos.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470744.mp4"
 						},
 						{
 							"id": "prison_break_s3_e13",
-							"title": "Prison Break: Em Busca Da Verdade S03E13",
+							"title": "Fim de Linha",
 							"episodeNumber": 13,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/a4FlhFHeB4zTT4GNzaq1UNj1Ro4.jpg",
-							"description": "Episódio 13 da 3ª temporada.",
+							"description": "A grande fuga de Sona é executada, mas nem tudo corre como planeado, deixando consequências devastadoras.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470745.mp4"
 						}
 					]
 				},
 				{
 					"number": 4,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gQemktoi0xe61MRDbmr5dsIbVQ.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break%204.png",
 					"episodes": [
 						{
 							"id": "prison_break_s4_e1",
-							"title": "Prison Break: Em Busca Da Verdade S04E01",
+							"title": "Cênula",
 							"episodeNumber": 1,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/2gQemktoi0xe61MRDbmr5dsIbVQ.jpg",
-							"description": "Episódio 1 da 4ª temporada.",
+							"description": "Michael reúne-se com uma equipa secreta do governo para destruir a organização 'A Companhia' de uma vez por todas.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470746.mp4"
 						},
 						{
-							"id": "prison_break_s4_e3",
-							"title": "Prison Break: Em Busca Da Verdade S04E03",
-							"episodeNumber": 3,
+							"id": "prison_break_s4_e2",
+							"title": "Invasão",
+							"episodeNumber": 2,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/9hBjKkIaMwDgi4VQqzxe9abFeBv.jpg",
-							"description": "Episódio 3 da 4ª temporada.",
+							"description": "A equipa infiltra-se num edifício altamente seguro para roubar o dispositivo de dados conhecido como 'Cila'.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470747.mp4"
 						},
 						{
-							"id": "prison_break_s4_e4",
-							"title": "Prison Break: Em Busca Da Verdade S04E04",
-							"episodeNumber": 4,
+							"id": "prison_break_s4_e3",
+							"title": "Desconexão",
+							"episodeNumber": 3,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/9z4WcRWthFEXEMFRBTrBfrx1w6O.jpg",
-							"description": "Episódio 4 da 4ª temporada.",
+							"description": "Michael e a equipa tentam recuperar partes adicionais de Cila enquanto evitam os agentes da Companhia.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470748.mp4"
 						},
 						{
-							"id": "prison_break_s4_e5",
-							"title": "Prison Break: Em Busca Da Verdade S04E05",
-							"episodeNumber": 5,
+							"id": "prison_break_s4_e4",
+							"title": "Águias e Anjos",
+							"episodeNumber": 4,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/8XAatpNwBB0GOfgZZcI7pXJyN1V.jpg",
-							"description": "Episódio 5 da 4ª temporada.",
+							"description": "Para aceder ao próximo cartão de Cila, a equipa infiltra-se num evento de gala beneficente.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470749.mp4"
 						},
 						{
-							"id": "prison_break_s4_e6",
-							"title": "Prison Break: Em Busca Da Verdade S04E06",
-							"episodeNumber": 6,
+							"id": "prison_break_s4_e5",
+							"title": "Substância",
+							"episodeNumber": 5,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/cYe7h6LWEx3xjUXZSK0GbT5nsuZ.jpg",
-							"description": "Episódio 6 da 4ª temporada.",
+							"description": "Michael lida com problemas de saúde graves enquanto a equipa tenta clonar mais um cartão de acesso.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470750.mp4"
 						},
 						{
-							"id": "prison_break_s4_e7",
-							"title": "Prison Break: Em Busca Da Verdade S04E07",
-							"episodeNumber": 7,
+							"id": "prison_break_s4_e6",
+							"title": "Mar de Negócios",
+							"episodeNumber": 6,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/gyoD7lfoZos3MTIdcpW2236sUfJ.jpg",
-							"description": "Episódio 7 da 4ª temporada.",
+							"description": "A operação para roubar Whistler e avançar com Cila coloca Mahone numa posição extremamente perigosa.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470751.mp4"
 						},
 						{
-							"id": "prison_break_s4_e8",
-							"title": "Prison Break: Em Busca Da Verdade S04E08",
-							"episodeNumber": 8,
+							"id": "prison_break_s4_e7",
+							"title": "Lágrimas de Caçador",
+							"episodeNumber": 7,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/uFmxAOgUQacoW5Z1hIMljRDRSSl.jpg",
-							"description": "Episódio 8 da 4ª temporada.",
+							"description": "Mahone vinga-se de quem destruiu a sua família, enquanto a equipa tenta manter o plano de Cila em curso.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470752.mp4"
 						},
 						{
-							"id": "prison_break_s4_e9",
-							"title": "Prison Break: Em Busca Da Verdade S04E09",
-							"episodeNumber": 9,
+							"id": "prison_break_s4_e8",
+							"title": "Preto e Azul",
+							"episodeNumber": 8,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/oMsY8jonPTz32YFqAePkrXUrLA4.jpg",
-							"description": "Episódio 9 da 4ª temporada.",
+							"description": "T-Bag tenta manter a sua nova identidade na Gate Corporation, enquanto a equipa enfrenta um novo assassino da Companhia.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470753.mp4"
 						},
 						{
-							"id": "prison_break_s4_e10",
-							"title": "Prison Break: Em Busca Da Verdade S04E10",
-							"episodeNumber": 10,
+							"id": "prison_break_s4_e9",
+							"title": "Cofre Fechado",
+							"episodeNumber": 9,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/9Ea4EtsNpuVC594IOOBR5fddRwd.jpg",
-							"description": "Episódio 10 da 4ª temporada.",
+							"description": "A equipa executa um plano arriscado para roubar o último pedaço de Cila de dentro do quartel-general da Companhia.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470754.mp4"
 						},
 						{
-							"id": "prison_break_s4_e11",
-							"title": "Prison Break: Em Busca Da Verdade S04E11",
-							"episodeNumber": 11,
+							"id": "prison_break_s4_e10",
+							"title": "Lenda",
+							"episodeNumber": 10,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/ewfheXLRlvCRMYoBar1R6GzzBcU.jpg",
-							"description": "Episódio 11 da 4ª temporada.",
+							"description": "Segredos sobre a mãe de Michael e Lincoln vêm à tona, alterando completamente o rumo da missão.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470755.mp4"
 						},
 						{
-							"id": "prison_break_s4_e12",
-							"title": "Prison Break: Em Busca Da Verdade S04E12",
-							"episodeNumber": 12,
+							"id": "prison_break_s4_e11",
+							"title": "Quase Lá",
+							"episodeNumber": 11,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/eGWb6avyyKyjRxo4SrJ59eiiDaQ.jpg",
-							"description": "Episódio 12 da 4ª temporada.",
+							"description": "Com Cila quase nas mãos, traições internas ameaçam destruir a equipa de Michael.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470756.mp4"
 						},
 						{
-							"id": "prison_break_s4_e13",
-							"title": "Prison Break: Em Busca Da Verdade S04E13",
-							"episodeNumber": 13,
+							"id": "prison_break_s4_e12",
+							"title": "Cura",
+							"episodeNumber": 12,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/54UxpQbYKDDpXZMK2O6V7o6ubjZ.jpg",
-							"description": "Episódio 13 da 4ª temporada.",
+							"description": "Michael submete-se a uma cirurgia médica crítica para salvar a sua vida, enquanto a Companhia tenta recuperar Cila.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470757.mp4"
 						},
 						{
-							"id": "prison_break_s4_e14",
-							"title": "Prison Break: Em Busca Da Verdade S04E14",
-							"episodeNumber": 14,
+							"id": "prison_break_s4_e13",
+							"title": "Acordo",
+							"episodeNumber": 13,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/a6LSuCiQTC53cPGNqJ2PhVtFM6B.jpg",
-							"description": "Episódio 14 da 4ª temporada.",
+							"description": "Alianças mudam drasticamente quando a mãe de Michael entra na disputa pelo controlo de Cila.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470758.mp4"
 						},
 						{
-							"id": "prison_break_s4_e15",
-							"title": "Prison Break: Em Busca Da Verdade S04E15",
-							"episodeNumber": 15,
+							"id": "prison_break_s4_e14",
+							"title": "Liberdade Condicional",
+							"episodeNumber": 14,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/j1RjXLsQPq0DshcO7O04uVJIVnH.jpg",
-							"description": "Episódio 15 da 4ª temporada.",
+							"description": "A perseguição a Cila intensifica-se com os irmãos em lados opostos de uma guerra familiar.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470759.mp4"
 						},
 						{
-							"id": "prison_break_s4_e16",
-							"title": "Prison Break: Em Busca Da Verdade S04E16",
-							"episodeNumber": 16,
+							"id": "prison_break_s4_e15",
+							"title": "Bons Poucos Homens",
+							"episodeNumber": 15,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/r0p9UMOVZtHkgq7uAAfQA6Ewu0h.jpg",
-							"description": "Episódio 16 da 4ª temporada.",
+							"description": "Michael tenta resgatar Sara e impedir que a sua mãe venda Cila ao melhor licitante internacional.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470760.mp4"
 						},
 						{
-							"id": "prison_break_s4_e17",
-							"title": "Prison Break: Em Busca Da Verdade S04E17",
-							"episodeNumber": 17,
+							"id": "prison_break_s4_e16",
+							"title": "A Solução",
+							"episodeNumber": 16,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/eAcHEa8EMuLeo9WH8Fau9DXzsVF.jpg",
-							"description": "Episódio 17 da 4ª temporada.",
+							"description": "O confronto final pelo controlo de Cila e pela liberdade da família Scofield atinge o seu clímax dramático.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470761.mp4"
 						},
 						{
-							"id": "prison_break_s4_e18",
-							"title": "Prison Break: Em Busca Da Verdade S04E18",
-							"episodeNumber": 18,
+							"id": "prison_break_s4_e17",
+							"title": "A Mãe",
+							"episodeNumber": 17,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/xuroAkXAlGnHXrRsFY5eCppDFzR.jpg",
-							"description": "Episódio 18 da 4ª temporada.",
+							"description": "Flashbacks e confrontos diretos revelam o verdadeiro passado da família e o papel de Cristina Scofield na conspiração.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470762.mp4"
 						},
 						{
-							"id": "prison_break_s4_e19",
-							"title": "Prison Break: Em Busca Da Verdade S04E19",
-							"episodeNumber": 19,
+							"id": "prison_break_s4_e18",
+							"title": "Fim de Jogo",
+							"episodeNumber": 18,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/wABDmPQ6azbS62AnIqu5GLkuFRP.jpg",
-							"description": "Episódio 19 da 4ª temporada.",
+							"description": "Tudo converge para um desfecho tenso enquanto os últimos obstáculos à queda da Companhia são eliminados.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470763.mp4"
 						},
 						{
-							"id": "prison_break_s4_e20",
-							"title": "Prison Break: Em Busca Da Verdade S04E20",
-							"episodeNumber": 20,
+							"id": "prison_break_s4_e19",
+							"title": "S.O.S.",
+							"episodeNumber": 19,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/fTha4ieHNSwadoNEdPxONrnLTQQ.jpg",
-							"description": "Episódio 20 da 4ª temporada.",
+							"description": "A equipa une esforços numa última tentativa para salvar Sara e recuperar o dispositivo.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470764.mp4"
 						},
 						{
-							"id": "prison_break_s4_e21",
-							"title": "Prison Break: Em Busca Da Verdade S04E21",
-							"episodeNumber": 21,
+							"id": "prison_break_s4_e20",
+							"title": "Liberdade",
+							"episodeNumber": 20,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/AvlGIjrLMsMPHuSRi0Jwu5GtEHI.jpg",
-							"description": "Episódio 21 da 4ª temporada.",
+							"description": "Os crimes do passado são perdoados e a liberdade parece finalmente ao alcance de todos.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470765.mp4"
 						},
 						{
-							"id": "prison_break_s4_e22",
-							"title": "Prison Break: Em Busca Da Verdade S04E22",
-							"episodeNumber": 22,
+							"id": "prison_break_s4_e21",
+							"title": "Baixo e Para Fora",
+							"episodeNumber": 21,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/5a4gEiDFk1IYjCUCh41grh8QBgg.jpg",
-							"description": "Episódio 22 da 4ª temporada.",
+							"description": "Os momentos finais antes do desfecho definitivo e da resolução de todas as pontas soltas da série.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470766.mp4"
 						},
 						{
-							"id": "prison_break_s4_e23",
-							"title": "Prison Break: Em Busca Da Verdade S04E23",
-							"episodeNumber": 23,
-							"thumbUrl": "http://lgfp.one/GTD8",
-							"description": "Episódio 23 da 4ª temporada.",
+							"id": "prison_break_s4_e22",
+							"title": "Matando o Boi",
+							"episodeNumber": 22,
+							"thumbUrl": "http://image.tmdb.org/t/p/w300/j1RjXLsQPq0DshcO7O04uVJIVnH.jpg",
+							"description": "Episódio final da 4ª temporada que encerra a saga principal com um salto temporal dramático.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470767.mp4"
 						}
 					]
 				},
 				{
 					"number": 5,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break%205.png",
 					"episodes": [
 						{
 							"id": "prison_break_s5_e1",
-							"title": "Prison Break: Em Busca Da Verdade S05E01",
+							"title": "O OGYGIA",
 							"episodeNumber": 1,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
-							"description": "Episódio 1 da 5ª temporada.",
+							"description": "Anos após os eventos da 4ª temporada, T-Bag entrega a Lincoln pistas de que Michael pode afinal estar vivo numa prisão no Iémen.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470768.mp4"
 						},
 						{
 							"id": "prison_break_s5_e2",
-							"title": "Prison Break: Em Busca Da Verdade S05E02",
+							"title": "Kaniel Outis",
 							"episodeNumber": 2,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/iIWt0XSI5lf8JzfZovyEd9EOdep.jpg",
-							"description": "Episódio 2 da 5ª temporada.",
-							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470769.mp4"
+							"description": "Lincoln viaja para o Iémen em guerra civil e descobre que Michael assume agora uma nova identidade e nega conhecê-lo.",
+							"streamUrl": "http://64.31.23.207:80/services/96795792/50165825/5470769.mp4"
 						},
 						{
 							"id": "prison_break_s5_e3",
-							"title": "Prison Break: Em Busca Da Verdade S05E03",
+							"title": "Falsa Ficha",
 							"episodeNumber": 3,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/y8YPPydBfZeVG4Lk9wHyKC8NTAi.jpg",
-							"description": "Episódio 3 da 5ª temporada.",
+							"description": "Michael prepara a sua fuga da prisão de Ogygia enquanto o país colapsa devido aos combates externos.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470770.mp4"
 						},
 						{
 							"id": "prison_break_s5_e4",
-							"title": "Prison Break: Em Busca Da Verdade S05E04",
+							"title": "Prisioneiro 213",
 							"episodeNumber": 4,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/wDCQJ8AFqHFmSmytw3zwQb6Yzrk.jpg",
-							"description": "Episódio 4 da 5ª temporada.",
+							"description": "Lincoln e C-Note tentam retirar Michael e os seus companheiros de cela antes que os rebeldes invadam a prisão.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470771.mp4"
 						},
 						{
 							"id": "prison_break_s5_e5",
-							"title": "Prison Break: Em Busca Da Verdade S05E05",
+							"title": "Conto de Fadas",
 							"episodeNumber": 5,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/mmn4lNsoelI97AJpJpPBaTss3M8.jpg",
-							"description": "Episódio 5 da 5ª temporada.",
+							"description": "O grupo foge pelo deserto iemenita enquanto enfrenta perseguidores implacáveis ligados a Poseidon.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470772.mp4"
 						},
 						{
 							"id": "prison_break_s5_e6",
-							"title": "Prison Break: Em Busca Da Verdade S05E06",
+							"title": "Ponto de Interrogação",
 							"episodeNumber": 6,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/kbYBABw81gnyTPpBAl4MRnCwFUA.jpg",
-							"description": "Episódio 6 da 5ª temporada.",
+							"description": "Michael descobre a verdadeira identidade de Poseidon e tenta encontrar uma forma de proteger a sua família.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470773.mp4"
 						},
 						{
 							"id": "prison_break_s5_e7",
-							"title": "Prison Break: Em Busca Da Verdade S05E07",
+							"title": "A Prova",
 							"episodeNumber": 7,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/zeKnUr0NXeLlb8NrC0UJSa8Alsb.jpg",
-							"description": "Episódio 7 da 5ª temporada.",
+							"description": "Michael elabora um plano engenhoso para encurralar Poseidon em solo americano.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470774.mp4"
 						},
 						{
 							"id": "prison_break_s5_e8",
-							"title": "Prison Break: Em Busca Da Verdade S05E08",
+							"title": "Espelho",
 							"episodeNumber": 8,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/rJjw5noJPUdZ3XiNaIqbnDoT8eA.jpg",
-							"description": "Episódio 8 da 5ª temporada.",
+							"description": "O confronto final entre Michael Scofield e Poseidon decidi o destino de todos os envolvidos.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470775.mp4"
 						},
 						{
 							"id": "prison_break_s5_e9",
-							"title": "Prison Break: Em Busca Da Verdade S05E09",
+							"title": "Trabalho de Adeus",
 							"episodeNumber": 9,
 							"thumbUrl": "http://image.tmdb.org/t/p/w300/d21YkZrWDPGXzqvM4PVqWwU0vJN.jpg",
-							"description": "Episódio 9 da 5ª temporada.",
+							"description": "Episódio final da série, onde Michael obtém finalmente o perdão total e a paz com a sua família.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5470776.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "the_good_wife",
+			"title": "The Good Wife",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/TGWiLogo.png",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/images.jpeg",
+			"backdropUrl": "https://media.newyorker.com/photos/590976dd019dfc3494ea2d8f/master/w_1920,c_limit/Rothman-WhatWasTheGoodWifeReallyAbout.jpg",
+			"seasonsInfo": "4 Temporadas",
+			"description": "Depois de um escândalo público e político envolvendo o seu marido Peter, Alicia Florrick retoma a sua carreira de advogada para sustentar os seus filhos e reconstruir a sua vida em Chicago.",
+			"year": "2009",
+			"genre": "Drama, Crime, Mistério",
+			"lastEpisodeInfo": "Temporada 4, Episódio 11",
+			"trailerYoutubeId": "kT_eK4v6wVc",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/TheGoodWife01.png",
+					"episodes": [
+						{
+							"id": "the_good_wife_s1_e1",
+							"title": "Piloto",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Depois de um escândalo público envolvendo o seu marido, Alicia Florrick retoma a sua carreira de advogada para sustentar os filhos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232710.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e2",
+							"title": "Cortina de Fumo",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia defende um homem acusado de assassinar a esposa, enquanto tenta lidar com a pressão da imprensa sobre a sua família.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232711.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e3",
+							"title": "Reação em Cadeia",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório assume o caso de um médico acusado de negligência que pode estar ligado a uma conspiração maior.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232712.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e4",
+							"title": "Conflito de Interesses",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia e Cary concorrem pelo mesmo cargo permanente na firma enquanto preparam um caso de difamação online.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232713.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e5",
+							"title": "Liberdade Condicional",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia trabalha num caso de violação de liberdade condicional que envolve antigos conhecidos de Peter.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232714.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e6",
+							"title": "Conspiração",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório defende um ativista preso injustamente, testando os limites da legalidade e da ética.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232715.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e7",
+							"title": "Juiz Imparcial",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia lida com um juiz notoriamente difícil num caso de responsabilidade civil contra uma grande farmacêutica.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232716.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e8",
+							"title": "Fora do Ar",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um locutor de rádio polémico é processado por difamação, e a equipa jurídica tenta encontrar brechas na liberdade de expressão.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232717.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e9",
+							"title": "Mau Negócio",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório lida com um executivo de tecnologia corrupto e pressões externas do Ministério Público.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232718.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e10",
+							"title": "Propriedade Intelectual",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Dois programadores disputam os direitos de um algoritmo revolucionário num tribunal de patentes.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232719.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e11",
+							"title": "Assassino ao Volante",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia defende um motorista de autocarro num acidente trágico enquanto investiga falhas mecânicas ocultas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232720.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e12",
+							"title": "Danos Colaterais",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Uma empresa de segurança privada é processada por abusos numa zona de conflito internacional.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232721.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e13",
+							"title": "Bad Girls",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia representa uma jovem estrela pop envolvida num homicídio involuntário.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232722.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e14",
+							"title": "Segredos de Família",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O passado de Peter volta a assombrar a família quando segredos financeiros são revelados em tribunal.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232723.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e15",
+							"title": "Verdade Nua e Crua",
+							"episodeNumber": 15,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um documentário sobre o escritório coloca em risco a confidencialidade de um cliente importante.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232724.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e16",
+							"title": "Tentativa de Suborno",
+							"episodeNumber": 16,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia lida com acusações de suborno num julgamento de grande visibilidade contra um cartel.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232725.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e17",
+							"title": "Acordo de Confidencialidade",
+							"episodeNumber": 17,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Uma antiga funcionária processa um magnata da tecnologia por quebra de contrato e assédio.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232726.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e18",
+							"title": "Divididos",
+							"episodeNumber": 18,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Conflitos de interesses forçam os advogados a dividir testemunhas e estratégias perigosas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232727.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e19",
+							"title": "Guerra Fria",
+							"episodeNumber": 19,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Investigadores russos e americanos disputam provas num caso complexo de espionagem industrial.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232728.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e20",
+							"title": "Imunidade",
+							"episodeNumber": 20,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Peter procura obter imunidade total enquanto Alicia lida com um dilema ético no tribunal.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232729.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e21",
+							"title": "Retaliação",
+							"episodeNumber": 21,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório enfrenta represálias diretas após vencer um processo milionário contra uma corporação corrupta.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232730.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e22",
+							"title": "Escolhas",
+							"episodeNumber": 22,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "No final da primeira temporada, Alicia enfrenta decisões cruciais sobre a sua carreira, o seu casamento e o seu futuro no escritório.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232731.mp4"
+						},
+						{
+							"id": "the_good_wife_s1_e23",
+							"title": "Consequências",
+							"episodeNumber": 23,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "As repercussões das escolhas de Alicia ecoam por todo o escritório, alterando alianças profissionais e pessoais.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232732.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/TheGoodWife02.png",
+					"episodes": [
+						{
+							"id": "the_good_wife_s2_e1",
+							"title": "Novas Regras",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "A segunda temporada começa com o escritório a reorganizar-se após as recentes saídas e a chegada de novos parceiros.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232733.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e2",
+							"title": "Círculo Fechado",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia lida com um caso de homicídio envolvendo uma fraternidade universitária.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232734.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e3",
+							"title": "Inimigos Íntimos",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia cruza-se novamente com antigos aliados num julgamento sobre patentes médicas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232735.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e4",
+							"title": "Prova Circunstancial",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório defende um cliente acusado injustamente com base em evidências digitais manipuladas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232736.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e5",
+							"title": "Em Defesa Própria",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um caso de legítima defesa coloca Alicia contra uma promotora implacável.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232737.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e6",
+							"title": "Herança Maldita",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Disputas familiares por uma herança milionária revelam segredos escuros e traições.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232738.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e7",
+							"title": "Crise de Consciência",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia é colocada perante um dilema ético ao defender um cliente culpado de um crime grave.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232739.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e8",
+							"title": "Jogo de Poder",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "A campanha política de Peter afeta diretamente as decisões profissionais de Alicia no tribunal.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232740.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e9",
+							"title": "Vítima do Sistema",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um tribunal militar investiga um soldado acusado de deserção em zona de combate.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232741.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e10",
+							"title": "Ponto de Ebulição",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "As tensões no escritório atingem o limite durante a negociação de uma fusão complexa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232742.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e11",
+							"title": "Sindicato do Crime",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório aceita defender um informador ligado ao crime organizado de Chicago.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232743.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e12",
+							"title": "Falso Testemunho",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Uma testemunha-chave mente em tribunal, obrigando a equipa a encontrar novas provas rapidamente.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232744.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e13",
+							"title": "Erro Médico",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia defende um hospital num caso delicado de erro cirúrgico e negligência.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232745.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e14",
+							"title": "Aviso Prévio",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um executivo é demitido injustamente após denunciar práticas ilegais na sua empresa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232746.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e15",
+							"title": "Colisão",
+							"episodeNumber": 15,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um acidente de viação de grandes proporções resulta num julgamento colectivo complexo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232747.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e16",
+							"title": "Assédio Moral",
+							"episodeNumber": 16,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia representa uma funcionária pública num caso de assédio laboral contra um político influente.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232748.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e17",
+							"title": "Segredos de Estado",
+							"episodeNumber": 17,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Informações classificadas entram em conflito com a liberdade de imprensa num julgamento federal.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232749.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e18",
+							"title": "Acordo Perigoso",
+							"episodeNumber": 18,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um acordo de confidencialidade ameaça silenciar uma vítima de fraude corporativa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232750.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e19",
+							"title": "Conspiração Policial",
+							"episodeNumber": 19,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "A equipa investiga corrupção sistémica dentro do departamento de polícia local.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232751.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e20",
+							"title": "Revisão de Sentença",
+							"episodeNumber": 20,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um antigo caso de Peter volta a ser analisado em tribunal, gerando tensão na família Florrick.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232752.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e21",
+							"title": "Dívida de Jogo",
+							"episodeNumber": 21,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um cliente com dívidas de jogo avultadas coloca a firma numa situação financeira delicada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232753.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e22",
+							"title": "Último Recurso",
+							"episodeNumber": 22,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório enfrenta um dos maiores desafios jurídicos da sua história em tribunal aberto.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232754.mp4"
+						},
+						{
+							"id": "the_good_wife_s2_e23",
+							"title": "Revelações",
+							"episodeNumber": 23,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "No final da segunda temporada, segredos profissionais e pessoais são revelados, mudando o rumo da firma.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232755.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/TheGoodWife03.png",
+					"episodes": [
+						{
+							"id": "the_good_wife_s3_e1",
+							"title": "Aviso de Incêndio",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "A terceira temporada arranca com o escritório a gerir crises internas após as reviravoltas recentes.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232756.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e2",
+							"title": "O Custo da Justiça",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia representa uma mulher acusada de matar o marido abusivo em circunstâncias controversas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232757.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e3",
+							"title": "Batalha de Titãs",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Dois gigantes corporativos entram em litígio e contratam as firmas rivais de Chicago.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232758.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e4",
+							"title": "Prova Oculta",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "A equipa descobre que provas cruciais foram escondidas pela acusação num julgamento anterior.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232759.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e5",
+							"title": "Julgamento Simulado",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um tribunal simulado interno revela rivalidades profundas entre os advogados juniores.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232760.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e6",
+							"title": "Invasão de Privacidade",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Uma falha de segurança informática expõe dados confidenciais de clientes importantes.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232761.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e7",
+							"title": "Morte Súbita",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O falecimento repentino de um magistrado altera o rumo de um processo em andamento.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232762.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e8",
+							"title": "Acordo de Paz",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia tenta mediar um acordo complexo entre dois sócios em litígio empresarial.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232763.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e9",
+							"title": "Fraude Eleitoral",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Investigações sobre fraude eleitoral tocam indirectamente na campanha de Peter.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232764.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e10",
+							"title": "Conflito Familiar",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia lida com problemas familiares urgentes enquanto prepara uma defesa crucial para o dia seguinte.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232765.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e11",
+							"title": "Testemunha Protegida",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Uma testemunha-chave entra no programa de protecção, dificultando o trabalho da defesa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232766.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e12",
+							"title": "Erro de Procedimento",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um erro burocrático de procedimento ameaça invalidar meses de investigações.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232767.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e13",
+							"title": "Batalha Jurídica",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório defende um ativista internacional num tribunal federal de imigração.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232768.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e14",
+							"title": "Acusação Cruzada",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Advogados e promotores cruzam acusações num caso de corrupção policial.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232769.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e15",
+							"title": "Verdade Oculta",
+							"episodeNumber": 15,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia descobre factos surpreendentes sobre o passado de um cliente corporativo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232770.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e16",
+							"title": "Sentença Final",
+							"episodeNumber": 16,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um veredito inesperado muda o destino de um dos réus mais emblemáticos da temporada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232771.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e17",
+							"title": "Crise Financeira",
+							"episodeNumber": 17,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Problemas de liquidez forçam a liderança a tomar decisões difíceis sobre os salários da equipa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232772.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e18",
+							"title": "Conspiração Corporativa",
+							"episodeNumber": 18,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Uma auditoria externa revela irregularidades financeiras graves numa empresa cliente.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232773.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e19",
+							"title": "Linha Vermelha",
+							"episodeNumber": 19,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia cruza limites profissionais para proteger os seus filhos de uma ameaça iminente.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232774.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e20",
+							"title": "Dilema Moral",
+							"episodeNumber": 20,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um caso de adopção internacional testa a moralidade e a ética dos advogados envolvidos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232775.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e21",
+							"title": "Caminhos Cruzados",
+							"episodeNumber": 21,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Antigas paixões e rivalidades profissionais convergem num julgamento de grande repercussão.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232776.mp4"
+						},
+						{
+							"id": "the_good_wife_s3_e22",
+							"title": "Decisões Críticas",
+							"episodeNumber": 22,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "No final da terceira temporada, Alicia toma uma decisão definitiva sobre a sua vida pessoal e profissional.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232777.mp4"
+						}
+					]
+				},
+				{
+					"number": 4,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/TheGoodWife04.png",
+					"episodes": [
+						{
+							"id": "the_good_wife_s4_e1",
+							"title": "Reestruturação",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "A quarta temporada começa com a firma sob intervenção financeira e a lutar contra a bancarrota.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232778.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e2",
+							"title": "Crise de Liquidez",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Os administradores judiciais impõem regras restrictivas ao funcionamento diário do escritório.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232779.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e3",
+							"title": "Acordo Corporativo",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia negocia um contrato empresarial complexo para salvar uma grande conta da firma.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232780.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e4",
+							"title": "Ameaça Externa",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Concorrentes tentam aliciar os melhores talentos do escritório em dificuldades.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232781.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e5",
+							"title": "Julgamento Sumário",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Um caso de difamação online toma rumos inesperados durante as audiências preliminares.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232782.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e6",
+							"title": "Segredos Bancários",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Investigações sobre contas offshore colocam a administração judicial sob pressão.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232783.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e7",
+							"title": "Conflito de Classes",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia representa trabalhadores fabris num litígio laboral contra uma multinacional.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232784.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e8",
+							"title": "Batalha Política",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "A campanha de Peter enfrenta novos escândalos mediáticos na reta final das eleições.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232785.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e9",
+							"title": "Acusação de Corrupção",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "O escritório defende um político local acusado de desvio de fundos públicos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232786.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e10",
+							"title": "Negociação Difícil",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Acordos de última hora testam a paciência e a resiliência dos sócios da firma.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232787.mp4"
+						},
+						{
+							"id": "the_good_wife_s4_e11",
+							"title": "Prova de Fidelidade",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/d2kFoQpYTFMp5OI55OIwi7cn4Qe.jpg",
+							"description": "Alicia e os seus colegas enfrentam um teste crítico de lealdade enquanto novos sócios tentam assumir o controlo das decisões judiciais.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232788.mp4"
 						}
 					]
 				}
@@ -5385,7 +6056,7 @@
 			"seasons": [
 				{
 					"number": 1,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8VzyiIRCOslX94rFPhkNuJPjl3.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-01.png",
 					"episodes": [
 						{
 							"id": "seal_team_s1_e1",
@@ -5567,7 +6238,7 @@
 				},
 				{
 					"number": 2,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqnGvxBkUFzwuZgHcdcZTqAygNw.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-02.png",
 					"episodes": [
 						{
 							"id": "seal_team_s2_e1",
@@ -5749,7 +6420,7 @@
 				},
 				{
 					"number": 3,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rJ1LH003APwHgdhJiyd0qWG4WW.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-03.png",
 					"episodes": [
 						{
 							"id": "seal_team_s3_e1",
@@ -5907,7 +6578,7 @@
 				},
 				{
 					"number": 4,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8raKTaiYxk9440Q1y0HQ3YV8ZY.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-04.png",
 					"episodes": [
 						{
 							"id": "seal_team_s4_e1",
@@ -6041,7 +6712,7 @@
 				},
 				{
 					"number": 5,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSBn3SLDN8TykDjW1eC9Zo2TlPN.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-05.png",
 					"episodes": [
 						{
 							"id": "seal_team_s5_e1",
@@ -6159,7 +6830,7 @@
 				},
 				{
 					"number": 6,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkPXP9RZ3vjhBquR8BWk2kyx7oU.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-06.png",
 					"episodes": [
 						{
 							"id": "seal_team_s6_e1",
@@ -6245,7 +6916,7 @@
 				},
 				{
 					"number": 7,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5HgsHJMhqy4gqwztJThZrbUWsD.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-07.png",
 					"episodes": [
 						{
 							"id": "seal_team_s7_e1",
