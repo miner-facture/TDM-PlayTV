@@ -3251,7 +3251,7 @@
 	"series": [
 		{
 			"id": "suits",
-			"title": "Suits",
+			"title": "",
 			"titleLogoUrl": "https://www.freelogovectors.net/wp-content/uploads/2022/01/suits-logo-freelogovectors.net_.png",
 			"coverUrl": "https://m.media-amazon.com/images/I/81Tw+A9i8VL._AC_UF894,1000_QL80_.jpg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/suits-wallpaper.jpg",
@@ -4392,7 +4392,7 @@
 		},
 		{
 			"id": "the_pitt",
-			"title": "The Pitt",
+			"title": "",
 			"titleLogoUrl": "https://image.tmdb.org/t/p/original/qtzfeORigY7voqsk78gVgvTec9B.png",
 			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMThjMjYxM2YtM2IzZC00NDdmLThiNDYtNzEyNzA0YTRmYTk3XkEyXkFqcGc@._V1_.jpg",
 			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMjliOWU3MjMtYWM2Yy00OWFkLWEzZmMtYzM1MDAzZjAyOTRhXkEyXkFqcGc@._V1_.jpg",
@@ -4627,7 +4627,7 @@
 		},
 		{
 			"id": "prison_break",
-			"title": "Prison Break: Em Busca Da Verdade",
+			"title": "",
 			"titleLogoUrl": "https://image.tmdb.org/t/p/original/wxZ5vVPz5VYEjrtiLv7flmCgU9t.png",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break.png",
 			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
@@ -5376,8 +5376,8 @@
 		},
 		{
 			"id": "the_good_wife",
-			"title": "The Good Wife",
-			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/TGWiLogo.png",
+			"title": "",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/The_Good_Wife_29_logo.png",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/images.jpeg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/thumb-1920-803864.jpg",
 			"seasonsInfo": "4 Temporadas",
