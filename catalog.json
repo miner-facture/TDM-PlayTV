@@ -836,17 +836,11 @@
 			"name": "AMC",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/amc.png",
-			"streamUrl": "https://d2-0211.cdnvipcanais.xyz/amc/index.m3u8",
-			"headers": {
-				"Referer": "https://vipcanais.net/",
-				"Origin": "https://vipcanais.net",
-				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-				"sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Avast Secure Browser\";v=\"150\"",
-				"sec-ch-ua-mobile": "?1",
-				"sec-ch-ua-platform": "\"Android\"",
-				"sec-fetch-mode": "cors",
-				"sec-fetch-site": "cross-site"
-			},
+			"streamUrl": "http://170.83.49.66:8083/AMCHD/index.m3u8",
+			"currentProgram": "",
+			"nextProgram": "",
+			"description": "Canal focado nos melhores filmes de ação, suspense e grandes produções de cinema.",
+			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "AMC.br",
@@ -1168,25 +1162,16 @@
 			"name": "UNIVERSAL TV",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/universaltv.png",
-			"streamUrl": "https://d2-0211.cdnvipcanais.xyz/universaltv/index.m3u8",
+			"streamUrl": "http://187.102.210.46/universo/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
-			"description": "",
-			"headers": {
-				"Referer": "https://vipcanais.net/",
-				"Origin": "https://vipcanais.net",
-				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-				"sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Avast Secure Browser\";v=\"150\"",
-				"sec-ch-ua-mobile": "?1",
-				"sec-ch-ua-platform": "\"Android\"",
-				"sec-fetch-mode": "cors",
-				"sec-fetch-site": "cross-site"
-			},
+			"description": "Canal focado nos melhores filmes de ação, suspense e grandes produções de cinema.",
+			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
-			"epgId": "Universal.br",
-			"tvgId": "Universal.br",
-			"channelNumber": "301",
+			"epgId": "AXNMovies.pt",
+			"tvgId": "AXNMovies.pt",
+			"channelNumber": "104",
 			"backdropUrl": ""
 		},
 		{
@@ -1237,20 +1222,11 @@
 			"name": "AXN",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/axn.png",
-			"streamUrl": "https://d2-0211.cdnvipcanais.xyz/axn/index.m3u8",
+			"streamUrl": "http://170.83.16.50/AXN/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
-			"description": "",
-			"headers": {
-				"Referer": "https://vipcanais.net/",
-				"Origin": "https://vipcanais.net",
-				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-				"sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Avast Secure Browser\";v=\"150\"",
-				"sec-ch-ua-mobile": "?1",
-				"sec-ch-ua-platform": "\"Android\"",
-				"sec-fetch-mode": "cors",
-				"sec-fetch-site": "cross-site"
-			},
+			"description": "Canal focado nos melhores filmes de ação, suspense e grandes produções de cinema.",
+			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "AXN.br",
@@ -2240,6 +2216,149 @@
 		}
 	],
 	"movies": [
+		{
+			"id": "40988",
+			"title": "Paulo - O Apostolo de Cristo",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/playlistLogoImage.png",
+			"year": "2018",
+			"genre": "⭐Religiosos",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DPz4InO3UUY94l2PT1jH6PsPFe.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/pauloapostulo.png",
+			"description": "Paulo, que passa de maior perseguidor dos Cristãos ao mais influente apóstolo de Cristo, passa os seus últimos dias aguardando a sua execução pelo imperador Nero, em Roma. Paulo está sobre constante vigilância de Mauricio, ambicioso diretor da prisão de Marmetine , que procura entender como esse homem velho e doente pode ser uma ameaça.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40988.mp4"
+		},
+		{
+			"id": "40991",
+			"title": "Paulo de Tarso e A História do Cristianismo Primitivo",
+			"titleLogoUrl": "",
+			"year": "2019",
+			"genre": "⭐Religiosos",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO7r7zgi5NU6I0pXf4jCSPRvHyU.jpg",
+			"backdropUrl": "",
+			"description": "Esta é a história de Saulo, o perseguidor de Cristo que, encontrando o Mestre no caminho, se entrega totalmente a Jesus, dedicando o resto da sua vida e das suas forças a divulgar a Boa Nova de Cristo.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40991.mp4"
+		},
+		{
+			"id": "40996",
+			"title": "Pedro A Redenção",
+			"titleLogoUrl": "",
+			"year": "2016",
+			"genre": "⭐Religiosos",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gW6hVcJAI4mCYvGhERDBK4PHsjn.jpg",
+			"backdropUrl": "",
+			"description": "Após negar Jesus, seu melhor amigo, Pedro tem uma nova chance para conquistar a redenção. Ele, que caminhou com Cristo e testemunhou seus milagres, agora precisa tomar sua própria cruz para provar sua fé.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40996.mp4"
+		},
+		{
+			"id": "5716759",
+			"title": "Quarto De Guerra",
+			"titleLogoUrl": "https://quartodeguerra.com.br/_images/resources_logo.png",
+			"year": "2015",
+			"genre": "⭐Religiosos",
+			"coverUrl": "http://image.tmdb.org/t/p/w300/kyssvvCXc13c9VC7QTWjRo12FyE.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/quarto-wad.jpg",
+			"description": "Tony e Elizabeth vivem um duelo interminável, até que a senhora Clara, uma nova cliente de Elizabeth, a desafia a guerrear pela sua família. Por meio da oração, ela permite que Deus batalhe por seu lar.",
+			"streamUrl": "http://64.31.23.207:80/movie/96795792/50165825/5716759.mp4"
+		},
+		{
+			"id": "5716717",
+			"title": "A Paixão De Cristo",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/paixao-cristo.png",
+			"year": "2004",
+			"genre": "⭐Religiosos",
+			"coverUrl": "http://image.tmdb.org/t/p/w300/ptGYQgdYCR8GVMVjpJ8QNJSxlkf.jpg",
+			"backdropUrl": "",
+			"description": "Nesta versão da crucificação de Cristo baseada no Novo Testamento, Judas agiliza a queda de Jesus entregando-o a oficiais do Império Romano escolhidos a dedo. Para horror de sua mãe Maria, de Madalena e de seus discípulos, Jesus é condenado à morte.",
+			"streamUrl": "http://64.31.23.207:80/movie/96795792/50165825/5716717.mp4"
+		},
+		{
+			"id": "70578",
+			"title": "Downton Abbey",
+			"titleLogoUrl": "",
+			"year": "",
+			"genre": "DRAMA",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr3VU1spstT79VIddR08JjJ7r0Z.jpg",
+			"backdropUrl": "",
+			"description": "",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70578.mp4"
+		},
+		{
+			"id": "70583",
+			"title": "Downton Abbey II Uma Nova Era",
+			"titleLogoUrl": "",
+			"year": "",
+			"genre": "DRAMA",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbYN97IJhezFG9bGnSSG42Cz3lm.jpg",
+			"backdropUrl": "",
+			"description": "",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70583.mp4"
+		},
+		{
+			"id": "43220",
+			"title": "Um Porto Seguro",
+			"titleLogoUrl": "",
+			"year": "",
+			"genre": "Romance",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi14xLvfgZRjhKDBe5JKlOdn0QQ.jpg",
+			"backdropUrl": "",
+			"description": "",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43220.mp4"
+		},
+		{
+			"id": "43244",
+			"title": "Uma Esposa de Mentira",
+			"titleLogoUrl": "",
+			"year": "",
+			"genre": "Comendia",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ntE6vmMzz7DpuWq9tfVgH28nRZ.jpg",
+			"backdropUrl": "",
+			"description": "",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43244.mp4"
+		},
+		{
+			"id": "22996",
+			"title": "A Rede Social",
+			"titleLogoUrl": "",
+			"year": "",
+			"genre": "Drama",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FULGtzNuDSYkc4Ndopn21UC3M9.jpg",
+			"backdropUrl": "",
+			"description": "",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22996.mp4"
+		},
+		{
+			"id": "31800",
+			"title": "Steve Jobs",
+			"titleLogoUrl": "",
+			"year": "",
+			"genre": "Drama",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+			"backdropUrl": "",
+			"description": "",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31800.mp4"
+		},
+		{
+			"id": "31809",
+			"title": "Steve",
+			"titleLogoUrl": "",
+			"year": "",
+			"genre": "Drama",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwfSpSF5h0De9kvrQYflEWasin4.jpg",
+			"backdropUrl": "",
+			"description": "",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31809.mp4"
+		},
+		{
+			"id": "25317",
+			"title": "Diamante de Sangue",
+			"titleLogoUrl": "",
+			"year": "",
+			"genre": "FILMES | Drama",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPxJvcZJiuDdYCUzwCbOCzsKAOf.jpg",
+			"backdropUrl": "",
+			"description": "",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25317.mp4"
+		},
 		{
 			"id": "m38",
 			"title": "Túmulo dos Vagalumes",
@@ -3254,7 +3373,7 @@
 			"title": "",
 			"titleLogoUrl": "https://www.freelogovectors.net/wp-content/uploads/2022/01/suits-logo-freelogovectors.net_.png",
 			"coverUrl": "https://m.media-amazon.com/images/I/81Tw+A9i8VL._AC_UF894,1000_QL80_.jpg",
-			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/suits-wallpaper.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/backdropUrl_suits_1920x1080.jpg",
 			"seasonsInfo": "9 Temporadas",
 			"description": "Na fuga de um negócio de drogas que acabou mal, Mike Ross, um brilhante abandono da faculdade, encontra um trabalho trabalhando com Harvey Specter, um dos melhores advogados de Nova York.",
 			"year": "2011",
@@ -4628,9 +4747,9 @@
 		{
 			"id": "prison_break",
 			"title": "",
-			"titleLogoUrl": "https://image.tmdb.org/t/p/original/wxZ5vVPz5VYEjrtiLv7flmCgU9t.png",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/backdropUrl_pb-logo_1920x1080.png",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Prison%20Break.png",
-			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/backdropUrl_prisonbreak_1920x1080.jpg",
 			"seasonsInfo": "5 Temporadas",
 			"description": "Um homem engenheiro planeja um elaborado plano para resgatar seu irmão falsamente condenado à morte da prisão.",
 			"year": "2005",
@@ -5379,7 +5498,7 @@
 			"title": "",
 			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/The_Good_Wife_29_logo.png",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/images.jpeg",
-			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/thumb-1920-803864.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/backdropUrl_good_1920x1080.jpg",
 			"seasonsInfo": "4 Temporadas",
 			"description": "Depois de um escândalo público e político envolvendo o seu marido Peter, Alicia Florrick retoma a sua carreira de advogada para sustentar os seus filhos e reconstruir a sua vida em Chicago.",
 			"year": "2009",
@@ -6050,7 +6169,7 @@
 			"title": "",
 			"titleLogoUrl": "https://image.tmdb.org/t/p/original/kr7EUPOCDkejkiLeyxHTSiZ3xFV.png",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/temporada-01.png",
-			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/v8VzyiIRCOslX94rFPhkNuJPjl3.png",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/backdropUrl_militar_1920x1080.jpg",
 			"seasonsInfo": "7 Temporadas",
 			"description": "As vidas profissionais e pessoais dos membros de uma unidade de elite dos Navy SEALs enquanto treinam, planejam e executam as missões mais perigosas que seu país pode pedir.",
 			"year": "2017",
@@ -7009,7 +7128,7 @@
 		{
 			"id": "bob",
 			"title": "Band of Brothers",
-			"titleLogoUrl": "https://static.wikia.nocookie.net/logopedia/images/0/09/Band-of-brothers-tv-logo.png",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Band-of-brothers-tv-logo.png",
 			"coverUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
 			"backdropUrl": "https://m.media-amazon.com/images/M/MV5BMWIzZTIzMGMtOGViYi00NTQ1LTlkYzctOWYzNGZlYTI1NWM3XkEyXkFqcGdeQWpybA@@._V1_.jpg",
 			"seasonsInfo": "1 Temporada",
@@ -8149,6 +8268,540 @@
 							"thumbUrl": "http://lgfp.one/JBE2",
 							"description": "Episódio 31 da 3ª temporada.",
 							"streamUrl": "http://64.31.23.207:80/series/96795792/50165825/5410888.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "manifest",
+			"title": "",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/manifest-logo.png",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+			"seasonsInfo": "4 Temporadas",
+			"description": "Quando o voo 828 da Montego Air pousa com segurança após uma viagem turbulenta, os passageiros e a tripulação descobrem que se passaram cinco anos no mundo exterior, enquanto para eles o tempo não havia passado.",
+			"year": "2018",
+			"genre": "Drama, Mistério, Ficção Científica",
+			"lastEpisodeInfo": "Temporada 4, Episódio 20",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/marhfh.jpeg",
+					"episodes": [
+						{
+							"id": "manifest_s1_e1",
+							"title": "Piloto",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Após pousar após um voo turbulento, os passageiros do voo 828 descobrem que se passaram cinco anos no resto do mundo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213591.mp4"
+						},
+						{
+							"id": "manifest_s1_e2",
+							"title": "Entrada de Reagendamento",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela é forçada a enfrentar a tragédia do seu passado. Ben tenta ajudar um passageiro a se reconectar com seu filho.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213592.mp4"
+						},
+						{
+							"id": "manifest_s1_e3",
+							"title": "Turbulência",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben e Michaela investigam a chocante morte de um passageiro enquanto tentam manter suas chamadas em segredo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213593.mp4"
+						},
+						{
+							"id": "manifest_s1_e4",
+							"title": "Bagagem de Mão",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Saanvi descobre algo misterioso no sangue de Cal. Michaela investiga um roubo no qual o culpado afirma seguir uma voz misteriosa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213594.mp4"
+						},
+						{
+							"id": "manifest_s1_e5",
+							"title": "Conexões de Voo",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Uma visão assustadora leva Ben a se aliar a uma pessoa inesperada para resgatar um passageiro mantido em segredo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213595.mp4"
+						},
+						{
+							"id": "manifest_s1_e6",
+							"title": "Aterrissagem Forçada",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben forma uma aliança cautelosa com Vance. Michaela é colocada em uma posição difícil com Jared no trabalho.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213596.mp4"
+						},
+						{
+							"id": "manifest_s1_e7",
+							"title": "Sinal de Emergência",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "A busca pelos passageiros desaparecidos se intensifica quando Ben e Vance descobrem uma instalação militar secreta.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213597.mp4"
+						},
+						{
+							"id": "manifest_s1_e8",
+							"title": "Ponto de Partida",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben e Michaela arriscam tudo para libertar os passageiros sequestrados antes que os experimentos os destruam.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213598.mp4"
+						},
+						{
+							"id": "manifest_s1_e9",
+							"title": "Resgate",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "As consequências do confronto na instalação militar trazem revelações devastadoras para a família Stone.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213599.mp4"
+						},
+						{
+							"id": "manifest_s1_e10",
+							"title": "Vozes Interiores",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela investiga o surgimento de um novo grupo que venera os passageiros do voo 828 como milagres divinos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213600.mp4"
+						},
+						{
+							"id": "manifest_s1_e11",
+							"title": "Ventos Fortes",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "O capitão do voo 828 reaparece com uma teoria ousada sobre o que realmente aconteceu durante o voo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213601.mp4"
+						},
+						{
+							"id": "manifest_s1_e12",
+							"title": "Ponto de Fuga",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Cal desaparece de repente, deixando pistas enigmáticas que levam Ben e Michaela a uma busca desesperada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213602.mp4"
+						},
+						{
+							"id": "manifest_s1_e13",
+							"title": "Zonas de Liberação",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Uma tempestade de neve isola a cabana onde Cal se escondeu com Zeke, um homem que passou por um fenômeno similar.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213603.mp4"
+						},
+						{
+							"id": "manifest_s1_e14",
+							"title": "Atualização de Tráfego",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Saanvi enfrenta um trauma do passado enquanto Ben tenta proteger sua família das crescentes ameaças externas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213604.mp4"
+						},
+						{
+							"id": "manifest_s1_e15",
+							"title": "Trajetória de Aproximação",
+							"episodeNumber": 15,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela lida com a forte conexão espiritual que sente por Zeke, gerando tensões no seu relacionamento com Jared.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213605.mp4"
+						},
+						{
+							"id": "manifest_s1_e16",
+							"title": "Hora de Partida",
+							"episodeNumber": 16,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben e Michaela descobrem a existência da Data de Expiração. Um confronto armado termina em tragédia.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213606.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+					"episodes": [
+						{
+							"id": "manifest_s2_e1",
+							"title": "Apertem os Cintos",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Após o tiroteio, a família Stone corre para salvar vidas. Uma nova chamada avisa sobre o destino iminente de todos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213607.mp4"
+						},
+						{
+							"id": "manifest_s2_e2",
+							"title": "Conectados",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben tenta resgatar um passageiro que foi internado contra a vontade. Grace lida com uma revelação sobre sua gravidez.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213608.mp4"
+						},
+						{
+							"id": "manifest_s2_e3",
+							"title": "Falsos Horizontes",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela tenta defender Zeke no tribunal. Ben investiga um professor universitario conectado aos passageiros.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213609.mp4"
+						},
+						{
+							"id": "manifest_s2_e4",
+							"title": "Perda de Sinal",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben descobre que seu novo trabalho esconde intenções sombrias contra os passageiros do voo 828.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213610.mp4"
+						},
+						{
+							"id": "manifest_s2_e5",
+							"title": "Condições de Voo",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Grace recebe uma chamada misteriosa relacionada à sua gestação. Olive se aprofunda na Igreja dos Crentes.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213611.mp4"
+						},
+						{
+							"id": "manifest_s2_e6",
+							"title": "Volta ao Início",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben e Saanvi tentam decifrar uma profecia antiga descrita em um texto histórico relacionado às chamadas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213612.mp4"
+						},
+						{
+							"id": "manifest_s2_e7",
+							"title": "Fogo Cruzado",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Um ataque à Igreja dos Crentes coloca Olive e os passageiros em grande perigo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213613.mp4"
+						},
+						{
+							"id": "manifest_s2_e8",
+							"title": "Caminho Direto",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Jared se aproxima do grupo anti-828 conhecidos como Os X. Saanvi faz um avanço perigoso em sua pesquisa médica.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213614.mp4"
+						},
+						{
+							"id": "manifest_s2_e9",
+							"title": "Nível de Voo",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Uma tempestade e revelações dramáticas colocam em risco a vida do bebê de Grace.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213615.mp4"
+						},
+						{
+							"id": "manifest_s2_e10",
+							"title": "Curso de Colisão",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Grace e Ben descobrem a verdade sobre a infiltração de Jared no grupo extremista.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213616.mp4"
+						},
+						{
+							"id": "manifest_s2_e11",
+							"title": "Sinal Desconhecido",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Com a Data de Expiração de Zeke se aproximando, a equipe corre contra o tempo para salvar sua vida.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213617.mp4"
+						},
+						{
+							"id": "manifest_s2_e12",
+							"title": "Call Sign",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Três criminosos sequestram Cal para chantagear Michaela, colocando toda a família sob cerco.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213618.mp4"
+						},
+						{
+							"id": "manifest_s2_e13",
+							"title": "Gelo e Fogo",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "No final da temporada, Zeke enfrenta sua Data de Expiração em uma missão congelante para resgatar Cal.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213619.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+					"episodes": [
+						{
+							"id": "manifest_s3_e1",
+							"title": "Tailfin",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben viaja para Cuba para examinar a cauda do avião encontrada no oceano, desafiando tudo o que sabiam.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213620.mp4"
+						},
+						{
+							"id": "manifest_s3_e2",
+							"title": "Voo de Reconhecimento",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela e Zeke buscam uma nova pista enquanto os três criminosos ressurgem de forma inexplicável.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213621.mp4"
+						},
+						{
+							"id": "manifest_s3_e3",
+							"title": "Asas de Pano",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Uma chamada angustiante leva Michaela a investigar uma ameaça imediata entre os passageiros.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213622.mp4"
+						},
+						{
+							"id": "manifest_s3_e4",
+							"title": "Spinning Out",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben é testado ao limite em um confronto para impedir que uma tragédia familiar aconteça.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213623.mp4"
+						},
+						{
+							"id": "manifest_s3_e5",
+							"title": "Pouso de Emergência",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Saanvi lida com as desconfianças do governo na Instalação Eureka enquanto Ben faz uma descoberta arqueológica.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213624.mp4"
+						},
+						{
+							"id": "manifest_s3_e6",
+							"title": "Grave Perigo",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "A Data de Expiração dos três criminosos se aproxima, forçando a equipe a agir antes do julgamento final.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213625.mp4"
+						},
+						{
+							"id": "manifest_s3_e7",
+							"title": "Preciosa Carga",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Saanvi realiza testes de laboratório perigosos na cauda do avião que provocam tremores inexplicáveis.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213626.mp4"
+						},
+						{
+							"id": "manifest_s3_e8",
+							"title": "Destino Traçado",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela é colocada em rota de colisão com seu dever policial ao tentar salvar um passageiro inocente.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213627.mp4"
+						},
+						{
+							"id": "manifest_s3_e9",
+							"title": "Foco de Incêndio",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Uma crise na Instalação Eureka ameaça revelar os maiores segredos do voo 828 ao público.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213628.mp4"
+						},
+						{
+							"id": "manifest_s3_e10",
+							"title": "Bússola",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Cal desenvolve queimaduras misteriosas na pele que se alinham diretamente com os testes em Eureka.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213629.mp4"
+						},
+						{
+							"id": "manifest_s3_e11",
+							"title": "Dever de Casa",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben tenta desesperadamente salvar Cal enquanto a ligação entre ele e o avião se torna mortal.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213630.mp4"
+						},
+						{
+							"id": "manifest_s3_e12",
+							"title": "Mayday: Parte 1",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Cal desaparece após tocar na cauda do avião. Ben e Vance tentam impedir que o governo destrua os destroços.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213631.mp4"
+						},
+						{
+							"id": "manifest_s3_e13",
+							"title": "Mayday: Parte 2",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "No chocante final da temporada, um ataque trágico à casa dos Stone muda a vida de todos para sempre.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213632.mp4"
+						}
+					]
+				},
+				{
+					"number": 4,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+					"episodes": [
+						{
+							"id": "manifest_s4_e1",
+							"title": "Touchdown",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Dois anos após a tragédia, a família Stone lida com o luto enquanto Ben busca incansavelmente por Eden.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213633.mp4"
+						},
+						{
+							"id": "manifest_s4_e2",
+							"title": "Todas as Chamadas",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Uma caixa preta misteriosa entrega uma nova gravação com revelações sobre os passageiros.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213634.mp4"
+						},
+						{
+							"id": "manifest_s4_e3",
+							"title": "Altitude Elevada",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela e Zeke seguem uma pista que os leva a um abrigo mantido por um antigo conhecido.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213635.mp4"
+						},
+						{
+							"id": "manifest_s4_e4",
+							"title": "Posição de Alcance",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben encontra uma pista crucial sobre a localização de sua filha Eden que o coloca em grande risco.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213636.mp4"
+						},
+						{
+							"id": "manifest_s4_e5",
+							"title": "Sinal de Alerta",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Um confronto tenso na casa de Angelina coloca a vida de Eden e Ben em perigo iminente.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213637.mp4"
+						},
+						{
+							"id": "manifest_s4_e6",
+							"title": "Rumo Direto",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela ajuda a resgatar um grupo de passageiros detidos ilegalmente em um centro de detenção.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213638.mp4"
+						},
+						{
+							"id": "manifest_s4_e7",
+							"title": "Ponto de Intersecção",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Saanvi descobre o verdadeiro propósito da Safira Divina e seu impacto no destino da humanidade.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213639.mp4"
+						},
+						{
+							"id": "manifest_s4_e8",
+							"title": "Trajetória Final",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Cal assume uma nova identidade enquanto tenta compreender as cicatrizes brilhantes em seu corpo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213640.mp4"
+						},
+						{
+							"id": "manifest_s4_e9",
+							"title": "Livre de Perigo",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Angelina usa o poder da Safira para manipular as visões dos passageiros e criar o caos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213641.mp4"
+						},
+						{
+							"id": "manifest_s4_e10",
+							"title": "Inversão de Marcha",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Zeke toma uma decisão sacrificial devastadora para salvar Cal e garantir a sobrevivência de todos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213642.mp4"
+						},
+						{
+							"id": "manifest_s4_e11",
+							"title": "Voo de Volta",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Após a implementação do bloqueio governamental, os passageiros enfrentam condições severas no centro de detenção.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213643.mp4"
+						},
+						{
+							"id": "manifest_s4_e12",
+							"title": "Sem Escalas",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Michaela tenta lidar com o luto profundo enquanto ajuda um passageiro em crise dentro do centro.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213644.mp4"
+						},
+						{
+							"id": "manifest_s4_e13",
+							"title": "Ajuste de Rota",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Ben e Saanvi trabalham juntos para encontrar uma falha no sistema de monitoramento de registros.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213645.mp4"
+						},
+						{
+							"id": "manifest_s4_e14",
+							"title": "Pressão de Cabine",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Uma peste misteriosa ataca o centro de detenção, forçando os cientistas a encontrarem uma cura imediata.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213646.mp4"
+						},
+						{
+							"id": "manifest_s4_e15",
+							"title": "Última Chamada",
+							"episodeNumber": 15,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Angelina reúne um grupo de seguidores fanáticos para espalhar destruição usando seu poder.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213647.mp4"
+						},
+						{
+							"id": "manifest_s4_e16",
+							"title": "Rota de Fuga",
+							"episodeNumber": 16,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Os passageiros organizam uma fuga em massa enquanto a Data de Expiração se aproxima rapidamente.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213648.mp4"
+						},
+						{
+							"id": "manifest_s4_e17",
+							"title": "Horizonte de Eventos",
+							"episodeNumber": 17,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Cal se conecta ao coração da Safira em um esforço supremo para reunir as chamadas perdidas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213649.mp4"
+						},
+						{
+							"id": "manifest_s4_e18",
+							"title": "Ponto de Não Retorno",
+							"episodeNumber": 18,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "O sacrifício de Cal ilumina a noite e convoca todos os passageiros para o local final de julgamento.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213650.mp4"
+						},
+						{
+							"id": "manifest_s4_e19",
+							"title": "Embarque Imediato",
+							"episodeNumber": 19,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "Os passageiros enfrentam o surgimento do Voo 828 na fissura vulcânica enquanto o apocalipse começa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213651.mp4"
+						},
+						{
+							"id": "manifest_s4_e20",
+							"title": "Pouso Final",
+							"episodeNumber": 20,
+							"thumbUrl": "https://image.tmdb.org/t/p/w300/yz61xLyqhHAsA9vL8FGxA6vRyMp.jpg",
+							"description": "A bordo do Voo 828, os passageiros passam pelo julgamento definitivo pelo destino de toda a humanidade.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213652.mp4"
 						}
 					]
 				}
