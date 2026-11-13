@@ -159,9 +159,7 @@
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
-			"headers": {
-				"User-Agent": "VLC/3.0.20 LibVLC/3.0.20"
-			},
+			"headers": {},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "JovemPanNews.br",
@@ -3355,7 +3353,7 @@
 		{
 			"id": "the-good-doctor",
 			"title": "The Good Doctor",
-			"titleLogoUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-5ea18be2cdf76.png",
+			"titleLogoUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-59be366d392df.png",
 			"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-59fea9f8bd60d.jpg",
 			"backdropUrl": "https://images.fanart.tv/fanart/the-good-doctor-5d89d21e0b9c6.jpg",
 			"seasonsInfo": "7 Temporadas",
