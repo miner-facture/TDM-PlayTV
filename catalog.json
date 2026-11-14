@@ -3349,6 +3349,75 @@
 	],
 	"series": [
 		{
+			"id": "segredos_aereos_da_segunda_guerra_mundial",
+			"title": "Segredos Aéreos da Segunda Guerra Mundial",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/gjmvfygjmvfygjm.png",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+			"backdropUrl": "",
+			"seasonsInfo": "1 Temporada",
+			"description": "Enquanto sobrevoamos os infames locais de batalha do Dia D e Dunquerque, sobrevoamos bunkers nazistas escondidos e deslizamos por navios de guerra perdidos e naufrágios afundados, esta nova série expõe segredos da Segunda Guerra Mundial de uma forma totalmente nova.",
+			"year": "2022",
+			"genre": "DISNEY PLUS",
+			"lastEpisodeInfo": "1ª Temporada",
+			"trailerYoutubeId": "",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+					"episodes": [
+						{
+							"id": "segredos_aereos_s01_e01",
+							"title": "A Caça ao U-Boat",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+							"description": "Como a aviação aliada revolucionou a caça aos temidos submarinos U-Boats alemães que rondavam os oceanos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72865.mp4"
+						},
+						{
+							"id": "segredos_aereos_s01_e02",
+							"title": "A Batalha da Grã-Bretanha",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+							"description": "Uma análise detalhada das táticas de combate aéreo e radares que permitiram à RAF resistir à Luftwaffe.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72866.mp4"
+						},
+						{
+							"id": "segredos_aereos_s01_e03",
+							"title": "O Desastre de Pearl Harbor",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+							"description": "Os segredos por trás do planejamento militar japonês e o ataque surpresa que arrastou os EUA para a guerra.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72867.mp4"
+						},
+						{
+							"id": "segredos_aereos_s01_e04",
+							"title": "A Bomba Atômica",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+							"description": "A complexa e secreta missão dos bombardeiros B-29 que culminou nos ataques no Pacífico.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72869.mp4"
+						},
+						{
+							"id": "segredos_aereos_s01_e05",
+							"title": "O Cerco de Malta",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+							"description": "A história da ilha estratégica que resistiu a bombardeios com o suporte vital de suprimentos aéreos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72870.mp4"
+						},
+						{
+							"id": "segredos_aereos_s01_e06",
+							"title": "A Batalha de Berlim",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+							"description": "O papel decisivo das campanhas de bombardeiros estratégicos nos momentos finais do conflito na Europa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72871.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
 			"id": "the-good-doctor",
 			"title": "The Good Doctor",
 			"titleLogoUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-59be366d392df.png",
@@ -9855,6 +9924,7 @@
 		{
 			"id": "a_fraude_do_seculo",
 			"title": "A Fraude do Século",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Fraude_S%C3%A9culo.png",
 			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
 			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/5Q7YEJLTjdmF03fBQZ2R4x1xNNa.jpg",
 			"seasonsInfo": "1 Temporada",
