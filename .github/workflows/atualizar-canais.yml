@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: atualizar-catalogo
@@ -16,6 +16,9 @@ jobs:
   atualizar:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+
+    env:
+      AUTHORIZED_CHANNEL_IDS: ${{ vars.AUTHORIZED_CHANNEL_IDS }}
 
     steps:
       - name: Baixar repositorio
@@ -31,11 +34,4 @@ jobs:
           node -e "const c = require('./catalog.json'); if (!Array.isArray(c.liveChannels)) process.exit(1); console.log('Canais:', c.liveChannels.length)"
 
       - name: Executar atualizador
-        run: |
-          if [ -f scripts/atualizar_canais.js ]; then
-            npm install playwright
-            npx playwright install --with-deps chromium
-            node scripts/atualizar_canais.js
-          else
-            echo "Aguardando instalacao do atualizador"
-          fi
+        run: node scripts/atualizar_canais.js
