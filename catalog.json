@@ -154,14 +154,15 @@
 			"id": "JovemPanNews.br",
 			"name": "JovemPan News",
 			"category": "Notícias",
-			"logoUrl": "https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg",
-			"streamUrl": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
+			"logoUrl": "https://api.reidoscanais.ooo/img/jovempannews.png",
+			"streamUrl": "https://d3-0211.cdnvipcanais.xyz/jovempannews/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "Transmissão ao vivo da Jovem Pan News",
 			"headers": {
-				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-				"Referer": "https://jovempan.com.br/"
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net/",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -194,19 +195,14 @@
 			"name": "GloboNews",
 			"category": "Notícias",
 			"logoUrl": "https://api.reidoscanais.ooo/img/globonews.png",
-			"streamUrl": "http://79.127.238.228:14093",
+			"streamUrl": "https://d2-0211.cdnvipcanais.xyz/globonews/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
-				"User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-				"sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Avast Secure Browser\";v=\"150\"",
-				"sec-ch-ua-mobile": "?1",
-				"sec-ch-ua-platform": "\"Android\"",
-				"sec-fetch-mode": "cors",
-				"sec-fetch-site": "cross-site"
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 			},
 			"isProtected": false,
 			"isYoutube": false,
@@ -821,11 +817,15 @@
 			"name": "AMC",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/amc.png",
-			"streamUrl": "http://170.83.49.66:8083/AMCHD/index.m3u8",
+			"streamUrl": "https://d2-0211.cdnvipcanais.xyz/amc/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "Canal focado nos melhores filmes de ação, suspense e grandes produções de cinema.",
-			"headers": {},
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net/",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+			},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "AMC.br",
@@ -861,7 +861,7 @@
 			"name": "TNT",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/tnt.png",
-			"streamUrl": "https://d2-0211.cdnvipcanais.xyz/tnt/index.m3u8",
+			"streamUrl": "https://d1-0211.cdnvipcanais.xyz/tnt/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
 				"Origin": "https://vipcanais.net",
@@ -1147,11 +1147,15 @@
 			"name": "UNIVERSAL TV",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/universaltv.png",
-			"streamUrl": "http://187.102.210.46/universo/index.m3u8",
+			"streamUrl": "https://d3-0211.cdnvipcanais.xyz/universaltv/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
-			"description": "Canal focado nos melhores filmes de ação, suspense e grandes produções de cinema.",
-			"headers": {},
+			"description": "Canal focado em séries de investigação, drama, ação e grandes produções de cinema.",
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net/",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+			},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "Universal.br",
@@ -1202,11 +1206,15 @@
 			"name": "AXN",
 			"category": "Filmes e Séries",
 			"logoUrl": "https://api.reidoscanais.ooo/img/axn.png",
-			"streamUrl": "http://170.83.16.50/AXN/index.m3u8",
+			"streamUrl": "https://d1-0211.cdnvipcanais.xyz/axn/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "Canal focado nos melhores filmes de ação, suspense e grandes produções de cinema.",
-			"headers": {},
+			"headers": {
+				"Referer": "https://vipcanais.net/",
+				"Origin": "https://vipcanais.net/",
+				"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+			},
 			"isProtected": false,
 			"isYoutube": false,
 			"epgId": "AXN.br",
@@ -2197,6 +2205,50 @@
 	],
 	"movies": [
 		{
+			"id": "5940",
+			"title": "O Protetor",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/o-protetor-11.png",
+			"year": "2014",
+			"genre": "Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/oproter-1.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg",
+			"description": "Um homem acredita ter deixado seu passado misterioso para trás e tenta viver uma nova vida tranquila. No entanto, quando ele conhece uma jovem sob o controle de gângsteres russos ultraviolentos, ele não consegue ficar de braços cruzados e decide ajudá-la.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5940.mp4"
+		},
+		{
+			"id": "5936",
+			"title": "Equalizer 2",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/Equalizer_2.png",
+			"year": "2018",
+			"genre": "Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/proteror-2.png",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/xl3oO2j1vfKasDLyUNwghWjl4jV.jpg",
+			"description": "Robert McCall retorna no papel de um implacável vigilante e defensor dos oprimidos. Quando sua amiga e ex-colega Susan Plummer é assassinada sob circunstâncias misteriosas, ele embarca em uma jornada mortal de vingança para fazer justiça com as próprias mãos.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5936.mp4"
+		},
+		{
+			"id": "5960",
+			"title": "O Protetor: Capítulo Final",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/oprotetor-11.png",
+			"year": "2023",
+			"genre": "Ação",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/oprote--3.jpg",
+			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/qqXGYe6MCcbThZg1G5vZd3IU4iV.jpg",
+			"description": "Tentando encontrar paz no sul da Itália, Robert McCall descobre que seus novos amigos estão sob o controle da máfia local. Quando a violência escala, McCall assume seu papel protetor para enfrentar os chefões do crime e salvar aqueles que ama.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5960.mp4"
+		},
+		{
+			"id": "250591",
+			"title": "Resgate no Golfo",
+			"titleLogoUrl": "https://m.media-amazon.com/images/S/pv-target-images/d50ee70206413819289e281c212b79eae8d763f776a041b1ec89c3077e96f20f.png",
+			"year": "2020",
+			"genre": "Ação",
+			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcUv3aqtiygXEhvc0bGEaIzJhMg.jpg",
+			"backdropUrl": "https://m.media-amazon.com/images/S/pv-target-images/b9cb75382c81bdea2d82e9bacb29054bf692bac33671506a8b89f7cd1cc62b9a._SX1920_FMavif_PQ65_.jpg",
+			"description": "Um filme repleto de tensão e adrenalina onde uma operação de resgate arriscada coloca uma equipe em rota de colisão com perigos implacáveis em mar aberto.",
+			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254826.mp4"
+		},
+		{
 			"id": "40988",
 			"title": "Paulo - O Apostolo de Cristo",
 			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/playlistLogoImage.png",
@@ -2272,28 +2324,6 @@
 			"backdropUrl": "",
 			"description": "",
 			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70583.mp4"
-		},
-		{
-			"id": "43220",
-			"title": "Um Porto Seguro",
-			"titleLogoUrl": "",
-			"year": "",
-			"genre": "Romance",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gi14xLvfgZRjhKDBe5JKlOdn0QQ.jpg",
-			"backdropUrl": "",
-			"description": "",
-			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43220.mp4"
-		},
-		{
-			"id": "43244",
-			"title": "Uma Esposa de Mentira",
-			"titleLogoUrl": "",
-			"year": "",
-			"genre": "Comendia",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ntE6vmMzz7DpuWq9tfVgH28nRZ.jpg",
-			"backdropUrl": "",
-			"description": "",
-			"streamUrl": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43244.mp4"
 		},
 		{
 			"id": "22996",
@@ -3349,69 +3379,468 @@
 	],
 	"series": [
 		{
-			"id": "segredos_aereos_da_segunda_guerra_mundial",
-			"title": "Segredos Aéreos da Segunda Guerra Mundial",
-			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/logos-imagens/refs/heads/main/gjmvfygjmvfygjm.png",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
-			"backdropUrl": "",
-			"seasonsInfo": "1 Temporada",
-			"description": "Enquanto sobrevoamos os infames locais de batalha do Dia D e Dunquerque, sobrevoamos bunkers nazistas escondidos e deslizamos por navios de guerra perdidos e naufrágios afundados, esta nova série expõe segredos da Segunda Guerra Mundial de uma forma totalmente nova.",
-			"year": "2022",
-			"genre": "DISNEY PLUS",
-			"lastEpisodeInfo": "1ª Temporada",
-			"trailerYoutubeId": "",
+			"id": "yellowstone",
+			"title": "Yellowstone",
+			"titleLogoUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-5b2ca461aa9b7.png",
+			"coverUrl": "https://images.fanart.tv/fanart/yellowstone-2018-5b2ca45205929.jpg",
+			"backdropUrl": "https://images.fanart.tv/fanart/yellowstone-2018-5efb96fa8a9e7.jpg",
+			"seasonsInfo": "5 Temporadas",
+			"description": "A família Dutton, liderada pelo patriarca John Dutton, controla o maior rancho contíguo dos Estados Unidos e luta constantemente para proteger suas terras contra incorporadoras, uma reserva indígena e o primeiro parque nacional do país.",
+			"year": "2018",
+			"genre": "PARAMOUNT",
+			"lastEpisodeInfo": "5ª Temporada",
 			"seasons": [
 				{
 					"number": 1,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
+					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-5fe05e96e6d0c.jpg",
 					"episodes": [
 						{
-							"id": "segredos_aereos_s01_e01",
-							"title": "A Caça ao U-Boat",
+							"id": "yellowstone_s01_e01",
+							"title": "Amanhecer",
 							"episodeNumber": 1,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
-							"description": "Como a aviação aliada revolucionou a caça aos temidos submarinos U-Boats alemães que rondavam os oceanos.",
-							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72865.mp4"
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John Dutton luta para defender seu rancho de incorporadores, uma reserva indígena e políticos em busca de terras.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233259.mp4"
 						},
 						{
-							"id": "segredos_aereos_s01_e02",
-							"title": "A Batalha da Grã-Bretanha",
+							"id": "yellowstone_s01_e02",
+							"title": "Mate o Mensageiro",
 							"episodeNumber": 2,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
-							"description": "Uma análise detalhada das táticas de combate aéreo e radares que permitiram à RAF resistir à Luftwaffe.",
-							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72866.mp4"
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "À medida que as consequências do confronto aumentam, John aciona contatos políticos para encobrir os rastros de sua família.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233260.mp4"
 						},
 						{
-							"id": "segredos_aereos_s01_e03",
-							"title": "O Desastre de Pearl Harbor",
+							"id": "yellowstone_s01_e03",
+							"title": "Sem Bons Cavalos",
 							"episodeNumber": 3,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
-							"description": "Os segredos por trás do planejamento militar japonês e o ataque surpresa que arrastou os EUA para a guerra.",
-							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72867.mp4"
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "A família Dutton relembra uma tragédia dolorosa do passado enquanto Jamie busca impulsionar sua carreira política.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233261.mp4"
 						},
 						{
-							"id": "segredos_aereos_s01_e04",
-							"title": "A Bomba Atômica",
+							"id": "yellowstone_s01_e04",
+							"title": "O Longo Caminho de Volta",
 							"episodeNumber": 4,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
-							"description": "A complexa e secreta missão dos bombardeiros B-29 que culminou nos ataques no Pacífico.",
-							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72869.mp4"
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Um segredo sobre a saúde de John é descoberto, enquanto Kayce precisa lidar com as autoridades da reserva.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233262.mp4"
 						},
 						{
-							"id": "segredos_aereos_s01_e05",
-							"title": "O Cerco de Malta",
+							"id": "yellowstone_s01_e05",
+							"title": "Vindo Para Casa",
 							"episodeNumber": 5,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
-							"description": "A história da ilha estratégica que resistiu a bombardeios com o suporte vital de suprimentos aéreos.",
-							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72870.mp4"
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Kayce sente a pressão da polícia tribal após um incidente, e John tenta manter a família unida no rancho.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233263.mp4"
 						},
 						{
-							"id": "segredos_aereos_s01_e06",
-							"title": "A Batalha de Berlim",
+							"id": "yellowstone_s01_e06",
+							"title": "A Lembrança",
 							"episodeNumber": 6,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/2SWIZXtCi4rMyNdmLJ5heZY8GV8.jpg",
-							"description": "O papel decisivo das campanhas de bombardeiros estratégicos nos momentos finais do conflito na Europa.",
-							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72871.mp4"
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Uma nova aliança ameaça o império dos Dutton, e Rip se vê obrigado a intervir em uma situação perigosa.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233264.mp4"
+						},
+						{
+							"id": "yellowstone_s01_e07",
+							"title": "Um Monstro Está Entre Nós",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Rip enfrenta uma situação crítica nas montanhas enquanto a tensão entre John e Jamie atinge um ponto de ruptura.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233265.mp4"
+						},
+						{
+							"id": "yellowstone_s01_e08",
+							"title": "O Desfazer",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Rip lida com uma investigação que coloca o rancho em risco, e Beth intensifica seus ataques financeiros contra Dan Jenkins.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233266.mp4"
+						},
+						{
+							"id": "yellowstone_s01_e09",
+							"title": "A Desconstrução",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John descobre quem realmente está ao seu lado quando inimigos cercam o rancho Yellowstone por todos os lados.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233267.mp4"
+						}
+					]
+				},
+				{
+					"number": 2,
+					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-5fe05fa6c440e.jpg",
+					"episodes": [
+						{
+							"id": "yellowstone_s02_e01",
+							"title": "Um Trovão",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Kayce assume uma nova posição de liderança no rancho enquanto John faz ajustes na hierarquia de sua equipe.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233268.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e02",
+							"title": "Novos Começos",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Kayce e Rip entram em choque devido à mudança de funções, e Beth começa a comprar terras ao redor do vale.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233269.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e03",
+							"title": "O Cheiro",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John se une a um antigo rival para enfrentar os irmãos Beck, novos adversários implacáveis na região.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233270.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e04",
+							"title": "Apenas Demônios Sobraram",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Os inimigos dos Dutton atacam o rebanho do rancho de forma brutal, forçando John a planejar uma retaliação.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233271.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e05",
+							"title": "Tocando Seu Inimigo",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Kayce rastreia os responsáveis pelo ataque ao gado enquanto Jamie tenta desesperadamente desfazer um erro grave.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233272.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e06",
+							"title": "Sangue o Garoto",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Jamie toma uma decisão drástica para proteger a família, e John ensina uma valiosa lição ao seu neto Tate.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233273.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e07",
+							"title": "Ressurreição",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "A guerra contra os irmãos Beck se torna pessoal quando Beth sofre um ataque violento em seu escritório.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233274.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e08",
+							"title": "Atrás de Nós Apenas Cinzas",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John e Rip buscam vingança após o ataque ao rancho, enquanto Monica e Kayce tentam reconstruir sua relação.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233275.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e09",
+							"title": "Inimigos às Segundas",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Os irmãos Beck cruzam todos os limites ao sequestrar um membro da família Dutton.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233276.mp4"
+						},
+						{
+							"id": "yellowstone_s02_e10",
+							"title": "Pecados do Pai",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John reúne todos os seus homens e aliados para uma missão implacável de resgate que não deixará sobreviventes.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233277.mp4"
+						}
+					]
+				},
+				{
+					"number": 3,
+					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-5fe0666c28563.jpg",
+					"episodes": [
+						{
+							"id": "yellowstone_s03_e01",
+							"title": "Você É o Índio Agora",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Após os eventos traumáticos, John monta um acampamento de verão nas montanhas para ajudar Tate a se recuperar.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233278.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e02",
+							"title": "Cargas e Esperanças",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Beth conhece Roarke Morris, um poderoso executivo da Market Equities que planeja construir um aeroporto no vale.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233279.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e03",
+							"title": "Uma Rendição Aceitável",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "A governadora Perry faz uma proposta política estratégica para proteger o legado de John e nomeia Jamie para um novo cargo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233280.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e04",
+							"title": "Voltando para Cali",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Beth revela a Rip um segredo devastador do passado, enquanto os peões do rancho lidam com invasores.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233281.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e05",
+							"title": "Cowboys e Sonhadores",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Jamie precisa lidar com um erro fatal cometido em sua nova função como comissário de pecuária.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233282.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e06",
+							"title": "Tudo por Nada",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John confronta um antigo conhecido de seu pai que retorna ao vale com intenções suspeitas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233283.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e07",
+							"title": "A Surra",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Jamie faz uma descoberta chocante sobre suas origens que muda completamente sua visão sobre a família Dutton.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233284.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e08",
+							"title": "Eu Matei um Homem Hoje",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Beth entra em confronto direto com Willa Hayes, a CEO da Market Equities, numa guerra corporativa sem trégua.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233285.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e09",
+							"title": "Malvada Que Nem o Mal",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Jamie se encontra com seu pai biológico, enquanto Rip e os peões acertam contas com um antigo traidor.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233286.mp4"
+						},
+						{
+							"id": "yellowstone_s03_e10",
+							"title": "O Mundo É Roxo",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Uma reunião decisiva sobre o futuro do vale termina em uma série de atentados coordenados contra a família Dutton.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233287.mp4"
+						}
+					]
+				},
+				{
+					"number": 4,
+					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-6217b80e89f4f.jpg",
+					"episodes": [
+						{
+							"id": "yellowstone_s04_e01",
+							"title": "Meio Dinheiro",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Sob ataque simultâneo, os Duttons lutam por suas vidas enquanto Rip e os peões contra-atacam sem piedade.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233288.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e02",
+							"title": "Dor Fantasma",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John se recupera de seus ferimentos e promete descobrir quem ordenou os ataques contra sua família.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233289.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e03",
+							"title": "Ninguém Mais",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John começa sua caçada implacável pelos responsáveis pelo atentado, enquanto Beth acolhe o jovem Carter no rancho.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233290.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e04",
+							"title": "Vencendo ou Aprendendo",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Jamie encontra evidências comprometedoras sobre os ataques, colocando-o em um dilema moral sobre lealdade.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233291.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e05",
+							"title": "Sob Um Cobertor de Vermelho",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John e Kayce descobrem pistas importantes sobre a milícia envolvida no ataque, e Beth aceita uma oferta estratégica.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233292.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e06",
+							"title": "Eu Quero Ser Ele",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Tensões explodem dentro do alojamento dos peões, e Beth confronta Summer Higgins sobre seus protestos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233293.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e07",
+							"title": "Mantenha os Lobos Perto",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "A governadora Perry faz um anúncio surpreendente sobre o futuro político do estado que afeta diretamente Jamie.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233294.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e08",
+							"title": "Sem Bondade Para os Covardes",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Jimmy começa sua jornada no famoso rancho 6666 no Texas, enquanto John e Rip sobrevivem a uma emboscada.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233295.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e09",
+							"title": "Sem Mais Justiça Real",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John descobre a verdade sobre quem financiou os ataques e confronta Jamie diretamente.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233296.mp4"
+						},
+						{
+							"id": "yellowstone_s04_e10",
+							"title": "Grama nas Ruas e Ervas nos Telhados",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Beth encurrala Jamie com uma escolha impossível e realiza um casamento inesperado no rancho.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233297.mp4"
+						}
+					]
+				},
+				{
+					"number": 5,
+					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-63d19aa1f125d.jpg",
+					"episodes": [
+						{
+							"id": "yellowstone_s05_e01",
+							"title": "Cem Anos Não É Nada",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John Dutton toma posse como governador de Montana e imediatamente toma medidas drásticas para proteger o rancho.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233298.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e02",
+							"title": "O Aguilhão da Sabedoria",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Uma ameaça mortal surge nas fronteiras do rancho enquanto John lida com a burocracia do governo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233299.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e03",
+							"title": "Água Alta",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Beth viaja para Salt Lake City para resolver negócios inacabados e acaba presa após uma briga em um bar.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233300.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e04",
+							"title": "Cavalos no Céu",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John faz mudanças drásticas em sua equipe no capitólio e descobre os planos de Jamie e Sarah Atwood.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233301.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e05",
+							"title": "Veja Eles Irem Embora",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "John cancela compromissos políticos para participar da grande marcação anual de gado com toda a equipe do rancho.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233302.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e06",
+							"title": "Cigarros, Uísque, Um Prado e Você",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Os peões celebram um raro dia de paz e camaradagem durante a jornada de marcação nas montanhas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233303.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e07",
+							"title": "O Sonho Não Sou Eu",
+							"episodeNumber": 7,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Uma crise sanitária ameaça dizimar o rebanho dos Duttons, forçando John a tomar uma decisão difícil.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233304.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e08",
+							"title": "Uma Faca e Sem Moeda",
+							"episodeNumber": 8,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Jamie inicia um processo de impeachment contra John, desencadeando uma guerra aberta entre os irmãos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233305.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e09",
+							"title": "O Desejo É Tudo Que Você Precisa",
+							"episodeNumber": 9,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Uma tragédia abala profundamente a família Dutton, deixando Beth e Kayce em busca de respostas.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233306.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e10",
+							"title": "O Apocalipse da Mudança",
+							"episodeNumber": 10,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Beth confronta Jamie frente a frente enquanto Kayce inicia sua própria investigação sobre o que aconteceu.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233307.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e11",
+							"title": "Três Cinquenta e Três",
+							"episodeNumber": 11,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "A verdade por trás da conspiração vem à tona, colocando Sarah Atwood e Jamie na mira da justiça.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233308.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e12",
+							"title": "Contando Coups",
+							"episodeNumber": 12,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Kayce age nas sombras para enviar um aviso claro aos responsáveis pelo ataque à sua família.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233309.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e13",
+							"title": "Dê Tudo o Que Tiver",
+							"episodeNumber": 13,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "Os Duttons realizam um leilão de equipamentos e gado enquanto elaboram um plano final para salvar a terra.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233310.mp4"
+						},
+						{
+							"id": "yellowstone_s05_e14",
+							"title": "A Vida É Uma Promessa",
+							"episodeNumber": 14,
+							"thumbUrl": "https://image.tmdb.org/t/p/w342/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+							"description": "O destino final do rancho Yellowstone é selado em um desfecho definitivo para o legado da família Dutton.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/233311.mp4"
 						}
 					]
 				}
