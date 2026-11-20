@@ -5,13 +5,6 @@ async function executar() {
         fs.readFileSync('./catalog.json', 'utf8')
     );
 
-    if (!Array.isArray(catalog.liveChannels)) {
-        throw new Error('Catalogo invalido');
-    }
-
-    console.log('TDM PlayTV Pro - Atualizador');
-    console.log('Total de canais:', catalog.liveChannels.length);
-
     const autorizados = new Set(
         (process.env.AUTHORIZED_CHANNEL_IDS || '')
             .split(',')
@@ -19,27 +12,43 @@ async function executar() {
             .filter(Boolean)
     );
 
+    let online = 0;
+    let offline = 0;
+    let ignorados = 0;
+
+    console.log('=== TDM PLAYTV PRO ===');
+    console.log('Total:', catalog.liveChannels.length);
+
     for (const canal of catalog.liveChannels) {
-        if (!autorizados.has(canal.id)) continue;
+        if (!autorizados.has(canal.id)) {
+            ignorados++;
+            continue;
+        }
 
         try {
             const resposta = await fetch(canal.streamUrl, {
-                signal: AbortSignal.timeout(10000)
+                signal: AbortSignal.timeout(15000)
             });
 
-            const tipo = resposta.headers.get('content-type') || '';
+            const conteudo = await resposta.text();
 
-            console.log(canal.name, resposta.status, tipo);
-
-            if (resposta.body) {
-                await resposta.body.cancel();
+            if (resposta.ok && conteudo.trim().startsWith('#EXTM3U')) {
+                online++;
+                console.log('[ONLINE]', canal.name);
+            } else {
+                offline++;
+                console.log('[FALHA]', canal.name, resposta.status);
             }
-        } catch (erro) {
-            console.log(canal.name, 'Falha na verificacao');
+        } catch {
+            offline++;
+            console.log('[ERRO]', canal.name);
         }
     }
 
-    console.log('Verificacao concluida');
+    console.log('=== RELATORIO FINAL ===');
+    console.log('Online:', online);
+    console.log('Falhas:', offline);
+    console.log('Ignorados:', ignorados);
 }
 
 executar().catch(erro => {
