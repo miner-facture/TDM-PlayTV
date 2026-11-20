@@ -1,0 +1,41 @@
+name: TDM PlayTV Pro - Atualizador
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-catalogo
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validar catalogo
+        run: |
+          node -e "const c = require('./catalog.json'); if (!Array.isArray(c.liveChannels)) process.exit(1); console.log('Canais:', c.liveChannels.length)"
+
+      - name: Executar atualizador
+        run: |
+          if [ -f scripts/atualizar_canais.js ]; then
+            npm install playwright
+            npx playwright install --with-deps chromium
+            node scripts/atualizar_canais.js
+          else
+            echo "Aguardando instalacao do atualizador"
+          fi
