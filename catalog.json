@@ -3369,7 +3369,7 @@
 			"title": "O Menu",
 			"titleLogoUrl": "",
 			"year": "2022",
-			"genre": "Suspense/",
+			"genre": "Suspense",
 			"coverUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/o.menu.jpg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/o.menu.png",
 			"description": "Um jovem casal viaja para uma ilha remota para comer em um restaurante exclusivo, onde o chef preparou um menu luxuoso, com algumas surpresas chocantes.",
@@ -3381,9 +3381,9 @@
 		{
 			"id": "yellowstone",
 			"title": "Yellowstone",
-			"titleLogoUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-5b2ca461aa9b7.png",
-			"coverUrl": "https://images.fanart.tv/fanart/yellowstone-2018-5b2ca45205929.jpg",
-			"backdropUrl": "https://images.fanart.tv/fanart/yellowstone-2018-5efb96fa8a9e7.jpg",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/yellowstone-logo.png",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/P%C3%B4rdoSolYellowstone.png",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/yellowstone_national_park.jpg",
 			"seasonsInfo": "5 Temporadas",
 			"description": "A família Dutton, liderada pelo patriarca John Dutton, controla o maior rancho contíguo dos Estados Unidos e luta constantemente para proteger suas terras contra incorporadoras, uma reserva indígena e o primeiro parque nacional do país.",
 			"year": "2018",
@@ -3392,7 +3392,7 @@
 			"seasons": [
 				{
 					"number": 1,
-					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-5fe05e96e6d0c.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/Yellowstone_%20Temporada%201.png",
 					"episodes": [
 						{
 							"id": "yellowstone_s01_e01",
@@ -3470,7 +3470,7 @@
 				},
 				{
 					"number": 2,
-					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-5fe05fa6c440e.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/Yellowstone_%20Temporada%202.png",
 					"episodes": [
 						{
 							"id": "yellowstone_s02_e01",
@@ -3556,7 +3556,7 @@
 				},
 				{
 					"number": 3,
-					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-5fe0666c28563.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/Yellowstone_%20Temporada%203.png",
 					"episodes": [
 						{
 							"id": "yellowstone_s03_e01",
@@ -3642,7 +3642,7 @@
 				},
 				{
 					"number": 4,
-					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-6217b80e89f4f.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/Yellowstone_%20Temporada%204.png",
 					"episodes": [
 						{
 							"id": "yellowstone_s04_e01",
@@ -3728,7 +3728,7 @@
 				},
 				{
 					"number": 5,
-					"coverUrl": "https://images.fanart.tv/bigpreview/yellowstone-2018-63d19aa1f125d.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/woody/refs/heads/main/Yellowstone_%20Temporada%205.png",
 					"episodes": [
 						{
 							"id": "yellowstone_s05_e01",
