@@ -3849,9 +3849,9 @@
 		{
 			"id": "the-good-doctor",
 			"title": "The Good Doctor",
-			"titleLogoUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-59be366d392df.png",
-			"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-59fea9f8bd60d.jpg",
-			"backdropUrl": "https://images.fanart.tv/fanart/the-good-doctor-5d89d21e0b9c6.jpg",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/the-good-doctor-logo.png",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/the-good-doctor-59fea9f8bd60d.jpg",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/TGD--backdropUrl.jpg",
 			"seasonsInfo": "7 Temporadas",
 			"description": "Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, muda-se de uma vida tranquila no interior para se unir à unidade cirúrgica de um prestigioso hospital.",
 			"year": "2017",
@@ -3861,7 +3861,7 @@
 			"seasons": [
 				{
 					"number": 1,
-					"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-59fea9a222930.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/Temporada-1.png",
 					"episodes": [
 						{
 							"id": "the-good-doctor_s1_e1",
@@ -4011,7 +4011,7 @@
 				},
 				{
 					"number": 2,
-					"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-5ba4a4fd7739a.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/Temporada-2.png",
 					"episodes": [
 						{
 							"id": "the-good-doctor_s2_e1",
@@ -4161,7 +4161,7 @@
 				},
 				{
 					"number": 3,
-					"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-5d83676e26f9c.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/Temporada-3.png",
 					"episodes": [
 						{
 							"id": "the-good-doctor_s3_e1",
@@ -4327,7 +4327,7 @@
 				},
 				{
 					"number": 4,
-					"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-62193565e26f3.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/Temporada-4.png",
 					"episodes": [
 						{
 							"id": "the-good-doctor_s4_e1",
@@ -4493,7 +4493,7 @@
 				},
 				{
 					"number": 5,
-					"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-66f3c04f8e91f.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/Temporada-5.png",
 					"episodes": [
 						{
 							"id": "the-good-doctor_s5_e1",
@@ -4643,7 +4643,7 @@
 				},
 				{
 					"number": 6,
-					"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-66f3c1f1ee129.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/Temporada-6.png",
 					"episodes": [
 						{
 							"id": "the-good-doctor_s6_e1",
@@ -4825,7 +4825,7 @@
 				},
 				{
 					"number": 7,
-					"coverUrl": "https://images.fanart.tv/bigpreview/the-good-doctor-66f3c2c387d3b.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/Pooh/refs/heads/main/Temporada-7.png",
 					"episodes": [
 						{
 							"id": "the-good-doctor_s7_e1",
