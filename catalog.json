@@ -4981,7 +4981,7 @@
 		},
 		{
 			"id": "suits",
-			"title": "",
+			"title": "Suits",
 			"titleLogoUrl": "https://www.freelogovectors.net/wp-content/uploads/2022/01/suits-logo-freelogovectors.net_.png",
 			"coverUrl": "https://m.media-amazon.com/images/I/81Tw+A9i8VL._AC_UF894,1000_QL80_.jpg",
 			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/backdropUrl_suits_1920x1080.jpg",
@@ -10538,8 +10538,9 @@
 		{
 			"id": "operacao_berlim",
 			"title": "Operação Berlim",
-			"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-			"backdropUrl": "https://image.tmdb.org/t/p/w1280_and_h720_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/berlin-station-logo.png",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/BerlinStation.png",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/Berlin_station_backdropUrl.png",
 			"seasonsInfo": "3 Temporadas",
 			"description": "Acompanhe operações secretas de alta tensão e conspirações internacionais ambientadas em Berlim.",
 			"year": "2024",
@@ -10549,241 +10550,241 @@
 			"seasons": [
 				{
 					"number": 1,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/Berlin_Station_Temporada_1.png",
 					"episodes": [
 						{
 							"id": "operacao_berlim_s1_e1",
-							"title": "Operação Berlim S01E01",
+							"title": "Station to Station",
 							"episodeNumber": 1,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 1 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZDlmODM1ZDktNDc3MC00MmRhLWEyOGUtZmU1Y2VjNTdkMTlmXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Recém-chegado a Berlim, o analista Daniel Miller assume uma missão secreta para descobrir a fonte de um vazamento de inteligência liderado pelo informante Thomas Shaw.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216853.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e2",
-							"title": "Operação Berlim S01E02",
+							"title": "Os Pássaros Estão Mortos",
 							"episodeNumber": 2,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 2 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZGUwNjBkMGEtMDRjOC00ZTRmLTgzZjItM2JkZTYxNzU2YzVlXkEyXkFqcGdeQXRzdGFzaWVr._V1_UX342_.jpg",
+							"description": "Daniel busca estabelecer contatos na estação enquanto a equipe lida com o impacto das revelações de Thomas Shaw que ameaçam a segurança de todos.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216854.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e3",
-							"title": "Operação Berlim S01E03",
+							"title": "Conselhos de Aterrisagem para um Homem Morto",
 							"episodeNumber": 3,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 3 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNjE1NzMxOTItNDgzYS00YmQzLWJkMDAtNDA0MjgzZjY1YjgyXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "A pressão aumenta sobre Hector e a estação após um novo vazamento de informações confidenciais sensíveis. Daniel explora pistas arriscadas.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216855.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e4",
-							"title": "Operação Berlim S01E04",
+							"title": "Por que o Sapo Brilha",
 							"episodeNumber": 4,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 4 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BODIxYzcwMTUtNmU1Mi00NGFmLWExYWItY2FkMjlhNmU0MWU4XkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Novas alianças são testadas quando a caça a Thomas Shaw se intensifica, revelando segredos obscuros dentro e fora da agência de inteligência.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216856.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e5",
-							"title": "Operação Berlim S01E05",
+							"title": "Desculpe, Berlim",
 							"episodeNumber": 5,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 5 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTQxZTkzNGYtOWU4YS00NTQ5LWIzMGYtNmZhMGUzMGQ3MjhjXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "A tensão política atinge o ápice nas ruas de Berlim enquanto agentes tentam conter os danos provocados pelos vazamentos antes que seja tarde demais.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216857.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e6",
-							"title": "Operação Berlim S01E06",
+							"title": "Do You Have Localization?",
 							"episodeNumber": 6,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 6 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjc2NmRlNjctMjJhYy00NmNkLTg5YTAtYjExMzFhOWRkZmYwXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "A investigação de Daniel se aprofunda, forçando-o a tomar decisões difíceis que podem custar sua carreira e sua própria vida.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216858.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e7",
-							"title": "Operação Berlim S01E07",
+							"title": "Proof of Life",
 							"episodeNumber": 7,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 7 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNWFiM2RiNjItM2Y1YS00ZTNlLWIyMGEtMmQzMmY2MzE2MWIwXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Com o cerco se fechando, a equipe tenta resgatar operativos em perigo iminente enquanto a verdadeira identidade de Thomas Shaw começa a vir à tona.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216859.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e8",
-							"title": "Operação Berlim S01E08",
+							"title": "Se Você Olhar Para o Abismo, O Abismo Olha Para Você",
 							"episodeNumber": 8,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 8 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNWE5OTZjODItMzIyMS00ZDY4LTg4YjktZWRlYTM1OWY4MjZhXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "O passado de vários membros da estação vem à tona, complicando ainda mais a missão e criando divisões perigosas entre os agentes.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216860.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e9",
-							"title": "Operação Berlim S01E09",
+							"title": "The Hardest Part",
 							"episodeNumber": 9,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 9 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNzRhYTZkM2ItYzU3ZS00OTAyLTgyOGYtYmExOTcyMTZmYmZiXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "A operação entra em sua fase mais crítica e perigosa, exigindo sacrifícios extremos de todos os envolvidos para conter a crise.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216861.mp4"
 						},
 						{
 							"id": "operacao_berlim_s1_e10",
-							"title": "Operação Berlim S01E10",
+							"title": "Estação Berlim",
 							"episodeNumber": 10,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 10 da 1ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZTY0NTYwMmUtZWFjOC00YzVjLTg1NjYtNDg2MmUwMmI1ZTFkXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "No final eletrizante da temporada, as conspirações são desvendadas e o destino da Estação Berlim e de seus agentes é finalmente decidido.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216862.mp4"
 						}
 					]
 				},
 				{
 					"number": 2,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/Berlin_Station_Temporada_2.png",
 					"episodes": [
 						{
 							"id": "operacao_berlim_s2_e1",
-							"title": "Operação Berlim S02E01",
+							"title": "All the Way Right",
 							"episodeNumber": 1,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 1 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNGMwM2ZjMTgtYmJiNi00MDMwLWJjYTItOTYyODQ2YmNmYWY5XkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Com as eleições alemãs se aproximando, a Estação Berlim investiga uma ameaça de extrema-direita que planeja desestabilizar o cenário político.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216863.mp4"
 						},
 						{
 							"id": "operacao_berlim_s2_e2",
-							"title": "Operação Berlim S02E02",
+							"title": "Right to Know",
 							"episodeNumber": 2,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 2 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZDgxODZjMjgtZDk1NC00NjlhLThlYzQtOGZmZWFlMmU1NjI4XkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "A equipe tenta rastrear fundos ilícitos conectados a um partido extremista ascendente, enquanto novos líderes chegam para assumir o controle.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216864.mp4"
 						},
 						{
 							"id": "operacao_berlim_s2_e3",
-							"title": "Operação Berlim S02E03",
+							"title": "DK Blueprint",
 							"episodeNumber": 3,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 3 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZGUwNjBkMGEtMDRjOC00ZTRmLTgzZjItM2JkZTYxNzU2YzVlXkEyXkFqcGdeQXRzdGFzaWVr._V1_UX342_.jpg",
+							"description": "Uma operação secreta revela ligações alarmantes entre figuras políticas de destaque e células extremistas violentas.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216865.mp4"
 						},
 						{
 							"id": "operacao_berlim_s2_e4",
-							"title": "Operação Berlim S02E04",
+							"title": "Do Not Open Mic",
 							"episodeNumber": 4,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 4 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BOTI2OGM1NzktMTFhZi00MzlkLTliYWEtMWQyODE1OGJjMDUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX342_.jpg",
+							"description": "A pressão aumenta à medida que a inteligência busca impedir um ataque iminente planejado para ocorrer durante a campanha eleitoral.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216866.mp4"
 						},
 						{
 							"id": "operacao_berlim_s2_e5",
-							"title": "Operação Berlim S02E05",
+							"title": "The Right Stuff",
 							"episodeNumber": 5,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 5 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BOTI2OGM1NzktMTFhZi00MzlkLTliYWEtMWQyODE1OGJjMDUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX342_.jpg",
+							"description": "Alianças improváveis são formadas enquanto os agentes lutam para expor uma conspiração maior que ameaça a democracia europeia.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216867.mp4"
 						},
 						{
 							"id": "operacao_berlim_s2_e6",
-							"title": "Operação Berlim S02E06",
+							"title": "In From the Cold",
 							"episodeNumber": 6,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 6 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNzk1ZDQ0MDktY2JiNC00MjlkLWI1OWUtMWJkZTFmOWU1MzBmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX342_.jpg",
+							"description": "Segredos do passado de Kian e de outros operativos vêm à tona, ameaçando destruir a missão de dentro para fora.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216868.mp4"
 						},
 						{
 							"id": "operacao_berlim_s2_e7",
-							"title": "Operação Berlim S02E07",
+							"title": "Need to Know",
 							"episodeNumber": 7,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 7 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMzBhM2M3ZDEtYmI5YS00ZWZhLTljOTgtYzYzOGVjZWU0ZjViXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX342_.jpg",
+							"description": "A equipe embarca em uma corrida contra o tempo para resgatar reféns e impedir que informações altamente confidenciais caiam em mãos erradas.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216869.mp4"
 						},
 						{
 							"id": "operacao_berlim_s2_e8",
-							"title": "Operação Berlim S02E08",
+							"title": "The Old Man & the Sea",
 							"episodeNumber": 8,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 8 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMGNhN2Q3NzAtNzRlNy00NWU1LTgwNTQtYmUzYjIwNjhlY2YyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX342_.jpg",
+							"description": "Conflitos pessoais e profissionais colidem de forma dramática enquanto a operação atinge seu ponto mais crítico.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216870.mp4"
 						},
 						{
 							"id": "operacao_berlim_s2_e9",
-							"title": "Operação Berlim S02E09",
+							"title": "BW",
 							"episodeNumber": 9,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 9 da 2ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNmEzNWYxZjctMjI2NC00ZWY1LTllYTMtY2MwZTE5MDgxMDEyXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "No final da segunda temporada, as conspirações políticas chegam ao ápice com consequências devastadoras para a Estação Berlim.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216871.mp4"
 						}
 					]
 				},
 				{
 					"number": 3,
-					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+					"coverUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/Berlin_Station_Temporada_3.png",
 					"episodes": [
 						{
 							"id": "operacao_berlim_s3_e1",
-							"title": "Operação Berlim S03E01",
+							"title": "Autonomia",
 							"episodeNumber": 1,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 1 da 3ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BMjg1ODVmY2YtYTg1My00ZDY5LTkyYzItOTlkNjliZGFjODg4XkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Após um ataque chocante em coletiva de imprensa em Genebra, a Estação Berlim se mobiliza para rastrear os responsáveis e impedir novos atentados.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216872.mp4"
 						},
 						{
 							"id": "operacao_berlim_s3_e2",
-							"title": "Operação Berlim S03E02",
+							"title": "Florence Is for Losers",
 							"episodeNumber": 2,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 2 da 3ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNDM5ZWNkNzgtMGMwNy00NmRhLWFmMmYtYTc3ZGUyZDBhNjFkXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "A equipe viaja para a Estônia em busca de pistas sobre um grupo de mercenários russos envolvidos no ataque recente.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216873.mp4"
 						},
 						{
 							"id": "operacao_berlim_s3_e3",
-							"title": "Operação Berlim S03E03",
+							"title": "Les Amants",
 							"episodeNumber": 3,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 3 da 3ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNDg1MmUxYmItMDI1NC00ZDc0LWI2M2QtZTlmNzE1OTNhNGE2XkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Segredos de inteligência russa são descobertos, enquanto Daniel e Valerie tentam navegar por armadilhas diplomáticas e espionagem industrial.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216874.mp4"
 						},
 						{
 							"id": "operacao_berlim_s3_e4",
-							"title": "Operação Berlim S03E04",
+							"title": "The Way We See the World",
 							"episodeNumber": 4,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 4 da 3ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BYzlkMDRhOTgtNDNhYS00ZmM4LWIzMjAtYmJjOTc5MDFjNDVlXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Uma operação de vigilância de alto risco coloca a equipe em rota de colisão direta com agentes russos influentes em Berlim.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216875.mp4"
 						},
 						{
 							"id": "operacao_berlim_s3_e5",
-							"title": "Operação Berlim S03E05",
+							"title": "The Long Walk Home",
 							"episodeNumber": 5,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 5 da 3ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZGQ0N2U0NTYtZmNiZC00MTZlLWIyY2MtOTc0OTg4ODgyYjExXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "O cerco aperta para os operativos à medida que a verdadeira escala da operação russa contra a Europa Ocidental é revelada.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216876.mp4"
 						},
 						{
 							"id": "operacao_berlim_s3_e6",
-							"title": "Operação Berlim S03E06",
+							"title": "The Righteous One",
 							"episodeNumber": 6,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 6 da 3ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BOGVmN2M4ZmYtYThhNi00ZjdmLWJlYzctNjU1MmE2MzRhZGM4XkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Traições internas ameaçam desmoronar o que restou da estação, obrigando os agentes restantes a agirem por conta própria.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216877.mp4"
 						},
 						{
 							"id": "operacao_berlim_s3_e7",
-							"title": "Operação Berlim S03E07",
+							"title": "The Opportunity of a Lifetime",
 							"episodeNumber": 7,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 7 da 3ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZDk2NDA3MzktNTQyOS00YjY0LWI2ZDgtMWI2MTQ5N2Q1Njg0XkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "Em uma corrida final contra o tempo, a equipe executa um plano arriscado para expor o magnata russo e os conspiradores por trás da instabilidade.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216878.mp4"
 						},
 						{
 							"id": "operacao_berlim_s3_e8",
-							"title": "Operação Berlim S03E08",
+							"title": "Book of the Fallen",
 							"episodeNumber": 8,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
-							"description": "Episódio 8 da 3ª temporada.",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BZDY1MDAyNmItZWEwMi00OTQ2LTk3MGUtZTM5MDAwYmZmMWEwXkEyXkFqcGc@._V1_UX342_.jpg",
+							"description": "A conclusão definitiva da série traz confrontos decisivos, revelações surpreendentes e o desfecho do destino de cada agente da Estação Berlim.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216879.mp4"
 						},
 						{
 							"id": "operacao_berlim_s3_e9",
 							"title": "Operação Berlim S03E09",
 							"episodeNumber": 9,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BN2FmOTMyMmQtYTY0Zi00MTQyLWFhMzYtMzRiMDYxODEzZGI3XkEyXkFqcGc@._V1_UX342_.jpg",
 							"description": "Episódio 9 da 3ª temporada.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216880.mp4"
 						},
@@ -10791,7 +10792,7 @@
 							"id": "operacao_berlim_s3_e10",
 							"title": "Operação Berlim S03E10",
 							"episodeNumber": 10,
-							"thumbUrl": "https://image.tmdb.org/t/p/w342/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg",
+							"thumbUrl": "https://m.media-amazon.com/images/M/MV5BNmIzMThmNmMtOTI1MC00YTBmLTg3ZDAtN2NmMmY4YTFjMjg5XkEyXkFqcGc@._V1_UX342_.jpg",
 							"description": "Episódio 10 da 3ª temporada.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216881.mp4"
 						}
