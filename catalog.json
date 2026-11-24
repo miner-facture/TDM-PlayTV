@@ -154,7 +154,7 @@
 			"id": "JovemPanNews.br",
 			"name": "JovemPan News",
 			"category": "Notícias",
-			"logoUrl": "https://api.reidoscanais.ooo/img/jovempannews.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/logos-canais/refs/heads/main/jovempannews.png",
 			"streamUrl": "https://d3-0211.cdnvipcanais.xyz/jovempannews/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -194,7 +194,7 @@
 			"id": "GloboNews.br",
 			"name": "GloboNews",
 			"category": "Notícias",
-			"logoUrl": "https://api.reidoscanais.ooo/img/globonews.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/logos-canais/refs/heads/main/globonews.png",
 			"streamUrl": "https://d2-0211.cdnvipcanais.xyz/globonews/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -215,7 +215,7 @@
 			"id": "RecordNews.br",
 			"name": "Record News",
 			"category": "Notícias",
-			"logoUrl": "https://api.reidoscanais.ooo/img/recordnews.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/logos-canais/refs/heads/main/recordnews.png",
 			"streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -232,7 +232,7 @@
 			"id": "SBTBrasil.br",
 			"name": "SBT",
 			"category": "TV Aberta",
-			"logoUrl": "https://api.reidoscanais.ooo/img/sbt.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/logos-canais/refs/heads/main/sbtsp.png",
 			"streamUrl": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -318,7 +318,7 @@
 			"id": "RecordTVRJ.br",
 			"name": "Record RJ",
 			"category": "TV Aberta",
-			"logoUrl": "https://api.reidoscanais.ooo/img/record.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/logos-canais/refs/heads/main/record.png",
 			"streamUrl": "https://d3-0211.cdnvipcanais.xyz/recordrj/index.m3u8",
 			"headers": {
 				"Referer": "https://vipcanais.net/",
@@ -341,7 +341,7 @@
 			"id": "BandBrasil.br",
 			"name": "Band",
 			"category": "Aberto",
-			"logoUrl": "https://api.reidoscanais.ooo/img/band.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/logos-canais/refs/heads/main/bandsp.png",
 			"streamUrl": "https://d2-0211.cdnvipcanais.xyz/bandsp/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -403,7 +403,7 @@
 			"id": "FishTV.br",
 			"name": "Fish TV",
 			"category": "Variedades",
-			"logoUrl": "https://api.reidoscanais.ooo/img/fishtv.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/logos-canais/refs/heads/main/fishtv.png",
 			"streamUrl": "https://rdcstream.life/live/fishtv/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -442,7 +442,7 @@
 			"name": "HGTV",
 			"category": "Variedades",
 			"logoUrl": "https://api.reidoscanais.ooo/img/hgtv.png",
-			"streamUrl": "https://origin-fast.b-cdn.net/HGTV_BR_NX/tracks-v1a1/mono.m3u8",
+			"streamUrl": "hhttps://streaming.onnethn.com/HGTV/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
 			"description": "",
@@ -1302,7 +1302,7 @@
 			"id": "ESPN.br",
 			"name": "ESPN",
 			"category": "Esportes",
-			"logoUrl": "https://raw.githubusercontent.com/miner-facture/miner-facture/refs/heads/main/ESPN.png",
+			"logoUrl": "https://raw.githubusercontent.com/miner-facture/logos-canais/refs/heads/main/espn.png",
 			"streamUrl": "https://d1-0211.cdnvipcanais.xyz/espn/index.m3u8",
 			"currentProgram": "",
 			"nextProgram": "",
@@ -4906,6 +4906,74 @@
 							"thumbUrl": "https://image.tmdb.org/t/p/w342/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg",
 							"description": "No episódio final, o legado de Shaun Murphy no St. Bonaventure é celebrado em uma emocionante conclusão de jornada.",
 							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112606.mp4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "o-proximo-grande-chef-1",
+			"title": "O Próximo Grande Chef",
+			"titleLogoUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/titleLogoUrl.png",
+			"coverUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/coverUrl.png",
+			"backdropUrl": "https://raw.githubusercontent.com/miner-facture/series-img/refs/heads/main/backdropUrl.png",
+			"seasonsInfo": "1 Temporada",
+			"description": "O chef Geoffrey Zakarian coloca oito promissores chefs à prova em desafios culinários e de gestão para descobrir quem merece um investimento de 250 mil dólares para abrir seu próprio restaurante.",
+			"year": "2022",
+			"genre": "Reality / Culinária",
+			"lastEpisodeInfo": "Temporada 1 - Episódio 6",
+			"seasons": [
+				{
+					"number": 1,
+					"coverUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk1LzdeUCEyWyo0UVQg6vDr1xRQ.jpg",
+					"episodes": [
+						{
+							"id": "o-proximo-grande-chef-s01e01",
+							"title": "Você Não Pode Pedir um Frango por Telefone!",
+							"episodeNumber": 1,
+							"thumbUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk1LzdeUCEyWyo0UVQg6vDr1xRQ.jpg",
+							"description": "Os chefs promissores são convidados para a base de Geoffrey na Flórida para o primeiro teste: criar um prato de uma única mordida que mostre quem eles são e qual é o seu conceito de restaurante. Depois, eles precisam preparar um frango assado com acompanhamento em seu próprio estilo.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/53159.mp4"
+						},
+						{
+							"id": "o-proximo-grande-chef-s01e02",
+							"title": "Sinto Cheiro de Dinheiro!",
+							"episodeNumber": 2,
+							"thumbUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk1LzdeUCEyWyo0UVQg6vDr1xRQ.jpg",
+							"description": "Os seis chefs restantes precisam provar que entendem de lucro criando o seu prato de maior retorno financeiro, além de apresentar o conceito completo de seus restaurantes, cardápios e pratos principais.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/53160.mp4"
+						},
+						{
+							"id": "o-proximo-grande-chef-s01e03",
+							"title": "Um Cardápio Não se Joga fora!",
+							"episodeNumber": 3,
+							"thumbUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk1LzdeUCEyWyo0UVQg6vDr1xRQ.jpg",
+							"description": "Geoffrey pede aos cinco chefs restantes que cozinhem três pratos de seus próprios cardápios. Eles precisam aproveitar as sobras de alimentos para criar um prato especial que seria servido em seus restaurantes dos sonhos.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/53161.mp4"
+						},
+						{
+							"id": "o-proximo-grande-chef-s01e04",
+							"title": "Que Tipo de Receita é Essa?!",
+							"episodeNumber": 4,
+							"thumbUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk1LzdeUCEyWyo0UVQg6vDr1xRQ.jpg",
+							"description": "Geoffrey avalia as receitas dos quatro chefs tentando cozinhá-las sozinho para testar se são claras o suficiente. Em seguida, ele promove uma festa para críticos e pessoas com restrições alimentares para testar a flexibilidade dos cardápios.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/53163.mp4"
+						},
+						{
+							"id": "o-proximo-grande-chef-s01e05",
+							"title": "O Pior Dia Possível!",
+							"episodeNumber": 5,
+							"thumbUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk1LzdeUCEyWyo0UVQg6vDr1xRQ.jpg",
+							"description": "Os três finalistas assumem a gerência de um restaurante por um dia. O que eles não sabem é que Geoffrey encheu o salão de atores gerando o caos, testando como cada competidor reage sob extrema pressão.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/53164.mp4"
+						},
+						{
+							"id": "o-proximo-grande-chef-s01e06",
+							"title": "A Chance é sua!",
+							"episodeNumber": 6,
+							"thumbUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk1LzdeUCEyWyo0UVQg6vDr1xRQ.jpg",
+							"description": "Na grande final, os dois últimos chefs assumem o controle total de um restaurante com equipe completa e clientes reais. Apenas um deles conquista o cobiçado investimento do chef Geoffrey Zakarian.",
+							"streamUrl": "http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/53165.mp4"
 						}
 					]
 				}
